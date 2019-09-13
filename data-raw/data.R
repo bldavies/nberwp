@@ -2,7 +2,21 @@ library(dplyr)
 library(readr)
 library(tidyr)
 
-raw_data <- dir('data-raw/nberwo/', '*.rdf', full.name = TRUE) %>%
+raw_data_dir <- 'data-raw/nberwo'
+
+download_raw_data <- function(year) {
+  base_url <- 'https://www.nber.org/RePEc/nbr/nberwo/'
+  year_url <- sprintf(paste0(base_url, 'nberwo%d.rdf'), year)
+  download.file(year_url, sprintf(paste0(raw_data_dir, '/nberwo%d.rdf'), year))
+}
+
+years <- 1973 : 2018
+needed <- paste0('nberwo', years, '.rdf')
+missing <- years[!(needed %in% dir(raw_data_dir))]
+
+lapply(missing, download_raw_data)
+
+raw_data <- dir(raw_data_dir, '*.rdf', full.name = TRUE) %>%
   lapply(function(x) tibble(file = x, line = read_lines(x))) %>%
   bind_rows()
 
