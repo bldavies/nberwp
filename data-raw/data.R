@@ -62,6 +62,6 @@ papers <- data %>%
   select(paper = number, year, month, title)
 
 write_csv(papers, 'data-raw/papers.csv')
-save(papers, file = 'data/papers.rda', compress = 'bzip2')
+save(papers, file = 'data/papers.rda', version = 2, compress = 'bzip2')
 
 write_lines(capture.output(sessioninfo::session_info()), 'data-raw/data.log')
