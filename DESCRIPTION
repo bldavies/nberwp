@@ -1,0 +1,11 @@
+Package: nberwp
+Type: Package
+Title: NBER Working Papers
+Version: 0.1.0
+Authors@R: person("Benjamin", "Davies", email = "ben.davies@motu.org.nz", role = c("aut", "cre"))
+Description: Catalogue of NBER working papers published between 1973 and 2018.
+Depends: R (>= 2.10)
+License: CC0
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
