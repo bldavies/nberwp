@@ -8,7 +8,7 @@
 #'
 #' @format Data frame with columns
 #' \describe{
-#' \item{paper}{Working paper number}
+#' \item{number}{Number}
 #' \item{year}{Publication year}
 #' \item{month}{Publication month}
 #' \item{title}{Title}

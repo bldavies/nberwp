@@ -1,25 +1,37 @@
+# DATA.R
+#
+# This script downloads, parses, collates and exports data on NBER working papers.
+#
+# Ben Davies
+# September 2019
+
+# Load packages
 library(dplyr)
 library(readr)
 library(tidyr)
 
+# Locate raw data
 raw_data_dir <- 'data-raw/nberwo'
 
+# Define function for downloading raw data
 download_raw_data <- function(year) {
   base_url <- 'https://www.nber.org/RePEc/nbr/nberwo/'
   year_url <- sprintf(paste0(base_url, 'nberwo%d.rdf'), year)
   download.file(year_url, sprintf(paste0(raw_data_dir, '/nberwo%d.rdf'), year))
 }
 
+# Download raw data
 years <- 1973 : 2018
-needed <- paste0('nberwo', years, '.rdf')
-missing <- years[!(needed %in% dir(raw_data_dir))]
+years_needed <- paste0('nberwo', years, '.rdf')
+years_missing <- years[!(years_needed %in% dir(raw_data_dir))]
+lapply(years_missing, download_raw_data)
 
-lapply(missing, download_raw_data)
-
+# Import raw data
 raw_data <- dir(raw_data_dir, '*.rdf', full.name = TRUE) %>%
   lapply(function(x) tibble(file = x, line = read_lines(x))) %>%
   bind_rows()
 
+# Process data
 data <- raw_data %>%
   filter(substr(line, 1, 1) != '#') %>%
   mutate(entry = cumsum(line == '')) %>%
@@ -31,6 +43,8 @@ data <- raw_data %>%
          value = trimws(value)) %>%
   select(entry, key, value)
 
+# Define function for removing HTML tags and replacing non-ASCII characters
+# with ASCII equivalents
 clean_text <- function(x) {
   subfun <- function(x, pattern, y) gsub(pattern, y, x, perl = TRUE)
   x %>%
@@ -53,15 +67,19 @@ clean_text <- function(x) {
     subfun('<ef><bb><bf>', '')
 }
 
+# Collate working paper information
 papers <- data %>%
   filter(key %in% c('number', 'creation_date', 'title')) %>%
   spread(key, value) %>%
   separate(creation_date, c('year', 'month'), sep = '-') %>%
   mutate_at(c('year', 'month', 'number'), as.integer) %>%
   mutate(title = clean_text(title)) %>%
-  select(paper = number, year, month, title)
+  select(number, year, month, title) %>%
+  arrange(number)
 
+# Export data
 write_csv(papers, 'data-raw/papers.csv')
 save(papers, file = 'data/papers.rda', version = 2, compress = 'bzip2')
 
+# Save session info
 write_lines(capture.output(sessioninfo::session_info()), 'data-raw/data.log')
