@@ -43,8 +43,8 @@ data <- raw_data %>%
          value = trimws(value)) %>%
   select(entry, key, value)
 
-# Define function for removing HTML tags and replacing non-ASCII characters
-# with ASCII equivalents
+# Define function for removing HTML tags, replacing non-ASCII characters
+# with ASCII equivalents, and squishing whitespace
 clean_text <- function(x) {
   subfun <- function(x, pattern, y) gsub(pattern, y, x, perl = TRUE)
   x %>%
@@ -64,7 +64,8 @@ clean_text <- function(x) {
     subfun('<e2><80><9c>', '\"') %>%
     subfun('<e2><80><9d>', '\"') %>%
     subfun('<ef><ac><80>', 'ff') %>%
-    subfun('<ef><bb><bf>', '')
+    subfun('<ef><bb><bf>', '') %>%
+    stringr::str_squish()
 }
 
 # Collate working paper information
