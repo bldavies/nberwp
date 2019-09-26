@@ -68,11 +68,13 @@ clean_text <- function(x) {
 }
 
 # Collate working paper information
+bad_numbers <- c(156, 7255, 7436, 13800, 21929)
 papers <- data %>%
   filter(key %in% c('number', 'creation_date', 'title')) %>%
   spread(key, value) %>%
   separate(creation_date, c('year', 'month'), sep = '-') %>%
   mutate_at(c('year', 'month', 'number'), as.integer) %>%
+  filter(!(number %in% bad_numbers)) %>%
   mutate(title = clean_text(title)) %>%
   select(number, year, month, title) %>%
   arrange(number)
@@ -82,4 +84,5 @@ write_csv(papers, 'data-raw/papers.csv')
 save(papers, file = 'data/papers.rda', version = 2, compress = 'bzip2')
 
 # Save session info
+options(width = 80)
 write_lines(capture.output(sessioninfo::session_info()), 'data-raw/data.log')
