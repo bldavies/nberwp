@@ -1,3 +1,4 @@
 _*
+*.log
 *.Rproj
 .Rproj.user
