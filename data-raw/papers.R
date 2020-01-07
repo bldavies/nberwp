@@ -43,6 +43,7 @@ clean_text <- function(x) {
 fix_title <- function(x) {
   subfun <- function(x, pattern, y) gsub(pattern, y, x, perl = TRUE)
   x %>%
+    subfun('THe', 'The') %>%  # 86
     subfun('nS', 'n S') %>%  # 138
     subfun('fL', 'f L') %>%  # 158
     subfun('lA', 'l A') %>%  # 171
@@ -50,6 +51,7 @@ fix_title <- function(x) {
     subfun('nW', 'n W') %>%  # 305
     subfun('dE', 'd E') %>%  # 336, 4809
     subfun('lT', 'l T') %>%  # 337, 570
+    subfun('e3', 'es') %>%  # 646
     subfun('gC', 'g C') %>%  # 677
     subfun('ldA', 'ld A') %>%  # 732
     subfun('eE', 'e E') %>%  # 949, 1850, 3440
@@ -72,6 +74,7 @@ fix_title <- function(x) {
     subfun('tyC', 'ty C') %>%  # 1736
     subfun('nE', 'n E') %>%  # 1763
     subfun('eM', 'e M') %>%  # 1783, 1903
+    subfun('RUn', 'Run') %>%  # 1931
     subfun('lP', 'l P') %>%  # 1969
     subfun('dL', 'd L') %>%  # 1981
     subfun('lD', 'l D') %>%  # 2012, 2682
@@ -82,6 +85,8 @@ fix_title <- function(x) {
     subfun('dT', 'd T') %>%  # 2375, 2624
     subfun('rP', 'r P') %>%  # 2543
     subfun('mE', 'm E') %>%  # 2583
+    subfun('TAx', 'Tax') %>%  # 3074
+    subfun('BAr', 'Bar') %>%  # 3188
     subfun('lB', 'l B') %>%  # 3560
     subfun('dC', 'd C') %>%  # 3583
     subfun('sF', 's F') %>%  # 4270
@@ -96,10 +101,13 @@ fix_title <- function(x) {
     subfun('eS', 'e S') %>%  # 5364, 6732, 24938
     subfun('yM', 'y M') %>%  # 5474
     subfun('DoB', 'Do B') %>%  # 5695
+    subfun('SYs', 'Sys') %>%  # 6436
     subfun('QuUality', 'Quality') %>%  # 6753
     subfun('lC', 'l C') %>%  # 7386
     subfun('nA', 'n A') %>%  # 7493
-    subfun('n: b', 'n\" b')  # 7493
+    subfun('n: b', 'n\" b') %>%  # 7493
+    subfun('SHe', 'She') %>%  # 8060
+    subfun('\\%u2019', '\'')  # 12396
 }
 
 # Collate working paper information
