@@ -1,6 +1,6 @@
 #' NBER working papers
 #'
-#' Catalogue of NBER working papers published between 1973 and 2018.
+#' Catalogue of NBER working papers published between 1973 and 2019.
 #'
 #' @docType data
 #'

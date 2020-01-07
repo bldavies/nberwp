@@ -25,6 +25,7 @@ clean_text <- function(x) {
     subfun('<c3><a1>', 'a') %>%  # acute
     subfun('<c3><a9>', 'e') %>%  # acute
     subfun('<c3><ad>', 'i') %>%  # acute
+    subfun('<c3><af>', 'i') %>%  # diaresis
     subfun('<c3><b1>', 'n') %>%  # tilde
     subfun('<e2><80><90>', '-') %>%
     subfun('<e2><80><93>', '--') %>%

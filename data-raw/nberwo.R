@@ -21,7 +21,7 @@ download_raw_data <- function(year) {
 }
 
 # Download raw data
-years <- 1973 : 2018
+years <- 1973 : 2019
 years_needed <- paste0('nberwo', years, '.rdf')
 years_missing <- years[!(years_needed %in% dir(raw_data_dir))]
 lapply(years_missing, download_raw_data)
