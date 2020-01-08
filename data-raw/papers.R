@@ -51,6 +51,7 @@ fix_title <- function(x) {
     subfun('nW', 'n W') %>%  # 305
     subfun('dE', 'd E') %>%  # 336, 4809
     subfun('lT', 'l T') %>%  # 337, 570
+    subfun('n:A', 'n: A') %>%  # 579, 9799
     subfun('e3', 'es') %>%  # 646
     subfun('gC', 'g C') %>%  # 677
     subfun('ldA', 'ld A') %>%  # 732
@@ -86,12 +87,16 @@ fix_title <- function(x) {
     subfun('rP', 'r P') %>%  # 2543
     subfun('mE', 'm E') %>%  # 2583
     subfun('TAx', 'Tax') %>%  # 3074
+    subfun('OBs', 'Obs') %>%  # 3132
     subfun('BAr', 'Bar') %>%  # 3188
+    subfun('acor', 'acro') %>%  # 3344
     subfun('lB', 'l B') %>%  # 3560
     subfun('dC', 'd C') %>%  # 3583
     subfun('sF', 's F') %>%  # 4270
     subfun('yH', 'y H') %>%  # 4460
+    subfun('e1', 'e 1') %>%  # 4496
     subfun('usS', 'us S') %>%  # 4731
+    subfun('ationa ', 'ations ') %>%  # 4754, 10565
     subfun('hC', 'h C') %>%  # 4786
     subfun('dF', 'd F') %>%  # 4800
     subfun('sT', 's T') %>%  # 4870
@@ -101,12 +106,16 @@ fix_title <- function(x) {
     subfun('eS', 'e S') %>%  # 5364, 6732, 24938
     subfun('yM', 'y M') %>%  # 5474
     subfun('DoB', 'Do B') %>%  # 5695
+    subfun('lyis', 'lysis') %>%  # 6310
     subfun('SYs', 'Sys') %>%  # 6436
     subfun('QuUality', 'Quality') %>%  # 6753
     subfun('lC', 'l C') %>%  # 7386
     subfun('nA', 'n A') %>%  # 7493
     subfun('n: b', 'n\" b') %>%  # 7493
     subfun('SHe', 'She') %>%  # 8060
+    subfun('s1', 's') %>%  # 10447
+    subfun('mis ', 'mic ') %>%  # 11470
+    subfun('N 1$', 'N+1') %>%  # 11713
     subfun('\\%u2019', '\'')  # 12396
 }
 
