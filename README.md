@@ -1,7 +1,13 @@
 # nberwp
 
-This package contains information on [NBER](https://www.nber.org) working papers published between 1973 and 2019.
-This information is provided in the data frame `papers`.
+This package contains information about [NBER](https://www.nber.org) working papers published between 1973 and 2019.
+The package provides the following two data frames.
+
+* `papers`: working paper attributes.
+* `authors`: paper-author correspondences.
+
+I disambiguate author names by cross-referencing against RePEc IDs and common co-authorships, and via fuzzy matching.
+Please notify me of any errors by [adding an issue](https://github.com/bldavies/nberwp/issues) or [submitting a pull request](https://github.com/bldavies/nberwp/pulls).
 
 See [here](https://www.nber.org/policies.html) for information about the NBER working paper catalogue.
 
