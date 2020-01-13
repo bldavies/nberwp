@@ -157,7 +157,7 @@ clean_names <- function(x) {
   subfun <- function(x, pattern, y) gsub(pattern, y, x, perl = TRUE)
   x %>%
     subfun('^Haij', 'Haj') %>%
-    subfun('^Romaine', '^Romain') %>%
+    subfun('^Romaine', 'Romain') %>%
     subfun('Stiflitx', 'Stiglitz')
 }
 
