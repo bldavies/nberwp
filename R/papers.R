@@ -1,6 +1,6 @@
 #' NBER working papers
 #'
-#' Catalogue of NBER working papers published between 1973 and 2019.
+#' Data frame containing working paper attributes.
 #'
 #' @docType data
 #'
@@ -8,7 +8,7 @@
 #'
 #' @format Data frame with columns
 #' \describe{
-#' \item{number}{Number}
+#' \item{number}{Working paper number}
 #' \item{year}{Publication year}
 #' \item{month}{Publication month}
 #' \item{title}{Title}

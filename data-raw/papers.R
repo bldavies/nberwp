@@ -1,6 +1,6 @@
 # PAPERS.R
 #
-# This script generates data/papers.rda.
+# This script exports a table of working paper attributes.
 #
 # Ben Davies
 # September 2019
