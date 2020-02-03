@@ -6,7 +6,7 @@
 \title{NBER working papers}
 \format{Data frame with columns
 \describe{
-\item{number}{Working paper number}
+\item{paper}{Working paper number}
 \item{year}{Publication year}
 \item{month}{Publication month}
 \item{title}{Title}

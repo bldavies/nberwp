@@ -92,7 +92,7 @@ disambiguate_names <- function(df) {
 
   # Use pairs of authors two edges apart in co-authorship network
   bip <- df %>%
-    distinct(number, name) %>%
+    distinct(paper, name) %>%
     graph_from_data_frame(directed = F)
   V(bip)$type <- V(bip)$name %in% unique(df$name)
   net <- bip %>%
@@ -146,10 +146,10 @@ disambiguate_names <- function(df) {
     mutate(revised = ifelse(!is.na(revised), revised, new),
            new = ifelse(nchar(revised) > nchar(new), revised, new)) %>%
     group_by(old_name = name) %>%
-    mutate(name = new[which.max(nchar(new))]) %>%
+    mutate(author = new[which.max(nchar(new))]) %>%
     ungroup() %>%
-    select(number, name) %>%
-    arrange(number, name)
+    select(paper, author) %>%
+    arrange(paper, author)
 }
 
 # Define function for cleaning known errors in author names
@@ -165,15 +165,15 @@ clean_names <- function(x) {
 authors <- data %>%
   filter(key %in% c('number', 'author_name', 'author_person')) %>%
   group_by(entry) %>%
-  mutate(number = as.integer(value[which(key == 'number')]),
+  mutate(paper = as.integer(value[which(key == 'number')]),
          author = cumsum(key == 'author_name')) %>%
   ungroup() %>%
   filter(key != 'number') %>%
   select(-entry) %>%
   spread(key, value) %>%
   semi_join(papers) %>%
-  arrange(number, author) %>%
-  select(number, name = author_name, repec_id = author_person) %>%
+  arrange(paper, author) %>%
+  select(paper, name = author_name, repec_id = author_person) %>%
   # Clean author names
   mutate(name = replace_non_ascii(name),
          name = gsub('\\.', ' ', name),

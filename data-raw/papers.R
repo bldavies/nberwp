@@ -129,8 +129,8 @@ papers <- data %>%
   filter(!(number %in% bad_numbers)) %>%
   mutate(title = clean_text(title),
          title = fix_title(title)) %>%
-  select(number, year, month, title) %>%
-  arrange(number)
+  select(paper = number, year, month, title) %>%
+  arrange(paper)
 
 # Export data
 write_csv(papers, 'data-raw/papers.csv')

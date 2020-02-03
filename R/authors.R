@@ -8,8 +8,8 @@
 #'
 #' @format Data frame with columns
 #' \describe{
-#' \item{number}{Working paper number}
-#' \item{name}{Author name}
+#' \item{paper}{Working paper number}
+#' \item{author}{Author name}
 #' }
 #'
 #' @source \href{https://www.nber.org/RePEc/nbr/nberwo/}{National Bureau of Economic Research}
