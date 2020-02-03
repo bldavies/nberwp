@@ -120,7 +120,7 @@ fix_title <- function(x) {
 }
 
 # Collate working paper information
-bad_numbers <- c(156, 7255, 7436, 13800, 21929)
+bad_numbers <- c(156, 623, 2432, 7044, 7255, 7436, 7565, 8649, 9101, 9694, 13410, 13800, 21929)
 papers <- data %>%
   filter(key %in% c('number', 'creation_date', 'title')) %>%
   spread(key, value) %>%

@@ -149,7 +149,8 @@ disambiguate_names <- function(df) {
     mutate(author = new[which.max(nchar(new))]) %>%
     ungroup() %>%
     select(paper, author) %>%
-    arrange(paper, author)
+    arrange(paper, author) %>%
+    distinct()
 }
 
 # Define function for cleaning known errors in author names
