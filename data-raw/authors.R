@@ -149,7 +149,6 @@ disambiguate_names <- function(df) {
     mutate(author = new[which.max(nchar(new))]) %>%
     ungroup() %>%
     select(paper, author) %>%
-    arrange(paper, author) %>%
     distinct()
 }
 
@@ -173,7 +172,6 @@ authors <- data %>%
   select(-entry) %>%
   spread(key, value) %>%
   semi_join(papers) %>%
-  arrange(paper, author) %>%
   select(paper, name = author_name, repec_id = author_person) %>%
   # Clean author names
   mutate(name = replace_non_ascii(name),
@@ -181,7 +179,18 @@ authors <- data %>%
          name = str_squish(name),
          name = clean_names(name)) %>%
   # Disambiguate author names
-  disambiguate_names()
+  disambiguate_names() %>%
+  # Manually add authors on missing papers
+  bind_rows(
+    tribble(
+      ~paper, ~author,
+      15317, 'Ning Tang',
+      15317, 'Olivia S Mitchell',
+      15317, 'Gary R Mottola',
+      15317, 'Stephen P Utkus'
+    )
+  ) %>%
+  arrange(paper, author)
 
 # Export data
 write_csv(authors, 'data-raw/authors.csv')

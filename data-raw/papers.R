@@ -130,6 +130,13 @@ papers <- data %>%
   mutate(title = clean_text(title),
          title = fix_title(title)) %>%
   select(paper = number, year, month, title) %>%
+  # Manually add missing papers
+  bind_rows(
+    tribble(
+      ~paper, ~year, ~month, ~title,
+      15317, 2009, 9, 'The Efficiency of Sponsor and Participant Portfolio Choices in 401(k) Plans'
+    )
+  ) %>%
   arrange(paper)
 
 # Export data
