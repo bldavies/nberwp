@@ -3,7 +3,7 @@
 # This script downloads and parses raw data on NBER working papers.
 #
 # Ben Davies
-# September 2019
+# July 2020
 
 # Load packages
 library(dplyr)
@@ -41,6 +41,7 @@ data <- raw_data %>%
   separate(text, c('key', 'value'), sep = '#@#') %>%
   mutate(key = tolower(gsub('-', '_', key)),
          value = trimws(value)) %>%
+  filter(!key %in% c('file_format', 'file_url', 'handle', 'order_url', 'price', 'publication_status', 'template_type')) %>%
   select(entry, key, value)
 
 # Export data
