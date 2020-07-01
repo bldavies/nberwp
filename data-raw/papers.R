@@ -3,7 +3,7 @@
 # This script exports a table of working paper attributes.
 #
 # Ben Davies
-# September 2019
+# July 2020
 
 # Load packages
 library(dplyr)
@@ -116,7 +116,8 @@ fix_title <- function(x) {
     subfun('s1', 's') %>%  # 10447
     subfun('mis ', 'mic ') %>%  # 11470
     subfun('N 1$', 'N+1') %>%  # 11713
-    subfun('\\%u2019', '\'')  # 12396
+    subfun('\\%u2019', '\'') %>%  # 12396
+    subfun('DEg', 'Deg')  # 27239
 }
 
 # Collate working paper information
