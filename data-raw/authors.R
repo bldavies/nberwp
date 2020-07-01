@@ -1,9 +1,9 @@
 # AUTHORS.R
 #
-# This script exports a table of paper-author correspondenes.
+# This script exports a table of paper-author correspondences.
 #
 # Ben Davies
-# January 2020
+# July 2020
 
 # Load packages
 library(dplyr)
@@ -156,9 +156,15 @@ disambiguate_names <- function(df) {
 clean_names <- function(x) {
   subfun <- function(x, pattern, y) gsub(pattern, y, x, perl = TRUE)
   x %>%
+    subfun('\"', '\'') %>%
+    subfun('C -L|L -C', 'L-C') %>%
+    subfun('C -Y', 'C-Y') %>%
     subfun('^Haij', 'Haj') %>%
+    subfun('kc claffy', 'KC Claffy') %>%
+    subfun('lll', 'll') %>%
     subfun('^Romaine', 'Romain') %>%
-    subfun('Stiflitx', 'Stiglitz')
+    subfun('Stiflitx', 'Stiglitz') %>%
+    subfun('wickstrom', 'Wickstrom')
 }
 
 # Extract and clean author-paper pairs
