@@ -2,7 +2,12 @@ Package: nberwp
 Type: Package
 Title: NBER Working Papers
 Version: 0.1.3
-Authors@R: person("Benjamin", "Davies", email = "git@bldavies.com", role = c("aut", "cre"))
+Authors@R:
+  person(given = "Benjamin",
+         family = "Davies",
+         email = "git@bldavies.com",
+         role = c("aut", "cre"),
+         comment = c(ORCID = "0000-0002-1749-4567"))
 Description: Catalogue of NBER working papers published between 1973 and 2018.
 Depends: R (>= 2.10)
 License: CC0
