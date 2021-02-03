@@ -3,7 +3,7 @@
 # This script exports a table of paper-author correspondences.
 #
 # Ben Davies
-# July 2020
+# February 2021
 
 # Load packages
 library(dplyr)
@@ -32,6 +32,7 @@ replace_non_ascii <- function(x) {
     subfun('<c3><92>', 'O') %>%  # grave
     subfun('<c3><93>', 'O') %>%  # acute
     subfun('<c3><96>', 'O') %>%  # diaresis
+    subfun('<c3><98>', 'O') %>%  # stroke
     subfun('<c3><9e>', 'Th') %>%  # thorn
     subfun('<c3><9c>', 'U') %>%  # diaresis
     subfun('<c3><a0>', 'a') %>%  # grave
@@ -54,6 +55,7 @@ replace_non_ascii <- function(x) {
     subfun('<c3><b2>', 'o') %>%  # grave
     subfun('<c3><b3>', 'o') %>%  # acute
     subfun('<c3><b4>', 'o') %>%  # circumflex
+    subfun('<c3><b5>', 'o') %>%  # tilde
     subfun('<c3><b6>', 'o') %>%  # diaresis
     subfun('<c3><b8>', 'o') %>%  # stroke
     subfun('<c3><ba>', 'u') %>%  # acute
@@ -63,9 +65,11 @@ replace_non_ascii <- function(x) {
     subfun('<c4><87>', 'c') %>%  # acute
     subfun('<c4><8c>', 'C') %>%  # caron
     subfun('<c4><8d>', 'c') %>%  # caron
+    subfun('<c4><91>', 'd') %>%  # stroke
     subfun('<c4><9b>', 'e') %>%  # caron
     subfun('<c4><9f>', 'g') %>%  # caron
     subfun('<c4><b1>', 'i') %>%  # dotless
+    subfun('<c4><bd>', 'L') %>%  # caron
     subfun('<c5><81>', 'L') %>%  # stroke
     subfun('<c5><82>', 'l') %>%  # stroke
     subfun('<c5><84>', 'n') %>%  # acute
