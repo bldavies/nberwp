@@ -4,11 +4,13 @@
 \name{authors}
 \alias{authors}
 \title{NBER working paper authors}
-\format{Data frame with columns
+\format{
+Data frame with columns
 \describe{
 \item{paper}{Working paper number}
 \item{author}{Author name}
-}}
+}
+}
 \source{
 \href{https://www.nber.org/RePEc/nbr/nberwo/}{National Bureau of Economic Research}
 }
