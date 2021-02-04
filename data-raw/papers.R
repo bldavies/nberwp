@@ -3,7 +3,7 @@
 # This script exports a table of working paper attributes.
 #
 # Ben Davies
-# July 2020
+# February 2021
 
 # Load packages
 library(dplyr)
@@ -27,6 +27,7 @@ clean_text <- function(x) {
     subfun('<c3><ad>', 'i') %>%  # acute
     subfun('<c3><af>', 'i') %>%  # diaresis
     subfun('<c3><b1>', 'n') %>%  # tilde
+    subfun('<cc><82>', '') %>%  # hat
     subfun('<e2><80><90>', '-') %>%
     subfun('<e2><80><93>', '--') %>%
     subfun('<e2><80><94>', '---') %>%
@@ -34,6 +35,7 @@ clean_text <- function(x) {
     subfun('<e2><80><99>', '\'') %>%
     subfun('<e2><80><9c>', '\"') %>%
     subfun('<e2><80><9d>', '\"') %>%
+    subfun('<e2><89><a4>', '<=') %>%
     subfun('<ef><ac><80>', 'ff') %>%
     subfun('<ef><bb><bf>', '') %>%
     stringr::str_squish()
