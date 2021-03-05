@@ -15,6 +15,9 @@ library(tidyr)
 # Import parsed raw data
 nberwo = read_csv('data-raw/nberwo.csv')
 
+# Import working paper attributes
+papers = read_csv('data-raw/papers.csv')
+
 # Create paper-program crosswalk
 programs = nberwo %>%
   filter(key %in% c('note', 'number')) %>%
@@ -22,6 +25,7 @@ programs = nberwo %>%
   drop_na() %>%
   mutate(paper = as.integer(number),
          program = str_split(note, '\\s+')) %>%
+  semi_join(papers) %>%
   unnest('program') %>%
   distinct(paper, program) %>%
   arrange(paper, program)
