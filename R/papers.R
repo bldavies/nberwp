@@ -14,5 +14,5 @@
 #' \item{title}{Title}
 #' }
 #'
-#' @source \href{https://www.nber.org/RePEc/nbr/nberwo/}{National Bureau of Economic Research}
+#' @source \href{http://www2.nber.org/wp_metadata/}{National Bureau of Economic Research}
 "papers"

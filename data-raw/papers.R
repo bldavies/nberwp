@@ -3,15 +3,24 @@
 # This script exports a table of working paper attributes.
 #
 # Ben Davies
-# February 2021
+# March 2021
 
 # Load packages
+library(bldr)
 library(dplyr)
+library(haven)
 library(readr)
-library(tidyr)
+library(rvest)
+library(stringi)
+library(stringr)
+library(xml2)
 
-# Import parsed raw data
-data <- read_csv('data-raw/nberwo.csv')
+# Import raw metadata
+dates <- read_dta('data-raw/metadata/date.dta')
+titles <- read_dta('data-raw/metadata/title.dta')
+
+# Set boundary issue data
+max_issue_date <- '2020-12-31'
 
 # Define function for removing HTML tags, replacing non-ASCII characters
 # with ASCII equivalents, and squishing whitespace
@@ -20,24 +29,24 @@ clean_text <- function(x) {
   x %>%
     sapply(function(x) paste0('<p>', x, '</p>')) %>%
     sapply(function(x) paste(rvest::html_text(xml2::read_html(x)), collapse = ' ')) %>%
-    iconv('', 'ASCII', sub = 'byte') %>%
-    subfun('<c3><a0>', 'a') %>%  # grave
-    subfun('<c3><a1>', 'a') %>%  # acute
-    subfun('<c3><a9>', 'e') %>%  # acute
-    subfun('<c3><ad>', 'i') %>%  # acute
-    subfun('<c3><af>', 'i') %>%  # diaresis
-    subfun('<c3><b1>', 'n') %>%  # tilde
-    subfun('<cc><82>', '') %>%  # hat
-    subfun('<e2><80><90>', '-') %>%
-    subfun('<e2><80><93>', '--') %>%
-    subfun('<e2><80><94>', '---') %>%
-    subfun('<e2><80><98>', '\'') %>%
-    subfun('<e2><80><99>', '\'') %>%
-    subfun('<e2><80><9c>', '\"') %>%
-    subfun('<e2><80><9d>', '\"') %>%
-    subfun('<e2><89><a4>', '<=') %>%
-    subfun('<ef><ac><80>', 'ff') %>%
-    subfun('<ef><bb><bf>', '') %>%
+    stringi::stri_trans_general('latin-ascii') %>%
+    subfun('A\\(C\\)', 'e') %>%
+    subfun('A±', 'n') %>%
+    subfun('A¯', 'i') %>%
+    subfun('A¡', 'a') %>%
+    subfun('a\u0080\u0090', '-') %>%
+    subfun('a\u0080\u0093', '--') %>%
+    subfun('a\u0080\u0094', '---') %>%
+    subfun('a\u0080\u0098', '\'') %>%
+    subfun('a\u0080\u0099', '\'') %>%
+    subfun('a\u0080\u009c', '\"') %>%
+    subfun('a\u0080\u009d', '\"') %>%
+    subfun('a\u0081µ', '5') %>%
+    subfun('a\u0089¤', '<=') %>%
+    subfun('i>>¿', '') %>%
+    subfun('I\u0082', '') %>%
+    subfun('i¬\u0080', 'ff') %>%
+    subfun('i¬\u0081', 'ff') %>%
     stringr::str_squish()
 }
 
@@ -118,28 +127,27 @@ fix_title <- function(x) {
     subfun('s1', 's') %>%  # 10447
     subfun('mis ', 'mic ') %>%  # 11470
     subfun('N 1$', 'N+1') %>%  # 11713
+    subfun('jA', 'ja') %>%  # 12393
     subfun('\\%u2019', '\'') %>%  # 12396
+    subfun('A-az', 'iaz') %>%  # 21350
+    subfun(',W', ', W') %>%  # 25311
+    subfun('\\?E', '? E') %>%  # 26268
     subfun('DEg', 'Deg')  # 27239
 }
 
 # Collate working paper information
 bad_numbers <- c(156, 623, 2432, 7044, 7255, 7436, 7565, 8649, 9101, 9694, 13410, 13800, 21929)
-papers <- data %>%
-  filter(key %in% c('number', 'creation_date', 'title')) %>%
-  spread(key, value) %>%
-  separate(creation_date, c('year', 'month'), sep = '-') %>%
-  mutate_at(c('year', 'month', 'number'), as.integer) %>%
-  filter(!(number %in% bad_numbers)) %>%
+papers <- dates %>%
+  filter(issue_date <= max_issue_date) %>%
+  left_join(titles) %>%
+  mutate(paper = as.integer(sub('^w', '', paper)),
+         year = as.integer(substr(issue_date, 1, 4)),
+         month = as.integer(substr(issue_date, 6, 7))) %>%
+  select(paper, year, month, title) %>%
   mutate(title = clean_text(title),
          title = fix_title(title)) %>%
-  select(paper = number, year, month, title) %>%
-  # Manually add missing papers
-  bind_rows(
-    tribble(
-      ~paper, ~year, ~month, ~title,
-      15317, 2009, 9, 'The Efficiency of Sponsor and Participant Portfolio Choices in 401(k) Plans'
-    )
-  ) %>%
+  filter(paper > 0) %>%
+  filter(!paper %in% bad_numbers) %>%
   arrange(paper)
 
 # Export data
@@ -147,5 +155,4 @@ write_csv(papers, 'data-raw/papers.csv')
 save(papers, file = 'data/papers.rda', version = 2, compress = 'bzip2')
 
 # Save session info
-options(width = 80)
-write_lines(capture.output(sessioninfo::session_info()), 'data-raw/papers.log')
+save_session_info('data-raw/papers.log')
