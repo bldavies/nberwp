@@ -24,7 +24,6 @@ programs = nberwo %>%
          program = str_split(note, '\\s+')) %>%
   unnest('program') %>%
   distinct(paper, program) %>%
-  filter(program != 'TWP') %>%
   arrange(paper, program)
 
 # Export paper-program crosswalk
