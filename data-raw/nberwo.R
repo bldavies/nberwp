@@ -3,36 +3,37 @@
 # This script downloads and parses raw data on NBER working papers.
 #
 # Ben Davies
-# July 2020
+# March 2021
 
 # Load packages
+library(bldr)
 library(dplyr)
 library(readr)
 library(tidyr)
 
 # Locate raw data
-raw_data_dir <- 'data-raw/nberwo'
+raw_data_dir = 'data-raw/nberwo'
 
 # Define function for downloading raw data
-download_raw_data <- function(year) {
-  base_url <- 'https://www.nber.org/RePEc/nbr/nberwo/'
-  year_url <- sprintf(paste0(base_url, 'nberwo%d.rdf'), year)
+download_raw_data = function(year) {
+  base_url = 'https://www.nber.org/RePEc/nbr/nberwo/'
+  year_url = sprintf(paste0(base_url, 'nberwo%d.rdf'), year)
   download.file(year_url, sprintf(paste0(raw_data_dir, '/nberwo%d.rdf'), year))
 }
 
 # Download raw data
-years <- 1973 : 2020
-years_needed <- paste0('nberwo', years, '.rdf')
-years_missing <- years[!(years_needed %in% dir(raw_data_dir))]
+years = 1973 : 2021
+years_needed = paste0('nberwo', years, '.rdf')
+years_missing = years[!(years_needed %in% dir(raw_data_dir))]
 lapply(years_missing, download_raw_data)
 
 # Import raw data
-raw_data <- dir(raw_data_dir, '*.rdf', full.name = TRUE) %>%
+raw_data = dir(raw_data_dir, '*.rdf', full.name = TRUE) %>%
   lapply(function(x) tibble(file = x, line = read_lines(x))) %>%
   bind_rows()
 
 # Process data
-data <- raw_data %>%
+nberwo = raw_data %>%
   filter(substr(line, 1, 1) != '#') %>%
   mutate(entry = cumsum(line == '')) %>%
   filter(line != '') %>%
@@ -45,8 +46,7 @@ data <- raw_data %>%
   select(entry, key, value)
 
 # Export data
-write_csv(data, 'data-raw/nberwo.csv')
+write_csv(nberwo, 'data-raw/nberwo.csv')
 
 # Save session info
-options(width = 80)
-write_lines(capture.output(sessioninfo::session_info()), 'data-raw/nberwo.log')
+save_session_info('data-raw/nberwo.log')
