@@ -66,6 +66,7 @@ replace_non_ascii <- function(x) {
     subfun('<c4><8c>', 'C') %>%  # caron
     subfun('<c4><8d>', 'c') %>%  # caron
     subfun('<c4><91>', 'd') %>%  # stroke
+    subfun('<c4><99>', 'e') %>%  # tail
     subfun('<c4><9b>', 'e') %>%  # caron
     subfun('<c4><9f>', 'g') %>%  # caron
     subfun('<c4><b1>', 'i') %>%  # dotless

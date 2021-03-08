@@ -16,16 +16,16 @@ library(stringr)
 library(xml2)
 
 # Import raw metadata
-dates <- read_dta('data-raw/metadata/date.dta')
-titles <- read_dta('data-raw/metadata/title.dta')
+dates = read_dta('data-raw/metadata/date.dta')
+titles = read_dta('data-raw/metadata/title.dta')
 
 # Set boundary issue data
-max_issue_date <- '2020-12-31'
+max_issue_date = '2021-02-28'
 
 # Define function for removing HTML tags, replacing non-ASCII characters
 # with ASCII equivalents, and squishing whitespace
-clean_text <- function(x) {
-  subfun <- function(x, pattern, y) gsub(pattern, y, x, perl = TRUE)
+clean_text = function(x) {
+  subfun = function(x, pattern, y) gsub(pattern, y, x, perl = TRUE)
   x %>%
     sapply(function(x) paste0('<p>', x, '</p>')) %>%
     sapply(function(x) paste(rvest::html_text(xml2::read_html(x)), collapse = ' ')) %>%
@@ -51,8 +51,8 @@ clean_text <- function(x) {
 }
 
 # Define function for fixing title-specific errors
-fix_title <- function(x) {
-  subfun <- function(x, pattern, y) gsub(pattern, y, x, perl = TRUE)
+fix_title = function(x) {
+  subfun = function(x, pattern, y) gsub(pattern, y, x, perl = TRUE)
   x %>%
     subfun('THe', 'The') %>%  # 86
     subfun('nS', 'n S') %>%  # 138
@@ -136,8 +136,8 @@ fix_title <- function(x) {
 }
 
 # Collate working paper information
-bad_numbers <- c(156, 623, 2432, 7044, 7255, 7436, 7565, 8649, 9101, 9694, 13410, 13800, 21929)
-papers <- dates %>%
+bad_numbers = c(156, 623, 2432, 7044, 7255, 7436, 7565, 8649, 9101, 9694, 13410, 13800, 21929, 28460, 28473)
+papers = dates %>%
   filter(issue_date <= max_issue_date) %>%
   left_join(titles) %>%
   mutate(paper = as.integer(sub('^w', '', paper)),
