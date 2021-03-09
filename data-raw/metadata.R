@@ -13,7 +13,7 @@ outdir = 'data-raw/metadata/'
 if (!dir.exists(outdir)) dir.create(outdir)
 
 # Download files
-files = paste0(c('author_user', 'auths', 'date', 'jel', 'prog', 'title'), '.dta')
+files = paste0(c('author_user', 'auths', 'date', 'jel', 'prog', 'title'), '.txt')
 for (f in files) {
   download.file(paste0('http://www2.nber.org/wp_metadata/', f), paste0(outdir, f))
 }
