@@ -8,16 +8,20 @@
 # Load packages
 library(bldr)
 library(dplyr)
-library(haven)
 library(readr)
 library(rvest)
-library(stringi)
 library(stringr)
+library(tidyr)
 library(xml2)
 
 # Import raw metadata
-dates = read_dta('data-raw/metadata/date.dta')
-titles = read_dta('data-raw/metadata/title.dta')
+dates = read_tsv('data-raw/metadata/date.txt') %>%
+  filter(grepl('^w', paper))
+titles = read_lines('data-raw/metadata/title.txt') %>%
+  {tibble(line = .)} %>%
+  filter(grepl('^w', line)) %>%
+  mutate(line = sub('(w[0-9]+)\\s+(.*)', '\\1#&#\\2', line)) %>%
+  separate(line, c('paper', 'title'), sep = '#&#')
 
 # Set boundary issue data
 max_issue_date = '2021-02-28'
@@ -29,24 +33,24 @@ clean_text = function(x) {
   x %>%
     sapply(function(x) paste0('<p>', x, '</p>')) %>%
     sapply(function(x) paste(rvest::html_text(xml2::read_html(x)), collapse = ' ')) %>%
-    stringi::stri_trans_general('latin-ascii') %>%
-    subfun('A\\(C\\)', 'e') %>%
-    subfun('A±', 'n') %>%
-    subfun('A¯', 'i') %>%
-    subfun('A¡', 'a') %>%
-    subfun('a\u0080\u0090', '-') %>%
-    subfun('a\u0080\u0093', '--') %>%
-    subfun('a\u0080\u0094', '---') %>%
-    subfun('a\u0080\u0098', '\'') %>%
-    subfun('a\u0080\u0099', '\'') %>%
-    subfun('a\u0080\u009c', '\"') %>%
-    subfun('a\u0080\u009d', '\"') %>%
-    subfun('a\u0081µ', '5') %>%
-    subfun('a\u0089¤', '<=') %>%
-    subfun('i>>¿', '') %>%
-    subfun('I\u0082', '') %>%
-    subfun('i¬\u0080', 'ff') %>%
-    subfun('i¬\u0081', 'ff') %>%
+    subfun('R̂', 'R') %>%
+    subfun('à', 'a') %>%
+    subfun('á', 'a') %>%
+    subfun('é', 'e') %>%
+    subfun('í', 'i') %>%
+    subfun('ï', 'i') %>%
+    subfun('ñ', 'n') %>%
+    subfun('ﬀ', 'ff') %>%
+    subfun('ﬁ', 'fi') %>%
+    subfun('⁵', '5') %>%
+    subfun('‘', '\'') %>%
+    subfun('’', '\'') %>%
+    subfun('“', '"') %>%
+    subfun('”', '"') %>%
+    subfun('‐', '-') %>%
+    subfun('–', '--') %>%
+    subfun('—', '---') %>%
+    subfun('≤', '<=') %>%
     stringr::str_squish()
 }
 
@@ -138,6 +142,7 @@ fix_title = function(x) {
 # Collate working paper information
 bad_numbers = c(156, 623, 2432, 7044, 7255, 7436, 7565, 8649, 9101, 9694, 13410, 13800, 21929, 28460, 28473)
 papers = dates %>%
+  filter(grepl('^w[0-9]', paper)) %>%
   filter(issue_date <= max_issue_date) %>%
   left_join(titles) %>%
   mutate(paper = as.integer(sub('^w', '', paper)),
