@@ -8,19 +8,19 @@
 # Load packages
 library(bldr)
 library(dplyr)
-library(haven)
 library(readr)
 library(stringr)
 library(tidyr)
 
 # Import raw metadata
-prog = read_dta('data-raw/metadata/prog.dta')
+prog = read_tsv('data-raw/metadata/prog.txt')
 
 # Import working paper attributes
 papers = read_csv('data-raw/papers.csv')
 
 # Create paper-program crosswalk
 programs = prog %>%
+  filter(grepl('^w[0-9]+', paper)) %>%
   mutate(paper = as.integer(sub('^w', '', paper))) %>%
   semi_join(papers) %>%
   distinct() %>%
