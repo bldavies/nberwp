@@ -15,7 +15,7 @@ paper,author
 13,Reuben Gronau
 14,Lewis C Solmon
 14,Paul Wachtel
-15,Ray C* Fair
+15,Ray C Fair
 16,David C Hoaglin
 17,Paul J Taubman
 18,Isaac Ehrlich
@@ -43,7 +43,7 @@ paper,author
 34,Robert J Willis
 35,Phillip Cagan
 36,Warren C Sanderson
-37,Robert F Engle
+37,Robert F Engle III
 38,Alexander H Sarris
 39,Jacob Mincer
 40,William M Landes
@@ -69,7 +69,7 @@ paper,author
 54,Karim Nashashibi
 55,Richard A Posner
 56,Thomas F Cooley
-57,Steven J DeCanio
+57,Stephen J DeCanio
 57,Thomas F Cooley
 58,Paul W Holland
 58,Richard W Hill
@@ -119,7 +119,7 @@ paper,author
 92,Edward P Lazear
 93,Robert J Shiller
 94,Vinay Dharmadhikari
-95,"John R Lott, Jr"
+95,John R Lott
 95,Michael R Darby
 96,Forrest D Nelson
 96,G S Maddala
@@ -277,7 +277,7 @@ paper,author
 196,John E Dennis
 196,Roy E Welsch
 197,M Scott Matthews
-197,Steven J DeCanio
+197,Stephen J DeCanio
 197,Thomas F Cooley
 198,Ann P Bartel
 199,Jacob Mincer
@@ -341,7 +341,7 @@ paper,author
 241,Joel B Slemrod
 241,Martin S Feldstein
 242,Richard B Freeman
-243,"Charles E McLure, Jr"
+243,Charles E McLure
 243,J Gregory Ballentine
 244,Beatrice N Vaccara
 244,Victor Zarnowitz
@@ -422,7 +422,7 @@ paper,author
 296,Martin S Feldstein
 297,Akira Konakayama
 297,Michael Gort
-298,"Charles E McLure, Jr"
+298,Charles E McLure
 299,George J Borjas
 299,James J Heckman
 300,James A Wilcox
@@ -450,7 +450,7 @@ paper,author
 314,Martin S Feldstein
 315,Richard B Freeman
 316,Richard B Freeman
-317,"Charles E McLure, Jr"
+317,Charles E McLure
 318,Victor Zarnowitz
 319,Harvey S Rosen
 319,Kenneth A Small
@@ -478,7 +478,7 @@ paper,author
 335,Willem H Buiter
 336,Richard M Levich
 337,A Thomas King
-337,Don Fullterton
+337,Don Fullerton
 337,John B Shoven
 337,John Whalley
 338,A Mitchell Polinsky
@@ -595,7 +595,7 @@ paper,author
 412,Willem H Buiter
 413,Jerry R Green
 413,Martin S Feldstein
-414,Ray C* Fair
+414,Ray C Fair
 415,Alan L Gustman
 415,Thomas L Steinmeier
 416,Douglas Coate
@@ -662,7 +662,7 @@ paper,author
 464,Alan S Blinder
 465,Mervyn A King
 466,Anne O Krueger
-467,Don Fullterton
+467,Don Fullerton
 468,Mervyn A King
 469,William H Branson
 470,Edward J Kane
@@ -685,11 +685,11 @@ paper,author
 482,Irving B Kravis
 482,Robert E Lipsey
 483,Alan J Auerbach
-484,John F Cogaj
+484,John F Cogan
 485,Maurice Obstfeld
 486,Victor R Fuchs
-487,Charles M Becker
-487,Don Fullterton
+487,Charles Becker
+487,Don Fullerton
 488,Alan S Blinder
 489,Christopher A Sims
 490,Robert J Barro
@@ -712,7 +712,7 @@ paper,author
 501,Nancy Peregrim Marion
 502,Ben S Bernanke
 503,Dennis W Carlton
-504,"Charles E McLure, Jr"
+504,Charles E McLure
 505,Frederic S Mishkin
 505,Robert E Hall
 506,Frederic S Mishkin
@@ -735,7 +735,7 @@ paper,author
 518,Zvi Hercowitz
 519,Daniel S Hamermesh
 519,James H Grant
-520,Don Fullterton
+520,Don Fullerton
 521,Dennis M Bushe
 521,Irving B Kravis
 521,Robert E Lipsey
@@ -764,7 +764,7 @@ paper,author
 536,Wilbur G Lewehlen
 537,Maurice Obstfeld
 537,Robert E Cumby
-538,Ray C* Fair
+538,Ray C Fair
 539,Victor R Fuchs
 540,Maurice Obstfeld
 541,Eliana A Cardoso
@@ -846,7 +846,7 @@ paper,author
 592,Douglas D Purvis
 592,Willem H Buiter
 593,V Vance Roley
-594,"Robert A Taggart, Jr"
+594,Robert A Taggart
 595,James E Pesando
 596,Andrew B Abel
 597,M Ishaq Nadiri
@@ -875,7 +875,7 @@ paper,author
 614,Mervyn A King
 615,Michael Grossman
 615,Steven Jacobowitz
-616,"Charles E McLure, Jr"
+616,Charles E McLure
 617,Charles C Brown
 618,James L Medoff
 618,Katharine G Abraham
@@ -946,7 +946,7 @@ paper,author
 670,Stanley Fischer
 671,Frank R Lichtenberg
 672,Edward P Lazear
-673,Don Fullterton
+673,Don Fullerton
 673,Roger H Gordon
 674,Casey Ichniowski
 675,Charles M Kahn
@@ -954,7 +954,7 @@ paper,author
 676,Allan Drazen
 676,Daniel S Hamermesh
 676,Norman P Obst
-677,Ray C* Fair
+677,Ray C Fair
 678,Joseph E Stiglitz
 679,Martin S Feldstein
 680,Martin S Feldstein
@@ -968,7 +968,7 @@ paper,author
 686,Maurice Obstfeld
 687,Roger H Gordon
 688,David F Bradford
-688,Don Fullterton
+688,Don Fullerton
 689,David G Hartman
 690,Robert J Shiller
 690,Sanford J Grossman
@@ -979,14 +979,14 @@ paper,author
 693,Frederic S Mishkin
 694,Joseph E Stiglitz
 695,Herschel I Grossman
-696,Ray C* Fair
+696,Ray C Fair
 697,Richard B Freeman
 698,E John Driffill
 698,Harvey S Rosen
 699,Patric H Hendershott
 700,Burton G Malkiel
 701,Zvi Bodie
-702,"John H Ciccolo, Jr"
+702,John H Ciccolo
 703,Martin S Feldstein
 704,Benjamin M Friedman
 705,Richard C Marston
@@ -1004,7 +1004,7 @@ paper,author
 713,Alan C Stockman
 714,A Mitchell Polinsky
 715,J David Richardson
-716,Ray C* Fair
+716,Ray C Fair
 717,Joshua L Schwarz
 717,Ronald G Ehrenberg
 718,Patric H Hendershott
@@ -1036,7 +1036,7 @@ paper,author
 736,David Winter
 736,John Burkett
 736,Richard Portes
-737,"Robert A Taggart, Jr"
+737,Robert A Taggart
 737,Yair E Orgler
 738,Kevin E Villani
 738,Patric H Hendershott
@@ -1051,9 +1051,9 @@ paper,author
 743,Robert C Merton
 744,Robert J Gordon
 745,Benjamin M Friedman
-746,"Charles E McLure, Jr"
+746,Charles E McLure
 747,Lemma W Senbet
-747,"Robert A Taggart, Jr"
+747,Robert A Taggart
 748,Jacob A Frenkel
 748,Joshua Aizenman
 749,Marcus H Miller
@@ -1142,7 +1142,7 @@ paper,author
 807,Robert J Barro
 808,Jacob Mincer
 809,Robert J Gordon
-810,"Robert A Taggart, Jr"
+810,Robert A Taggart
 811,Paul J Taubman
 812,Herschel I Grossman
 812,John F Boschen
@@ -1167,7 +1167,7 @@ paper,author
 826,Zvi Griliches
 827,Robert S Smith
 827,Ronald G Ehrenberg
-828,Don Fullterton
+828,Don Fullerton
 828,Yolanda K Henderson
 829,James M Poterba
 829,Lawrence H Summers
@@ -1225,7 +1225,7 @@ paper,author
 864,Edward P Lazear
 864,Robert E Hall
 865,Craig S Hakkio
-866,"Robert A Taggart, Jr"
+866,Robert A Taggart
 867,Willem H Buiter
 868,Pentti J K Kouri
 869,David S Jones
@@ -1264,7 +1264,7 @@ paper,author
 890,Roderick Floud
 890,Stanley L Engerman
 891,Olivier Jean Blanchard
-892,Don Fullterton
+892,Don Fullerton
 892,John B Shoven
 892,John Whalley
 893,Bennett T McCallum
@@ -1300,7 +1300,7 @@ paper,author
 908,Zvi Griliches
 909,William H Branson
 910,Robert C Merton
-911,Don Fullterton
+911,Don Fullerton
 911,John B Shoven
 911,Yolanda K Henderson
 912,Robert B Litterman
@@ -1523,7 +1523,7 @@ paper,author
 1055,David T Ellwood
 1056,Michael Bruno
 1057,Joseph E Stiglitz
-1058,Don Fullterton
+1058,Don Fullerton
 1058,Mervyn A King
 1059,Behzad T Diba
 1059,Herschel I Grossman
@@ -1546,7 +1546,7 @@ paper,author
 1071,Lars E O Svensson
 1071,Torsten Persson
 1072,Douglas Coate
-1073,Don Fullterton
+1073,Don Fullerton
 1073,Mervyn A King
 1074,Lars E O Svensson
 1074,Nancy Peregrim Marion
@@ -1610,7 +1610,7 @@ paper,author
 1109,Lawrence H Summers
 1110,Jeffrey A Frankel
 1111,Andrew B Lyon
-1111,Don Fullterton
+1111,Don Fullerton
 1112,Richard M Levich
 1113,Jeffrey A Frankel
 1113,William T Dickens
@@ -1629,9 +1629,9 @@ paper,author
 1121,Jeffrey A Frankel
 1122,Andrew B Abel
 1122,Olivier Jean Blanchard
-1123,Don Fullterton
+1123,Don Fullerton
 1124,Irving B Kravis
-1125,"Charles E McLure, Jr"
+1125,Charles E McLure
 1126,Edward P Lazear
 1127,Michael R Darby
 1128,Gary S Fields
@@ -1683,7 +1683,7 @@ paper,author
 1155,Michael D Hurd
 1156,Joseph E Stiglitz
 1156,Raaj Kumar Sah
-1157,"Robert E Lucas, Jr"
+1157,Robert E Lucas
 1158,Edward P Lazear
 1159,Alan M Garber
 1159,James F Silverman
@@ -1702,7 +1702,7 @@ paper,author
 1168,Harvey S Rosen
 1168,Kenneth T Rosen
 1169,Christopher F Baum
-1169,"John H Ciccolo, Jr"
+1169,John H Ciccolo
 1170,Stephen J Turnovsky
 1171,Louis A Lambros
 1171,Victor Zarnowitz
@@ -1728,7 +1728,7 @@ paper,author
 1183,Henry S Farber
 1183,Max H Bazerman
 1184,George M Constantinidies
-1184,Jonathan E Ingersoll Jr
+1184,Jonathan E Ingersoll
 1185,John F Helliwell
 1186,Robert S Pindyck
 1187,Takatoshi Ito
@@ -1770,7 +1770,7 @@ paper,author
 1211,Makoto Ohta
 1212,Alan L Gustman
 1212,Thomas L Steinmeier
-1213,"Robert A Taggart, Jr"
+1213,Robert A Taggart
 1214,Chaipat Sahasakul
 1214,Robert J Barro
 1215,Jess B Yawitz
@@ -1811,7 +1811,7 @@ paper,author
 1238,Jeffrey I Bernstein
 1238,M Ishaq Nadiri
 1239,Andrew B Lyon
-1239,Don Fullterton
+1239,Don Fullerton
 1239,Richard J Rosen
 1240,Jonathan S Leonard
 1241,Daniel J Frisch
@@ -1851,7 +1851,7 @@ paper,author
 1259,Mark Schankerman
 1260,Gary Solon
 1261,Charles C Brown
-1262,Don Fullterton
+1262,Don Fullerton
 1262,Yolanda K Henderson
 1263,Bart D Ostro
 1263,David A Wise
@@ -1904,8 +1904,8 @@ paper,author
 1290,Laurence J Kotlikoff
 1291,Robert C Merton
 1291,Stanley Fischer
-1292,Ray C* Fair
-1293,Ray C* Fair
+1292,Ray C Fair
+1293,Ray C Fair
 1294,Bennett T McCallum
 1295,Michael R Darby
 1296,Douglas K Pearce
@@ -1938,7 +1938,7 @@ paper,author
 1314,William T Dickens
 1315,Jay O Light
 1315,Randall K Morck
-1315,"Robert A Taggart, Jr"
+1315,Robert A Taggart
 1315,Zvi Bodie
 1316,Catherine E Hartsog
 1316,John H Pencavel
@@ -2032,7 +2032,7 @@ paper,author
 1375,Carl E Walsh
 1376,Ben S Bernanke
 1376,James L Powell
-1377,Ray C* Fair
+1377,Ray C Fair
 1378,Victor Zarnowitz
 1379,James A Wilcox
 1379,Joe Peek
@@ -2129,13 +2129,13 @@ paper,author
 1439,Robert L McDonald
 1440,Barry J Eichengreen
 1441,E Philip Jones
-1441,"Robert A Taggart, Jr"
+1441,Robert A Taggart
 1442,Joseph E Stiglitz
 1443,Lawrence H Summers
 1443,N Gregory Mankiw
 1444,J Bradford De Long
 1444,Lawrence H Summers
-1445,Ray C* Fair
+1445,Ray C Fair
 1446,Edward P Lazear
 1447,Marc S Robinson
 1447,Michael J Boskin
@@ -2252,7 +2252,7 @@ paper,author
 1520,Benjamin M Friedman
 1521,Patric H Hendershott
 1522,Scott P Mason
-1523,"Robert A Taggart, Jr"
+1523,Robert A Taggart
 1524,David C Ling
 1524,Patric H Hendershott
 1525,Anthony B Sanders
@@ -2362,7 +2362,7 @@ paper,author
 1599,Joel B Slemrod
 1599,Roger H Gordon
 1600,Andrew B Lyon
-1600,Don Fullterton
+1600,Don Fullerton
 1601,Kenneth S Rogoff
 1601,Maurice Obstfeld
 1602,Jeremy I Bulow
@@ -2395,7 +2395,7 @@ paper,author
 1616,Robert A Shakotko
 1617,Jeffrey A Frankel
 1618,Nancy L Stokey
-1618,"Robert E Lucas, Jr"
+1618,Robert E Lucas
 1619,Alan S Blinder
 1620,Robert A Margo
 1621,Alan L Gustman
@@ -2457,7 +2457,7 @@ paper,author
 1653,Richard B Freeman
 1654,Robert S Pindyck
 1654,Saman Majd
-1655,Don Fullterton
+1655,Don Fullerton
 1656,Richard B Freeman
 1657,Jeffrey S Zax
 1658,Carl Shapiro
@@ -2652,7 +2652,7 @@ paper,author
 1780,William H Branson
 1781,Martin S Feldstein
 1782,Tadashi Yamada
-1783,"Frank J Chaloupka, IV"
+1783,Frank J Chaloupka IV
 1783,Tadashi Yamada
 1783,Tetsuji Yamada
 1784,Arminio Fraga
@@ -2685,7 +2685,7 @@ paper,author
 1801,Joshua Aizenman
 1802,Robert W Fogel
 1803,Alan J Auerbach
-1803,"James R Hines, Jr"
+1803,James R Hines
 1804,Benjamin M Friedman
 1805,John Y Campbell
 1806,John Y Campbell
@@ -2698,7 +2698,7 @@ paper,author
 1811,Daniel S Hamermesh
 1812,V Vance Roley
 1813,Dennis W Carlton
-1814,Ray C* Fair
+1814,Ray C Fair
 1815,Adam B Jaffe
 1816,John C Ham
 1816,Joseph G Altonji
@@ -2808,7 +2808,7 @@ paper,author
 1885,John Y Campbell
 1885,Robert J Shiller
 1886,Alan J Auerbach
-1886,"James R Hines, Jr"
+1886,James R Hines
 1887,Daniel S Hamermesh
 1887,John R Wolfe
 1888,Claudia D Goldin
@@ -2827,7 +2827,7 @@ paper,author
 1894,Mark Gersovitz
 1895,Christina H Paxson
 1895,Joseph G Altonji
-1896,"James R Hines, Jr"
+1896,James R Hines
 1896,Lawrence H Summers
 1896,Roger H Gordon
 1897,Kenneth J Singleton
@@ -2841,9 +2841,9 @@ paper,author
 1902,Assaf Razin
 1902,Jacob A Frenkel
 1903,Willem H Buiter
-1904,Don Fullterton
+1904,Don Fullerton
 1904,Yolanda K Henderson
-1905,Don Fullterton
+1905,Don Fullerton
 1905,Yolanda K Henderson
 1906,Lawrence F Katz
 1907,Jacob Mincer
@@ -2918,6 +2918,7 @@ paper,author
 1952,Lawrence H Summers
 1953,Leonard Waverman
 1953,Melvyn A Fuss
+1954,Randy A Ehrenberg
 1954,Richard P Chaykowski
 1954,Ronald G Ehrenberg
 1955,James M Poterba
@@ -3144,7 +3145,7 @@ paper,author
 2094,Thomas Downs
 2095,Kathryn M E Dominguez
 2095,Matthew D Shapiro
-2095,Ray C* Fair
+2095,Ray C Fair
 2096,Herman B Leonard
 2096,Richard J Zeckhauser
 2097,Andrew B Abel
@@ -3163,8 +3164,8 @@ paper,author
 2103,Alan J Auerbach
 2104,Olivia S Mitchell
 2104,Silvana Pozzebon
-2105,Ray C* Fair
-2106,Ray C* Fair
+2105,Ray C Fair
+2106,Ray C Fair
 2107,John Whalley
 2107,Rich Jones
 2108,Steven G Allen
@@ -3173,7 +3174,7 @@ paper,author
 2110,Sebastian Edwards
 2111,John A Rizzo
 2111,Ryuzo Sato
-2112,Ray C* Fair
+2112,Ray C Fair
 2113,Jacob A Frenkel
 2113,Morris Goldstein
 2114,A Mitchell Polinsky
@@ -3239,7 +3240,7 @@ paper,author
 2148,Zhu Li Jing
 2149,Alan S Blinder
 2149,Avner Bar-Ilan
-2150,Ray C* Fair
+2150,Ray C Fair
 2151,John Y Campbell
 2151,Richard H Clarida
 2152,Joshua Aizenman
@@ -3295,7 +3296,7 @@ paper,author
 2181,Martin S Eichenbaum
 2182,Kala Krishna
 2183,Laurence J Kotlikoff
-2183,Stephen Johnston
+2183,Stephen Johnson
 2183,William F Samuelson
 2184,Andrew M Weiss
 2184,Richard H Spady
@@ -3359,7 +3360,7 @@ paper,author
 2220,Jorge Braga de Macedo
 2220,William H Branson
 2221,Steven G Allen
-2222,Ray C* Fair
+2222,Ray C Fair
 2223,John Y Campbell
 2223,Richard H Clarida
 2224,Douglas Holtz-Eakin
@@ -3380,7 +3381,7 @@ paper,author
 2232,Arie Melnik
 2232,George Sofianos
 2232,Paul Wachtel
-2233,Ray C* Fair
+2233,Ray C Fair
 2233,Robert J Shiller
 2234,Jeffrey O Sundberg
 2234,John B Shoven
@@ -3451,7 +3452,7 @@ paper,author
 2279,Alan J Auerbach
 2279,Rosanne Altshuler
 2280,Kathryn M E Dominguez
-2280,Ray C* Fair
+2280,Ray C Fair
 2281,Richard H Steckel
 2282,Deborah Laren
 2282,Gary Solon
@@ -3486,7 +3487,7 @@ paper,author
 2299,Paul J Gertler
 2299,Warren C Sanderson
 2300,William Poole
-2301,"Frank J Chaloupka, IV"
+2301,Frank J Chaloupka IV
 2301,Henry Saffer
 2302,Sweder van Wijnbergen
 2303,Anthony P Rodrigues
@@ -3578,7 +3579,7 @@ paper,author
 2352,Alan M Huber
 2352,Marc S Robinson
 2352,Michael J Boskin
-2353,Don Fullterton
+2353,Don Fullerton
 2353,Yolanda K Henderson
 2354,Alberto F Alesina
 2354,Stephen E Spear
@@ -3701,7 +3702,7 @@ paper,author
 2428,Kenneth S Rogoff
 2429,Robert J Hodrick
 2430,Andrew B Lyon
-2430,Don Fullterton
+2430,Don Fullerton
 2431,Angela Redish
 2431,Michael D Bordo
 2433,Paul J Gertler
@@ -3721,7 +3722,7 @@ paper,author
 2442,Tadashi Yamada
 2442,Tetsuji Yamada
 2443,Herschel I Grossman
-2444,"Frank J Chaloupka, IV"
+2444,Frank J Chaloupka IV
 2444,Tadashi Yamada
 2444,Tetsuji Yamada
 2445,Ann Dryden Witte
@@ -3779,7 +3780,7 @@ paper,author
 2477,Lance E Davis
 2477,Robert E Gallman
 2477,Teresa Hutchins
-2478,Don Fullterton
+2478,Don Fullerton
 2478,Marios Karayannis
 2479,Ryuzo Sato
 2480,Bennett T McCallum
@@ -3800,13 +3801,13 @@ paper,author
 2491,James P Love
 2491,William H Branson
 2492,Alan J Auerbach
-2492,"James R Hines, Jr"
+2492,James R Hines
 2493,Irving B Kravis
 2493,Magnus Blomstrom
 2493,Robert E Lipsey
 2494,Bruce C Greenwald
 2494,Joseph E Stiglitz
-2495,Ray C* Fair
+2495,Ray C Fair
 2496,N Gregory Mankiw
 2496,Olivier Jean Blanchard
 2497,Charles W Calormiris
@@ -3818,7 +3819,7 @@ paper,author
 2501,Olivia S Mitchell
 2501,Phillip B Levine
 2502,Sebastian Edwards
-2503,Ray C* Fair
+2503,Ray C Fair
 2503,Robert J Shiller
 2504,Anne O Krueger
 2505,Jeffrey A Frankel
@@ -3959,7 +3960,7 @@ paper,author
 2591,Julio J Rotemberg
 2591,Lawrence H Summers
 2592,Elhanan Helpman
-2593,Don Fullterton
+2593,Don Fullerton
 2593,James B Mackie
 2594,Bruce D Meyer
 2594,Lawrence F Katz
@@ -3986,7 +3987,7 @@ paper,author
 2607,Jeffrey D Sachs
 2608,V Vance Roley
 2608,William C Melton
-2609,Robert F Engle
+2609,Robert F Engle III
 2609,Takatoshi Ito
 2609,Wen-Ling Lin
 2610,Alberto F Alesina
@@ -4079,7 +4080,7 @@ paper,author
 2661,Tadashi Yamada
 2661,Tetsuji Yamada
 2662,Joshua Aizenman
-2663,"Frank J Chaloupka, IV"
+2663,Frank J Chaloupka IV
 2663,Henry Saffer
 2664,Kenneth D West
 2665,Elhanan Helpman
@@ -4116,13 +4117,13 @@ paper,author
 2683,Juro Teranishi
 2683,Kunio Okina
 2683,Takatoshi Ito
-2684,Fumiko Konya
+2684,Fumiko Kon-Ya
 2684,Robert J Shiller
 2684,Yoshiro Tsutsui
 2685,Robert J Barro
 2686,David A Wise
 2686,James H Stock
-2687,"Charles E McLure, Jr"
+2687,Charles E McLure
 2688,Jeffrey A Miron
 2688,Robert B Barsky
 2689,Alan C Stockman
@@ -4321,7 +4322,7 @@ paper,author
 2808,Axel H Boersch-Supan
 2809,Elhanan Helpman
 2809,Gene M Grossman
-2810,Don Fullterton
+2810,Don Fullerton
 2811,Lars E O Svensson
 2811,Torsten Persson
 2812,Phillip A Braun
@@ -4347,7 +4348,7 @@ paper,author
 2825,Anna J Schwartz
 2825,Ehsan U Choudhri
 2825,Michael D Bordo
-2826,Don Fullterton
+2826,Don Fullerton
 2826,James Berkovec
 2827,Michael Grossman
 2827,Theodore J Joyce
@@ -4419,6 +4420,7 @@ paper,author
 2873,Jacob A Frenkel
 2874,Daniel I Rees
 2874,Eric L Ehrenberg
+2874,Randy A Ehrenberg
 2874,Ronald G Ehrenberg
 2875,Andrei Shleifer
 2875,J Bradford De Long
@@ -4426,7 +4428,7 @@ paper,author
 2875,Robert J Waldmann
 2876,Peter C Reiss
 2876,Richard C Levin
-2877,Ray C* Fair
+2877,Ray C Fair
 2878,Richard C Marston
 2878,William H Branson
 2879,Takatoshi Ito
@@ -4524,7 +4526,7 @@ paper,author
 2929,Morris Goldstein
 2929,Paul R Masson
 2930,Bernard Dumas
-2931,"James R Hines, Jr"
+2931,James R Hines
 2931,R Glenn Hubbard
 2932,Ernst R Berndt
 2932,Melvyn A Fuss
@@ -4689,12 +4691,12 @@ paper,author
 3027,Maurice Obstfeld
 3028,Maurice Obstfeld
 3029,Alan B Krueger
-3029,"John F Burton, Jr"
+3029,John F Burton
 3030,John H Pencavel
 3031,Daniel Sullivan
 3032,Anne C Case
 3032,Harvey S Rosen
-3032,"James R Hines, Jr"
+3032,James R Hines
 3033,Ricardo J Caballero
 3033,Richard K Lyons
 3034,Robert E Hall
@@ -4714,7 +4716,7 @@ paper,author
 3043,William F Samuelson
 3043,Zvi Bodie
 3044,Nouriel Roubini
-3045,Ray C* Fair
+3045,Ray C Fair
 3046,Fumio Hayashi
 3046,Joseph G Altonji
 3046,Laurence J Kotlikoff
@@ -4757,7 +4759,7 @@ paper,author
 3072,Alberto F Alesina
 3072,Howard L Rosenthal
 3073,James A Brander
-3074,"Robert A Taggart, Jr"
+3074,Robert A Taggart
 3075,Michael Bruno
 3076,James A Levinsohn
 3076,Robert C Feenstra
@@ -4805,7 +4807,7 @@ paper,author
 3100,Jeffrey D Sachs
 3100,Warwick J McKibbin
 3101,Zvi Bodie
-3102,Ray C* Fair
+3102,Ray C Fair
 3103,Joshua Aizenman
 3104,Koichi Hamada
 3104,Kyoji Fukao
@@ -4951,7 +4953,7 @@ paper,author
 3186,David E Bloom
 3186,McKinley L Blackburn
 3186,Richard B Freeman
-3187,Joshua G Rosett
+3187,Joshua Rosett
 3188,Andrew J Oswald
 3188,Louis N Christofides
 3189,Boyan Jovanovic
@@ -5085,8 +5087,8 @@ paper,author
 3265,Joseph E Stiglitz
 3265,Steven M Slutsky
 3266,Benjamin M Friedman
-3267,"Frank J Chaloupka, IV"
-3268,"Frank J Chaloupka, IV"
+3267,Frank J Chaloupka IV
+3268,Frank J Chaloupka IV
 3269,Dani Rodrik
 3269,Raquel Fernandez
 3270,James M Poterba
@@ -5125,7 +5127,7 @@ paper,author
 3290,James M Poterba
 3290,Kenneth R French
 3291,N Edward Coulson
-3291,Robert F Engle
+3291,Robert F Engle III
 3291,Scott J Brown
 3292,Guorn Liu
 3292,Tadashi Yamada
@@ -5197,7 +5199,7 @@ paper,author
 3331,Olivia S Mitchell
 3332,Richard C Marston
 3333,Alberto Giovannini
-3333,"James R Hines, Jr"
+3333,James R Hines
 3334,Alan B Krueger
 3335,James H Stock
 3335,Matthew P Richardson
@@ -5231,7 +5233,7 @@ paper,author
 3349,Steven N Durlauf
 3350,Alex Kane
 3350,Che-Hsiung Hong
-3350,Robert F Engle
+3350,Robert F Engle III
 3351,John M Abowd
 3352,John M Abowd
 3352,Thomas Lemieux
@@ -5284,7 +5286,7 @@ paper,author
 3377,John Whalley
 3378,Ernst R Berndt
 3378,Zvi Griliches
-3379,Don Fullterton
+3379,Don Fullerton
 3380,Barry J Eichengreen
 3380,Peter M Garber
 3381,Peter M Garber
@@ -5381,7 +5383,7 @@ paper,author
 3429,A Mitchell Polinsky
 3429,Steven Shavell
 3430,Martin S Gaynor
-3430,Solomon W Polachek
+3430,Solomon Polachek
 3431,John Moore
 3431,Oliver D Hart
 3432,Martin S Eichenbaum
@@ -5448,7 +5450,7 @@ paper,author
 3464,Andrea E Beltratti
 3464,Robert J Shiller
 3465,Andrei Shleifer
-3465,Caralee McLiesh
+3465,Charles Lee
 3465,Richard H Thaler
 3466,Lars E O Svensson
 3467,Paolo A Pesenti
@@ -5469,7 +5471,7 @@ paper,author
 3475,Carsten Kowalczyk
 3476,Carsten Kowalczyk
 3477,Eric M Rice
-3477,"James R Hines, Jr"
+3477,James R Hines
 3478,Alberto F Alesina
 3478,Nouriel Roubini
 3479,Lars Peter Hansen
@@ -5517,14 +5519,14 @@ paper,author
 3502,Robert J Weiner
 3503,Ben S Bernanke
 3503,Martin L Parkinson
-3504,Robert F Engle
+3504,Robert F Engle III
 3504,Takatoshi Ito
 3504,Wen-Ling Lin
-3505,Don Fullterton
+3505,Don Fullerton
 3505,James Berkovec
 3506,Charles L Ballard
-3506,Don Fullterton
-3507,Don Fullterton
+3506,Don Fullerton
+3507,Don Fullerton
 3508,Alan J Auerbach
 3509,George J Borjas
 3509,Stephen G Bronars
@@ -5578,7 +5580,7 @@ paper,author
 3536,Adam J Grossberg
 3536,Francine D Blau
 3537,Bruce D Meyer
-3538,"James R Hines, Jr"
+3538,James R Hines
 3539,Jeffrey A Frankel
 3540,Assaf Razin
 3540,Effraim Sadka
@@ -5760,7 +5762,7 @@ paper,author
 3642,Richard J Arnott
 3643,Alex Kane
 3643,Ray Chou
-3643,Robert F Engle
+3643,Robert F Engle III
 3644,Jon D Kendall
 3644,Robert C Feenstra
 3645,Gary B Gorton
@@ -5830,9 +5832,9 @@ paper,author
 3679,Thomas F Rutherford
 3680,Ingmar R Prucha
 3680,M Ishaq Nadiri
-3681,Robert F Engle
+3681,Robert F Engle III
 3681,Victor K Ng
-3682,Robert F Engle
+3682,Robert F Engle III
 3682,Victor K Ng
 3683,Kathryn M E Dominguez
 3684,Kenneth A Froot
@@ -5913,7 +5915,7 @@ paper,author
 3728,Steven J Davis
 3729,Eduardo M R A Engel
 3729,Ricardo J Caballero
-3730,"James R Hines, Jr"
+3730,James R Hines
 3731,Darryll Hendricks
 3731,Jayendu Patel
 3731,Richard J Zeckhauser
@@ -5952,7 +5954,7 @@ paper,author
 3749,Ernst R Berndt
 3749,Judy Shaw-Er Wang Chiang
 3750,Diane Lim Rogers
-3750,Don Fullterton
+3750,Don Fullerton
 3751,Cara S Lown
 3751,Jeffrey A Frankel
 3752,Nelson C Clark
@@ -5966,7 +5968,7 @@ paper,author
 3755,Garey Ramey
 3755,Valerie A Ramey
 3756,Valerie A Ramey
-3757,Ray C* Fair
+3757,Ray C Fair
 3758,James E Rauch
 3759,Alida Castillo Freeman
 3759,Richard B Freeman
@@ -6034,7 +6036,7 @@ paper,author
 3795,Lars E O Svensson
 3796,Assaf Razin
 3796,Effraim Sadka
-3797,Rama V Ramachandran
+3797,Rama Ramachandran
 3797,Ryuzo Sato
 3797,Shunichi Tsutsui
 3798,Francois Degeorge
@@ -6095,7 +6097,7 @@ paper,author
 3830,Alberto F Alesina
 3830,Gerald D Cohen
 3830,Nouriel Roubini
-3831,"Frank J Chaloupka, IV"
+3831,Frank J Chaloupka IV
 3831,Henry Saffer
 3831,Michael Grossman
 3832,Janet M Currie
@@ -6238,7 +6240,7 @@ paper,author
 3909,John Mullahy
 3910,Jeffrey A Frankel
 3910,Shang-Jin Wei
-3911,Robert F Engle
+3911,Robert F Engle III
 3911,Takatoshi Ito
 3911,Wen-Ling Lin
 3912,John C Ham
@@ -6277,7 +6279,7 @@ paper,author
 3927,Lawrence F Katz
 3928,Daniel S Hamermesh
 3929,Benjamin M Friedman
-3930,"James R Hines, Jr"
+3930,James R Hines
 3931,Bernard Dumas
 3931,Lars E O Svensson
 3932,Andrew B Lyon
@@ -6373,7 +6375,7 @@ paper,author
 3987,Theodore J Joyce
 3988,Robert J Gordon
 3989,John Y Campbell
-3990,Ray C* Fair
+3990,Ray C Fair
 3991,Edward E Leamer
 3992,Olivier Jean Blanchard
 3992,Philippe Weil
@@ -6573,7 +6575,7 @@ paper,author
 4106,Janet M Currie
 4106,Richard P Chaykowski
 4107,Alan M Garber
-4107,Andrew Dick
+4107,Andrew W Dick
 4107,Thomas E MaCurdy
 4108,Robert J Hodrick
 4108,Tim Bollerslev
@@ -6606,7 +6608,7 @@ paper,author
 4124,Robert E Lipsey
 4125,Richard J Zeckhauser
 4125,Stephen Coate
-4125,Stephen Johnston
+4125,Stephen Johnson
 4126,Claudia D Goldin
 4126,Elyce Rotella
 4126,George Alter
@@ -6731,7 +6733,7 @@ paper,author
 4188,John Y Campbell
 4189,Louis Kaplow
 4190,Jonathan Gruber
-4191,"James R Hines, Jr"
+4191,James R Hines
 4192,Eric S Rosengren
 4192,Michael W Klein
 4193,Jiang W Wang
@@ -6811,7 +6813,7 @@ paper,author
 4231,Charles Engel
 4232,Alberto Giovannini
 4232,Bart Turtelboom
-4233,Bennett C McCallum
+4233,Bennett T McCallum
 4234,David N Weil
 4234,Douglas W Elmendorf
 4234,Mary Hirshfeld
@@ -6838,13 +6840,13 @@ paper,author
 4245,John F Helliwell
 4246,Sebastian Edwards
 4247,Gary B Gorton
-4247,Richard J Rosen
+4247,Richard Rosen
 4248,Douglas Holtz-Eakin
 4248,Thomas M Selden
 4249,Deborah J Lucas
 4249,John Heaton
 4250,Michael Woodford
-4250,"Robert E Lucas, Jr"
+4250,Robert E Lucas
 4251,Leslie E Papke
 4252,Gilbert E Metcalf
 4253,Andrew B Lyon
@@ -6897,7 +6899,7 @@ paper,author
 4277,Harriet Griesinger
 4277,Helen V Tauchen
 4278,Adit Laixuthai
-4278,"Frank J Chaloupka, IV"
+4278,Frank J Chaloupka IV
 4279,Nachum Sicherman
 4280,Elhanan Helpman
 4280,Gene M Grossman
@@ -7064,11 +7066,11 @@ paper,author
 4370,Adam B Jaffe
 4370,Ricardo J Caballero
 4371,Henry S Farber
-4371,Michelle J White
+4371,Michael J White
 4372,Andrei Shleifer
 4372,Robert W Vishny
 4373,Jeremy C Stein
-4374,Don Fullterton
+4374,Don Fullerton
 4374,Thomas C Kinnaman
 4375,James M Poterba
 4376,Larry H P Lang
@@ -7082,14 +7084,14 @@ paper,author
 4380,Andres Solimano
 4380,Robert S Pindyck
 4381,Andrew G Atkeson
-4381,"Robert E Lucas, Jr"
+4381,Robert E Lucas
 4382,Keiko Nosse Hirono
 4382,Takatoshi Ito
 4383,Michael W Klein
 4384,David G Blanchflower
 4384,Richard B Freeman
 4385,Adit Laixuthai
-4385,"Frank J Chaloupka, IV"
+4385,Frank J Chaloupka IV
 4385,Henry Saffer
 4385,Michael Grossman
 4386,Tadashi Yamada
@@ -7112,7 +7114,7 @@ paper,author
 4394,Daniel S Hamermesh
 4395,Robert P Inman
 4396,Robert J Shiller
-4397,"James R Hines, Jr"
+4397,James R Hines
 4398,Axel H Boersch-Supan
 4398,Daniel L McFadden
 4398,Reinhold Schnabel
@@ -7151,7 +7153,7 @@ paper,author
 4415,Michael D Bordo
 4416,Steven N Kaplan
 4417,Dani Rodrik
-4418,Don Fullterton
+4418,Don Fullerton
 4418,Seng-Su Tsang
 4419,Dani Rodrik
 4420,Herschel I Grossman
@@ -7352,10 +7354,10 @@ paper,author
 4518,Jeff E Biddle
 4519,Alex Kane
 4519,Jaesun Noh
-4519,Robert F Engle
+4519,Robert F Engle III
 4520,Alex Kane
 4520,Jaesun Noh
-4520,Robert F Engle
+4520,Robert F Engle III
 4521,Sanders Korenman
 4521,Susan Averett
 4522,Bernard Dumas
@@ -7377,10 +7379,10 @@ paper,author
 4528,David Card
 4528,Lawrence F Katz
 4529,Joao Victor Issler
-4529,Robert F Engle
+4529,Robert F Engle III
 4530,Axel H Boersch-Supan
 4531,Andrew C Caplin
-4531,Charles Freedman
+4531,Charles Freeman
 4531,Joseph S Tracy
 4532,Kathryn M E Dominguez
 4533,Bruce C Greenwald
@@ -7456,7 +7458,7 @@ paper,author
 4571,Thierry A Wizman
 4572,Jonathan S Feinstein
 4573,Charles W Calormiris
-4574,"James R Hines, Jr"
+4574,James R Hines
 4575,Anne C Case
 4575,Timothy J Besley
 4576,Julio J Rotemberg
@@ -7467,7 +7469,7 @@ paper,author
 4579,Moon-Whoan Rhee
 4579,Stijn Claessens
 4580,S Lael Brainard
-4581,Don Fullterton
+4581,Don Fullerton
 4581,Marios Karayannis
 4582,Lawrence H Goulder
 4583,S Lael Brainard
@@ -7613,7 +7615,7 @@ paper,author
 4661,Fernando J Losada
 4661,Sebastian Edwards
 4662,Adit Laixuthai
-4662,"Frank J Chaloupka, IV"
+4662,Frank J Chaloupka IV
 4663,Campbell R Harvey
 4663,Roger D Huang
 4664,Steven G Allen
@@ -7628,7 +7630,7 @@ paper,author
 4669,Daniel D Goldhaber
 4669,Dominic J Brewer
 4669,Ronald G Ehrenberg
-4670,Don Fullterton
+4670,Don Fullerton
 4670,Thomas C Kinnaman
 4671,Robert E Lipsey
 4672,David E Bloom
@@ -7744,7 +7746,7 @@ paper,author
 4732,Amanda Gosling
 4732,Stephen Machin
 4733,Amanda Gosling
-4733,Richard Dickens
+4733,Richard Disney
 4733,Stephen Machin
 4734,James M Poterba
 4734,Kim S Rueben
@@ -7884,7 +7886,7 @@ paper,author
 4806,Holger C Wolf
 4807,Holger C Wolf
 4807,Jose De Gregorio
-4808,Linda Bell
+4808,Linda A Bell
 4808,Richard B Freeman
 4809,Graciela Laura Kaminsky
 4809,Michael W Klein
@@ -7927,7 +7929,7 @@ paper,author
 4830,Allan N Weiss
 4830,Robert J Shiller
 4831,Alan B Krueger
-4831,Cecilia Rouse
+4831,Cecilia Elena Rouse
 4832,David Card
 4833,Andrew G Atkeson
 4833,Patrick J Kehoe
@@ -7985,7 +7987,7 @@ paper,author
 4861,Christopher J Mayer
 4861,David Genesove
 4862,Diane Lim Rogers
-4862,Don Fullterton
+4862,Don Fullerton
 4863,G William Schwert
 4864,Assaf Razin
 4864,Enrique G Mendoza
@@ -8038,7 +8040,7 @@ paper,author
 4889,Mark A Hooker
 4889,Michael M Knetter
 4890,Campbell R Harvey
-4890,John R Graham
+4890,John W Graham
 4891,W Kip Viscusi
 4892,Alan M Taylor
 4893,Kenneth S Rogoff
@@ -8062,8 +8064,8 @@ paper,author
 4904,David Lucking-Reiley
 4904,Ernst R Berndt
 4904,Glen Urban
-4904,Linda Bui
-4905,Don Fullterton
+4904,Linda T M Bui
+4905,Don Fullerton
 4905,Thomas C Kinnaman
 4906,Daniel S Hamermesh
 4907,Kooyul Jung
@@ -8093,7 +8095,7 @@ paper,author
 4922,Andrea Ichino
 4922,Christopher L Erikson
 4923,Richard C Marston
-4924,"James R Hines, Jr"
+4924,James R Hines
 4924,Kenneth A Froot
 4925,Christopher J Ruhm
 4926,Elhanan Helpman
@@ -8107,7 +8109,7 @@ paper,author
 4930,Michael Fischer
 4931,Jonathan Eaton
 4931,Samuel S Kortum
-4932,"James R Hines, Jr"
+4932,James R Hines
 4933,Jonathan Gruber
 4933,Maria Owings
 4934,Charles W Calormiris
@@ -8154,7 +8156,7 @@ paper,author
 4957,Nancy Peregrim Marion
 4957,Robert P Flood
 4958,Joshua V Rosenberg
-4958,Robert F Engle
+4958,Robert F Engle III
 4959,Garey Ramey
 4959,Valerie A Ramey
 4960,Bruce D Meyer
@@ -8167,7 +8169,7 @@ paper,author
 4965,Josef Lakonishok
 4965,Theo Vermaelen
 4966,Jeffrey R Russell
-4966,Robert F Engle
+4966,Robert F Engle III
 4967,Ann E Harrison
 4967,Brian Aitken
 4967,Gordon H Hanson
@@ -8229,7 +8231,7 @@ paper,author
 5000,Martin S Feldstein
 5001,Patricia M Anderson
 5001,Simon M Burgess
-5002,"James M Snyder, Jr"
+5002,James M Snyder
 5002,Steven D Levitt
 5003,Sherwin Rosen
 5004,Amy Ellen Schwartz
@@ -8247,7 +8249,7 @@ paper,author
 5011,Anil K Kashyap
 5011,David W Wilcox
 5011,Stephen G Cecchetti
-5012,"Frank J Chaloupka, IV"
+5012,Frank J Chaloupka IV
 5012,Henry Wechsler
 5013,Andrei Shleifer
 5013,Edward L Glaeser
@@ -8416,7 +8418,7 @@ paper,author
 5099,Kathleen M McGarry
 5099,Robert F Schoeni
 5100,Gary B Gorton
-5100,Richard J Rosen
+5100,Richard Rosen
 5101,Jeremy C Stein
 5102,Ann E Harrison
 5102,Brian Aitken
@@ -8470,7 +8472,7 @@ paper,author
 5127,John H Tyler
 5127,Richard J Murnane
 5128,Joshua V Rosenberg
-5128,Robert F Engle
+5128,Robert F Engle III
 5129,David S Bates
 5130,Joao Ejarque
 5130,Russell W Cooper
@@ -8504,7 +8506,7 @@ paper,author
 5142,Jeffrey D Sachs
 5143,Raghuram G Rajan
 5143,Stewart C Myers
-5144,Cecilia Rouse
+5144,Cecilia Elena Rouse
 5144,Michael A Boozer
 5145,Ben S Bernanke
 5145,Ilian Mihov
@@ -8581,7 +8583,7 @@ paper,author
 5184,Robert Van Order
 5184,Yongheng Deng
 5185,Jeffrey G Williamson
-5185,Timothy J Hutton
+5185,Timothy J Hatton
 5186,Daniel R Feenberg
 5186,Jeffrey A Miron
 5187,Linda S Goldberg
@@ -8610,7 +8612,7 @@ paper,author
 5199,Marilynn B Brewer
 5199,Michael R Darby
 5199,Yusheng Peng
-5200,"Frank J Chaloupka, IV"
+5200,Frank J Chaloupka IV
 5200,Ismail Sirtalan
 5200,Michael Grossman
 5201,Bruce D Meyer
@@ -8684,7 +8686,7 @@ paper,author
 5236,Dae Il Kim
 5237,Magnus Henrekson
 5237,Steven J Davis
-5238,"Frank J Chaloupka, IV"
+5238,Frank J Chaloupka IV
 5238,Henry Saffer
 5239,Assaf Razin
 5239,Chi-Wa Yuen
@@ -8735,7 +8737,7 @@ paper,author
 5264,David J Zimmerman
 5264,Phillip B Levine
 5265,Caroline Minter Hoxby
-5266,"James R Hines, Jr"
+5266,James R Hines
 5267,Luigi Zingales
 5267,Steven N Kaplan
 5268,Steven D Levitt
@@ -8752,7 +8754,7 @@ paper,author
 5273,Hope Corman
 5274,Anne Layne-Farrar
 5274,James J Heckman
-5274,Petra Todd
+5274,Petra E Todd
 5275,Sharon Tennyson
 5275,Susan J Suponcic
 5276,Alan M Taylor
@@ -8777,7 +8779,7 @@ paper,author
 5287,Steven F Venti
 5288,Anne Layne-Farrar
 5288,James J Heckman
-5288,Petra Todd
+5288,Petra E Todd
 5289,Karen K Lewis
 5290,David F Bradford
 5291,Steven N Durlauf
@@ -8834,7 +8836,7 @@ paper,author
 5318,Charles Kramer
 5318,Peter M Garber
 5318,Robert P Flood
-5319,"Frank J Chaloupka, IV"
+5319,Frank J Chaloupka IV
 5319,Henry Wechsler
 5320,Amalya Lumerman Oliver
 5320,Julia Porter Liebeskind
@@ -8945,7 +8947,7 @@ paper,author
 5378,Laurence J Kotlikoff
 5379,Arturo Estrella
 5379,Frederic S Mishkin
-5380,Don Fullterton
+5380,Don Fullerton
 5381,Harvey S Rosen
 5381,Kristen L Willard
 5381,Timothy W Guinnane
@@ -9097,7 +9099,7 @@ paper,author
 5464,Frederic S Mishkin
 5465,Benjamin M Friedman
 5466,Daniel P Kessler
-5466,Marcella M Alsan
+5466,Mark B McClellan
 5467,Assaf Razin
 5467,Gian Maria Milesi-Ferretti
 5468,Andrea Shepard
@@ -9177,7 +9179,7 @@ paper,author
 5509,Douglas A Irwin
 5510,Douglas A Irwin
 5510,Randall S Kroszner
-5511,Don Fullterton
+5511,Don Fullerton
 5512,Olivia S Mitchell
 5512,Stephen P Zeldes
 5513,Assaf Razin
@@ -9199,7 +9201,7 @@ paper,author
 5522,Laurence J Kotlikoff
 5523,Peter J Hurst
 5523,Ronald G Ehrenberg
-5524,"Frank J Chaloupka, IV"
+5524,Frank J Chaloupka IV
 5524,John A Tauras
 5524,Michael Grossman
 5525,Brigitte C Madrian
@@ -9235,11 +9237,11 @@ paper,author
 5541,Lawrence J Christiano
 5541,Martin S Eichenbaum
 5541,Varadarajan V Chari
-5542,Don Fullterton
+5542,Don Fullerton
 5542,Jonathan P Caulkins
 5542,Shaun P McDermott
 5543,Adit Laixuthai
-5543,"Frank J Chaloupka, IV"
+5543,Frank J Chaloupka IV
 5544,Adam B Jaffe
 5544,James D Adams
 5545,Adam B Jaffe
@@ -9271,7 +9273,7 @@ paper,author
 5558,Ricardo Hausmann
 5559,W Erwin Diewert
 5560,Jeffrey G Williamson
-5560,Matthew J Higgins
+5560,Matthew Higgins
 5561,Michael Carnall
 5561,Pablo T Spiller
 5561,Steven T Berry
@@ -9297,7 +9299,7 @@ paper,author
 5571,Laurence J Kotlikoff
 5572,Angus S Deaton
 5572,Anne C Case
-5573,Rudi Dornbusch
+5573,Rudiger Dornbusch
 5574,Kyle Bagwell
 5574,Robert W Staiger
 5575,Christina D Romer
@@ -9329,7 +9331,7 @@ paper,author
 5588,Owen A Lamont
 5588,Peter Klibanoff
 5588,Thierry A Wizman
-5589,"James R Hines, Jr"
+5589,James R Hines
 5590,David W Wilcox
 5590,Matthew D Shapiro
 5591,David M Cutler
@@ -9338,7 +9340,7 @@ paper,author
 5593,Kala Krishna
 5593,Marie C Thursby
 5593,Suddhasatwa Roy
-5594,Don Fullterton
+5594,Don Fullerton
 5594,Wenbo Wu
 5595,K C Fung
 5596,Henry S Farber
@@ -9389,7 +9391,7 @@ paper,author
 5621,John T Addison
 5622,Douglas Holtz-Eakin
 5622,Thomas A Dunn
-5623,Christopher I Telmer
+5623,Chris I Telmer
 5623,David K Backus
 5623,Silverio Foresi
 5624,Julio J Rotemberg
@@ -9485,7 +9487,7 @@ paper,author
 5666,B Douglas Bernheim
 5666,Michael D Whinston
 5667,B Douglas Bernheim
-5667,Daniel M Garrett
+5667,Daniel G Garrett
 5668,Bruno van Pottelsberghe de la Potterie
 5668,Frank R Lichtenberg
 5669,John Cawley
@@ -9566,11 +9568,11 @@ paper,author
 5712,Adam B Jaffe
 5712,Manuel Trajtenberg
 5713,Charles C Brown
-5713,"Frank J Chaloupka, IV"
+5713,Frank J Chaloupka IV
 5713,Michael Grossman
 5714,Jeffrey A Frankel
 5714,Sergio L Schmukler
-5715,James Tybout
+5715,James R Tybout
 5715,Saul Lach
 5715,Sofronis Clerides
 5716,Jennifer Hunt
@@ -9610,7 +9612,7 @@ paper,author
 5737,Steven D Levitt
 5738,Jonathan Gruber
 5739,Robert J Gordon
-5740,"Frank J Chaloupka, IV"
+5740,Frank J Chaloupka IV
 5740,Michael Grossman
 5741,Ariel Pakes
 5741,Jean Olson Lanjouw
@@ -9635,14 +9637,14 @@ paper,author
 5750,Dahlia K Remler
 5750,David M Cutler
 5750,Joseph P Newhouse
-5750,Marcella M Alsan
+5750,Mark B McClellan
 5751,David M Cutler
-5751,Marcella M Alsan
+5751,Mark B McClellan
 5752,Tim Bollerslev
 5752,Torben G Andersen
 5753,Josh Lerner
 5754,David F Bradford
-5755,"James R Hines, Jr"
+5755,James R Hines
 5755,Mihir A Desai
 5756,Sebastian Edwards
 5757,Mohamad L Hammour
@@ -9700,7 +9702,7 @@ paper,author
 5784,Eric van Wincoop
 5784,Paolo A Pesenti
 5785,James J Heckman
-5785,"James M Snyder, Jr"
+5785,James M Snyder
 5786,Stephen G Cecchetti
 5787,Hsiu-Ling Wu
 5788,Christopher D Carroll
@@ -9752,7 +9754,7 @@ paper,author
 5814,William F Maloney
 5815,David A Wise
 5815,John B Shoven
-5816,Robert F Engle
+5816,Robert F Engle III
 5817,Bengt R Holmstrom
 5817,Jean Tirole
 5818,Brian J Hall
@@ -9833,7 +9835,7 @@ paper,author
 5860,Campbell R Harvey
 5860,Wayne E Ferson
 5861,Michael M Knetter
-5861,Simon M Burgess
+5861,Simon Burgess
 5862,Michael M Knetter
 5862,Pinelopi Koujianou Goldberg
 5863,John F Helliwell
@@ -9921,7 +9923,7 @@ paper,author
 5901,William N Goetzmann
 5902,David F Bradford
 5902,Kyle D Logue
-5903,Cecilia Rouse
+5903,Cecilia Elena Rouse
 5903,Claudia D Goldin
 5904,Gordon M Bodnar
 5904,Joseph Weintrop
@@ -9989,7 +9991,7 @@ paper,author
 5936,Richard K Lyons
 5936,Takatoshi Ito
 5937,Diane Lim Rogers
-5937,Don Fullterton
+5937,Don Fullerton
 5938,Kenneth L Sokoloff
 5938,Naomi R Lamoreaux
 5939,Holger C Wolf
@@ -10094,7 +10096,7 @@ paper,author
 5992,Kathryn Parker Boudett
 5992,Richard J Murnane
 5993,Ann Wolverton
-5993,Don Fullterton
+5993,Don Fullerton
 5994,Russell W Cooper
 5995,Raquel Fernandez
 5995,Richard Rogerson
@@ -10130,7 +10132,7 @@ paper,author
 6011,Paul G J O'Connell
 6012,Richard B Freeman
 6013,Jonathan S Skinner
-6013,Marcella M Alsan
+6013,Mark B McClellan
 6014,Josh Lerner
 6014,Robert P Merges
 6015,Stephen G Cecchetti
@@ -10141,7 +10143,7 @@ paper,author
 6019,Ari Kokko
 6019,Magnus Blomstrom
 6020,Edward J Kane
-6021,Don Fullterton
+6021,Don Fullerton
 6021,Thomas C Kinnaman
 6022,Geert Bekaert
 6022,Guojun Wu
@@ -10225,7 +10227,7 @@ paper,author
 6062,Ignacio Hernando
 6062,Javier Andres
 6063,Eugene N White
-6064,"James R Hines, Jr"
+6064,James R Hines
 6064,Mihir A Desai
 6065,Wolfgang Keller
 6066,Lee G Branstetter
@@ -10268,7 +10270,7 @@ paper,author
 6083,Jeff E Biddle
 6084,Aaron Tornell
 6085,B Douglas Bernheim
-6085,Daniel M Garrett
+6085,Daniel G Garrett
 6085,Dean M Maki
 6086,Aaron S Edlin
 6086,Benjamin E Hermalin
@@ -10281,7 +10283,7 @@ paper,author
 6089,Shang-Jin Wei
 6090,Dobrin R Kolev
 6090,Thomas J Prusa
-6091,Don Fullterton
+6091,Don Fullerton
 6091,Gilbert E Metcalf
 6092,Menzie David Chinn
 6092,Michael P Dooley
@@ -10309,7 +10311,7 @@ paper,author
 6104,Tasneem Chipty
 6105,James J Heckman
 6105,Jeffrey Andrew Smith
-6106,Cecilia Rouse
+6106,Cecilia Elena Rouse
 6106,Orley C Ashenfelter
 6107,David M Cutler
 6107,Richard J Zeckhauser
@@ -10329,7 +10331,7 @@ paper,author
 6114,Ellen Meara
 6115,Michael D Bordo
 6115,Ronald MacDonald
-6116,"James R Hines, Jr"
+6116,James R Hines
 6117,David H Romer
 6118,Michael R Kremer
 6119,Alan J Auerbach
@@ -10350,7 +10352,7 @@ paper,author
 6128,Kenneth J Singleton
 6128,Qiang Dai
 6129,Joe Lange
-6129,Robert F Engle
+6129,Robert F Engle III
 6130,Andrew W Lo
 6130,Yacine Ait-Sahalia
 6131,Diana Weinhold
@@ -10365,7 +10367,7 @@ paper,author
 6135,Klaas de Vos
 6136,Franco Peracchi
 6136,Michele Boldrin
-6136,Sergi Jimenez-Martni
+6136,Sergi Jimenez-Martin
 6137,Ingemar Svensson
 6137,Marten Palme
 6138,Christopher D Carroll
@@ -10398,7 +10400,7 @@ paper,author
 6152,Kala Krishna
 6153,Axel H Boersch-Supan
 6153,Reinhold Schnabel
-6154,Paul A Johnson
+6154,Paul Johnson
 6154,Richard Blundell
 6155,Agar Brugiavini
 6156,Naohiro Yashiro
@@ -10489,7 +10491,7 @@ paper,author
 6197,Robert J Barro
 6198,Jong-Wha Lee
 6198,Robert J Barro
-6199,Don Fullterton
+6199,Don Fullerton
 6199,Gilbert E Metcalf
 6200,Martin S Feldstein
 6201,Anna J Schwartz
@@ -10538,7 +10540,7 @@ paper,author
 6221,Mohamad L Hammour
 6221,Ricardo J Caballero
 6222,Joshua V Rosenberg
-6222,Robert F Engle
+6222,Robert F Engle III
 6223,Douglas Marcouiller
 6223,James E Anderson
 6224,Charles Tang
@@ -10614,7 +10616,7 @@ paper,author
 6256,Shang-Jin Wei
 6257,A Craig MacKinlay
 6257,Andrew W Lo
-6257,Junsen Zhang
+6257,June Zhang
 6258,Olivier Jeanne
 6259,A Mitchell Polinsky
 6259,Steven Shavell
@@ -10766,7 +10768,7 @@ paper,author
 6344,Michael W Klein
 6345,Kathleen M McGarry
 6346,Daniel P Kessler
-6346,Marcella M Alsan
+6346,Mark B McClellan
 6347,Noriyoshi Shiraishi
 6347,Stephen J Brown
 6347,Takato Hiraki
@@ -10896,13 +10898,13 @@ paper,author
 6409,Joel Waldfogel
 6410,Cathy A Simpson
 6410,Rudy E Vuchinich
-6411,"Frank J Chaloupka, IV"
+6411,Frank J Chaloupka IV
 6411,John A Tauras
 6411,Michael Grossman
 6412,Mark Grinblatt
 6412,Stephen J Brown
 6412,William N Goetzmann
-6413,"Jonathan Ingersoll, Jr"
+6413,Jonathan Ingersoll
 6413,Stephen A Ross
 6413,William N Goetzmann
 6414,Lynne G Zucker
@@ -10944,7 +10946,7 @@ paper,author
 6430,Laurence J Kotlikoff
 6431,Giovanni Peri
 6431,Maurice Obstfeld
-6432,"Frank J Chaloupka, IV"
+6432,Frank J Chaloupka IV
 6432,Henry Saffer
 6433,R Glenn Hubbard
 6433,William M Gentry
@@ -10953,7 +10955,7 @@ paper,author
 6434,Michael Schill
 6434,Wayne E Ferson
 6435,John R Penrod
-6435,William N Gentry
+6435,William M Gentry
 6436,Barry J Eichengreen
 6436,Michael D Bordo
 6437,Adam B Jaffe
@@ -10963,7 +10965,7 @@ paper,author
 6438,J Bradford Jensen
 6439,Claudia D Goldin
 6439,Lawrence F Katz
-6440,Alison F Del Rossi
+6440,Alison F DelRossi
 6440,Robert P Inman
 6441,Sebastian Edwards
 6442,Jordi Gali
@@ -11105,7 +11107,7 @@ paper,author
 6513,Jonathan S Skinner
 6514,David M Cutler
 6514,Joseph P Newhouse
-6514,Marcella M Alsan
+6514,Mark B McClellan
 6515,Daniel S Hamermesh
 6516,Miguel A Savastano
 6516,Sebastian Edwards
@@ -11141,7 +11143,7 @@ paper,author
 6534,Andrew A Samwick
 6535,Edward P Lazear
 6536,David Neumark
-6536,Mark E Schweitzer
+6536,Mark Schweitzer
 6536,William Wascher
 6537,Claudia D Goldin
 6537,Lawrence F Katz
@@ -11151,7 +11153,7 @@ paper,author
 6539,R Glenn Hubbard
 6540,Andrew A Samwick
 6540,Martin S Feldstein
-6541,"Frank J Chaloupka, IV"
+6541,Frank J Chaloupka IV
 6541,Rosalie Liccardo Pacula
 6542,James J Heckman
 6542,Jeffrey Andrew Smith
@@ -11247,7 +11249,7 @@ paper,author
 6592,Sudhir Alladi Venkatesh
 6593,Luigi Guiso
 6593,Orazio P Attanasio
-6593,Tuillo Jappelli
+6593,Tullio Jappelli
 6594,Andrei Shleifer
 6594,Florencio Lopez-de-Silanes
 6594,Rafael La Porta Drago
@@ -11293,7 +11295,7 @@ paper,author
 6613,Daniel S Hamermesh
 6614,Austan D Goolsbee
 6614,Edward L Maydew
-6615,"James R Hines, Jr"
+6615,James R Hines
 6616,James M Poterba
 6616,Scott J Weisbenner
 6617,George M Constantinidies
@@ -11317,7 +11319,7 @@ paper,author
 6626,Christopher Thornberg
 6626,Edward E Leamer
 6627,Jonathan B Berk
-6627,Richard C Green
+6627,Richard K Green
 6627,Vasant Naik
 6628,Alessandra Casella
 6628,James E Rauch
@@ -11353,7 +11355,7 @@ paper,author
 6647,Boyan Jovanovic
 6647,Jeremy Greenwood
 6648,Andrew Metrick
-6649,Berry K Wilson
+6649,Berry Wilson
 6649,Charles W Calormiris
 6650,Ann Huff Stevens
 6650,David A Jaeger
@@ -11384,7 +11386,7 @@ paper,author
 6665,Andrei Shleifer
 6666,Ashish Das
 6666,Tim Bollerslev
-6666,Torben G Anderson
+6666,Torben G Andersen
 6667,Harvey S Rosen
 6667,Timothy J Besley
 6668,J David Richardson
@@ -11405,9 +11407,9 @@ paper,author
 6676,R Glenn Hubbard
 6677,David M Cutler
 6677,Joseph P Newhouse
-6677,Marcella M Alsan
+6677,Mark B McClellan
 6678,Jonathan B Berk
-6679,"John H Johnson, IV"
+6679,John H Johnson IV
 6679,Joshua D Angrist
 6680,Jeffrey D Sachs
 6680,Steven Radelet
@@ -11450,7 +11452,7 @@ paper,author
 6699,Hidehiko Ichimura
 6699,James J Heckman
 6699,Jeffrey Andrew Smith
-6699,Petra Todd
+6699,Petra E Todd
 6700,Rui Albuquerque
 6700,Sergio T Rebelo
 6701,Deborah Haas-Wilson
@@ -11462,7 +11464,7 @@ paper,author
 6704,Philippe Bacchetta
 6705,Gordon M Bodnar
 6705,Gunther Gebhardt
-6706,"Donald H Taylor, Jr"
+6706,Donald H Taylor
 6706,Frank A Sloan
 6706,Gabriel A Picone
 6706,Shin-Yi Chou
@@ -11511,10 +11513,10 @@ paper,author
 6727,Florencio Lopez-de-Silanes
 6727,Rafael La Porta Drago
 6727,Robert W Vishny
-6728,"James R Hines, Jr"
+6728,James R Hines
 6729,Eiji Ogawa
 6729,Takatoshi Ito
-6729,Yuri Nagataki Sasaki
+6729,Yuri Nagatake Sasaki
 6730,Takatoshi Ito
 6730,Yuri Nagatake Sasaki
 6731,Austan D Goolsbee
@@ -11527,7 +11529,7 @@ paper,author
 6734,Phillip Swagel
 6735,Jeffrey C Fuhrer
 6735,Michael W Klein
-6736,Christopher I Telmer
+6736,Chris I Telmer
 6736,David K Backus
 6736,Silverio Foresi
 6737,Jonas D M Fisher
@@ -11549,7 +11551,7 @@ paper,author
 6744,John Kim
 6744,Jonathan Gruber
 6745,Jonathan B Berk
-6745,Richard C Green
+6745,Richard K Green
 6745,Vasant Naik
 6746,Alberto F Alesina
 6746,Reza Baqir
@@ -11557,7 +11559,7 @@ paper,author
 6747,Mark L Gertler
 6747,S Rao Aiyagari
 6748,Alan M Garber
-6748,Mark C McClellan
+6748,Mark B McClellan
 6748,Thomas E MaCurdy
 6749,Jose Manuel Campa
 6749,Linda S Goldberg
@@ -11700,7 +11702,7 @@ paper,author
 6818,Frank Verboven
 6818,Pinelopi Koujianou Goldberg
 6819,Paul G Mahoney
-6820,"James R Hines, Jr"
+6820,James R Hines
 6821,Barry J Eichengreen
 6822,Dennis N Epple
 6822,Holger Sieg
@@ -11769,7 +11771,7 @@ paper,author
 6850,Pierre-Richard Agenor
 6851,Manuel Trajtenberg
 6851,Scott Stern
-6852,"James R Hines, Jr"
+6852,James R Hines
 6853,David A Green
 6853,Paul Beaudry
 6854,Alan L Gustman
@@ -11855,22 +11857,22 @@ paper,author
 6894,Laurence C Baker
 6895,David M Cutler
 6895,Elizabeth Richardson Vigdor
-6896,"Donald H Taylor, Jr"
+6896,Donald H Taylor
 6896,Frank A Sloan
 6896,Gabriel A Picone
 6896,Shin-Yi Chou
 6897,Daniel P Kessler
-6897,Marcella M Alsan
+6897,Mark B McClellan
 6898,Alok Johri
 6898,Russell W Cooper
 6899,Richard E Baldwin
 6899,Rikard Forslid
 6900,Marianne Bertrand
 6901,Gene M Grossman
-6902,Cecilia Rouse
+6902,Cecilia Elena Rouse
 6902,Orley C Ashenfelter
 6903,Eduardo M R A Engel
-6903,"James R Hines, Jr"
+6903,James R Hines
 6904,Philippe Martin
 6904,Richard E Baldwin
 6905,Michael J Moore
@@ -11884,7 +11886,7 @@ paper,author
 6909,Michael Woodford
 6910,Jonathan S Skinner
 6910,Julie Lee
-6910,Marcella M Alsan
+6910,Mark B McClellan
 6911,Caroline Minter Hoxby
 6912,Robert E Hall
 6913,Andrew Metrick
@@ -11931,11 +11933,11 @@ paper,author
 6935,Richard H Clarida
 6936,Ariel Pakes
 6936,Chaim Fershtman
-6937,"Frank J Chaloupka, IV"
+6937,Frank J Chaloupka IV
 6937,John A Tauras
 6938,Lucian Arye Bebchuk
 6938,Marcel Kahan
-6939,"Frank J Chaloupka, IV"
+6939,Frank J Chaloupka IV
 6939,Lloyd D Johnston
 6939,Matthew C Farrelly
 6939,Patrick M O'Malley
@@ -11977,7 +11979,7 @@ paper,author
 6956,Steven Shavell
 6956,Tanguy van Ypersele
 6957,Edward P Lazear
-6958,"Frank J Chaloupka, IV"
+6958,Frank J Chaloupka IV
 6958,Henry Saffer
 6959,Eduardo M R A Engel
 6960,Louis Kaplow
@@ -12002,7 +12004,7 @@ paper,author
 6968,Woochan Kim
 6969,Matthew J Slaughter
 6969,Michael M Knetter
-6970,"Fred T Goldberg, Jr"
+6970,Fred T Goldberg
 6970,Michael J Graetz
 6971,David W Wilcox
 6971,Irving Shapiro
@@ -12039,7 +12041,7 @@ paper,author
 6987,Andrew C Caplin
 6987,John V Leahy
 6988,Martin L Weitzman
-6989,Don Fullterton
+6989,Don Fullerton
 6989,Julia Lynn Coronado
 6989,Thomas Glass
 6990,Wolfgang Keller
@@ -12151,7 +12153,7 @@ paper,author
 7045,Martin Uribe
 7046,Marianne Baxter
 7046,Urban J Jermann
-7047,"Frank J Chaloupka, IV"
+7047,Frank J Chaloupka IV
 7047,Kenneth E Warner
 7048,Michael D Hurd
 7049,Dimitri Vittas
@@ -12176,7 +12178,7 @@ paper,author
 7057,Wouter J Den Haan
 7058,Patricia M Anderson
 7058,Phillip B Levine
-7059,Don Fullterton
+7059,Don Fullerton
 7059,Sarah E West
 7060,Andrew G Atkeson
 7060,Fernando E Alvarez
@@ -12235,7 +12237,7 @@ paper,author
 7089,Dahlia K Remler
 7089,David M Cutler
 7089,Joseph P Newhouse
-7089,Marcella M Alsan
+7089,Mark B McClellan
 7090,Alan M Taylor
 7090,Susanto Basu
 7091,Menzie David Chinn
@@ -12266,7 +12268,7 @@ paper,author
 7104,Andrew K Rose
 7104,Olivier Jeanne
 7105,Darrell Duffie
-7105,June Pan
+7105,Jun Pan
 7105,Kenneth J Singleton
 7106,Lucian Arye Bebchuk
 7106,Steven Shavell
@@ -12284,7 +12286,7 @@ paper,author
 7112,William B Vogt
 7113,Ashoka Mody
 7113,Barry J Eichengreen
-7114,"Frank J Chaloupka, IV"
+7114,Frank J Chaloupka IV
 7114,Henry Saffer
 7115,Assaf Razin
 7115,Chi-Wa Yuen
@@ -12315,7 +12317,7 @@ paper,author
 7129,Sara Markowitz
 7130,Jeffrey A Miron
 7131,Jinyong Hahn
-7131,Petra Todd
+7131,Petra E Todd
 7131,Wilbert Van der Klaauw
 7132,Roland Benabou
 7133,Shang-Jin Wei
@@ -12499,7 +12501,7 @@ paper,author
 7223,Louis K C Chan
 7223,Theodore Sougiannis
 7224,Jeffrey G Williamson
-7224,Matthew J Higgins
+7224,Matthew Higgins
 7225,David M Blau
 7225,Naci H Mocan
 7226,Anne Morrison Piehl
@@ -12570,13 +12572,13 @@ paper,author
 7258,Ciaran S Phibbs
 7258,Douglas O Staiger
 7258,Joanne Spetz
-7259,Don Fullterton
+7259,Don Fullerton
 7259,Gilbert E Metcalf
 7259,Inkee Hong
 7260,Ashish Arora
 7260,Jai Asundi
 7261,Michael Woodford
-7262,"Frank J Chaloupka, IV"
+7262,Frank J Chaloupka IV
 7262,John A Tauras
 7263,Andres Velasco
 7263,Qinglai Meng
@@ -12624,7 +12626,7 @@ paper,author
 7287,Kenneth A Froot
 7288,James J Heckman
 7289,Avner Ahituv
-7289,Lixin Xu
+7289,Lixin Colin Xu
 7289,Marta Tienda
 7289,V Joseph Hotz
 7290,Charles T Clotfelter
@@ -12693,24 +12695,24 @@ paper,author
 7323,David Neumark
 7323,Harry J Holzer
 7324,Douglas O Staiger
-7324,Marcella M Alsan
+7324,Mark B McClellan
 7325,David Ikenberry
 7325,Josef Lakonishok
 7325,Theo Vermaelen
-7326,Don Fullterton
+7326,Don Fullerton
 7326,Thomas C Kinnaman
 7327,Douglas O Staiger
-7327,Marcella M Alsan
+7327,Mark B McClellan
 7328,John E DiNardo
 7328,Mark P Moore
 7329,Austan D Goolsbee
 7329,Peter J Klenow
-7330,Robert F Engle
+7330,Robert F Engle III
 7330,Young-Hye Cho
-7331,Robert F Engle
+7331,Robert F Engle III
 7331,Young-Hye Cho
 7332,Daniel S Hamermesh
-7333,James L Heckman
+7333,James J Heckman
 7334,Andrew A Samwick
 7334,Rajesh K Aggarwal
 7335,Andrew A Samwick
@@ -12720,10 +12722,10 @@ paper,author
 7337,Kathryn M E Dominguez
 7338,Jeffrey A Frankel
 7339,Axel H Boersch-Supan
-7340,Hylke Y Vandenbussche
+7340,Hylke Vandenbussche
 7340,Jozef Konings
 7340,Linda Springael
-7341,Robert F Engle
+7341,Robert F Engle III
 7341,Simone Manganelli
 7342,David C King
 7342,Richard J Zeckhauser
@@ -12807,7 +12809,7 @@ paper,author
 7384,Giovanni Olivei
 7384,Michael W Klein
 7385,Ashish Arora
-7385,Douglas R Wholey
+7385,Douglas Wholey
 7385,Jean Marie Abraham
 7385,Martin S Gaynor
 7386,Alan M Taylor
@@ -12930,7 +12932,7 @@ paper,author
 7448,Richard E Sylla
 7449,John Knowles
 7449,Nicola Persico
-7449,Petra Todd
+7449,Petra E Todd
 7450,Eric A Hanushek
 7450,Julie A Somers
 7451,Douglas A Shackelford
@@ -13035,7 +13037,7 @@ paper,author
 7503,J Vernon Henderson
 7504,Victor R Fuchs
 7505,Ann Wolverton
-7505,Don Fullterton
+7505,Don Fullerton
 7506,Jonathan Gruber
 7507,Botond Koszegi
 7507,Jonathan Gruber
@@ -13058,9 +13060,9 @@ paper,author
 7517,Martin S Feldstein
 7518,Antonio Rangel
 7519,David Neumark
-7519,Mark E Schweitzer
+7519,Mark Schweitzer
 7519,William Wascher
-7520,Don Fullterton
+7520,Don Fullerton
 7520,Julia Lynn Coronado
 7520,Thomas Glass
 7521,David A Wise
@@ -13085,7 +13087,7 @@ paper,author
 7527,Lawrence F Katz
 7528,Peter L Rousseau
 7529,Rene M Stulz
-7530,Daniel Cohen
+7530,Daniel Chen
 7530,Michael R Kremer
 7531,Michael P Dooley
 7532,Alan J Auerbach
@@ -13154,7 +13156,7 @@ paper,author
 7566,William N Goetzmann
 7567,Massimo Massa
 7567,William N Goetzmann
-7568,Don Fullterton
+7568,Don Fullerton
 7568,Julia Lynn Coronado
 7568,Thomas Glass
 7569,J Bradford De Long
@@ -13216,7 +13218,7 @@ paper,author
 7598,Lars E O Svensson
 7599,David Neumark
 7599,William Wascher
-7600,Jean Triole
+7600,Jean Tirole
 7600,Josh Lerner
 7601,Phillip B Levine
 7602,J Bradford De Long
@@ -13327,7 +13329,7 @@ paper,author
 7655,David Card
 7655,Thomas Lemieux
 7656,Alan B Krueger
-7656,Diane Whitmore
+7656,Diane Whitmore Schanzenbach
 7657,Brian R Copeland
 7657,M Scott Taylor
 7658,David Card
@@ -13393,7 +13395,7 @@ paper,author
 7687,Jeremy C Stein
 7687,Joseph Chen
 7688,Andrew B Bernard
-7688,J Bradford Jenson
+7688,J Bradford Jensen
 7688,Jonathan Eaton
 7688,Samuel S Kortum
 7689,Allen N Berger
@@ -13427,12 +13429,12 @@ paper,author
 7701,Michael D Bordo
 7702,James E Anderson
 7702,Leslie Young
-7703,"Frank J Chaloupka, IV"
+7703,Frank J Chaloupka IV
 7703,L Johnston
 7703,M C Farrelly
 7703,Michael Grossman
 7703,P M O'Malley
-7703,R L Pacula
+7703,Rosalie Liccardo Pacula
 7704,Hilary Sigman
 7705,Jeremy C Stein
 7706,Luigi Zingales
@@ -13546,7 +13548,8 @@ paper,author
 7759,Robert J Gordon
 7760,David M Cutler
 7760,Jonathan Gruber
-7760,"M B Landrum, J Newhouse"
+7760,Joseph P Newhouse
+7760,Mary Beth Landrum
 7760,Meredith B Rosenthal
 7760,Raymond S Hartman
 7761,Christopher R Taber
@@ -13575,7 +13578,7 @@ paper,author
 7772,Robert S Pindyck
 7773,Carmen Pages
 7773,James J Heckman
-7774,Don Fullterton
+7774,Don Fullerton
 7774,Sarah E West
 7775,Louis Kaplow
 7776,Bruce A Blonigen
@@ -13873,7 +13876,7 @@ paper,author
 7926,Frederic S Mishkin
 7927,Alberto F Alesina
 7927,Robert J Barro
-7928,Dr Michael White
+7928,Michael White
 7928,Patric H Hendershott
 7929,Bruce A Blonigen
 7929,Ronald B Davies
@@ -13942,7 +13945,7 @@ paper,author
 7960,Wojciech Kopczuk
 7961,Fiona M Scott Morton
 7961,Florian Zettelmeyer
-7961,Jorge Silva Risso
+7961,Jorge Silva-Risso
 7962,Gordon H Hanson
 7962,Matthew J Slaughter
 7962,Neil Gandal
@@ -14037,7 +14040,7 @@ paper,author
 8007,V Joseph Hotz
 8008,Andres A Gallo
 8008,Lee J Alston
-8009,"James R Hines, Jr"
+8009,James R Hines
 8009,Mihir A Desai
 8010,Michael M Knetter
 8010,Thomas J Prusa
@@ -14115,7 +14118,7 @@ paper,author
 8051,Linda A Bell
 8051,Richard B Freeman
 8052,Brian J Hall
-8052,Kevin M Murphy
+8052,Kevin J Murphy
 8053,Edward L Glaeser
 8053,Jose A Scheinkman
 8054,Duncan Thomas
@@ -14141,7 +14144,7 @@ paper,author
 8064,Mark J Warshawsky
 8065,Craig Frances
 8065,Laurence C Baker
-8065,Marcella M Alsan
+8065,Mark B McClellan
 8065,Paul A Heidenreich
 8066,John H Cochrane
 8067,Dennis W Carlton
@@ -14242,7 +14245,7 @@ paper,author
 8119,Jeffrey D Sachs
 8120,Francesco Giavazzi
 8120,Olivier Jean Blanchard
-8121,"James R Hines, Jr"
+8121,James R Hines
 8121,Mihir A Desai
 8122,Alan J Auerbach
 8122,David F Bradford
@@ -14274,7 +14277,7 @@ paper,author
 8137,Joseph S Tracy
 8137,Linda S Goldberg
 8138,Alan J Auerbach
-8138,"James R Hines, Jr"
+8138,James R Hines
 8139,Lawrence J Christiano
 8139,Stefania Albanesi
 8139,Varadarajan V Chari
@@ -14326,7 +14329,7 @@ paper,author
 8162,Sassan Alizadeh
 8163,Laurence J Kotlikoff
 8164,Michael S Weisbach
-8164,"William A Reese, Jr"
+8164,William A Reese
 8165,Joseph Gyourko
 8165,Todd M Sinai
 8166,Boyan Jovanovic
@@ -14361,7 +14364,7 @@ paper,author
 8180,James H Stock
 8180,Mark W Watson
 8181,Alan J Auerbach
-8181,"James R Hines, Jr"
+8181,James R Hines
 8182,Joao Ejarque
 8182,Russell W Cooper
 8183,David Lucking-Reiley
@@ -14474,7 +14477,7 @@ paper,author
 8242,Christopher Polk
 8242,Randolph B Cohen
 8242,Tuomo O Vuolteenaho
-8243,Martin N Baily
+8243,Martin Neil Baily
 8243,Robert Z Lawrence
 8244,Peter K Schott
 8245,Campbell R Harvey
@@ -14492,7 +14495,7 @@ paper,author
 8250,Alexei Onatski
 8250,James H Stock
 8250,Michael R Kremer
-8251,Dan Elfenbein
+8251,Daniel W Elfenbein
 8251,Josh Lerner
 8252,Felix Oberholzer-Gee
 8252,Joel Waldfogel
@@ -14508,7 +14511,7 @@ paper,author
 8258,Kent A Smetters
 8258,Laurence J Kotlikoff
 8259,Kent A Smetters
-8260,"Melvin Stephens, Jr"
+8260,Melvin Stephens
 8261,Donald Marples
 8261,Douglas Holtz-Eakin
 8262,Jennifer Gravelle
@@ -14561,8 +14564,8 @@ paper,author
 8287,Daron Acemoglu
 8288,Andrei Shleifer
 8288,Caralee McLiesh
-8288,Natalia Tsukanova
 8288,Simeon Djankov
+8288,Tatiana Nenova
 8289,Peter Blair Henry
 8290,N Gregory Mankiw
 8290,Ricardo Reis
@@ -14632,9 +14635,9 @@ paper,author
 8322,Robert Dekle
 8323,Peter L Rousseau
 8323,Richard E Sylla
-8324,Rudi Dornbusch
-8325,Rudi Dornbusch
-8326,Rudi Dornbusch
+8324,Rudiger Dornbusch
+8325,Rudiger Dornbusch
+8326,Rudiger Dornbusch
 8327,Andrew B Bernard
 8327,J Bradford Jensen
 8328,Dana P Goldman
@@ -14644,7 +14647,7 @@ paper,author
 8331,John A Tauras
 8331,Lloyd D Johnston
 8331,Patrick M O'Malley
-8332,"Frank J Chaloupka, IV"
+8332,Frank J Chaloupka IV
 8332,John A Tauras
 8333,B Douglas Bernheim
 8333,John Karl Scholz
@@ -14743,7 +14746,7 @@ paper,author
 8379,Ben S Bernanke
 8379,Jean Boivin
 8380,Jennifer Ward-Batts
-8380,"Melvin Stephens, Jr"
+8380,Melvin Stephens
 8381,Charles Wyplosz
 8381,Olivier Jeanne
 8382,Katherine Baicker
@@ -14779,7 +14782,7 @@ paper,author
 8398,Thomas J Prusa
 8399,Edward J Kane
 8400,Eckhard Janeba
-8401,"Frank J Chaloupka, IV"
+8401,Frank J Chaloupka IV
 8401,Henry Wechsler
 8401,Jenny Williams
 8401,Rosalie Liccardo Pacula
@@ -14808,7 +14811,7 @@ paper,author
 8411,Steven J Davis
 8412,Alan B Krueger
 8412,Hilary Williamson Hoynes
-8412,"James R Hines, Jr"
+8412,James R Hines
 8413,Amanda Gosling
 8413,Thomas Lemieux
 8414,Barry J Eichengreen
@@ -14825,7 +14828,7 @@ paper,author
 8419,Catherine Deri
 8419,Mark Stabile
 8419,Michael Baker
-8420,Don Fullterton
+8420,Don Fullerton
 8421,Laurence M Ball
 8421,Robert A Moffitt
 8422,Carmen M Reinhart
@@ -14853,7 +14856,7 @@ paper,author
 8432,Thomas S Dee
 8433,Gordon H Hanson
 8433,Matthew J Slaughter
-8433,"Raymond J Mataloni, Jr"
+8433,Raymond J Mataloni
 8434,Steven J Davis
 8435,Daniel S Hamermesh
 8435,Peter Schmidt
@@ -14864,7 +14867,7 @@ paper,author
 8438,Margaret S McMillan
 8439,Andrei Shleifer
 8439,Robert W Vishny
-8440,"James R Hines, Jr"
+8440,James R Hines
 8440,Mihir A Desai
 8441,David S Lee
 8442,Paul L Joskow
@@ -14897,7 +14900,7 @@ paper,author
 8456,Alan B Krueger
 8456,Joshua D Angrist
 8457,Bradley Herring
-8457,David S Song
+8457,David Song
 8457,Mark V Pauly
 8458,A Lans Bovenberg
 8458,Lawrence H Goulder
@@ -14919,7 +14922,7 @@ paper,author
 8465,Shang-Jin Wei
 8466,John Bound
 8466,Joseph Lupton
-8466,Kerwin K Charles
+8466,Kerwin Kofi Charles
 8466,Robert B Barsky
 8467,Emmanuel Saez
 8467,Thomas Piketty
@@ -15002,7 +15005,7 @@ paper,author
 8506,Raul Susmel
 8506,Sebastian Edwards
 8507,C Fritz Foley
-8507,"James R Hines, Jr"
+8507,James R Hines
 8507,Mihir A Desai
 8508,Andrew W Lo
 8508,Dmitry V Repin
@@ -15064,7 +15067,7 @@ paper,author
 8536,Nicholas S Souleles
 8536,Sean Nicholson
 8537,Daniel P Kessler
-8537,Marcella M Alsan
+8537,Mark B McClellan
 8538,Craig Doidge
 8538,G Andrew Karolyi
 8538,Rene M Stulz
@@ -15100,7 +15103,7 @@ paper,author
 8553,Axel H Boersch-Supan
 8553,Joachim K Winter
 8554,Kevin Sheppard
-8554,Robert F Engle
+8554,Robert F Engle III
 8555,Gabor Kezdi
 8555,Jeffrey A Groen
 8555,John Bound
@@ -15133,7 +15136,7 @@ paper,author
 8569,Carmen M Reinhart
 8569,Graciela Laura Kaminsky
 8570,Deborah Azrael
-8570,Matthew M Miller
+8570,Matthew Miller
 8570,Phillip J Cook
 8571,John H Laub
 8571,Phillip J Cook
@@ -15149,7 +15152,7 @@ paper,author
 8576,Chad P Bown
 8577,Charles Yuji Horioka
 8578,Kerwin Kofi Charles
-8578,"Melvin Stephens, Jr"
+8578,Melvin Stephens
 8579,Kevin Hjortshoj O'Rourke
 8579,Ronald Findlay
 8580,John Knowles
@@ -15261,7 +15264,7 @@ paper,author
 8627,Dora L Costa
 8627,Matthew E Kahn
 8628,Jonathan S Skinner
-8628,Marcella M Alsan
+8628,Mark B McClellan
 8628,Victor R Fuchs
 8629,James R Tybout
 8629,Mark J Roberts
@@ -15316,7 +15319,7 @@ paper,author
 8653,Douglas A Shackelford
 8653,James M Poterba
 8653,Mary Margaret Myers
-8654,Fang Yang
+8654,Fan Yang
 8654,Randall K Morck
 8655,Andrew Metrick
 8655,Brigitte C Madrian
@@ -15363,7 +15366,7 @@ paper,author
 8676,Patrick J Kehoe
 8677,Frank R Lichtenberg
 8678,Campbell R Harvey
-8678,John R Graham
+8678,John W Graham
 8679,Bernhard Paasche
 8679,Stanley E Zin
 8680,Lee Pinkowitz
@@ -15389,7 +15392,7 @@ paper,author
 8689,Douglas A Irwin
 8690,John C Driscoll
 8690,Steinar Holden
-8691,"Frank J Chaloupka, IV"
+8691,Frank J Chaloupka IV
 8691,Matthew C Farrelly
 8691,Terry F Pechacek
 8692,Douglas A Irwin
@@ -15401,10 +15404,10 @@ paper,author
 8696,Jesse M Shapiro
 8697,Daniel P Kessler
 8697,David Dranove
-8697,Marcella M Alsan
 8697,Mark A Satterthwaite
+8697,Mark B McClellan
 8698,C Fritz Foley
-8698,"James R Hines, Jr"
+8698,James R Hines
 8698,Mihir A Desai
 8699,Dhaval M Dave
 8699,Henry Saffer
@@ -15413,7 +15416,7 @@ paper,author
 8700,Stephen G Cecchetti
 8701,Christopher J Mayer
 8701,Todd M Sinai
-8702,"Frank J Chaloupka, IV"
+8702,Frank J Chaloupka IV
 8702,Henry Wechsler
 8702,Jenny Williams
 8703,Assaf Hamdani
@@ -15456,7 +15459,7 @@ paper,author
 8721,Eric Parrado
 8722,Andrew G Atkeson
 8722,Patrick J Kehoe
-8723,Don Fullterton
+8723,Don Fullerton
 8723,Robert D Mohr
 8724,Jonathan E Haskel
 8724,Matthew J Slaughter
@@ -15676,7 +15679,7 @@ paper,author
 8828,Jeffrey A Frankel
 8828,Luis Serven
 8828,Sergio L Schmukler
-8829,Don Fullterton
+8829,Don Fullerton
 8829,Gilbert E Metcalf
 8830,David W Galenson
 8831,Daron Acemoglu
@@ -15724,7 +15727,7 @@ paper,author
 8852,John McMillan
 8852,Simon Johnson
 8853,Andrew K Rose
-8854,"James R Hines, Jr"
+8854,James R Hines
 8854,Roger H Gordon
 8855,Caroline Minter Hoxby
 8856,Cormac O Grada
@@ -15772,7 +15775,7 @@ paper,author
 8880,Cristina Arellano
 8880,Enrique G Mendoza
 8881,Mark J Melitz
-8882,Bennett C McCallum
+8882,Bennett T McCallum
 8882,Christian Jensen
 8883,George J Hall
 8883,John P Rust
@@ -15800,7 +15803,7 @@ paper,author
 8892,Raimundo Soto
 8892,Raphael Bergoeing
 8892,Timothy J Kehoe
-8893,Ann Witte
+8893,Ann Dryden Witte
 8893,Harriet Griesinger
 8893,Magaly Queralt
 8893,Robert Witt
@@ -15813,14 +15816,14 @@ paper,author
 8896,Annette Vissing-Jorgensen
 8897,Andrew D Mellinger
 8897,Jeffrey D Sachs
-8897,"Shuming Bao, Gene Chang"
+8897,Shuming Bao Gene Chang
 8897,Sylvie Demurger
 8897,Wing Thye Woo
 8898,Peter Temin
 8899,Jason R Barro
 8899,Michael Chu
 8900,Joshua Aizenman
-8901,Don Fullterton
+8901,Don Fullerton
 8901,Gilbert E Metcalf
 8902,Michael R Haines
 8902,Price V Fishback
@@ -15838,7 +15841,7 @@ paper,author
 8907,Sean Nicholson
 8908,Anusha Chari
 8908,Peter Blair Henry
-8909,"James R Hines, Jr"
+8909,James R Hines
 8910,David Neumark
 8910,Deborah Reed
 8911,Cynthia D Perry
@@ -15964,12 +15967,12 @@ paper,author
 8974,Guhan Subramanian
 8974,John C Coates IV
 8974,Lucian Arye Bebchuk
-8975,"Roland G Fryer, Jr"
+8975,Roland G Fryer
 8975,Steven D Levitt
 8976,Dennis W Carlton
 8976,Robert H Gertner
 8977,Josh Lerner
-8978,Don Fullterton
+8978,Don Fullerton
 8978,Gilbert E Metcalf
 8979,D Lee Heavner
 8979,Lance J Lochner
@@ -15990,7 +15993,7 @@ paper,author
 8988,Peter Blair Henry
 8989,Daniel P Kessler
 8989,Henry Hansmann
-8989,Marcella M Alsan
+8989,Mark B McClellan
 8990,Francis A Longstaff
 8990,Jun Liu
 8990,Ravit E Mandell
@@ -16097,7 +16100,7 @@ paper,author
 9039,Eric van Wincoop
 9039,Philippe Bacchetta
 9040,Eric A Hanushek
-9041,Kerwin K Charles
+9041,Kerwin Kofi Charles
 9041,Patrick M Kline
 9042,Michael R Haines
 9043,Francine D Blau
@@ -16130,13 +16133,13 @@ paper,author
 9055,Pedro Carneiro
 9056,Michael W Brandt
 9056,Qiang Kang
-9057,"James R Hines, Jr"
+9057,James R Hines
 9057,Mihir A Desai
 9058,David Card
 9058,Lara D Shore-Sheppard
 9059,Brian J Hall
 9059,Thomas A Knox
-9060,"Charles E McLure, Jr"
+9060,Charles E McLure
 9060,Walter Hellerstein
 9061,Hope Corman
 9061,Naci H Mocan
@@ -16177,7 +16180,7 @@ paper,author
 9077,Fabrizio Perri
 9077,Patrick J Kehoe
 9078,Lucian Arye Bebchuk
-9079,Jessica Tjornhom Donohue
+9079,Jessica D Tjornhom
 9079,Kenneth A Froot
 9080,Kenneth A Froot
 9080,Tarun Ramadorai
@@ -16199,6 +16202,7 @@ paper,author
 9087,Richard Portes
 9088,Christopher L Smith
 9088,Liang Zhang
+9088,Randy A Ehrenberg
 9088,Ronald G Ehrenberg
 9089,Asli Demirguc-Kunt
 9089,Ross Levine
@@ -16228,7 +16232,7 @@ paper,author
 9102,Lixin Huang
 9103,Francis A Longstaff
 9103,Jun Liu
-9103,June Pan
+9103,Jun Pan
 9104,David Mayer-Foulkes
 9104,Peter Howitt
 9105,Austan D Goolsbee
@@ -16250,7 +16254,7 @@ paper,author
 9113,Jeffrey R Campbell
 9114,Suzanne Scotchmer
 9115,C Fritz Foley
-9115,"James R Hines, Jr"
+9115,James R Hines
 9115,Mihir A Desai
 9116,Ivo Welch
 9116,Jonathan Ingersoll
@@ -16294,7 +16298,7 @@ paper,author
 9133,Derek A Neal
 9134,Dani Rodrik
 9134,Sharun Mukand
-9135,"Melvin Stephens, Jr"
+9135,Melvin Stephens
 9136,Gilbert E Metcalf
 9136,John M Reilly
 9136,Mustafa H Babiker
@@ -16386,7 +16390,7 @@ paper,author
 9178,John H Cochrane
 9178,Monika Piazzesi
 9179,Antonio Rangel
-9180,Robert S Schwab
+9180,Robert M Schwab
 9180,Sean P Corcoran
 9180,William N Evans
 9181,Jeffrey G Williamson
@@ -16413,7 +16417,7 @@ paper,author
 9192,Eric M Leeper
 9192,Tao Zha
 9193,Kerwin Kofi Charles
-9193,"Melvin Stephens, Jr"
+9193,Melvin Stephens
 9194,James J Heckman
 9195,Marie-Eve Lachance
 9195,Olivia S Mitchell
@@ -16473,7 +16477,7 @@ paper,author
 9223,Enrico Spolaore
 9223,Romain Wacziarg
 9224,C Fritz Foley
-9224,"James R Hines, Jr"
+9224,James R Hines
 9224,Mihir A Desai
 9225,Peter Cappelli
 9226,R Glenn Hubbard
@@ -16585,7 +16589,7 @@ paper,author
 9274,Christina D Romer
 9274,David H Romer
 9275,Jonathan B Berk
-9275,Richard C Green
+9275,Richard K Green
 9276,Barry J Eichengreen
 9277,G William Schwert
 9278,Assaf Razin
@@ -16611,7 +16615,7 @@ paper,author
 9288,Helene Rey
 9288,Philippe Martin
 9289,Douglas A Shackelford
-9289,John R Graham
+9289,John W Graham
 9289,Mark H Lang
 9290,Paul R Krugman
 9290,Richard E Baldwin
@@ -16626,7 +16630,7 @@ paper,author
 9297,Stanley Fischer
 9298,Jerry A Hausman
 9299,Bradley Herring
-9299,David S Song
+9299,David Song
 9299,Mark V Pauly
 9300,Elhanan Helpman
 9300,Gene M Grossman
@@ -16668,7 +16672,7 @@ paper,author
 9322,Armen Hovakimian
 9322,Edward J Kane
 9322,Luc Laeven
-9323,"Gerard Caprio, Jr"
+9323,Gerard Caprio
 9323,James R Barth
 9323,Ross Levine
 9324,Joshua Aizenman
@@ -16738,7 +16742,7 @@ paper,author
 9354,Richard E Romano
 9355,Aaron Tornell
 9355,Frank Westermann
-9356,"Melvin Stephens, Jr"
+9356,Melvin Stephens
 9357,Christopher J Ruhm
 9357,Ulf-G Gerdtham
 9358,Christopher R Taber
@@ -16774,7 +16778,7 @@ paper,author
 9372,Haroon Mumtaz
 9372,Helene Rey
 9372,Jean Imbs
-9372,Morton O Ravn
+9372,Morten O Ravn
 9373,Casey B Mulligan
 9374,Casey B Mulligan
 9375,N Gregory Mankiw
@@ -16850,7 +16854,7 @@ paper,author
 9407,Jonathan Gruber
 9408,Dirk Krueger
 9408,Krishna B Kumar
-9409,"James M Snyder, Jr"
+9409,James M Snyder
 9409,John M de Figueiredo
 9409,Stephen Ansolabehere
 9410,Dirk Krueger
@@ -16908,7 +16912,7 @@ paper,author
 9434,Jiang W Wang
 9434,Leonid Kogan
 9434,Mark M Westerfield
-9434,Stephen L Ross
+9434,Stephen A Ross
 9435,Robert J Barro
 9435,Silvana Tenreyro
 9436,Kenji Matsui
@@ -17051,7 +17055,7 @@ paper,author
 9506,Eric M Leeper
 9507,Laura M Argys
 9507,Naci H Mocan
-9508,"Melvin Stephens, Jr"
+9508,Melvin Stephens
 9509,John Y Campbell
 9509,Tuomo O Vuolteenaho
 9510,Campbell R Harvey
@@ -17148,7 +17152,7 @@ paper,author
 9555,Kristin J Forbes
 9555,Menzie David Chinn
 9556,Carl Emmerson
-9556,Richard Dickens
+9556,Richard Disney
 9556,Sarah Smith
 9557,Guillermo A Calvo
 9557,Michael Kumhof
@@ -17192,7 +17196,7 @@ paper,author
 9577,Niamh Sheridan
 9578,Robert E Baldwin
 9579,Matthew O Jackson
-9579,"Roland G Fryer, Jr"
+9579,Roland G Fryer
 9580,Alan M Taylor
 9581,Baruch Lev
 9581,Suresh Radhakrishnan
@@ -17267,7 +17271,7 @@ paper,author
 9615,Sean Nicholson
 9616,Douglas A Irwin
 9617,Hajime Katayama
-9617,James Tybout
+9617,James R Tybout
 9617,Shihua Lu
 9618,Joshua Aizenman
 9618,Reuven Glick
@@ -17339,7 +17343,7 @@ paper,author
 9656,Jeffrey G Williamson
 9657,Alon Brav
 9657,Campbell R Harvey
-9657,John R Graham
+9657,John W Graham
 9657,Roni Michaely
 9658,Patrick J Kehoe
 9658,Varadarajan V Chari
@@ -17378,7 +17382,7 @@ paper,author
 9672,Stephen G Cecchetti
 9673,David S Bates
 9674,Douglas A Shackelford
-9674,"Richard J Rendleman, Jr"
+9674,Richard J Rendleman
 9675,Joel Waldfogel
 9675,Steven T Berry
 9676,Dhaval M Dave
@@ -17452,7 +17456,7 @@ paper,author
 9714,Peter A Diamond
 9714,Thomas Davidoff
 9715,C Fritz Foley
-9715,"James R Hines, Jr"
+9715,James R Hines
 9715,Mihir A Desai
 9716,Vanessa Strauss-Kahn
 9717,Bronwyn H Hall
@@ -17468,7 +17472,7 @@ paper,author
 9722,Wei Xiong
 9723,Gordon H Hanson
 9723,Matthew J Slaughter
-9723,"Raymond J Mataloni, Jr"
+9723,Raymond J Mataloni
 9724,Jiann-Chyuan Wang
 9724,Kuen-Hung Tsai
 9725,Manuel Trajtenberg
@@ -17644,7 +17648,7 @@ paper,author
 9804,Xavier X Sala-i-Martin
 9805,Felix Oberholzer-Gee
 9805,Joel Waldfogel
-9805,Matthew N White
+9805,Matthew W White
 9806,Francesco Giavazzi
 9806,Mario Draghi
 9806,Robert C Merton
@@ -17853,7 +17857,7 @@ paper,author
 9903,Stephen M Maurer
 9903,Suzanne Scotchmer
 9904,David Austen-Smith
-9904,"Roland G Fryer, Jr"
+9904,Roland G Fryer
 9905,Michael Woodford
 9905,Pierpaolo Benigno
 9906,Joshua Aizenman
@@ -17885,7 +17889,7 @@ paper,author
 9918,Kelly Noonan
 9918,Nancy E Reichman
 9919,Mark V Pauly
-9919,Yuhui Zheng
+9919,Yuhui Zeng
 9920,Kyle Bagwell
 9920,Petros C Mavroidis
 9920,Robert W Staiger
@@ -17928,7 +17932,7 @@ paper,author
 9937,M Kate Bundorf
 9937,Rebecca M Stein
 9937,Sean Nicholson
-9938,"Roland G Fryer, Jr"
+9938,Roland G Fryer
 9938,Steven D Levitt
 9939,Marc P Giannoni
 9939,Michael Woodford
@@ -17945,7 +17949,7 @@ paper,author
 9946,Julia K Thomas
 9946,Robert G King
 9947,Erkan Erdem
-9947,James Tybout
+9947,James R Tybout
 9948,Nelson C Mark
 9948,Young-Kyu Moh
 9949,Eric Friedman
@@ -18006,7 +18010,7 @@ paper,author
 9974,Stefan Nagel
 9975,David McCarthy
 9975,Olivia S Mitchell
-9976,"Melvin Stephens, Jr"
+9976,Melvin Stephens
 9977,Howard Bodenhorn
 9977,Justas Staisiunas
 9977,Susan Averett
@@ -18097,7 +18101,7 @@ paper,author
 10016,Chris Edmond
 10016,Fernando E Alvarez
 10017,Jason R Barro
-10017,Nancy Beaulieu
+10017,Nancy Dean Beaulieu
 10018,Martin Uribe
 10018,Vivian Z Yue
 10019,Andre Minella
@@ -18271,10 +18275,10 @@ paper,author
 10102,Giovanni Maggi
 10102,Massimo Morelli
 10103,Glenn C Loury
-10103,"Roland G Fryer, Jr"
+10103,Roland G Fryer
 10103,Tolga Yuret
 10104,Glenn C Loury
-10104,"Roland G Fryer, Jr"
+10104,Roland G Fryer
 10105,Han Hong
 10105,Matthew Shum
 10105,Philip A Haile
@@ -18290,7 +18294,7 @@ paper,author
 10109,Susan C Athey
 10110,Anne C Sibert
 10110,Willem H Buiter
-10111,Liang Zhang
+10111,Lan Zhang
 10111,Per A Mykland
 10111,Yacine Ait-Sahalia
 10112,Katharine G Abraham
@@ -18301,12 +18305,12 @@ paper,author
 10114,Eduardo S Schwartz
 10115,Bernard Dumas
 10115,Gordon M Bodnar
-10115,Richard D Marston
+10115,Richard C Marston
 10116,Francis A Longstaff
 10116,John H Cochrane
 10116,Pedro Santa-Clara
 10117,Giampiero M Gallo
-10117,Robert F Engle
+10117,Robert F Engle III
 10118,Kenneth Y Chay
 10118,Miguel Urquiola
 10118,Patrick J McEwan
@@ -18322,7 +18326,7 @@ paper,author
 10123,Benjamin M Friedman
 10124,Edward L Glaeser
 10124,Joseph Gyourko
-10124,Raven E Saks
+10124,Raven S Molloy
 10125,Bernardo V Guimaraes
 10125,Giancarlo Corsetti
 10125,Nouriel Roubini
@@ -18355,10 +18359,10 @@ paper,author
 10137,John Whalley
 10138,Edgar Cudmore
 10138,John Whalley
-10139,Don Fullterton
+10139,Don Fullerton
 10139,Li Gan
 10140,Ann Wolverton
-10140,Don Fullterton
+10140,Don Fullerton
 10141,Francis X Diebold
 10141,Sean D Campbell
 10142,Pierre Azoulay
@@ -18389,7 +18393,7 @@ paper,author
 10156,Ying-Hua Ku
 10157,Kenneth A Froot
 10157,Paul G J O'Connell
-10158,"Gerard Caprio, Jr"
+10158,Gerard Caprio
 10158,Luc Laeven
 10158,Ross Levine
 10159,Panle Jia Barwick
@@ -18413,7 +18417,7 @@ paper,author
 10167,Mitsuyo Ando
 10168,J Clark Leith
 10168,John Whalley
-10169,Meng-Chun Liu
+10169,Meng-chun Liu
 10169,Shin-Horng Chen
 10170,Torsten Persson
 10171,Michael D Bordo
@@ -18541,7 +18545,7 @@ paper,author
 10231,Mikhail Golosov
 10232,Patrick J Kehoe
 10232,Varadarajan V Chari
-10233,"James R Hines, Jr"
+10233,James R Hines
 10233,Mihir A Desai
 10234,Andrei Shleifer
 10234,Casey B Mulligan
@@ -18595,7 +18599,7 @@ paper,author
 10255,Roberto Motto
 10256,Alvin E Roth
 10256,Muriel Niederle
-10257,"Melvin Stephens, Jr"
+10257,Melvin Stephens
 10257,Steven J Haider
 10258,Eduardo S Schwartz
 10258,Kristian R Miltersen
@@ -18740,7 +18744,7 @@ paper,author
 10336,Marcio G P Garcia
 10336,Roberto Rigobon
 10337,C Fritz Foley
-10337,"James R Hines, Jr"
+10337,James R Hines
 10337,Mihir A Desai
 10338,Erich Battistin
 10338,Hidehiko Ichimura
@@ -19008,7 +19012,7 @@ paper,author
 10463,Thomas Wiseman
 10464,Mark V Pauly
 10464,Olivia S Mitchell
-10464,Yuhui Zheng
+10464,Yuhui Zeng
 10465,David C Grabowski
 10465,John Cawley
 10465,Richard A Hirth
@@ -19159,7 +19163,7 @@ paper,author
 10534,Yeonho Lee
 10535,Laura Lindsey
 10535,Manju Puri
-10535,Thomas F Hellmann
+10535,Thomas Hellman
 10536,Andrew J Epstein
 10536,Patricia M Danzon
 10536,Sean Nicholson
@@ -19192,7 +19196,7 @@ paper,author
 10549,Jonah B Gelbach
 10549,Marianne P Bitler
 10550,Campbell R Harvey
-10550,John R Graham
+10550,John W Graham
 10550,Shivaram Rajgopal
 10551,R Glenn Hubbard
 10551,William M Gentry
@@ -19368,7 +19372,7 @@ paper,author
 10632,Claire Sharda
 10632,Daniel Polsky
 10632,Helena Szrek
-10632,Marc V Pauly
+10632,Mark V Pauly
 10632,Sean Nicholson
 10633,Jennifer Hunt
 10634,Brian G Knight
@@ -19402,7 +19406,7 @@ paper,author
 10649,John Whalley
 10650,Li Jin
 10650,Robert C Merton
-10650,Zvi Bobie
+10650,Zvi Bodie
 10651,Jacob Boudoukh
 10651,Matthew P Richardson
 10651,Michael R Roberts
@@ -19456,7 +19460,7 @@ paper,author
 10676,David F Bradford
 10677,Daniel P Kessler
 10677,David Becker
-10677,Marcella M Alsan
+10677,Mark B McClellan
 10678,Victor Lavy
 10679,Lars E O Svensson
 10679,Olivier Jeanne
@@ -19744,7 +19748,7 @@ paper,author
 10805,Andrew K Rose
 10805,Robert P Flood
 10806,C Fritz Foley
-10806,"James R Hines, Jr"
+10806,James R Hines
 10806,Mihir A Desai
 10807,Geoffrey Tate
 10807,Ulrike Malmendier
@@ -19775,7 +19779,7 @@ paper,author
 10820,Magnus Dahlquist
 10820,Ravi Bansal
 10821,Edward L Glaeser
-10821,Raven E Saks
+10821,Raven S Molloy
 10822,Adrian H B Gottschalk
 10822,Ernst R Berndt
 10822,Matthew W Strobeck
@@ -19993,7 +19997,7 @@ paper,author
 10924,Hugh Rockoff
 10924,John S Landon-Lane
 10925,Allen M Poteshman
-10925,June Pan
+10925,Jun Pan
 10926,Gadi Barlevy
 10927,Allan Drazen
 10927,Peter Isard
@@ -20016,7 +20020,7 @@ paper,author
 10935,Claus Thustrup Kreiner
 10935,Henrik Jacobsen Kleven
 10935,Nada Eissa
-10936,"James R Hines, Jr"
+10936,James R Hines
 10937,Hyunbae Chun
 10937,Jason Lee
 10937,Jung-Wook Kim
@@ -20043,7 +20047,7 @@ paper,author
 10946,James J Heckman
 10946,Robert Bornholz
 10947,Nicola Persico
-10947,Petra Todd
+10947,Petra E Todd
 10948,Michael Grossman
 10949,Michael Grossman
 10949,Robert Kaestner
@@ -20183,7 +20187,7 @@ paper,author
 11007,Christopher J Ruhm
 11008,Alvaro Riascos
 11008,Harold L Cole
-11008,"James A Schmitz, Jr"
+11008,James A Schmitz
 11008,Lee E Ohanian
 11009,Andres Rodriguez-Clarez
 11009,Peter J Klenow
@@ -20224,7 +20228,7 @@ paper,author
 11023,Sergio L Schmukler
 11024,Flavio Cunha
 11024,James J Heckman
-11024,Salvador Navarro
+11024,Salvador Navarro-Lozano
 11025,David Joulfaian
 11026,Ravi Jagannathan
 11026,Yong Wang
@@ -20278,13 +20282,13 @@ paper,author
 11047,Itay Goldstein
 11048,James A Levinsohn
 11048,Margaret S McMillan
-11049,"Roland G Fryer, Jr"
+11049,Roland G Fryer
 11049,Steven D Levitt
 11050,Claudio Michelacci
 11050,Vincenzo Quadrini
 11051,Anthony J Venables
 11051,James R Markusen
-11052,Jun Qian
+11052,Jun 'QJ' Qian
 11052,Philip E Strahan
 11053,Chad Syverson
 11053,Steven D Levitt
@@ -20331,8 +20335,8 @@ paper,author
 11074,Gabriel D Carroll
 11074,James J Choi
 11075,C Fritz Foley
-11075,"James R Hines, Jr"
-11075,Mihir C Desai
+11075,James R Hines
+11075,Mihir A Desai
 11076,Aaron Tornell
 11076,Frank Westermann
 11076,Romain Ranciere
@@ -20359,7 +20363,7 @@ paper,author
 11086,Charles T Clotfelter
 11086,Helen F Ladd
 11086,Jacob L Vigdor
-11087,Douglas R Wholey
+11087,Douglas Wholey
 11087,Lawton R Burns
 11087,Robert J Town
 11087,Roger Feldman
@@ -20385,9 +20389,9 @@ paper,author
 11096,Grant Miller
 11097,Edward L Glaeser
 11097,Joseph Gyourko
-11097,Raven E Saks
+11097,Raven S Molloy
 11098,Martin S Feldstein
-11099,"Joseph J Doyle, Jr"
+11099,Joseph J Doyle
 11100,David M Cutler
 11100,Edward L Glaeser
 11101,Kent A Smetters
@@ -20445,7 +20449,7 @@ paper,author
 11128,Marie C Thursby
 11129,Edward L Glaeser
 11129,Joseph Gyourko
-11129,Raven E Saks
+11129,Raven S Molloy
 11130,Jordi Gali
 11131,Assaf Razin
 11131,Yona Rubinstein
@@ -20540,7 +20544,7 @@ paper,author
 11172,Laure Turner
 11173,Christopher M Meissner
 11173,Michael D Bordo
-11174,Don Fullterton
+11174,Don Fullerton
 11174,Li Gan
 11175,Guido Porto
 11175,Jorge F Balat
@@ -20659,7 +20663,7 @@ paper,author
 11232,John Whalley
 11232,O G Dayaratna Banda
 11233,Robert W Fogel
-11234,Melissa S Kearney
+11234,Melissa Schettini Kearney
 11235,Daron Acemoglu
 11236,Alberto F Alesina
 11236,Francesco Trebbi
@@ -20713,11 +20717,11 @@ paper,author
 11257,George J Hall
 11257,Wendy E Dunn
 11258,Federico Echenique
-11258,"Roland G Fryer, Jr"
+11258,Roland G Fryer
 11259,Edward J Vytlacil
 11259,James J Heckman
 11260,David Neumark
-11260,"Frank F Furstenberg, Jr"
+11260,Frank F Furstenberg
 11261,Esteban Rossi-Hansberg
 11261,Mark L J Wright
 11262,Esteban Rossi-Hansberg
@@ -20770,7 +20774,7 @@ paper,author
 11285,Serena Ng
 11286,Richard B Freeman
 11287,Jonathan Guryan
-11287,Melissa S Kearney
+11287,Melissa Schettini Kearney
 11288,Ernst R Berndt
 11288,Georg Weizsacker
 11288,Heidi L Williams
@@ -20820,7 +20824,7 @@ paper,author
 11309,David Card
 11309,Enrico Moretti
 11310,Robert J Barro
-11311,Don Fullterton
+11311,Don Fullerton
 11311,Garth Heutel
 11312,Clara Vega
 11312,Francis X Diebold
@@ -20839,11 +20843,11 @@ paper,author
 11317,Pablo T Spiller
 11318,Kevin M Murphy
 11318,Paul S Heaton
-11318,"Roland G Fryer, Jr"
+11318,Roland G Fryer
 11318,Steven D Levitt
 11319,Marc D Weidenmier
 11319,Richard C K Burdekin
-11319,"William O Brown, Jr"
+11319,William O Brown
 11320,Dalton Conley
 11320,Rebecca Glauber
 11321,Jean Olson Lanjouw
@@ -20872,7 +20876,7 @@ paper,author
 11333,Charles W Calormiris
 11333,Donna M Hitscherich
 11334,Paul Torelli
-11334,"Roland G Fryer, Jr"
+11334,Roland G Fryer
 11335,Barry J Eichengreen
 11335,Hui Tong
 11336,Barry J Eichengreen
@@ -20898,7 +20902,7 @@ paper,author
 11345,Peter Englund
 11346,Benjamin M Friedman
 11347,Douglas O Staiger
-11347,Stephanie K Riegg
+11347,Stephanie Riegg Cellini
 11347,Thomas J Kane
 11348,Pierre Azoulay
 11348,Toby Stuart
@@ -20938,7 +20942,7 @@ paper,author
 11363,Ping He
 11364,Gary B Gorton
 11364,Matthias Kahl
-11364,Richard J Rosen
+11364,Richard Rosen
 11365,Linda S Goldberg
 11366,Jaewoo Lee
 11366,Joshua Aizenman
@@ -20965,7 +20969,7 @@ paper,author
 11378,Robert Kaestner
 11378,Sara Markowitz
 11379,Robert S Huckman
-11380,Liang Zhang
+11380,Lan Zhang
 11380,Per A Mykland
 11380,Yacine Ait-Sahalia
 11381,Marcus Noland
@@ -21062,7 +21066,7 @@ paper,author
 11425,Matthew W Strobeck
 11426,Campbell R Harvey
 11426,Haifang Huang
-11426,John R Graham
+11426,John W Graham
 11427,Joseph P Ferrie
 11427,Werner Troesken
 11428,Antonio Naude
@@ -21141,7 +21145,7 @@ paper,author
 11463,Brian A Jacob
 11463,Lars J Lefgren
 11464,Glenn C Loury
-11464,"Roland G Fryer, Jr"
+11464,Roland G Fryer
 11465,Fiona E Murray
 11465,Scott Stern
 11466,Bruce A Blonigen
@@ -21179,7 +21183,7 @@ paper,author
 11479,Jonathan E Haskel
 11479,Matthew J Slaughter
 11480,Jerold B Warner
-11480,Laura X L Liu
+11480,Laura Xiaolei Liu
 11480,Lu Zhang
 11481,Christopher R Taber
 11481,Luojia Hu
@@ -21333,7 +21337,7 @@ paper,author
 11551,James Feyrer
 11552,David Card
 11552,Ethan G Lewis
-11553,Don Fullterton
+11553,Don Fullerton
 11553,Li Gan
 11553,Ye Feng
 11554,Brigitte C Madrian
@@ -21441,7 +21445,7 @@ paper,author
 11595,Jennifer Hunt
 11596,Daniel J Vine
 11596,Valerie A Ramey
-11597,Cecilia Rouse
+11597,Cecilia Elena Rouse
 11597,David N Figlio
 11598,Davin Chor
 11598,Richard B Freeman
@@ -21505,10 +21509,10 @@ paper,author
 11626,Marianne P Bitler
 11627,David H Autor
 11627,Lawrence F Katz
-11627,Melissa S Kearney
+11627,Melissa Schettini Kearney
 11628,David H Autor
 11628,Lawrence F Katz
-11628,Melissa S Kearney
+11628,Melissa Schettini Kearney
 11629,Guillaume Vandenbroucke
 11629,Jeremy Greenwood
 11630,Benjamin M Friedman
@@ -21701,7 +21705,7 @@ paper,author
 11716,Andres Rodriguez-Clarez
 11716,Giovanni Maggi
 11717,C Fritz Foley
-11717,"James R Hines, Jr"
+11717,James R Hines
 11717,Mihir A Desai
 11718,Devashish Mitra
 11718,Priya Ranjan
@@ -21923,7 +21927,7 @@ paper,author
 11821,Paul R Bergin
 11822,Katherine Ho
 11823,Caroline Freund
-11823,Frank Warnock
+11823,Francis E Warnock
 11824,Andrew Ang
 11824,Joseph Chen
 11824,Yuhang Xing
@@ -21935,7 +21939,7 @@ paper,author
 11828,David L Hummels
 11828,Volodymyr Lugovskyy
 11829,David Card
-11829,Sara de la Rica
+11829,Sara De La Rica
 11830,Lianfi Li
 11830,Stephen G Cecchetti
 11831,David S Rapson
@@ -22104,7 +22108,7 @@ paper,author
 11906,Robert J Hodrick
 11906,Xiaoyan Zhang
 11907,Lucian Arye Bebchuk
-11907,"Robert J Jackson, Jr"
+11907,Robert J Jackson
 11908,Jeffery A Jenkins
 11908,Lee J Alston
 11908,Tomas Nonnenmacher
@@ -22198,7 +22202,7 @@ paper,author
 11949,Daron Acemoglu
 11949,David M Cutler
 11949,Joshua Linn
-11950,Craig Olson
+11950,Craig A Olson
 11950,Kevin F Hallock
 11951,Sabina Ohri
 11951,Thomas C Buchmueller
@@ -22222,7 +22226,7 @@ paper,author
 11961,Sanjiv Ranjan Das
 11962,Darrell Duffie
 11962,Ke Wang
-11962,Leandro Siata
+11962,Leandro Saita
 11963,Adriana Lleras-Muney
 11963,Angus S Deaton
 11963,David M Cutler
@@ -22273,7 +22277,7 @@ paper,author
 11985,Lex Borghans
 11986,David H Autor
 11986,Lawrence F Katz
-11986,Melissa S Kearney
+11986,Melissa Schettini Kearney
 11987,John J Donohue III
 11987,Steven D Levitt
 11988,Haifang Huang
@@ -22467,14 +22471,14 @@ paper,author
 12065,Jeffrey A Groen
 12065,Joseph P Price
 12065,Ronald G Ehrenberg
-12066,"Roland G Fryer, Jr"
+12066,Roland G Fryer
 12066,Steven D Levitt
 12067,Raj Chetty
 12068,Dirk Jenter
 12068,Fadi Kanaan
 12069,Erwann O Michel-Kerjan
 12069,Howard C Kunreuther
-12070,Don Fullterton
+12070,Don Fullerton
 12070,Seung-Rae Kim
 12071,Fali Huang
 12071,Peter Cappelli
@@ -22665,7 +22669,7 @@ paper,author
 12163,Sebastian Edwards
 12164,Daniel Trefler
 12164,Nathan Nunn
-12165,Robert F Engle
+12165,Robert F Engle III
 12165,Robert Ferstenberg
 12166,Gadi Barlevy
 12166,H N Nagaraja
@@ -22681,7 +22685,7 @@ paper,author
 12172,Lynne G Zucker
 12172,Michael R Darby
 12173,Peter K Schott
-12174,"Roland G Fryer, Jr"
+12174,Roland G Fryer
 12175,Guido Tabellini
 12175,Torsten Persson
 12176,Alan Manning
@@ -22827,7 +22831,7 @@ paper,author
 12243,Andrea Tambalotti
 12243,Ernst Schaumburg
 12243,Giorgio E Primiceri
-12244,Douglas R Wholey
+12244,Douglas Wholey
 12244,Lawton R Burns
 12244,Robert J Town
 12244,Roger Feldman
@@ -22876,7 +22880,7 @@ paper,author
 12264,Neville Francis
 12264,Valerie A Ramey
 12265,Young Jun Chun
-12266,"Joseph J Doyle, Jr"
+12266,Joseph J Doyle
 12266,Krislert Samphantharak
 12267,Anne C Case
 12267,Christina H Paxson
@@ -22899,7 +22903,7 @@ paper,author
 12275,Peter Howitt
 12275,Philippe Aghion
 12276,C Fritz Foley
-12276,"James R Hines, Jr"
+12276,James R Hines
 12276,Mihir A Desai
 12277,Anil K Kashyap
 12277,Vitor Gaspar
@@ -23043,7 +23047,7 @@ paper,author
 12342,Zhonglan Dai
 12343,J Harold Mulherin
 12343,Marc D Weidenmier
-12343,"William O Brown, Jr"
+12343,William O Brown
 12344,Jerry R Green
 12344,Laurence J Kotlikoff
 12345,Eduardo Levy Yeyati
@@ -23093,7 +23097,7 @@ paper,author
 12362,John Y Campbell
 12363,Daniel Riera-Crichton
 12363,Joshua Aizenman
-12364,"Roland G Fryer, Jr"
+12364,Roland G Fryer
 12365,Augustin Landier
 12365,Xavier Gabaix
 12366,Robert A Moffitt
@@ -23142,10 +23146,10 @@ paper,author
 12386,Jeffrey R Brown
 12386,Scott J Weisbenner
 12387,Christopher S Ruebeck
-12387,"Joseph E Harrington, Jr"
+12387,Joseph E Harrington
 12387,Robert A Moffitt
 12388,Kerwin Kofi Charles
-12388,"Melvin Stephens, Jr"
+12388,Melvin Stephens
 12389,Bong-Chan Kho
 12389,Francis E Warnock
 12389,Rene M Stulz
@@ -23294,7 +23298,7 @@ paper,author
 12460,Gayle Allard
 12460,Peter H Lindert
 12461,Josef Lakonishok
-12461,Louis Chan
+12461,Louis K C Chan
 12461,Stephen G Dimmock
 12462,Thomas Philippon
 12463,Alan J Auerbach
@@ -23373,7 +23377,7 @@ paper,author
 12498,Antonella Trigari
 12498,Mark L Gertler
 12499,David W Galenson
-12500,David C Smith
+12500,David Austen-Smith
 12500,Francis E Warnock
 12500,John Ammer
 12500,Sara B Holland
@@ -23454,7 +23458,7 @@ paper,author
 12531,David L Hummels
 12531,Yo Chul Choi
 12532,Christina Czart Ciecierski
-12532,"Frank J Chaloupka, IV"
+12532,Frank J Chaloupka IV
 12532,Henry Wechsler
 12532,Pinka Chatterji
 12533,David S Rapson
@@ -23633,7 +23637,7 @@ paper,author
 12621,David Canning
 12621,David E Bloom
 12621,Michael J Moore
-12621,Rick Mansfield
+12621,Richard K Mansfield
 12622,Charles W Calormiris
 12622,Thanavut Pornrojnangkool
 12623,Christopher C Afendulis
@@ -23645,7 +23649,7 @@ paper,author
 12626,Jerry Cao
 12626,Josh Lerner
 12627,David N Figlio
-12627,Lawrence W Kenny
+12627,Lawrence Kenny
 12628,Colleen Donovan
 12628,David N Figlio
 12628,Mark Rush
@@ -23672,7 +23676,7 @@ paper,author
 12637,Zvi Bodie
 12638,Glenn D Rudebusch
 12638,John C Williams
-12639,Andreas Weber
+12639,Andrea Weber
 12639,David Card
 12639,Raj Chetty
 12640,Ajay K Agrawal
@@ -23796,7 +23800,7 @@ paper,author
 12689,Markus Goldstein
 12690,Fabrizio Cipollini
 12690,Giampiero M Gallo
-12690,Robert F Engle
+12690,Robert F Engle III
 12691,Donna K Ginther
 12691,Shulamit Kahn
 12692,Gerald R Marschke
@@ -23808,7 +23812,7 @@ paper,author
 12694,Raphael Schoenle
 12695,Hamid Mehran
 12695,Rene M Stulz
-12696,Ben Marx
+12696,Benjamin M Marx
 12696,Laurence J Kotlikoff
 12696,Pietro Rizza
 12697,Karen K Lewis
@@ -23871,7 +23875,7 @@ paper,author
 12728,Francis E Warnock
 12729,Jay C Shambaugh
 12729,Michael W Klein
-12730,"James R Hines, Jr"
+12730,James R Hines
 12731,Martin Uribe
 12731,Morten O Ravn
 12731,Stephanie Schmitt-Grohe
@@ -23934,7 +23938,7 @@ paper,author
 12756,Ernst R Berndt
 12757,Amil Petrin
 12757,Jagadeesh Sivadasan
-12758,Jiang Li
+12758,Jian Li
 12758,Martin S Gaynor
 12758,William B Vogt
 12759,Robert Z Lawrence
@@ -23964,7 +23968,7 @@ paper,author
 12770,Andrew Mason
 12770,Mun-Sim Lai
 12770,Ronald D Lee
-12770,Tim Miller
+12770,Timothy Miller
 12771,Lucian Arye Bebchuk
 12771,Urs Peyer
 12771,Yaniv Grinstein
@@ -24036,7 +24040,7 @@ paper,author
 12801,Joseph A Cullen
 12801,Price V Fishback
 12802,Dhammika Dharmapala
-12802,"James R Hines, Jr"
+12802,James R Hines
 12803,Allan Begosh
 12803,Clark Nardinelli
 12803,Ed Hass
@@ -24094,7 +24098,7 @@ paper,author
 12824,Jean Boivin
 12824,Marc P Giannoni
 12825,Price V Fishback
-12825,Ryan S Johnson
+12825,Ryan M Johnson
 12825,Shawn Everett Kantor
 12826,Michael S Weisbach
 12826,Per Stromberg
@@ -24249,7 +24253,7 @@ paper,author
 12892,Dalton Conley
 12892,Gordon C McCord
 12892,Jeffrey D Sachs
-12893,Andreas Weber
+12893,Andrea Weber
 12893,David Card
 12893,Raj Chetty
 12894,Ali Hortacsu
@@ -24428,7 +24432,7 @@ paper,author
 12974,Arngrim Hunnes
 12974,Jarle Moen
 12974,Kjell G Salvanes
-12975,Colleen N Flaherty
+12975,Colleen Flaherty Manchester
 12976,Aldo Rustichini
 12976,Jeffrey Carpenter
 12976,Kay Porter
@@ -24536,7 +24540,7 @@ paper,author
 13022,Jacob L Vigdor
 13023,John Whalley
 13023,Xian Xin
-13024,Laura X L Liu
+13024,Laura Xiaolei Liu
 13024,Lu Zhang
 13024,Toni M Whited
 13025,Diane Whitmore Schanzenbach
@@ -24565,7 +24569,7 @@ paper,author
 13035,Robert Dekle
 13035,Samuel S Kortum
 13036,Michael Greenstone
-13036,"Roland G Fryer, Jr"
+13036,Roland G Fryer
 13037,Anna Maria Mayda
 13037,Kevin Hjortshoj O'Rourke
 13037,Richard Sinnott
@@ -24573,7 +24577,7 @@ paper,author
 13039,Guido W Imbens
 13039,Thomas Lemieux
 13040,Kala Krishna
-13040,Ling Hui Tan
+13040,Ling H Tan
 13041,Christian Broda
 13041,David E Weinstein
 13042,Ian Tonks
@@ -24585,7 +24589,7 @@ paper,author
 13043,Kristin Sandusky
 13044,Fredric E Blavin
 13044,Mark V Pauly
-13045,Melissa S Kearney
+13045,Melissa Schettini Kearney
 13045,Phillip B Levine
 13046,Christopher S Carpenter
 13046,Phillip J Cook
@@ -25100,7 +25104,7 @@ paper,author
 13273,Wataru Suzuki
 13274,Dirk Jenter
 13274,Jarrad Harford
-13274,Kai Liu
+13274,Kai Li
 13275,David Card
 13275,Michael Ransom
 13276,Leah Platt Boustan
@@ -25128,7 +25132,7 @@ paper,author
 13285,Harry DeAngelo
 13285,Linda DeAngelo
 13285,Rene M Stulz
-13286,"Robert E Lucas, Jr"
+13286,Robert E Lucas
 13287,Dale T Mortensen
 13288,Isil Erel
 13288,Reena Aggarwal
@@ -25138,7 +25142,7 @@ paper,author
 13289,Christopher J Ruhm
 13290,Chang-Tai Hsieh
 13290,Peter J Klenow
-13291,"Joseph J Doyle, Jr"
+13291,Joseph J Doyle
 13292,Analia Schlosser
 13292,Victor Lavy
 13293,Derek A Neal
@@ -25158,7 +25162,7 @@ paper,author
 13300,Michael R Kremer
 13300,Paul W Glewwe
 13300,Sylvie Moulin
-13301,"Joseph J Doyle, Jr"
+13301,Joseph J Doyle
 13302,Esteban Rossi-Hansberg
 13302,Klaus Desmet
 13303,Eric Verhoogen
@@ -25321,10 +25325,10 @@ paper,author
 13374,Christopher S Carpenter
 13375,Daniel Silverman
 13375,Hanming Fang
-13376,Alyson Ma
+13376,Alyson C Ma
 13376,Bruce A Blonigen
 13377,David W Galenson
-13378,"James M Snyder, Jr"
+13378,James M Snyder
 13378,Riccardo Puglisi
 13378,Valentino Larcinese
 13379,Alan L Gustman
@@ -25406,12 +25410,12 @@ paper,author
 13414,Lars E O Svensson
 13414,Noah M Williams
 13415,Beau Kilmer
-13415,"Frank J Chaloupka, IV"
+13415,Frank J Chaloupka IV
 13415,Michael Grossman
 13415,Rosalie Liccardo Pacula
 13416,Fernando E Alvarez
 13416,Francesco Lippi
-13417,"Roland G Fryer, Jr"
+13417,Roland G Fryer
 13417,Steven D Levitt
 13418,Hugh Rockoff
 13419,David K Backus
@@ -25450,7 +25454,7 @@ paper,author
 13435,Joseph P H Fan
 13435,Lixin Colin Xu
 13435,Randall K Morck
-13436,Melissa S Kearney
+13436,Melissa Schettini Kearney
 13436,Phillip B Levine
 13437,Ariell Reshef
 13437,Thomas Philippon
@@ -25491,7 +25495,7 @@ paper,author
 13455,Ariel T Burstein
 13455,Christian Hellwig
 13456,Richard T Holden
-13456,"Roland G Fryer, Jr"
+13456,Roland G Fryer
 13457,Adi Brender
 13457,Allan Drazen
 13458,Michael Greenstone
@@ -25650,7 +25654,7 @@ paper,author
 13529,Alvin E Roth
 13529,Muriel Niederle
 13530,Alvin E Roth
-13531,James Tybout
+13531,James R Tybout
 13531,Jonathan Eaton
 13531,Marcela Eslava
 13531,Maurice Kugler
@@ -25893,7 +25897,7 @@ paper,author
 13638,Andrea Ichino
 13638,Loukas Karabarbounis
 13639,Guido Lorenzoni
-13640,John R Graham
+13640,John W Graham
 13640,Murillo Campello
 13641,Kate Litvak
 13641,Vladimir Atanasov
@@ -25902,7 +25906,7 @@ paper,author
 13643,Matthew J Kotchen
 13644,Iain M Cockburn
 13644,Megan J MacGarvie
-13645,Don Fullterton
+13645,Don Fullerton
 13645,Garth Heutel
 13646,Fabio Ghironi
 13646,Florin O Bilbiie
@@ -25938,7 +25942,7 @@ paper,author
 13657,Timothy Waidmann
 13657,Todd R Stinebrickner
 13658,Francis A Longstaff
-13658,June Pan
+13658,Jun Pan
 13658,Kenneth J Singleton
 13658,Lasse Heje Pedersen
 13659,Katheryn Niles Russ
@@ -25988,7 +25992,7 @@ paper,author
 13677,Pedro Teles
 13677,Ramon Marimon
 13678,Matthew J Kotchen
-13678,Michael J Moore
+13678,Michael R Moore
 13679,Meghan R Busse
 13679,Ryan Kellogg
 13679,Severin Borenstein
@@ -26035,8 +26039,8 @@ paper,author
 13700,Alma Cohen
 13700,Dmitri Romanov
 13700,Rajeev H Dehejia
+13701,K J Martijn Cremers
 13701,Lucian Arye Bebchuk
-13701,Martijn Cremers
 13701,Urs Peyer
 13702,Lucian Arye Bebchuk
 13702,Zvika Neeman
@@ -26053,15 +26057,15 @@ paper,author
 13707,Moshe Hazan
 13707,Yishay Maoz
 13708,Jiaping Qiu
-13708,John R Graham
+13708,John W Graham
 13708,Si Li
-13709,John R Graham
+13709,John W Graham
 13709,Lillian F Mills
 13710,Edward L Glaeser
 13710,Giacomo A M Ponzetto
 13711,Campbell R Harvey
 13711,Itzhak Ben-David
-13711,John R Graham
+13711,John W Graham
 13712,Luigi Guiso
 13712,Luigi Zingales
 13712,Paola Sapienza
@@ -26096,7 +26100,7 @@ paper,author
 13724,Xavier Gabaix
 13725,David D Laitin
 13725,Eli Berman
-13726,Julia Coronado
+13726,Julia Lynn Coronado
 13726,Olivia S Mitchell
 13726,S Blake Nesbitt
 13726,Steven A Sharpe
@@ -26180,7 +26184,7 @@ paper,author
 13762,Jeffrey Wurgler
 13762,Malcolm P Baker
 13762,Robin Greenwood
-13763,Ben Marx
+13763,Benjamin M Marx
 13763,David S Rapson
 13763,Laurence J Kotlikoff
 13764,Michael Grossman
@@ -26301,7 +26305,7 @@ paper,author
 13812,Hanno Lustig
 13813,Leah Platt Boustan
 13814,Charles Engel
-13814,Jialan Wang
+13814,Jian Wang
 13815,Harold James
 13815,Michael D Bordo
 13816,John H Tyler
@@ -26404,7 +26408,7 @@ paper,author
 13863,Jayanta Bhattacharya
 13863,Mikko Packalen
 13864,David K Levine
-13864,"James A Schmitz, Jr"
+13864,James A Schmitz
 13864,Thomas J Holmes
 13865,Adam Isen
 13865,Jayanta Bhattacharya
@@ -26437,9 +26441,9 @@ paper,author
 13876,Jirka Slacalek
 13876,Martin Sommer
 13877,Douglas Almond
-13877,"Joseph J Doyle, Jr"
+13877,Joseph J Doyle
 13878,David Stromberg
-13878,"James M Snyder, Jr"
+13878,James M Snyder
 13879,Matthew J Neidell
 13879,Sherry A Glied
 13880,Diego Sasson
@@ -26616,7 +26620,7 @@ paper,author
 13957,Kala Krishna
 13957,Susumu Imai
 13957,Svetlana Demidova
-13958,Jiekun Huang
+13958,Jikun Huang
 13958,Scott Rozelle
 13958,Will Martin
 13958,Yu Liu
@@ -26701,7 +26705,7 @@ paper,author
 13993,Jonathan Guryan
 13993,Melissa Schettini Kearney
 13994,Martin R West
-13994,Thomas Dee
+13994,Thomas S Dee
 13995,David Y Albouy
 13996,John van Reenen
 13996,Mirko Draca
@@ -26796,8 +26800,8 @@ paper,author
 14035,Arie Kapteyn
 14035,Peter J Kuhn
 14035,Peter Kooreman
-14036,Kirk White
 14036,Randall P Walsh
+14036,T Kirk White
 14036,Terra McKinnish
 14037,Trevon D Logan
 14038,Jordan D Matsudaira
@@ -26861,7 +26865,7 @@ paper,author
 14063,Nir Jaimovich
 14064,James J Heckman
 14065,Brian A Jacob
-14065,David Sims
+14065,David P Sims
 14065,Lars J Lefgren
 14066,David W Galenson
 14067,Giovanni Maggi
@@ -26917,7 +26921,7 @@ paper,author
 14089,Amy Finkelstein
 14089,Erzo F P Luttmer
 14089,Matthew J Notowidigdo
-14090,Kris J Mitchener
+14090,Kris James Mitchener
 14090,Mari Ohnuki
 14091,Ebonya L Washington
 14091,Eric J Brunner
@@ -27020,11 +27024,11 @@ paper,author
 14132,Benjamin A Olken
 14132,Benjamin F Jones
 14132,Melissa Dell
-14133,"Robert E Lucas, Jr"
+14133,Robert E Lucas
 14134,Stephen G Cecchetti
 14135,Fernando E Alvarez
 14135,Francisco J Buera
-14135,"Robert E Lucas, Jr"
+14135,Robert E Lucas
 14136,J Vernon Henderson
 14136,Leo Feler
 14137,Ian Rucker
@@ -27045,8 +27049,8 @@ paper,author
 14144,Ludovic Phalippou
 14144,Tse-Chun Lin
 14145,Carola Frydman
-14145,Raven E Saks
-14146,"James R Hines, Jr"
+14145,Raven S Molloy
+14146,James R Hines
 14146,Susan Guthrie
 14147,Robert N Stavins
 14147,Sheila M Olmstead
@@ -27088,7 +27092,7 @@ paper,author
 14161,Joseph G Altonji
 14161,Taisuke Otsu
 14162,Erich Muehlegger
-14162,"Joseph J Doyle, Jr"
+14162,Joseph J Doyle
 14162,Krislert Samphantharak
 14163,Bennett T McCallum
 14164,Bennett T McCallum
@@ -27114,7 +27118,7 @@ paper,author
 14173,Janet M Currie
 14173,Sandra L Decker
 14173,Wanchuan Lin
-14174,"Joseph J Doyle, Jr"
+14174,Joseph J Doyle
 14174,Steven M Ewer
 14174,Todd H Wagner
 14175,Menzie David Chinn
@@ -27157,8 +27161,8 @@ paper,author
 14191,Carlos A Vegh
 14191,Ethan Ilzetzki
 14192,Jorg L Spenkuch
-14192,Lisa Kahn
-14192,"Roland G Fryer, Jr"
+14192,Lisa B Kahn
+14192,Roland G Fryer
 14192,Steven D Levitt
 14193,Albert Saiz
 14193,Edward L Glaeser
@@ -27172,7 +27176,7 @@ paper,author
 14196,Johannes F Schmieder
 14196,Matthew J Neidell
 14197,Andrew Leicester
-14197,Don Fullterton
+14197,Don Fullerton
 14197,Stephen Smith
 14198,Esther Duflo
 14198,Lori A Beaman
@@ -27279,7 +27283,7 @@ paper,author
 14240,Cecilia Elena Rouse
 14240,Lisa Barrow
 14240,Lisa Markman
-14241,Don Fullterton
+14241,Don Fullerton
 14242,Behzad T Diba
 14242,J David Lopez-Salido
 14242,Matthew B Canzoneri
@@ -27311,7 +27315,7 @@ paper,author
 14252,Renna Jiang
 14253,James M Poterba
 14253,Todd M Sinai
-14254,Michael J Moore
+14254,Michael R Moore
 14254,Stephen P Holland
 14255,Manuel Amador
 14255,Pierre-Olivier Weill
@@ -27394,7 +27398,7 @@ paper,author
 14290,Gerard Hoberg
 14290,Gordon M Phillips
 14291,Gordon M Phillips
-14291,N R Prabhala
+14291,Nagpurnanand R Prabhala
 14291,Vojislav Maksimovic
 14292,Christopher Otrok
 14292,Eswar S Prasad
@@ -27517,7 +27521,7 @@ paper,author
 14339,Markus K Brunnermeier
 14339,Patrick Bolton
 14340,Isaac Ehrlich
-14340,William A Hamlen Jr
+14340,William A Hamlen
 14340,Yong Yin
 14341,Antoinetter Schoar
 14341,Jialan Wang
@@ -27930,7 +27934,7 @@ paper,author
 14522,Amanda E Kowalski
 14522,Douglas Almond
 14522,Heidi L Williams
-14522,"Joseph J Doyle, Jr"
+14522,Joseph J Doyle
 14523,Dimitri Vayanos
 14523,Paul Woolley
 14524,Inas Rashad Kelly
@@ -28070,7 +28074,7 @@ paper,author
 14588,Katherine Ho
 14589,Haifang Huang
 14589,John F Helliwell
-14590,Enrique Seira
+14590,Enrique Seira Bejarano
 14590,Jonathan D Levin
 14590,Susan C Athey
 14591,Dhaval M Dave
@@ -28094,7 +28098,7 @@ paper,author
 14596,Vitor Gaspar
 14597,Richard M Levich
 14597,Valerio Poti
-14598,"James M Snyder, Jr"
+14598,James M Snyder
 14598,Riccardo Puglisi
 14599,Gordon B Dahl
 14599,Lance J Lochner
@@ -28246,7 +28250,7 @@ paper,author
 14662,Stephen J Redding
 14663,Jonathan A Parker
 14663,Michael G Palumbo
-14664,"James R Hines, Jr"
+14664,James R Hines
 14664,Lawrence H Summers
 14665,Annette Vissing-Jorgensen
 14665,Jonathan A Parker
@@ -28416,7 +28420,7 @@ paper,author
 14741,Thomas N Hubbard
 14742,Jonathan Guryan
 14742,Melissa Schettini Kearney
-14743,"Anthony A Smith, Jr"
+14743,Anthony A Smith
 14743,Ivan Vidangos
 14743,Joseph G Altonji
 14744,Amy Finkelstein
@@ -28872,7 +28876,7 @@ paper,author
 14937,Frederico Finan
 14938,Chang-Tai Hsieh
 14938,Gita Gopinath
-14938,Nicholas Y Li
+14938,Nicholas Li
 14938,Pierre-Olivier Gourinchas
 14939,Enrico Moretti
 14939,Matthew J Neidell
@@ -28958,7 +28962,7 @@ paper,author
 14976,Matthew C Weinzierl
 14976,N Gregory Mankiw
 14977,Chanont Banternghansa
-14977,Linda Bui
+14977,Linda T M Bui
 14977,Nikhil Agarwal
 14978,Jonathan Vogel
 14979,Alan B Krueger
@@ -29111,12 +29115,12 @@ paper,author
 15042,Bernard Yeung
 15042,Randall K Morck
 15043,Aart de Zeeuw
-15043,Michael Howell
+15043,Michael Hoel
 15044,Francois Gourio
 15044,Jianjun Miao
 15045,Efraim Benmelech
 15045,Jennifer Dlugosz
-15046,"Frank J Chaloupka, IV"
+15046,Frank J Chaloupka IV
 15046,Lisa M Powell
 15047,Cesare Robotti
 15047,Jay Shanken
@@ -29164,7 +29168,7 @@ paper,author
 15067,Qinghua Zhang
 15068,Frank R Lichtenberg
 15069,William Easterly
-15070,Don Fullterton
+15070,Don Fullerton
 15070,Jeffrey R Brown
 15070,Julia Lynn Coronado
 15071,Danny Yagan
@@ -29232,7 +29236,7 @@ paper,author
 15099,Howard Bodenhorn
 15100,Haitao Yin
 15100,Howard C Kunreuther
-15100,Matthew N White
+15100,Matthew W White
 15101,Erdal Tekin
 15101,Naci H Mocan
 15102,Anna Kovner
@@ -29299,7 +29303,7 @@ paper,author
 15124,Partha Deb
 15124,William T Gallo
 15125,Gilbert E Metcalf
-15126,Thomas Dee
+15126,Thomas S Dee
 15127,Isaias N Chaves
 15127,James C Robinson
 15127,Leopoldo Fergusson
@@ -29424,7 +29428,7 @@ paper,author
 15176,Hubert Kempf
 15176,Russell W Cooper
 15177,Hyunseob Kim
-15177,John R Graham
+15177,John W Graham
 15178,Amit K Khandelwal
 15179,James J Heckman
 15179,Petra E Todd
@@ -29442,7 +29446,7 @@ paper,author
 15183,Seth M Freedman
 15184,Joshua M Pollet
 15184,Stefano DellaVigna
-15185,"James R Hines, Jr"
+15185,James R Hines
 15186,Deepti Goel
 15186,Kevin Lang
 15187,Serena Ng
@@ -29452,7 +29456,7 @@ paper,author
 15189,Jiang W Wang
 15189,Leonid Kogan
 15189,Mark M Westerfield
-15189,Stephen L Ross
+15189,Stephen A Ross
 15190,Sebastian Edwards
 15191,David M Zimmer
 15191,Partha Deb
@@ -29624,7 +29628,7 @@ paper,author
 15261,Andres Rodriguez-Clarez
 15261,Ann E Harrison
 15262,Stephen P Holland
-15263,"James R Hines, Jr"
+15263,James R Hines
 15263,R Alison Felix
 15264,Bernardo Mueller
 15264,Edwyna Harris
@@ -29833,7 +29837,7 @@ paper,author
 15351,Robert J Gordon
 15352,Annamaria Lusardi
 15352,Olivia S Mitchell
-15352,Vilsa Curto
+15352,Vilsa E Curto
 15353,Eduardo S Schwartz
 15353,Juan Ignacio Pena
 15353,Sergio Mayordomo
@@ -30017,7 +30021,7 @@ paper,author
 15428,Luis Serven
 15428,Norman Loayzaw
 15429,Gilbert E Metcalf
-15430,"Roland G Fryer, Jr"
+15430,Roland G Fryer
 15430,Steven D Levitt
 15431,Adam Samaha
 15431,Jens Ludwig
@@ -30060,7 +30064,7 @@ paper,author
 15447,Santiago Carbo-Valverde
 15448,Anusha Chari
 15448,Laura Alfaro
-15449,Martijn Cremers
+15449,K J Martijn Cremers
 15449,Roberta Romano
 15450,Laura Veldkamp
 15450,Marcin Kacperczyk
@@ -30112,7 +30116,7 @@ paper,author
 15468,Margaret K Kyle
 15469,Annamaria Lusardi
 15469,Olivia S Mitchell
-15469,Vilsa Curto
+15469,Vilsa E Curto
 15470,Cedric Tille
 15470,Linda S Goldberg
 15471,Adam Yavitz
@@ -30122,7 +30126,7 @@ paper,author
 15471,Seong Hyeok Moon
 15472,Michelle J White
 15472,Wenli Li
-15473,"Roland G Fryer, Jr"
+15473,Roland G Fryer
 15473,Will S Dobbie
 15474,James Feyrer
 15475,Alan M Taylor
@@ -30253,7 +30257,7 @@ paper,author
 15530,Frank Stahler
 15530,James R Markusen
 15531,Brian A Jacob
-15531,Thomas Dee
+15531,Thomas S Dee
 15532,Anand Nandkumar
 15532,Ashish Arora
 15533,Dobrislav Dobrev
@@ -30306,7 +30310,7 @@ paper,author
 15551,Malcolm P Baker
 15551,Xin Pan
 15552,Campbell R Harvey
-15552,John R Graham
+15552,John W Graham
 15552,Murillo Campello
 15553,Giovanni L Violante
 15553,Greg Kaplan
@@ -30527,7 +30531,7 @@ paper,author
 15641,Steven T Berry
 15642,Jean Boivin
 15642,Nicolas Vincent
-15642,Robert L Clark
+15642,Robert Clark
 15643,Alexander Whalley
 15644,David Dranove
 15644,Ginger Zhe Jin
@@ -30574,8 +30578,8 @@ paper,author
 15664,James J Heckman
 15664,Susanne Schennach
 15665,Douglas A Shackelford
-15665,Jana Raedy
-15665,John R Graham
+15665,Jana Smith Raedy
+15665,John W Graham
 15666,B Andrew Chupp
 15666,H Spencer Banzhaf
 15667,Daniel S Treisman
@@ -30731,7 +30735,7 @@ paper,author
 15733,Jean Helwege
 15733,Pierre Collin-Dufresne
 15733,Robert S Goldstein
-15734,Fang Yang
+15734,Fan Yang
 15734,Pierre Collin-Dufresne
 15734,Robert S Goldstein
 15735,Efraim Benmelech
@@ -30809,7 +30813,7 @@ paper,author
 15767,Pedro S Martins
 15768,William F Lincoln
 15768,William R Kerr
-15769,Claus T Kreiner
+15769,Claus Thustrup Kreiner
 15769,Emmanuel Saez
 15769,Henrik Jacobsen Kleven
 15769,Martin B Knudsen
@@ -30851,7 +30855,7 @@ paper,author
 15786,Jonathan D Levin
 15786,Liran Einav
 15787,Gary B Gorton
-15788,Don Fullterton
+15788,Don Fullerton
 15788,Garth Heutel
 15789,David A Wise
 15789,James M Poterba
@@ -30928,7 +30932,7 @@ paper,author
 15816,Eric A Hanushek
 15816,Steven G Rivkin
 15817,Joseph E Stiglitz
-15817,Marcus H Miller
+15817,Marcus Miller
 15818,Louis Kaplow
 15819,Daniel S Treisman
 15820,Dean Lueck
@@ -31086,7 +31090,7 @@ paper,author
 15883,Alessandro Pavan
 15883,George-Marios Angeletos
 15883,Guido Lorenzoni
-15884,Fang Yang
+15884,Fan Yang
 15884,Randall K Morck
 15885,Erich Muehlegger
 15885,Lucas W Davis
@@ -31118,7 +31122,7 @@ paper,author
 15896,Atif R Mian
 15897,Casey B Mulligan
 15897,Luke Threinen
-15898,"Roland G Fryer, Jr"
+15898,Roland G Fryer
 15899,Andreas Lange
 15899,Christoph Bohringer
 15899,Thomas F Rutherford
@@ -31133,10 +31137,10 @@ paper,author
 15904,Anna Alberini
 15904,Maureen L Cropper
 15904,Patrick Baur
-15904,Ying Jiang
+15904,Yi Jiang
 15905,Shane M Greenstein
 15906,Campbell R Harvey
-15906,John R Graham
+15906,John W Graham
 15906,Manju Puri
 15907,Agustin Roitman
 15907,Anton Korinek
@@ -31172,7 +31176,7 @@ paper,author
 15919,Zhiguo He
 15920,Emi Nakamura
 15920,Jon Steinsson
-15920,Jose Ursua
+15920,Jose F Ursua
 15920,Robert J Barro
 15921,Michael J Roberts
 15921,Wolfram Schlenker
@@ -31205,7 +31209,7 @@ paper,author
 15933,Joel Watson
 15934,Urjit R Patel
 15934,Willem H Buiter
-15935,Don Fullterton
+15935,Don Fullerton
 15935,Holly Monti
 15936,Fredrik Sjoholm
 15936,Jing Sun
@@ -31238,7 +31242,7 @@ paper,author
 15949,Ludger Woessmann
 15950,Jin (Ginger) Wu
 15950,Lu Zhang
-15951,Antonio F Galvao Jr
+15951,Antonio F Galvao
 15951,Heitor Almeida
 15951,Murillo Campello
 15952,Michael S Weisbach
@@ -31420,7 +31424,7 @@ paper,author
 16022,Russell W Cooper
 16022,Yosef Bonaparte
 16023,Jie Yang
-16023,John R Graham
+16023,John W Graham
 16023,Jules H van Binsbergen
 16024,David W Galenson
 16025,Christopher P Barrington-Leigh
@@ -31445,6 +31449,7 @@ paper,author
 16033,Alan B Krueger
 16033,Robert E Hall
 16034,Alex Nikolsko-Rzhevskyy
+16034,Jun Hee Kwak
 16034,Sebnem Kalemli-Ozcan
 16035,Hui Chen
 16035,Ngoc-Khanh Tran
@@ -31535,7 +31540,7 @@ paper,author
 16069,Gunther Fink
 16069,Nava Ashraf
 16070,David N Figlio
-16070,Ling Feng
+16070,Li Feng
 16070,Tim Sass
 16071,Martin Uribe
 16071,Stephanie Schmitt-Grohe
@@ -31555,7 +31560,7 @@ paper,author
 16077,Andrew Cook
 16077,Lowell J Taylor
 16077,Martin S Gaynor
-16077,"Melvin Stephens, Jr"
+16077,Melvin Stephens
 16078,Helen F Ladd
 16078,Jacob L Vigdor
 16079,Philipp Schnabl
@@ -31592,7 +31597,7 @@ paper,author
 16093,Johannes F Wieland
 16093,Olivier Coibion
 16093,Yuriy Gorodnichenko
-16094,Christopher F Chabris
+16094,Christopher Harris
 16094,Patrick Bolton
 16095,Michael Woodford
 16096,Jesse M Gregory
@@ -31656,7 +31661,7 @@ paper,author
 16128,Lubos Pastor
 16128,Pietro Veronesi
 16129,Douglas A Shackelford
-16129,Jana Raedy
+16129,Jana Smith Raedy
 16129,Jennifer L Blouin
 16130,Alessandro Barattieri
 16130,Peter Gottschalk
@@ -31704,9 +31709,9 @@ paper,author
 16150,Mark W Watson
 16150,Peter Hooper
 16151,Hui Chen
+16152,Austin L Wright
 16152,Jacob N Shapiro
 16152,Joseph H Felter
-16152,Luke N Condra
 16152,Radha K Iyengar
 16153,Ian W R Martin
 16154,Chadwick C Curtis
@@ -31749,7 +31754,7 @@ paper,author
 16172,Hope Corman
 16172,Nancy E Reichman
 16172,Susan Averett
-16173,Andreas Weber
+16173,Andrea Weber
 16173,David Card
 16173,Jochen Kluve
 16174,Davin Chor
@@ -31859,7 +31864,7 @@ paper,author
 16214,Ravi Jagannathan
 16215,Campbell R Harvey
 16215,Itzhak Ben-David
-16215,John R Graham
+16215,John W Graham
 16216,Aldo Musacchio
 16217,Giovanni Peri
 16218,Christopher I Telmer
@@ -31955,8 +31960,8 @@ paper,author
 16254,Robert C Feenstra
 16254,Robert E Lipsey
 16255,Jessica A Wachter
-16256,"Roland G Fryer, Jr"
-16257,"Roland G Fryer, Jr"
+16256,Roland G Fryer
+16257,Roland G Fryer
 16258,Joel Waldfogel
 16258,Katja Seim
 16259,Ching-Yi Lin
@@ -32024,9 +32029,9 @@ paper,author
 16286,C Lanier Benkard
 16286,Gabriel Y Weintraub
 16287,Ayda Yurekli
-16287,"Frank J Chaloupka, IV"
+16287,Frank J Chaloupka IV
 16287,John A Tauras
-16287,Richard Peck
+16287,Richard Merton Peck
 16287,Xin Xu
 16288,Deborah L Swenson
 16288,Keith Head
@@ -32076,7 +32081,7 @@ paper,author
 16308,Wolfram Schlenker
 16309,Campbell R Harvey
 16309,Erasmo Giambona
-16309,John R Graham
+16309,John W Graham
 16309,Murillo Campello
 16310,Kathleen M Kahle
 16310,Rene M Stulz
@@ -32118,9 +32123,9 @@ paper,author
 16325,Marie-Claire Villeval
 16325,Peter J Kuhn
 16326,A Kerem Cosar
-16326,James Tybout
+16326,James R Tybout
 16326,Nezih Guner
-16327,"Anthony A Smith, Jr"
+16327,Anthony A Smith
 16327,Fatih Guvenen
 16328,Cade Massey
 16328,David T Robinson
@@ -32159,7 +32164,7 @@ paper,author
 16341,Francesco Lissoni
 16341,Jacques Mairesse
 16341,Michele Pezzoni
-16342,"Melvin Stephens, Jr"
+16342,Melvin Stephens
 16342,Takashi Unayama
 16343,Erik Snowberg
 16343,Gerard Padro i Miquel
@@ -32424,7 +32429,7 @@ paper,author
 16450,Melinda Sandler Morrill
 16450,Robert L Clark
 16451,Martin S Feldstein
-16452,Cindy Soo
+16452,Cindy K Soo
 16452,David Bravo
 16452,Jere R Behrman
 16452,Olivia S Mitchell
@@ -32465,7 +32470,7 @@ paper,author
 16467,Chad D Meyerhoefer
 16467,John Cawley
 16468,Jiang W Wang
-16468,June Pan
+16468,Jun Pan
 16468,Xing Hu
 16469,Francis X Diebold
 16469,Georg Strasser
@@ -32643,7 +32648,7 @@ paper,author
 16540,Yingchun Wang
 16541,Ryan Kellogg
 16542,C Simon Fan
-16542,Chen Lian
+16542,Chen Lin
 16542,Daniel S Treisman
 16543,Adam B Jaffe
 16543,Seth H Werfel
@@ -32708,7 +32713,7 @@ paper,author
 16567,Moritz HP Schularick
 16567,Oscar Jorda
 16568,Glenn C Loury
-16568,"Roland G Fryer, Jr"
+16568,Roland G Fryer
 16569,Jeffrey A Frankel
 16570,Andreas Schick
 16570,Richard H Steckel
@@ -32820,7 +32825,7 @@ paper,author
 16616,Rebecca Thornton
 16616,Taryn Dinkelman
 16617,Gary Richardson
-16617,Haelim M Park
+16617,Haelim Park Anderson
 16618,Jesus Fernandez-Villaverde
 16618,Juan F Rubio-Ramirez
 16619,Aleh Tsyvinski
@@ -32830,7 +32835,7 @@ paper,author
 16620,Julio J Rotemberg
 16621,Juan Dubra
 16621,Rafael Di Tella
-16622,Chen Lian
+16622,Chen Lin
 16622,Hong Zou
 16622,Murillo Campello
 16622,Yue Ma
@@ -32840,7 +32845,7 @@ paper,author
 16624,Erik Blumenkranz
 16624,Jeremy D Goldhaber-Fiebert
 16625,Sara Markowitz
-16626,David N Weil
+16626,David Weil
 16626,Morris M Kleiner
 16627,Klaas van 't Veld
 16627,Matthew J Kotchen
@@ -32874,6 +32879,7 @@ paper,author
 16640,Jaume Ventura
 16641,Costas Arkolakis
 16641,Marc-Andreas Muendler
+16641,Sharat Ganapati
 16642,Andrei Shleifer
 16642,Robert W Vishny
 16643,Joshua D Angrist
@@ -32894,7 +32900,7 @@ paper,author
 16649,Boyan Jovanovic
 16649,Julien Prat
 16650,Andrew Sweeting
-16650,James W Robertson
+16650,James W Roberts
 16651,Anuk Serechetapongse
 16651,Assaf Razin
 16652,Andrew Metrick
@@ -33033,7 +33039,7 @@ paper,author
 16701,Sam Schulhofer-Wohl
 16702,Leah Platt Boustan
 16702,Robert A Margo
-16703,Don Fullterton
+16703,Don Fullerton
 16704,Bruce A Blonigen
 16704,Jeremy Piger
 16705,David Canning
@@ -33093,7 +33099,7 @@ paper,author
 16728,James J Choi
 16728,John Beshears
 16729,Adam M Guren
-16729,Andreas Weber
+16729,Andrea Weber
 16729,Dayanand S Manoli
 16729,Raj Chetty
 16730,Erez Siniver
@@ -33130,7 +33136,7 @@ paper,author
 16745,Heather L Schwartz
 16745,Jonah E Rockoff
 16745,Randall Reback
-16746,"Roland G Fryer, Jr"
+16746,Roland G Fryer
 16746,Vilsa E Curto
 16747,Laura Xiaolei Liu
 16747,Lu Zhang
@@ -33179,7 +33185,7 @@ paper,author
 16767,Ann E Harrison
 16767,Gary Jefferson
 16767,Luosha Du
-16768,Don Fullterton
+16768,Don Fullerton
 16768,Garth Heutel
 16768,Gilbert E Metcalf
 16769,Rachel M McCleary
@@ -33217,7 +33223,7 @@ paper,author
 16783,Parag A Pathak
 16783,Tayfun Sonmez
 16784,Christopher Geissler
-16784,James W Robertson
+16784,James W Roberts
 16784,Kyle Mangum
 16784,Patrick J Bayer
 16785,Yi Qian
@@ -33368,7 +33374,7 @@ paper,author
 16848,Robert J Shiller
 16849,Michael S Weisbach
 16849,Taylor D Nadauld
-16850,"Roland G Fryer, Jr"
+16850,Roland G Fryer
 16851,Dominic Coey
 16851,Jonathan D Levin
 16851,Susan C Athey
@@ -33442,7 +33448,7 @@ paper,author
 16879,Joseph P Newhouse
 16879,Thomas G McGuire
 16880,Jorg L Spenkuch
-16880,"Roland G Fryer, Jr"
+16880,Roland G Fryer
 16880,Steve Cicala
 16881,Eric P Bettinger
 16881,Rachel Baker
@@ -33636,7 +33642,7 @@ paper,author
 16954,Howard C Kunreuther
 16955,Anup Malani
 16955,Chun-Fang Chiang
-16955,Daniel M Bennett
+16955,Daniel Bennett
 16956,James D Hamilton
 16956,Jing Cynthia Wu
 16957,Guozhong Zhu
@@ -33692,7 +33698,7 @@ paper,author
 16977,Ilyana Kuziemko
 16977,Jason Brown
 16977,Mark G Duggan
-16977,William Woolston
+16977,William Gui Woolston
 16978,Alan B Krueger
 16978,Ilyana Kuziemko
 16979,Fiorella De Fiore
@@ -33751,7 +33757,7 @@ paper,author
 17000,Alberto Bisin
 17000,Viral V Acharya
 17001,Daniel H Karney
-17001,Don Fullterton
+17001,Don Fullerton
 17001,Kathy Baylis
 17002,Matthew E Kahn
 17002,Siqi Zheng
@@ -33982,7 +33988,7 @@ paper,author
 17096,Zoe Oldfield
 17097,Abigail K Wozniak
 17097,David Nickerson
-17097,John D Griffin
+17097,John M Griffin
 17098,Alberto F Alesina
 17098,Nathan Nunn
 17098,Paola Giuliano
@@ -34254,7 +34260,7 @@ paper,author
 17201,Fabrizio Perri
 17201,Vincenzo Quadrini
 17202,C Fritz Foley
-17202,"James R Hines, Jr"
+17202,James R Hines
 17202,Mihir A Desai
 17203,Michael D Hurd
 17203,Susann Rohwedder
@@ -34262,7 +34268,7 @@ paper,author
 17204,James R Tybout
 17204,Leonardo Iacovone
 17204,Wolfgang Keller
-17205,Nuno Sousa Pereira
+17205,Nuno S Pereira
 17205,Patricia M Danzon
 17206,James C Robinson
 17206,Steven C A Pincus
@@ -34351,7 +34357,7 @@ paper,author
 17244,Anneke Exterkate
 17244,Robin L Lumsdaine
 17245,Avraham Ebenstein
-17245,Jinfan Zhang
+17245,Jian Zhang
 17245,Kevin Chen
 17245,Margaret S McMillan
 17246,Catherine Tucker
@@ -34391,7 +34397,7 @@ paper,author
 17262,Bilgehan Karabay
 17262,John McLaren
 17262,Levent Celik
-17263,"James M Snyder, Jr"
+17263,James M Snyder
 17263,Riccardo Puglisi
 17264,Atila Abdulkadiroglu
 17264,Joshua D Angrist
@@ -34409,7 +34415,7 @@ paper,author
 17269,Rene M Stulz
 17269,Taylor D Nadauld
 17270,Kerwin Kofi Charles
-17270,"Melvin Stephens, Jr"
+17270,Melvin Stephens
 17271,Enrico Spolaore
 17271,Romain Wacziarg
 17272,Carlo A Favero
@@ -34443,7 +34449,7 @@ paper,author
 17284,Melvyn G Coles
 17285,Lu Zhang
 17285,Xiaoji Lin
-17286,"Roland G Fryer, Jr"
+17286,Roland G Fryer
 17286,Will S Dobbie
 17287,Erzo F P Luttmer
 17287,Jeffrey B Liebman
@@ -34527,7 +34533,7 @@ paper,author
 17318,Raul Razo-Garcia
 17319,Fabio Ghironi
 17319,Sanjay K Chugh
-17320,Andreas Weber
+17320,Andrea Weber
 17320,Dayanand S Manoli
 17321,Marcin Kacperczyk
 17321,Philipp Schnabl
@@ -34643,13 +34649,13 @@ paper,author
 17367,Carlos J Serrano
 17367,Mark Schankerman
 17368,Jiaping Qiu
-17368,John R Graham
+17368,John W Graham
 17368,Si Li
 17369,Brian A Jacob
 17369,Douglas L Miller
 17369,Jens Ludwig
 17370,Campbell R Harvey
-17370,John R Graham
+17370,John W Graham
 17370,Manju Puri
 17371,David H Howard
 17371,Yu-Chu Shen
@@ -34690,10 +34696,10 @@ paper,author
 17386,Jonathan E Hughes
 17386,Nathan C Parker
 17386,Stephen P Holland
-17387,John R Graham
+17387,John W Graham
 17387,Krishnamoorthy Narasimhan
 17387,Sonali Hazarika
-17388,John R Graham
+17388,John W Graham
 17388,Krishnamoorthy Narasimhan
 17388,Sonali Hazarika
 17389,Antonella Trigari
@@ -34727,7 +34733,7 @@ paper,author
 17400,Dani Rodrik
 17401,Barry J Eichengreen
 17401,N Nergiz Dincer
-17402,"Roland G Fryer, Jr"
+17402,Roland G Fryer
 17402,Will S Dobbie
 17403,Erwann O Michel-Kerjan
 17403,Howard C Kunreuther
@@ -34879,17 +34885,17 @@ paper,author
 17461,Jeffrey T Grogger
 17462,Devah Pager
 17462,Jorg L Spenkuch
-17462,"Roland G Fryer, Jr"
+17462,Roland G Fryer
 17463,Asli M Arikan
 17463,Rene M Stulz
 17464,Lubos Pastor
 17464,Pietro Veronesi
 17465,Daniel Gottlieb
 17465,Kent A Smetters
-17466,"James R Hines, Jr"
+17466,James R Hines
 17466,R Alison Felix
 17467,David Neumark
-17467,Joanne Song
+17467,Joanne Song McLaughlin
 17468,Efraim Benmelech
 17468,Eyal Dvir
 17469,Brian G Knight
@@ -34908,7 +34914,7 @@ paper,author
 17473,Nicholas G Rupp
 17474,Ann P Bartel
 17474,Ciaran S Phibbs
-17474,Nancy Beaulieu
+17474,Nancy Dean Beaulieu
 17474,Patricia Stone
 17475,Dean Karlan
 17475,Jonathan Zinman
@@ -34955,9 +34961,9 @@ paper,author
 17492,Michael D Bordo
 17493,Andrew G Atkeson
 17493,Ariel T Burstein
-17494,"Roland G Fryer, Jr"
+17494,Roland G Fryer
 17495,Benjamin Moll
-17495,"Robert E Lucas, Jr"
+17495,Robert E Lucas
 17496,Chong Xiang
 17496,David L Hummels
 17496,Jakob R Munch
@@ -34965,7 +34971,7 @@ paper,author
 17497,Eswar S Prasad
 17498,John Whalley
 17499,Catherine D Wolfram
-17499,Don Fullterton
+17499,Don Fullerton
 17500,Guillaume Rocheteau
 17500,Pierre-Olivier Weill
 17500,Yiting Li
@@ -35001,7 +35007,7 @@ paper,author
 17513,Hiro Ito
 17513,Menzie David Chinn
 17514,Ejaz Ghani
-17514,Stephen D O'Connell
+17514,Stephen A O'Connell
 17514,William R Kerr
 17515,Assaf Razin
 17515,Jackline Wahba
@@ -35078,8 +35084,8 @@ paper,author
 17543,Jesus Fernandez-Villaverde
 17543,Juan F Rubio-Ramirez
 17543,Pablo A Guerron-Quintana
+17544,Aaron Weisbrod
 17544,John Whalley
-17544,Lisandro Abrego
 17545,Christian Zehnder
 17545,Ernst Fehr
 17545,Oliver D Hart
@@ -35163,7 +35169,7 @@ paper,author
 17579,Jean Tirole
 17579,Roland Benabou
 17580,Arindam Nandi
-17580,"Frank J Chaloupka, IV"
+17580,Frank J Chaloupka IV
 17580,G Emmanuel Guindon
 17580,Prabhat Jha
 17581,Akiko Terada-Hagiwara
@@ -35197,7 +35203,7 @@ paper,author
 17594,Oleg Itskhoki
 17595,Douglas A Irwin
 17596,Ejaz Ghani
-17596,Stephen D O'Connell
+17596,Stephen A O'Connell
 17596,William R Kerr
 17597,Douglas A Irwin
 17598,Douglas A Irwin
@@ -35258,7 +35264,7 @@ paper,author
 17623,Gautam Bose
 17623,Kevin Lang
 17624,Andrew Sweeting
-17624,James W Robertson
+17624,James W Roberts
 17625,Pinar Keskin
 17625,Richard Hornbeck
 17626,Hans-Werner Sinn
@@ -35277,11 +35283,11 @@ paper,author
 17630,Yoto V Yotov
 17631,Hui Tong
 17631,Shang-Jin Wei
-17632,"Roland G Fryer, Jr"
+17632,Roland G Fryer
 17632,Will S Dobbie
 17633,Martha J Bailey
 17633,Susan M Dynarski
-17634,"James M Snyder, Jr"
+17634,James M Snyder
 17634,Pablo Querubin
 17635,A Abigail Payne
 17635,James Andreoni
@@ -35306,13 +35312,13 @@ paper,author
 17643,Patrick Bajari
 17643,Robert J Town
 17644,Anna Gumpert
-17644,"James R Hines, Jr"
+17644,James R Hines
 17644,Monika Schnitzer
-17645,Chen Yan
 17645,Jing Wang
 17645,John Whalley
 17645,Manmohan Agarwal
 17645,Sean Walsh
+17645,Yan Chen
 17646,John P Papay
 17646,Jon B Fullerton
 17646,Martin R West
@@ -35328,7 +35334,7 @@ paper,author
 17650,Kyle Bagwell
 17650,Robert W Staiger
 17651,Deokwoo Nam
-17651,Jialan Wang
+17651,Jian Wang
 17651,Paul Beaudry
 17652,Emiliano Pagnotta
 17652,Thomas Philippon
@@ -35405,7 +35411,7 @@ paper,author
 17681,Dana Medianu
 17681,Jing Wang
 17681,John Whalley
-17682,Charles Goodhart
+17682,Charles A E Goodhart
 17683,Antonio Ciccone
 17683,Giovanni Peri
 17684,W Reed Walker
@@ -35414,7 +35420,7 @@ paper,author
 17685,John M Quigley
 17686,Eric van Wincoop
 17687,Bernard Yeung
-17687,Joseph Fan
+17687,Joseph P H Fan
 17687,Randall K Morck
 17688,David Benson
 17688,Eric French
@@ -35441,7 +35447,7 @@ paper,author
 17696,Bart M Lambrecht
 17696,Viral V Acharya
 17697,David H Autor
-17698,Christopher R Walters
+17698,Christopher J Palmer
 17698,Jerry A Hausman
 17699,John N Friedman
 17699,Jonah E Rockoff
@@ -35571,7 +35577,7 @@ paper,author
 17745,Richard B Freeman
 17746,Guido Menzio
 17746,Irina A Telyukova
-17746,Ludo Visschers
+17746,Lodewijk P Visschers
 17747,Catherine D Wolfram
 17747,Orie Shelef
 17747,Paul J Gertler
@@ -35585,7 +35591,7 @@ paper,author
 17751,Stijn Van Nieuwerburgh
 17751,Sydney C Ludvigson
 17752,Richard T Holden
-17752,"Roland G Fryer, Jr"
+17752,Roland G Fryer
 17752,Tanaya Devi
 17753,Carlos A Vegh
 17753,Guillermo Vuletin
@@ -35793,7 +35799,7 @@ paper,author
 17837,Michael McMahon
 17838,Nada Mora
 17838,Viral V Acharya
-17839,David C Smith
+17839,David Austen-Smith
 17839,Francis E Warnock
 17839,John Ammer
 17839,Sara B Holland
@@ -35867,7 +35873,7 @@ paper,author
 17862,Mathias Trabandt
 17863,Annamaria Lusardi
 17863,Olivia S Mitchell
-17863,Vilsa Curto
+17863,Vilsa E Curto
 17864,Jonathan Eaton
 17864,Samuel S Kortum
 17864,Sebastian Sotelo
@@ -36054,7 +36060,7 @@ paper,author
 17935,Zhiguo He
 17936,John A Graves
 17936,Jonathan Gruber
-17936,"Joseph J Doyle, Jr"
+17936,Joseph J Doyle
 17936,Samuel A Kleiner
 17937,Larry E Jones
 17937,Laurence Ales
@@ -36185,7 +36191,7 @@ paper,author
 17988,Daniel J Martin
 17989,Emmanuel Saez
 17989,Thomas Piketty
-17990,Thomas Dee
+17990,Thomas S Dee
 17991,Elhanan Helpman
 17991,Marc-Andreas Muendler
 17991,Oleg Itskhoki
@@ -36243,8 +36249,8 @@ paper,author
 18012,Mark R Jacobsen
 18013,Elena Carletti
 18013,Franklin Allen
-18013,Jun Qian
-18013,Lemma W Senbet
+18013,Jun 'QJ' Qian
+18013,Lemma Senbet
 18013,Patricio Valenzuela
 18013,Robert Cull
 18014,Anette Reil-Held
@@ -36281,7 +36287,7 @@ paper,author
 18025,Jeffrey S McCullough
 18025,Jinhyung Lee
 18025,Robert J Town
-18026,"Frank J Chaloupka, IV"
+18026,Frank J Chaloupka IV
 18026,Jidong Huang
 18027,Raghuram G Rajan
 18027,Rodney Ramcharan
@@ -36345,7 +36351,7 @@ paper,author
 18049,Torsten Persson
 18050,Antti Petajisto
 18050,Eric Zitzewitz
-18050,Martijn Cremers
+18050,K J Martijn Cremers
 18051,Kevin S Milligan
 18052,Kristin J Forbes
 18052,Marcel Fratzscher
@@ -36388,7 +36394,7 @@ paper,author
 18067,Chiara Franzoni
 18067,Giuseppe Scellato
 18067,Paula E Stephan
-18068,Jiang Li
+18068,Jing Li
 18068,Michael F Lovenheim
 18068,Rodney J Andrews
 18069,Fernando V Ferreira
@@ -36486,7 +36492,7 @@ paper,author
 18106,Chinhui Juhn
 18106,Gergely Ujhelyi
 18107,C Fritz Foley
-18107,"James R Hines, Jr"
+18107,James R Hines
 18107,Mihir A Desai
 18108,Amanda E Kowalski
 18109,Brooks M Depro
@@ -36529,7 +36535,7 @@ paper,author
 18123,Daniel S Hamermesh
 18124,Dana Medianu
 18124,John Whalley
-18125,Christopher R Walters
+18125,Christopher J Palmer
 18125,David H Autor
 18125,Parag A Pathak
 18126,Emilie Caldeira
@@ -36577,7 +36583,7 @@ paper,author
 18146,Fiona E Murray
 18147,Erasmo Giambona
 18147,Murillo Campello
-18148,"James A Read, Jr"
+18148,James A Read
 18148,Stewart C Myers
 18149,Benjamin A Malin
 18149,Mark Bils
@@ -36795,7 +36801,7 @@ paper,author
 18236,Juan B Moreno-Cruz
 18236,M Scott Taylor
 18237,John A List
-18237,"Roland G Fryer, Jr"
+18237,Roland G Fryer
 18237,Sally E Sadoff
 18237,Steven D Levitt
 18238,Dhaval M Dave
@@ -36966,8 +36972,8 @@ paper,author
 18306,Richard Schmalensee
 18306,Robert N Stavins
 18307,John Kennan
-18308,Adam Bee
 18308,Bruce D Meyer
+18308,C Adam Bee
 18308,James X Sullivan
 18309,Bruce D Meyer
 18309,Laura R Wherry
@@ -37080,7 +37086,7 @@ paper,author
 18354,Pierre Yared
 18354,Pricila Maziero
 18355,Claire S H Lim
-18355,"James M Snyder, Jr"
+18355,James M Snyder
 18356,Bernadette A Minton
 18356,Jongha Lim
 18356,Michael S Weisbach
@@ -37194,7 +37200,7 @@ paper,author
 18403,Yongheng Deng
 18404,Olivier Jeanne
 18405,Charles R Hulten
-18405,Janet X Hao
+18405,Xiaohui Hao
 18406,Florian Scheuer
 18407,Andrew Stokes
 18407,Bochen Cao
@@ -37377,10 +37383,10 @@ paper,author
 18476,Jose A Scheinkman
 18477,Jeff Lingwall
 18477,Karen Clay
-18477,"Melvin Stephens, Jr"
+18477,Melvin Stephens
 18478,Guido W Imbens
 18478,Michal Kolesar
-18479,Richard Dickens
+18479,Richard Disney
 18479,Rowena Crawford
 18480,Fabrizio Coricelli
 18480,Guillermo A Calvo
@@ -37551,7 +37557,7 @@ paper,author
 18551,Philip Oreopoulos
 18551,Ryan Dunn
 18552,Frank R Lichtenberg
-18553,"James R Hines, Jr"
+18553,James R Hines
 18554,Stefan Nagel
 18555,Jianfeng Shen
 18555,Ravi Jagannathan
@@ -37575,21 +37581,21 @@ paper,author
 18563,Alberto F Cavallo
 18563,Brent Neiman
 18563,Roberto Rigobon
-18564,Andreas Weber
+18564,Andrea Weber
 18564,David Card
 18564,David S Lee
 18564,Zhuan Pei
 18565,John N Friedman
 18565,Raj Chetty
 18565,Soren Leth-Petersen
-18565,Torben Nielsen
+18565,Torben Heien Nielsen
 18565,Tore Olsen
 18566,James C Robinson
 18566,Leander Heldring
 18567,Ginger Zhe Jin
 18567,Jungmin Lee
 18567,Michael Luca
-18567,Weijia Dai
+18567,Weijia (Daisy) Dai
 18568,Demetra Kalogrides
 18568,Jason A Grissom
 18568,Susanna Loeb
@@ -37643,7 +37649,7 @@ paper,author
 18588,Bernardo Mueller
 18588,Carlos Pereira
 18588,Lee J Alston
-18588,Marcus Melo
+18588,Marcus Andre Melo
 18589,Christina Gathmann
 18589,Grant Miller
 18589,Jayanta Bhattacharya
@@ -37887,7 +37893,7 @@ paper,author
 18682,Roberto Motto
 18683,Ann E Harrison
 18683,Justin Yifu Lin
-18683,L Colin Xu
+18683,Lixin Colin Xu
 18684,Jeffrey S McCullough
 18684,Robert J Town
 18684,Stephen L Parente
@@ -38000,7 +38006,7 @@ paper,author
 18731,Naci H Mocan
 18732,Gary B Gorton
 18732,Guillermo Ordonez
-18733,"Gerard Caprio, Jr"
+18733,Gerard Caprio
 18733,James R Barth
 18733,Ross Levine
 18734,Charles Sprenger
@@ -38133,7 +38139,7 @@ paper,author
 18784,Yuxin Chen
 18785,Michael J Kottelenberg
 18785,Steven F Lehrer
-18786,Adnan Q Khan
+18786,Adnan Qadir Khan
 18786,Steven F Lehrer
 18787,Daniel J Benjamin
 18787,Miles S Kimball
@@ -38411,10 +38417,10 @@ paper,author
 18895,Kris James Mitchener
 18896,Andres Rodriguez-Clarez
 18896,Arnaud Costinot
-18897,Don Fullterton
+18897,Don Fullerton
 18897,Joshua Elliott
 18898,Daniel H Karney
-18898,Don Fullterton
+18898,Don Fullerton
 18898,Kathy Baylis
 18899,Jesus Fernandez-Villaverde
 18899,Luis Garicano
@@ -38586,7 +38592,7 @@ paper,author
 18967,Richard G Newell
 18967,Stuart Iler
 18968,Diane Pierret
-18968,Robert F Engle
+18968,Robert F Engle III
 18968,Viral V Acharya
 18969,Annamaria Lusardi
 18969,Carlo de Bassa Scheresberg
@@ -38789,7 +38795,7 @@ paper,author
 19041,Owen Hearey
 19042,Jason M Lindo
 19043,Philipp Harms
-19043,"Roland G Fryer, Jr"
+19043,Roland G Fryer
 19044,Severin Borenstein
 19045,Leah Platt Boustan
 19046,Christel Vermeersch
@@ -38936,7 +38942,7 @@ paper,author
 19101,Daniel P Kessler
 19101,Michael E Chernew
 19102,Anna Aizer
-19102,"Joseph J Doyle, Jr"
+19102,Joseph J Doyle
 19103,Robin L Lumsdaine
 19103,Rogier J D Potter van Loon
 19104,John Whalley
@@ -38963,10 +38969,10 @@ paper,author
 19111,Sergio S Urzua
 19112,Harold James
 19112,Michael D Bordo
-19113,"Roland G Fryer, Jr"
+19113,Roland G Fryer
 19114,Matthew O Jackson
 19114,Philipp Harms
-19114,"Roland G Fryer, Jr"
+19114,Roland G Fryer
 19115,Brady P Horn
 19115,Johanna Catherine Maclean
 19115,Jonathan H Cantor
@@ -38994,7 +39000,7 @@ paper,author
 19125,Michael M Hutchison
 19126,Jason Allen
 19126,Jean-Francois Houde
-19126,Robert L Clark
+19126,Robert Clark
 19127,Abhijit V Banerjee
 19127,Benjamin A Olken
 19127,Matthew Wai-Poi
@@ -39297,7 +39303,7 @@ paper,author
 19245,William A Masters
 19246,Robin Greenwood
 19246,Samuel G Hanson
-19247,"Craig C Earle, M D"
+19247,Craig C Earle M D
 19247,Joseph P Newhouse
 19247,Mireille Jacobson
 19247,Tom Y Chang
@@ -39565,7 +39571,7 @@ paper,author
 19351,Cecilia Elena Rouse
 19351,Lisa Barrow
 19352,Andrew Sweeting
-19352,James W Robertson
+19352,James W Roberts
 19352,Vivek Bhattacharya
 19353,Daniel S Hosken
 19353,Matthew C Weinberg
@@ -39606,7 +39612,7 @@ paper,author
 19367,Mark G Duggan
 19368,Michael Woodford
 19369,Dou-Yan Yang
-19369,"Melvin Stephens, Jr"
+19369,Melvin Stephens
 19370,John B Shoven
 19370,Sita Nataraj Slavov
 19371,Colin Ward
@@ -39688,7 +39694,7 @@ paper,author
 19402,Lucie Gadenne
 19402,Monica Singhal
 19403,Elena Loutskina
-19403,Erik Gilje
+19403,Erik P Gilje
 19403,Philip E Strahan
 19404,Felix Muchomba
 19404,Neeraj Kaushal
@@ -39723,7 +39729,7 @@ paper,author
 19416,Stefano Giglio
 19417,Parag A Pathak
 19417,Paul Asquith
-19417,Thom Covert
+19417,Thomas R Covert
 19418,Jeffrey A Miron
 19418,Natalia Rigol
 19419,Emilio Calvano
@@ -39837,7 +39843,7 @@ paper,author
 19458,Ron S Jarmin
 19458,Steven J Davis
 19459,Andrew Ang
-19459,Richard C Green
+19459,Richard K Green
 19459,Yuhang Xing
 19460,Nusret Cakici
 19460,Robert F Whitelaw
@@ -39853,6 +39859,7 @@ paper,author
 19465,David K Backus
 19465,Espen Henriksen
 19465,Thomas F Cooley
+19466,Bernard Herskovic
 19466,Bryan T Kelly
 19466,Hanno Lustig
 19466,Stijn Van Nieuwerburgh
@@ -39865,7 +39872,7 @@ paper,author
 19469,Jonathan H Wright
 19469,Serena Ng
 19470,Anmol Bhandari
-19470,David K Evans
+19470,David Evans
 19470,Mikhail Golosov
 19470,Thomas J Sargent
 19471,Daniel S Hamermesh
@@ -40016,7 +40023,7 @@ paper,author
 19528,Raffaello Varadavas
 19528,Sarah Nowak
 19529,James Wyckoff
-19529,Thomas Dee
+19529,Thomas S Dee
 19530,Kym Anderson
 19530,Maros Ivanic
 19530,Will Martin
@@ -40137,7 +40144,7 @@ paper,author
 19579,Michael B Devereux
 19580,Barry J Eichengreen
 19580,Olivier Accominotti
-19581,"Roland G Fryer, Jr"
+19581,Roland G Fryer
 19581,Will S Dobbie
 19582,Caitlin Blair
 19583,Andreas Hubener
@@ -40193,7 +40200,7 @@ paper,author
 19601,Bard Harstad
 19601,Steven Callander
 19602,Leah K Lakdawala
-19602,Nicholas Y Li
+19602,Nicholas Li
 19602,Prashant Bharadwaj
 19603,David N Weil
 19603,Emilio Depetris-Chauvin
@@ -40356,7 +40363,7 @@ paper,author
 19666,Omar Al-Ubaydli
 19667,Fernando E Alvarez
 19667,Francisco J Buera
-19667,"Robert E Lucas, Jr"
+19667,Robert E Lucas
 19668,Eswar S Prasad
 19669,Alexander Ljungqvist
 19669,Kerry Back
@@ -40625,7 +40632,7 @@ paper,author
 19777,Pascal Michaillat
 19778,Rene M Stulz
 19778,Roger K Loh
-19779,Byron Lutz
+19779,Byron F Lutz
 19779,Louise M Sheiner
 19780,Andrew J Yates
 19780,Stephen P Holland
@@ -40665,7 +40672,7 @@ paper,author
 19793,Timothy J Moore
 19794,Dean R Lillard
 19794,Talia Bar
-19795,Melissa S Kearney
+19795,Melissa Schettini Kearney
 19795,Phillip B Levine
 19796,Christopher Timmins
 19796,Elisheba Spiller
@@ -40712,7 +40719,7 @@ paper,author
 19815,Andrew Hanson
 19815,David Y Albouy
 19816,Caroline Minter Hoxby
-19817,Alex Chinco
+19817,Alexander M Chinco
 19817,Christopher J Mayer
 19818,Daniel L Greenwald
 19818,Martin Lettau
@@ -40844,7 +40851,7 @@ paper,author
 19862,Kenneth Dodge
 19862,Laurence Steinberg
 19862,Phillip J Cook
-19862,"Roland G Fryer, Jr"
+19862,Roland G Fryer
 19862,Susan E Mayer
 19863,Dean Karlan
 19863,Leigh L Linden
@@ -40861,7 +40868,7 @@ paper,author
 19867,Rebecca M Henderson
 19867,Susan Helper
 19868,Ejaz Ghani
-19868,Stephen D O'Connell
+19868,Stephen A O'Connell
 19868,William R Kerr
 19869,Joyce Cheng Wong
 19869,Raquel Fernandez
@@ -40896,7 +40903,7 @@ paper,author
 19882,Lance J Lochner
 19883,Jason Allen
 19883,Jean-Francois Houde
-19883,Robert L Clark
+19883,Robert Clark
 19884,Ann Huff Stevens
 19884,Jessamyn Schaller
 19885,Arvind Krishnamurthy
@@ -40904,7 +40911,7 @@ paper,author
 19886,Gauti B Eggertsson
 19886,Raphael Schoenle
 19886,Saroj Bhattarai
-19887,David Low
+19887,David C Low
 19887,Mervyn A King
 19888,Matthias Doepke
 19888,Michele Tertilt
@@ -40961,7 +40968,7 @@ paper,author
 19908,Henry S Farber
 19909,Juan Carlos Conesa
 19909,Timothy J Kehoe
-19910,John R Graham
+19910,John W Graham
 19910,Mark T Leary
 19910,Michael R Roberts
 19911,Alan J Auerbach
@@ -41019,7 +41026,7 @@ paper,author
 19933,James C Robinson
 19934,Anusha Chari
 19934,Peter Blair Henry
-19935,Jiang Li
+19935,Jing Li
 19935,Michael F Lovenheim
 19935,Rodney J Andrews
 19936,Casey B Mulligan
@@ -41042,7 +41049,7 @@ paper,author
 19944,Joshua S Graff Zivin
 19944,Matthew J Neidell
 19944,Tal Gross
-19944,Tom Chang
+19944,Tom Y Chang
 19945,Itzhak Ben-David
 19945,Sumit Agarwal
 19946,Konstantin Milbradt
@@ -41128,7 +41135,7 @@ paper,author
 19976,Garance Genicot
 19977,Allan Collard-Wexler
 19977,Hunt Allcott
-19977,Stephen D O'Connell
+19977,Stephen A O'Connell
 19978,Garance Genicot
 19978,Siwan Anderson
 19979,Kjell G Salvanes
@@ -41210,7 +41217,7 @@ paper,author
 20006,David A Jaeger
 20006,Onur Altindag
 20006,Sean Crockett
-20006,Stephen D O'Connell
+20006,Stephen A O'Connell
 20006,Theodore J Joyce
 20007,Ivo Vlaev
 20007,John A List
@@ -41223,7 +41230,7 @@ paper,author
 20009,Hui Chen
 20009,Neng Wang
 20009,Patrick Bolton
-20010,Christopher L House
+20010,Christopher Re
 20010,Dolan Antenucci
 20010,Margaret Levenstein
 20010,Matthew D Shapiro
@@ -41241,7 +41248,7 @@ paper,author
 20015,Itzhak Ben-David
 20015,Souphala Chomsisengphet
 20015,Sumit Agarwal
-20015,Yang Zhang
+20015,Yan Zhang
 20016,Ernst R Berndt
 20016,Rena M Conti
 20017,Jason M Hockenberry
@@ -41368,7 +41375,7 @@ paper,author
 20066,Henry O Pollakowski
 20066,John C Haltiwanger
 20066,Mark J Kutzbach
-20067,Enrique Seira
+20067,Enrique Seira Bejarano
 20067,Nicolas Ajzenman
 20067,Sebastian Galiani
 20068,Lance J Lochner
@@ -41433,7 +41440,7 @@ paper,author
 20089,Yongxiang Wang
 20090,Raymond Fisman
 20090,Yongxiang Wang
-20091,Daniel M Bennett
+20091,Daniel Bennett
 20091,Wesley Yin
 20092,Daron Acemoglu
 20092,Isaias N Chaves
@@ -41511,7 +41518,7 @@ paper,author
 20120,Kevin S Milligan
 20121,Murillo Campello
 20121,Rafael Perez Ribas
-20121,Yang Wang
+20121,Yan Wang
 20122,Christian Broda
 20122,Jonathan A Parker
 20123,Lisa Jonsson
@@ -41619,7 +41626,7 @@ paper,author
 20159,Seth M Freedman
 20160,Joshua S Gans
 20161,Jing Cynthia Wu
-20161,Kinda Hachem
+20161,Kinda Cheryl Hachem
 20162,Joshua S Gans
 20163,Joshua S Gans
 20163,Martin C Byford
@@ -41701,7 +41708,7 @@ paper,author
 20193,Thomas M Mertens
 20194,Cosmin L Ilut
 20194,Francesco Bianchi
-20195,Melissa S Kearney
+20195,Melissa Schettini Kearney
 20195,Phillip B Levine
 20196,Asako S Moriya
 20196,Kosali Ilayperuma Simon
@@ -41741,7 +41748,7 @@ paper,author
 20209,Jaroslav Borovicka
 20209,Jose A Scheinkman
 20209,Lars Peter Hansen
-20210,Fang Yang
+20210,Fan Yang
 20210,Frederico Belo
 20210,Xiaoji Lin
 20211,Joshua Goodman
@@ -41867,7 +41874,7 @@ paper,author
 20259,Cynthia G Kinnan
 20259,Horacio A Larreguy
 20260,David Neumark
-20260,Jennifer Muz
+20260,Jennifer Seager
 20261,Santosh Anagol
 20261,Thomas Fujiwara
 20262,Dean Yang
@@ -41887,7 +41894,7 @@ paper,author
 20267,Gary Richardson
 20267,Livia Chitu
 20268,Bruce Ian Carlin
-20268,Lin Jiang
+20268,Li Jiang
 20268,Stephen A Spiller
 20269,Alberto Galasso
 20269,Mark Schankerman
@@ -41951,7 +41958,7 @@ paper,author
 20292,Thomas G McGuire
 20293,Andrew Sweeting
 20293,Christopher Gedge
-20293,James W Robertson
+20293,James W Roberts
 20294,Rui C Mano
 20294,Tarek Alexander Hassan
 20295,Bart J Bronnenberg
@@ -42060,11 +42067,11 @@ paper,author
 20332,Benjamin Hansen
 20332,D Mark Anderson
 20332,Daniel I Rees
-20333,Don Fullterton
+20333,Don Fullerton
 20333,Li Gan
 20333,Miwa Hattori
 20334,Daniel H Karney
-20334,Don Fullterton
+20334,Don Fullerton
 20335,Alan Moreira
 20335,Alexi Savov
 20336,Ross Levine
@@ -42137,7 +42144,7 @@ paper,author
 20362,Shawn Stoddard
 20363,Hunt Allcott
 20364,Joshua S Gans
-20365,Kinda Hachem
+20365,Kinda Cheryl Hachem
 20366,Jessica Wolpaw Reyes
 20367,Gerald Carlino
 20367,William R Kerr
@@ -42199,8 +42206,8 @@ paper,author
 20390,Tao Zha
 20391,Cosmin L Ilut
 20391,Peter Benczur
-20392,Nicholas Bloom
 20392,Ramana Nanda
+20392,Tom Nicholas
 20393,Andrew J Yates
 20393,William A Pizer
 20394,Lars Peter Hansen
@@ -42372,7 +42379,7 @@ paper,author
 20462,Robin McKnight
 20463,Andres Moya
 20463,Michael R Carter
-20464,J David Richardson
+20464,David Richardson
 20464,James M Poterba
 20464,Jeffrey R Brown
 20465,Dean Yang
@@ -42657,7 +42664,7 @@ paper,author
 20579,Gordon M Phillips
 20579,S Katie Moon
 20580,Casey B Mulligan
-20581,John R Graham
+20581,John W Graham
 20581,Mark T Leary
 20581,Michael R Roberts
 20582,Maria Donovan Fitzpatrick
@@ -42684,7 +42691,7 @@ paper,author
 20591,Robert Novy-Marx
 20592,Campbell R Harvey
 20592,Heqing Zhu
-20592,Yinan Liu
+20592,Yan Liu
 20593,Lin Cui
 20593,Randall P Walsh
 20594,Drew D Creal
@@ -42774,7 +42781,7 @@ paper,author
 20626,Peter Arcidiacono
 20626,Teresa Romano
 20626,V Joseph Hotz
-20627,Adnan Q Khan
+20627,Adnan Qadir Khan
 20627,Asim Ijaz Khwaja
 20627,Benjamin A Olken
 20628,Henry E Siu
@@ -42952,7 +42959,7 @@ paper,author
 20696,John F Helliwell
 20696,Lara B Aknin
 20697,Horacio A Larreguy
-20697,"James M Snyder, Jr"
+20697,James M Snyder
 20697,John Marshall
 20698,Erika McEntarfer
 20698,Lisa B Kahn
@@ -43107,7 +43114,7 @@ paper,author
 20759,David McKenzie
 20759,Dean Yang
 20759,Emily Beam
-20760,Chen Lian
+20760,Chen Lin
 20760,Liangliang Jiang
 20760,Ross Levine
 20761,Amalia R Miller
@@ -43254,7 +43261,7 @@ paper,author
 20818,Jayanta Bhattacharya
 20818,Jonathan D Levin
 20818,Liran Einav
-20818,Vilsa Curto
+20818,Vilsa E Curto
 20819,Oleksandr Talavera
 20819,Viacheslav Sheremirov
 20819,Yuriy Gorodnichenko
@@ -43363,7 +43370,7 @@ paper,author
 20861,Caroline Minter Hoxby
 20861,Sarah E Turner
 20862,Martin S Feldstein
-20863,Chen Lian
+20863,Chen Lin
 20863,Ross Levine
 20863,Wensi Xie
 20864,Celeste K Carruthers
@@ -43488,7 +43495,7 @@ paper,author
 20907,Michael J Dickstein
 20907,Pietro Tebaldi
 20908,Brian K Kovak
-20908,Rafael Dix-Carneiro
+20908,Rafael Dix Carneiro
 20909,Edith Sand
 20909,Victor Lavy
 20910,Koichiro Ito
@@ -43498,7 +43505,7 @@ paper,author
 20911,Kaiwen Leong
 20911,Kevin Lang
 20912,Brian K Kovak
-20912,Rafael Dix-Carneiro
+20912,Rafael Dix Carneiro
 20913,Fatih Guvenen
 20913,Fatih Karahan
 20913,Jae Song
@@ -43512,7 +43519,7 @@ paper,author
 20917,Yothin Jinjarak
 20918,James S Kim
 20918,Jonathan Guryan
-20918,Kyung Park
+20918,Kyung H Park
 20919,David N Weil
 20920,Jayanta Bhattacharya
 20920,Mikko Packalen
@@ -43589,7 +43596,7 @@ paper,author
 20948,David I Laibson
 20948,John Myles White
 20948,Jonathan D Cohen
-20948,Keith M Ericson
+20948,Keith M Marzilli Ericson
 20949,Anne M Farrell
 20949,Jeffrey R Brown
 20949,Scott J Weisbenner
@@ -43730,7 +43737,7 @@ paper,author
 20998,Donald S Kenkel
 20998,Feng Liu
 20998,Hua Wang
-20998,Lawrence J Jin
+20998,Lawrence Jin
 20999,Frank A Wolak
 20999,James B Bushnell
 20999,Matthew Zaragoza-Watkins
@@ -43740,7 +43747,7 @@ paper,author
 21001,Andrew C Caplin
 21001,Filip Matejka
 21001,John V Leahy
-21002,"David C Chan, Jr"
+21002,David C Chan
 21003,Danny Yagan
 21004,Costas Meghir
 21004,Monica Costa Dias
@@ -43868,7 +43875,7 @@ paper,author
 21049,Robert Kaestner
 21050,John A Graves
 21050,Jonathan Gruber
-21050,Joseph B Doyle
+21050,Joseph J Doyle
 21051,H Allen Klaiber
 21051,Joshua K Abbott
 21051,V Kerry Smith
@@ -43963,7 +43970,7 @@ paper,author
 21087,Esteban Rossi-Hansberg
 21087,Klaus Desmet
 21088,Fan Fei
-21088,"James R Hines, Jr"
+21088,James R Hines
 21088,Jill R Horwitz
 21089,Huanhuan Zheng
 21089,Joshua Aizenman
@@ -44093,7 +44100,7 @@ paper,author
 21136,Sergei Guriev
 21137,Ann Huff Stevens
 21137,Michal Kurlaender
-21137,Michel Grosz
+21137,Michel Z Grosz
 21138,Adriana D Kugler
 21138,Santosh Kumar
 21139,Matthew J Kotchen
@@ -44170,11 +44177,11 @@ paper,author
 21165,Francisco J Buera
 21165,Joseph P Kaboski
 21165,Richard Rogerson
+21166,Frank Weikai Li
 21166,Harrison Hong
 21166,Jose A Scheinkman
 21166,Philip Yan
 21166,Sophie X Ni
-21166,Weikai Li
 21167,Louis Kaplow
 21168,Brigitte C Madrian
 21168,David I Laibson
@@ -44211,9 +44218,9 @@ paper,author
 21179,Tsz-Nga Wong
 21180,Arman B Rezaee
 21180,Michael J Callen
+21180,Muhammad Yasir Khan
 21180,Saad Gulzar
 21180,Syed Ali Hasanain
-21180,Yasir Khan
 21181,Craig Doidge
 21181,G Andrew Karolyi
 21181,Rene M Stulz
@@ -44281,7 +44288,7 @@ paper,author
 21208,Kyle Barron
 21208,Matthew E Kahn
 21209,Mark G Duggan
-21209,Melissa S Kearney
+21209,Melissa Schettini Kearney
 21209,Stephanie Rennane
 21210,Ivo Vlaev
 21210,John A List
@@ -44326,7 +44333,7 @@ paper,author
 21227,Wei Jiang
 21228,Nichola Fuchs Schuendeln
 21228,Tarek Alexander Hassan
-21229,Melissa S Kearney
+21229,Melissa Schettini Kearney
 21229,Phillip B Levine
 21230,Evan Riehl
 21230,Juan E Saavedra
@@ -44371,7 +44378,7 @@ paper,author
 21244,Kaiji Chen
 21244,Tao Zha
 21245,Beibei Shen
-21245,Chen Lian
+21245,Chen Lin
 21245,Ross Levine
 21246,Heidi L Williams
 21247,Antonin Bergeaud
@@ -44379,7 +44386,7 @@ paper,author
 21247,Philippe Aghion
 21247,Richard Blundell
 21247,Ufuk Akcigit
-21248,"Melvin Stephens, Jr"
+21248,Melvin Stephens
 21248,Takashi Unayama
 21249,Howard Bodenhorn
 21249,Thomas A Mroz
@@ -44471,7 +44478,7 @@ paper,author
 21285,Steven Tadelis
 21285,Thomas Blake
 21286,Justin McCrary
-21286,"Robert P Bartlett, III"
+21286,Robert P Bartlett III
 21287,Christopher M Meissner
 21287,Michael D Bordo
 21288,Carlos Valcarcel Wolloh
@@ -44609,7 +44616,7 @@ paper,author
 21334,Juliane Begenau
 21334,Martin Schneider
 21334,Monika Piazzesi
-21335,David Le Bris
+21335,David le Bris
 21335,Sebastien Pouget
 21335,William N Goetzmann
 21336,Bulat Gafarov
@@ -44671,7 +44678,7 @@ paper,author
 21360,Eliana La Ferrara
 21360,Stefano DellaVigna
 21361,Christel Vermeersch
-21361,Pablo A Celhay
+21361,Pablo Celhay
 21361,Paul J Gertler
 21361,Paula Giovagnoli
 21362,Roberta Romano
@@ -44702,6 +44709,7 @@ paper,author
 21372,Matthew F Cancian
 21372,Michael W Klein
 21373,Mark Dincecco
+21373,Traviss Cassidy
 21373,Ugo Troiano
 21374,John F Helliwell
 21374,Shun Wang
@@ -44718,7 +44726,7 @@ paper,author
 21378,Siqi Zheng
 21378,Weizeng Sun
 21379,David Neumark
-21379,Joanne Song
+21379,Joanne Song McLaughlin
 21379,Patrick Button
 21380,Sebastian Edwards
 21381,Stefanie Stantcheva
@@ -44810,7 +44818,7 @@ paper,author
 21410,Marion Dovis
 21411,David E Bloom
 21411,Klaus Prettner
-21411,Michael A Kuhn
+21411,Michael Kuhn
 21412,Brett Collins
 21412,Daniel Reck
 21412,Jeffrey L Hoopes
@@ -44871,7 +44879,7 @@ paper,author
 21429,Seema Jayachandran
 21429,Tarun Jain
 21430,Jordi Gali
-21431,Andreas Weber
+21431,Andrea Weber
 21431,David Card
 21431,Jochen Kluve
 21432,Harvey S Rosen
@@ -44943,7 +44951,7 @@ paper,author
 21457,Alexander Wolitzky
 21457,Daron Acemoglu
 21458,Ramana Nanda
-21458,Sari Kerr
+21458,Sari Pekkala Kerr
 21458,William R Kerr
 21459,Cristian Pop-Eleches
 21459,Cyrus Samii
@@ -44976,6 +44984,7 @@ paper,author
 21469,Stan Veuger
 21470,Amy Ellen Schwartz
 21470,Jacob Leos-Urbel
+21470,Joel McMurry
 21470,Matthew J Wiswall
 21471,Boyang Zhang
 21471,Eswar S Prasad
@@ -44984,7 +44993,7 @@ paper,author
 21472,Veronica Rappoport
 21473,David J Deming
 21474,Brigitte C Madrian
-21474,Christopher F Chabris
+21474,Christopher Harris
 21474,David I Laibson
 21474,James J Choi
 21474,John Beshears
@@ -44997,7 +45006,7 @@ paper,author
 21476,Jan Hatzius
 21476,Kenneth D West
 21477,John A List
-21477,"Roland G Fryer, Jr"
+21477,Roland G Fryer
 21477,Steven D Levitt
 21478,Christopher J Ruhm
 21478,Mary K Hamman
@@ -45026,7 +45035,7 @@ paper,author
 21486,Moritz HP Schularick
 21486,Oscar Jorda
 21487,Frederico Belo
-21487,Jun Liu
+21487,Jun Li
 21487,Xiaofei Zhao
 21487,Xiaoji Lin
 21488,Ali Yurukoglu
@@ -45064,7 +45073,7 @@ paper,author
 21501,Dana P Goldman
 21502,Grace Xing Hu
 21502,Jiang W Wang
-21502,June Pan
+21502,Jun Pan
 21503,Matthew S Jaremski
 21503,Peter L Rousseau
 21504,Claire Lelarge
@@ -45235,7 +45244,7 @@ paper,author
 21565,Mark V Pauly
 21565,Scott Harrington
 21566,David A Rivers
-21566,Salvador Navarro
+21566,Salvador Navarro-Lozano
 21566,Steven N Durlauf
 21567,Johannes C Stroebel
 21567,Neale Mahoney
@@ -45302,7 +45311,7 @@ paper,author
 21591,Neeraj Kaushal
 21591,Nicole Denier
 21591,Stephen J Trejo
-21591,Yao Luo
+21591,Yao Lu
 21592,David N Figlio
 21592,Kjell G Salvanes
 21592,Krzysztof Karbownik
@@ -45317,7 +45326,7 @@ paper,author
 21596,Rusty Tchernis
 21597,Martin Mandorff
 21597,William R Kerr
-21598,Margaret Brehm
+21598,Margaret O'Rourke
 21598,Michael F Lovenheim
 21598,Scott A Imberman
 21599,Eric R Sims
@@ -45368,7 +45377,7 @@ paper,author
 21617,Jonathan Gruber
 21618,Andrew Foote
 21618,Ann Huff Stevens
-21618,Michel Grosz
+21618,Michel Z Grosz
 21619,Atish R Ghosh
 21619,Jonathan D Ostry
 21619,Marcos Chamon
@@ -45381,7 +45390,7 @@ paper,author
 21621,Alon Eizenberg
 21621,Joel Waldfogel
 21621,Steven T Berry
-21622,Cristina Mitaritonna
+21622,Cristina Cattaneo
 21622,Giovanni Peri
 21623,Abhijit V Banerjee
 21624,Bruce I Sacerdote
@@ -45414,7 +45423,7 @@ paper,author
 21633,Nicholas Bloom
 21633,Scott R Baker
 21633,Steven J Davis
-21634,Chen Lian
+21634,Chen Lin
 21634,Lai Wei
 21634,Ross Levine
 21635,Edson R Severnini
@@ -45490,7 +45499,7 @@ paper,author
 21656,David A Jaeger
 21656,Onur Altindag
 21656,Sean Crockett
-21656,Stephen D O'Connell
+21656,Stephen A O'Connell
 21656,Theodore J Joyce
 21657,Jing Wang
 21657,John Whalley
@@ -45566,7 +45575,7 @@ paper,author
 21683,Rongzhu Ke
 21684,Charles W Calormiris
 21684,Gary Richardson
-21684,Haelim M Park
+21684,Haelim Park Anderson
 21684,Matthew S Jaremski
 21685,Alice Mesnard
 21685,Garance Genicot
@@ -45597,7 +45606,7 @@ paper,author
 21695,Paola Sapienza
 21696,Darrell Duffie
 21696,Haoxiang Zhu
-21697,Nicholas Y Li
+21697,Nicholas Li
 21697,Shari Eli
 21698,Francisco Barillas
 21698,Jay Shanken
@@ -45843,7 +45852,7 @@ paper,author
 21788,Christian Fons-Rosen
 21788,Joshua S Graff Zivin
 21788,Pierre Azoulay
-21789,Erik Gilje
+21789,Erik P Gilje
 21789,Philip E Strahan
 21789,Viktar Fedaseyeu
 21790,Alan D Mathios
@@ -46012,7 +46021,7 @@ paper,author
 21853,John Whalley
 21854,Donald B Keim
 21854,Olivia S Mitchell
-21855,"David C Chan, Jr"
+21855,David C Chan
 21856,Joseph H Davis
 21856,Marc D Weidenmier
 21857,Camila Navajas Ahumada
@@ -46036,7 +46045,7 @@ paper,author
 21864,Gabriel Chodorow-Reich
 21864,Johannes F Wieland
 21865,Emily K Penner
-21865,Thomas Dee
+21865,Thomas S Dee
 21866,Narayana R Kocherlakota
 21867,Campbell B Leith
 21867,Eric M Leeper
@@ -46114,7 +46123,7 @@ paper,author
 21895,Beth E Schueler
 21895,David J Deming
 21895,Joshua Goodman
-21896,Claus T Kreiner
+21896,Claus Thustrup Kreiner
 21896,Simon Halphen Boserup
 21896,Wojciech Kopczuk
 21897,Benjamin Moll
@@ -46171,8 +46180,8 @@ paper,author
 21914,Nancy Qian
 21914,Todd Schoellman
 21914,Tommaso Porzio
+21915,Jack Willis
 21915,Michael R Kremer
-21915,William Jack
 21916,David Y Albouy
 21916,Mike Zabek
 21917,Giulio Fella
@@ -46190,7 +46199,7 @@ paper,author
 21921,Edward P Lazear
 21922,James Wyckoff
 21922,Melinda Adnot
-21922,Thomas Dee
+21922,Thomas S Dee
 21922,Veronica Katz
 21923,Daniel S Hamermesh
 21923,Katie R Genadek
@@ -46356,7 +46365,7 @@ paper,author
 21986,Eric S Taylor
 21986,John H Tyler
 21986,John P Papay
-21986,Mary Laski
+21986,Mary E Laski
 21987,Adriana D Kugler
 21987,Mevlude Akbulut-Yuksel
 21988,Bernardo Mueller
@@ -46397,7 +46406,7 @@ paper,author
 22000,Lars Peter Hansen
 22000,Thomas J Sargent
 22001,Bernard Yeung
-22001,Chen Lian
+22001,Chen Lin
 22001,Randall K Morck
 22001,Xiaofeng Zhao
 22002,Edward L Glaeser
@@ -46452,7 +46461,7 @@ paper,author
 22019,James Andreoni
 22019,Karrar Jaffar
 22019,Michael J Callen
-22019,Yasir Khan
+22019,Muhammad Yasir Khan
 22020,Arunima Sinha
 22020,Rajnish Mehra
 22021,Christoffer Koch
@@ -46466,7 +46475,7 @@ paper,author
 22024,Eve Caroli
 22024,Muriel Roger
 22025,John Y Campbell
-22026,Daniel Cohen
+22026,Daniel Chen
 22026,Kelly Shue
 22026,Tobias J Moskowitz
 22027,Maxim Boycko
@@ -46557,7 +46566,7 @@ paper,author
 22059,Michael D Bordo
 22060,Martin L Weitzman
 22061,Derek Laing
-22061,Jason M Ward
+22061,Jason Ward
 22061,Jeffrey C Schiman
 22061,Steven G Rivkin
 22062,Ralph Ossa
@@ -46567,7 +46576,7 @@ paper,author
 22063,Mark R Jacobsen
 22064,Ellis W Tallman
 22064,Gary B Gorton
-22065,James W Robertson
+22065,James W Roberts
 22065,Kyle Mangum
 22065,Patrick J Bayer
 22066,Cristian Badarinza
@@ -46581,7 +46590,7 @@ paper,author
 22068,Michele Tertilt
 22069,Chang-Tai Hsieh
 22069,Mu-Jeung Yang
-22069,Nicholas Y Li
+22069,Nicholas Li
 22069,Ralph Ossa
 22070,Gene M Grossman
 22071,Elliott Ash
@@ -46615,7 +46624,7 @@ paper,author
 22083,Alan B Krueger
 22083,Judd Cramer
 22084,Hanming Fang
-22084,Qiang Gong
+22084,Qing Gong
 22085,Christine Valente
 22085,Grant Miller
 22086,Ariel Pakes
@@ -46629,7 +46638,7 @@ paper,author
 22089,Rudiger Fahlenbrach
 22090,David Joulfaian
 22090,James M Poterba
-22090,Robert J Gordon
+22090,Robert Gordon
 22091,Michael S Weisbach
 22091,Tracy Yue Wang
 22091,Yihui Pan
@@ -46732,7 +46741,7 @@ paper,author
 22129,Alisdair McKay
 22129,Emi Nakamura
 22129,Jon Steinsson
-22130,"Roland G Fryer, Jr"
+22130,Roland G Fryer
 22131,David de la Croix
 22131,Joel Mokyr
 22131,Matthias Doepke
@@ -46741,7 +46750,7 @@ paper,author
 22133,Markus K Brunnermeier
 22133,Yuliy Sannikov
 22134,Campbell R Harvey
-22134,Yinan Liu
+22134,Yan Liu
 22135,Pawel Zabczyk
 22135,Roger E A Farmer
 22136,Konstantin Platonov
@@ -46780,12 +46789,12 @@ paper,author
 22149,Joel Waldfogel
 22150,Ivo Welch
 22151,Esteban Rossi-Hansberg
-22151,"Robert E Lucas, Jr"
+22151,Robert E Lucas
 22151,Santiago Caicedo
 22152,Alexi Savov
 22152,Itamar Drechsler
 22152,Philipp Schnabl
-22153,Chen Lian
+22153,Chen Lin
 22153,Ross Levine
 22153,Wensi Xie
 22154,Eric R Sims
@@ -46858,7 +46867,7 @@ paper,author
 22179,Dhaval M Dave
 22179,Inas Rashad Kelly
 22179,Nadia Doytch
-22180,Jialan Wang
+22180,Jian Wang
 22180,Paula E Stephan
 22180,Reinhilde Veugelers
 22181,Solomon M Hsiang
@@ -46889,11 +46898,11 @@ paper,author
 22191,Assaf Razin
 22191,Effraim Sadka
 22192,Farley Grubb
-22193,Devin Pope
+22193,Devin G Pope
 22193,Stefano DellaVigna
 22194,Eric Helland
 22194,Seth A Seabury
-22195,Chen Lian
+22195,Chen Lin
 22195,Liangliang Jiang
 22195,Ross Levine
 22196,Robert E Hall
@@ -46920,7 +46929,7 @@ paper,author
 22203,S Nageeb Ali
 22204,Rebecca Diamond
 22204,Timothy J McQuade
-22205,"Roland G Fryer, Jr"
+22205,Roland G Fryer
 22206,Rene Boeheim
 22206,Thomas Leoni
 22207,Petra Persson
@@ -47011,6 +47020,7 @@ paper,author
 22244,Adam B Jaffe
 22244,Elizabeth Webster
 22244,Gaetan de Rassenfosse
+22244,William E Griffiths
 22245,Aziz Hayat
 22245,Charles Yuji Horioka
 22245,Emin Gahramanov
@@ -47029,7 +47039,7 @@ paper,author
 22250,Daron Acemoglu
 22250,James C Robinson
 22250,Ragnar Torvik
-22251,"Frank J Chaloupka, IV"
+22251,Frank J Chaloupka IV
 22251,Jidong Huang
 22251,John A Tauras
 22251,Matthew C Farrelly
@@ -47049,7 +47059,7 @@ paper,author
 22257,Stefano DellaVigna
 22258,Johannes C Stroebel
 22258,Michael Bailey
-22258,Ruiqing Cao
+22258,Ruiqing (Rachel) Cao
 22258,Theresa Kuchler
 22259,Andrea Ferrero
 22259,Gauti B Eggertsson
@@ -47149,7 +47159,7 @@ paper,author
 22294,Maya Papineau
 22295,Emmanuel Farhi
 22295,Matteo Maggiori
-22296,"Frank J Chaloupka, IV"
+22296,Frank J Chaloupka IV
 22296,Jidong Huang
 22296,John A Tauras
 22296,Michael F Pesko
@@ -47166,7 +47176,7 @@ paper,author
 22300,Benjamin Faber
 22300,Cecile Gaubert
 22301,Christoph Schinke
-22301,"James R Hines, Jr"
+22301,James R Hines
 22301,Marina Riem
 22301,Niklas Potrafke
 22302,Chris Nosko
@@ -47240,7 +47250,7 @@ paper,author
 22328,Joshua S Graff Zivin
 22328,Matthew J Neidell
 22328,Tal Gross
-22328,Tom Chang
+22328,Tom Y Chang
 22329,Assaf Razin
 22329,Effraim Sadka
 22330,Daniel Neuhann
@@ -47266,9 +47276,9 @@ paper,author
 22339,Chase O Corbin
 22339,James J Heckman
 22340,Michael J Callen
+22340,Muhammad Yasir Khan
 22340,Saad Gulzar
 22340,Syed Ali Hasanain
-22340,Yasir Khan
 22341,Antonella Trigari
 22341,Christopher Huckfeldt
 22341,Mark L Gertler
@@ -47344,7 +47354,7 @@ paper,author
 22370,Thomas Philippon
 22371,Anup Das
 22371,Edward C Norton
-22371,Jun Liu
+22371,Jun Li
 22371,Lena M Chen
 22372,Ronald G Ehrenberg
 22372,Todd R Jones
@@ -47419,7 +47429,7 @@ paper,author
 22397,Sven E Wilson
 22398,Alexey Makarin
 22398,C Kirabo Jackson
-22399,"Roland G Fryer, Jr"
+22399,Roland G Fryer
 22400,Martin J Conyon
 22400,Peter Cappelli
 22401,James Key
@@ -47618,7 +47628,7 @@ paper,author
 22474,Susan M Dynarski
 22475,Juan Pablo Nicolini
 22475,Luca Benati
-22475,"Robert E Lucas, Jr"
+22475,Robert E Lucas
 22475,Warren Weber
 22476,Thomas Philippon
 22477,Darren J Kisgen
@@ -47678,7 +47688,7 @@ paper,author
 22500,Steven N Kaplan
 22501,Anna Valero
 22501,John van Reenen
-22502,"Roland G Fryer, Jr"
+22502,Roland G Fryer
 22502,Will S Dobbie
 22503,Frank A Wolak
 22504,Christopher J Ruhm
@@ -47777,7 +47787,7 @@ paper,author
 22542,Janet M Currie
 22543,Basit Zafar
 22543,Matthew J Wiswall
-22544,Chen Lian
+22544,Chen Lin
 22544,Ross Levine
 22544,Wensi Xie
 22545,Alex Rees-Jones
@@ -47797,7 +47807,7 @@ paper,author
 22549,Wojciech Kopczuk
 22550,Teresa C Fort
 22551,Justin McCrary
-22551,"Robert P Bartlett, III"
+22551,Robert P Bartlett III
 22552,Jennifer Kuan
 22552,Susan Helper
 22553,Brian Beach
@@ -47825,8 +47835,8 @@ paper,author
 22559,Kalena E Cortes
 22560,David E Bloom
 22560,Klaus Prettner
-22560,Michael A Kuhn
-22561,Andreas Weber
+22560,Michael Kuhn
+22561,Andrea Weber
 22561,Dayanand S Manoli
 22562,John Mullahy
 22562,Marguerite Burns
@@ -47837,7 +47847,7 @@ paper,author
 22564,Till M von Wachter
 22565,Bet Caeyers
 22565,Marcel Fafchamps
-22566,Devin Pope
+22566,Devin G Pope
 22566,Stefano DellaVigna
 22567,Assaf Razin
 22567,Steven Rosefielde
@@ -47863,13 +47873,13 @@ paper,author
 22576,Matthew P Richardson
 22576,Zhikai Xu
 22577,David Merriman
-22577,"Frank J Chaloupka, IV"
-22577,Shun Wang
+22577,Frank J Chaloupka IV
+22577,Shu Wang
 22578,Brady P Horn
 22578,Johanna Catherine Maclean
 22578,Michael R Strain
 22579,Nicholas Z Muller
-22580,Don Fullterton
+22580,Don Fullerton
 22580,Nirupama S Rao
 22581,Arunima Sinha
 22581,Michael D Bordo
@@ -47915,7 +47925,7 @@ paper,author
 22597,Adair Morse
 22597,Serena Wu
 22597,Wei Wang
-22598,James W Robertson
+22598,James W Roberts
 22598,Paul J Eliason
 22598,Paul L E Grieco
 22598,Ryan C McDevitt
@@ -48063,7 +48073,6 @@ paper,author
 22649,Andrew B Bernard
 22649,Toshihiro Okubo
 22650,Daniel F Waggoner
-22650,Haoyu Gao
 22650,Kaiji Chen
 22650,Patrick C Higgins
 22650,Tao Zha
@@ -48106,7 +48115,7 @@ paper,author
 22665,Katharine G Abraham
 22665,Kristin Sandusky
 22666,Daniela Carusi
-22666,"David C Chan, Jr"
+22666,David C Chan
 22666,Erin M Johnson
 22666,M Marit Rehavi
 22667,Alan B Krueger
@@ -48193,6 +48202,7 @@ paper,author
 22699,Yothin Jinjarak
 22700,Maya Rossin-Slater
 22700,Miriam Wust
+22701,A Patrick Behrer
 22701,Andrei Shleifer
 22701,Edward L Glaeser
 22701,Giacomo A M Ponzetto
@@ -48233,7 +48243,7 @@ paper,author
 22714,Munenobu Ikegami
 22714,Sarah A Janzen
 22715,Caglar Ozden
-22715,Christopher A Parsons
+22715,Christopher Parsons
 22715,Sari Pekkala Kerr
 22715,William R Kerr
 22716,Hugo A Hopenhayn
@@ -48258,7 +48268,7 @@ paper,author
 22721,Mark J Kutzbach
 22722,David Joulfaian
 22722,James M Poterba
-22722,Robert J Gordon
+22722,Robert Gordon
 22723,Jessica A Wachter
 22723,Sang Byung Seo
 22724,Gustavo Torrens
@@ -48364,7 +48374,7 @@ paper,author
 22763,David S Scharfstein
 22763,Samuel G Hanson
 22764,Minahil Asim
-22764,Thomas Dee
+22764,Thomas S Dee
 22765,Amelie Wuppermann
 22765,Bo Zhou
 22765,Daniel L McFadden
@@ -48407,11 +48417,11 @@ paper,author
 22778,Wojciech Kopczuk
 22779,Mara P Squicciarini
 22779,Nico Voigtlaender
-22780,"Anne Dunlop, MD"
+22780,Anne Dunlop MD
 22780,E Kathleen Adams
-22780,"Mary Jane Lewitt, PhD, CNM"
+22780,Mary Jane Lewitt PhD CNM
 22780,Sara Markowitz
-22781,Andreas Weber
+22781,Andrea Weber
 22781,David Card
 22781,David S Lee
 22781,Zhuan Pei
@@ -48530,7 +48540,7 @@ paper,author
 22825,Franck Portier
 22825,Paul Beaudry
 22826,Andrea Austin
-22826,Carrie Colla
+22826,Carrie Hoverman Colla
 22826,Jonathan S Skinner
 22826,Julie Bynum
 22827,Egon Zakrajsek
@@ -48570,7 +48580,7 @@ paper,author
 22839,Geert Bekaert
 22840,Lorenz Kueng
 22840,Mu-Jeung Yang
-22840,Nicholas Y Li
+22840,Nicholas Li
 22841,Christopher Avery
 22841,Jonathan Smith
 22841,Michael Hurwitz
@@ -48614,8 +48624,8 @@ paper,author
 22854,Zhuan Xie
 22855,Jeff Lingwall
 22855,Karen Clay
-22855,"Melvin Stephens, Jr"
-22856,Jian Zhang
+22855,Melvin Stephens
+22856,Ji Zhang
 22856,Jing Cynthia Wu
 22857,Kathleen M Kahle
 22857,Rene M Stulz
@@ -48681,7 +48691,7 @@ paper,author
 22878,Jonathan A Parker
 22879,David Dorn
 22879,David H Autor
-22879,Gary P Pisano
+22879,Gary Pisano
 22879,Gordon H Hanson
 22879,Pian Shu
 22880,Judith E Scott-Clayton
@@ -48781,7 +48791,7 @@ paper,author
 22912,Christopher Stomberg
 22913,Claudia D Goldin
 22913,Joshua W Mitchell
-22914,Erik Gilje
+22914,Erik P Gilje
 22914,Nikolai Roussanov
 22914,Robert Ready
 22915,Guido Menzio
@@ -48810,7 +48820,7 @@ paper,author
 22925,Christopher R Knittel
 22925,Lucas W Davis
 22926,Caglar Ozden
-22926,Christopher A Parsons
+22926,Christopher Parsons
 22926,Sari Pekkala Kerr
 22926,William R Kerr
 22927,Kevin Lang
@@ -48877,7 +48887,7 @@ paper,author
 22948,Laurence M Ball
 22948,Prachi Mishra
 22949,Horacio A Larreguy
-22949,"James M Snyder, Jr"
+22949,James M Snyder
 22949,John Marshall
 22950,Kyungchul Song
 22950,R Vincent Pohl
@@ -48918,7 +48928,7 @@ paper,author
 22966,John M de Figueiredo
 22967,Lesley J Turner
 22967,Rajeev Darolia
-22967,Stephanie R Cellini
+22967,Stephanie Riegg Cellini
 22968,Bard Harstad
 22968,Marco Battaglini
 22969,Daniel Silverman
@@ -49031,7 +49041,7 @@ paper,author
 23009,Ravi Bansal
 23010,Elias Papaioannou
 23010,Gur Aminadav
-23011,"Anthony A Smith, Jr"
+23011,Anthony A Smith
 23011,Joachim Hubmer
 23011,Per Krusell
 23012,Henry S Schneider
@@ -49101,7 +49111,7 @@ paper,author
 23037,Douglas A Irwin
 23038,David N Figlio
 23038,Jeffrey Roth
-23038,"Joseph J Doyle, Jr"
+23038,Joseph J Doyle
 23038,Krzysztof Karbownik
 23038,Sanni N Breining
 23039,Diego Restuccia
@@ -49127,7 +49137,7 @@ paper,author
 23046,Joshua S Gans
 23046,Mara Lederman
 23047,John Grigsby
-23047,Nicholas Bloom
+23047,Tom Nicholas
 23047,Ufuk Akcigit
 23048,John Kennan
 23049,Alessia A Amighini
@@ -49172,7 +49182,7 @@ paper,author
 23062,Sanni N Breining
 23063,Joshua Goodman
 23064,Chi L Ta
-23064,Don Fullterton
+23064,Don Fullerton
 23065,Edith X Liu
 23065,Karen K Lewis
 23066,Carolin E Pflueger
@@ -49209,7 +49219,7 @@ paper,author
 23079,Anne Morrison Piehl
 23079,Kristin F Butcher
 23079,Kyung H Park
-23080,Chen Lian
+23080,Chen Lin
 23080,Liangliang Jiang
 23080,Ross Levine
 23081,Tom Vogl
@@ -49233,7 +49243,7 @@ paper,author
 23090,Jayanta Bhattacharya
 23090,Jonathan D Levin
 23090,Liran Einav
-23090,Vilsa Curto
+23090,Vilsa E Curto
 23091,Kelly Shue
 23091,Richard R Townsend
 23092,Bradley T Heim
@@ -49342,7 +49352,7 @@ paper,author
 23130,Raymond Fisman
 23130,Rong Xu
 23130,Yongxiang Wang
-23131,Cory S Capps
+23131,Cory Capps
 23131,Dennis W Carlton
 23131,Guy David
 23132,Dani Rodrik
@@ -49350,7 +49360,7 @@ paper,author
 23132,Xinshen Diao
 23133,Brent Neiman
 23133,Loukas Karabarbounis
-23133,Peter Cohen
+23133,Peter Chen
 23134,Carmen M Reinhart
 23134,Ethan Ilzetzki
 23134,Kenneth S Rogoff
@@ -49361,7 +49371,7 @@ paper,author
 23136,Sushant Acharya
 23136,Zhen Huo
 23137,John Grigsby
-23137,Nicholas Bloom
+23137,Tom Nicholas
 23137,Ufuk Akcigit
 23138,Joshua S Gans
 23138,Scott Stern
@@ -49393,7 +49403,7 @@ paper,author
 23149,Sebnem Kalemli-Ozcan
 23149,Yusuf Soner Baskaya
 23150,Didem Bernard
-23150,Thomas M Selden
+23150,Thomas Selden
 23150,Yuriy Pylypchuk
 23151,Enrique G Mendoza
 23151,Jessica Roldan-Pena
@@ -49441,11 +49451,11 @@ paper,author
 23165,Karel Mertens
 23166,John A Graves
 23166,Jonathan Gruber
-23166,"Joseph J Doyle, Jr"
+23166,Joseph J Doyle
 23167,Gary B Gorton
 23167,Kyriakos T Chousakos
 23168,Christopher T Stanton
-23168,Eleanor W Dillon
+23168,Eleanor Wiske Dillon
 23169,Enrique Alberola
 23169,Gianluca Benigno
 23170,Adrien Verdelhan
@@ -49599,7 +49609,7 @@ paper,author
 23229,James Andreoni
 23229,Jan Stoop
 23229,Nikos Nikiforakis
-23230,Melissa S Kearney
+23230,Melissa Schettini Kearney
 23230,Phillip B Levine
 23231,Francis A Longstaff
 23231,Kurt F Lewis
@@ -49651,11 +49661,11 @@ paper,author
 23248,Stephen Hansen
 23249,Berardino Palazzo
 23249,Juliane Begenau
-23250,Don Fullterton
+23250,Don Fullerton
 23250,Julie Anne Cronin
 23250,Steven E Sexton
 23251,Assaf Razin
-23252,Enrique Seira
+23252,Enrique Seira Bejarano
 23252,Paul J Gertler
 23252,Pierre Bachas
 23252,Sean Higgins
@@ -49667,7 +49677,7 @@ paper,author
 23254,Xavier Gabaix
 23255,Campbell R Harvey
 23255,Jillian Grennan
-23255,John R Graham
+23255,John W Graham
 23255,Shivaram Rajgopal
 23256,Andrei Shleifer
 23256,Nicola Gennaioli
@@ -49726,7 +49736,7 @@ paper,author
 23271,Garth Heutel
 23271,Nolan H Miller
 23272,Robert S Pindyck
-23272,"Sergio L Franklin, Jr"
+23272,Sergio L Franklin
 23273,Bruce Ian Carlin
 23273,Christopher Cotton
 23273,Raphael Boleslavsky
@@ -49829,7 +49839,7 @@ paper,author
 23304,Olivier Coibion
 23304,Rupal Kamdar
 23304,Yuriy Gorodnichenko
-23305,Ben Iverson
+23305,Benjamin Iverson
 23305,Emanuele Colonnelli
 23305,Shai Bernstein
 23306,Martin S Feldstein
@@ -49877,7 +49887,7 @@ paper,author
 23324,Dylan G Rassier
 23324,Fatih Guvenen
 23324,Kim J Ruhl
-23324,"Raymond J Mataloni, Jr"
+23324,Raymond J Mataloni
 23325,Alberto F Alesina
 23325,Francesco Trebbi
 23325,Guido Tabellini
@@ -49895,7 +49905,7 @@ paper,author
 23329,Dana P Goldman
 23329,David N Weil
 23329,Justin Wolfers
-23329,Kerwin K Charles
+23329,Kerwin Kofi Charles
 23329,Louise M Sheiner
 23329,Peter R Orszag
 23329,Rebeca Wong
@@ -49944,6 +49954,7 @@ paper,author
 23344,Manita Singh
 23344,Richard T Thakor
 23344,Tomas J Philipson
+23345,Corina Boar
 23345,Denis Gorea
 23345,Virgiliu Midrigan
 23346,Ian W R Martin
@@ -50074,7 +50085,7 @@ paper,author
 23389,Parisa Kamali
 23389,Timothy J Kehoe
 23389,Vegard M Nygaard
-23390,Anna L Ziff
+23390,Anna Ziff
 23390,Chiara D Pronzato
 23390,Daniela Del Boca
 23390,James J Heckman
@@ -50109,7 +50120,7 @@ paper,author
 23399,Jeremy Atack
 23399,Robert A Margo
 23400,Gabriel Ulyssea
-23400,Rafael Dix-Carneiro
+23400,Rafael Dix Carneiro
 23400,Rodrigo R Soares
 23401,Dmitry Mukhin
 23401,Oleg Itskhoki
@@ -50130,7 +50141,7 @@ paper,author
 23407,Gonzalo Asis
 23407,Laura Alfaro
 23407,Ugo Panizza
-23408,Melissa S Kearney
+23408,Melissa Schettini Kearney
 23408,Riley Wilson
 23409,Andrei A Levchenko
 23409,Javier Cravino
@@ -50140,7 +50151,6 @@ paper,author
 23410,Paul W Rhode
 23411,Arata Ito
 23411,Elif C Arbatli
-23411,Ikuo Saito
 23411,Naoko Miake
 23411,Steven J Davis
 23412,Anna L Ziff
@@ -50196,7 +50206,7 @@ paper,author
 23432,Po-Hsuan Hsu
 23433,Jennifer Hunt
 23433,Michael A Clemens
-23434,Chen Lian
+23434,Chen Lin
 23434,Michael S Weisbach
 23434,Thomas Schmid
 23435,Alberto F Alesina
@@ -50204,7 +50214,7 @@ paper,author
 23435,Bryony Reich
 23436,A Mitchell Polinsky
 23436,Paul N Riskind
-23437,"Roland G Fryer, Jr"
+23437,Roland G Fryer
 23438,Bernd Weber
 23438,Camelia M Kuhnen
 23438,Sarah Rudorf
@@ -50260,9 +50270,9 @@ paper,author
 23461,Brian A Jacob
 23461,Steven W Hemelt
 23462,Sade Bonilla
-23462,Thomas Dee
+23462,Thomas S Dee
 23463,Elise Dizon-Ross
-23463,Thomas Dee
+23463,Thomas S Dee
 23464,Steven N Kaplan
 23465,Jason M Lindo
 23465,Martha J Bailey
@@ -50278,7 +50288,7 @@ paper,author
 23468,Juan Pablo Atal
 23468,Martin Karlsson
 23468,Nicolas R Ziebarth
-23469,Chen Lian
+23469,Chen Lin
 23469,Ross Levine
 23469,Zigan Wang
 23470,Christopher P Roth
@@ -50291,7 +50301,7 @@ paper,author
 23472,Yue Li
 23473,Andrey Ordin
 23473,Daniel G Garrett
-23473,James W Robertson
+23473,James W Roberts
 23473,Juan Carlos Suarez Serrato
 23474,Anusha Chari
 23474,Christian T Lundblad
@@ -50336,7 +50346,7 @@ paper,author
 23486,Victor Lavy
 23487,John Romalis
 23487,Mary Amiti
-23487,Min Dai
+23487,Mi Dai
 23487,Robert C Feenstra
 23488,Catherine Tucker
 23488,Christian Catalini
@@ -50344,6 +50354,7 @@ paper,author
 23489,C Kirabo Jackson
 23489,Rucker C Johnson
 23490,Davide Cantoni
+23490,Felix Schonenberger
 23490,Leonardo Bursztyn
 23490,Noam Yuchtman
 23490,Patricia Funk
@@ -50507,7 +50518,7 @@ paper,author
 23546,Nittai K Bergman
 23546,Rajkamal Iyer
 23546,Richard T Thakor
-23547,"Robert E Lucas, Jr"
+23547,Robert E Lucas
 23548,Edward P Lazear
 23549,Derek M Lemoine
 23550,Emiliana Vegas
@@ -50638,7 +50649,7 @@ paper,author
 23594,Juan E Saavedra
 23594,Sandra Garcia
 23595,Brian K Kovak
-23595,Rafael Dix-Carneiro
+23595,Rafael Dix Carneiro
 23596,Alex Edmans
 23596,Dirk Jenter
 23596,Xavier Gabaix
@@ -50658,7 +50669,7 @@ paper,author
 23601,Klaus Prettner
 23601,Les Oxley
 23601,Mark E McGovern
-23601,Michael A Kuhn
+23601,Michael Kuhn
 23601,Simiao Chen
 23602,Catherine Hausman
 23602,David S Rapson
@@ -50865,7 +50876,7 @@ paper,author
 23676,Ian Wright
 23676,Jose Maria Barrero
 23676,Nicholas Bloom
-23677,Don Fullterton
+23677,Don Fullerton
 23677,Erich Muehlegger
 23678,Panle Jia Barwick
 23678,Shanjun Li
@@ -51015,7 +51026,7 @@ paper,author
 23729,David A Wise
 23729,John B Shoven
 23729,Sita Nataraj Slavov
-23730,Ethan J Schmick
+23730,Ethan Schmick
 23730,Karen Clay
 23730,Werner Troesken
 23731,Andreas I Mueller
@@ -51121,7 +51132,7 @@ paper,author
 23765,Kimberley H Geissler
 23766,Lawrence J Christiano
 23766,Varadarajan V Chari
-23767,John R Graham
+23767,John W Graham
 23767,Mark T Leary
 23768,David J G Slusky
 23768,Donna K Ginther
@@ -51182,7 +51193,7 @@ paper,author
 23791,Stefan Staubli
 23791,Ziyan Chu
 23792,Meghan Howard Noveck
-23792,"Roland G Fryer, Jr"
+23792,Roland G Fryer
 23793,Anna Raute
 23794,Joseph E Stiglitz
 23795,Joseph E Stiglitz
@@ -51198,7 +51209,7 @@ paper,author
 23799,Kristine Watson Hankins
 23799,Michael W Faulkender
 23799,Mitchell A Petersen
-23800,Chen Lian
+23800,Chen Lin
 23800,Ross Levine
 23800,Wensi Xie
 23801,Allan Collard-Wexler
@@ -51210,7 +51221,7 @@ paper,author
 23803,Benjamin W Cowan
 23803,Zhuang Hao
 23804,Kotaro Inoue
-23804,"Naoshi Ikeda,"
+23804,Naoshi Ikeda
 23804,Sho Watanabe
 23805,Annette Alstadsaeter
 23805,Gabriel Zucman
@@ -51233,7 +51244,7 @@ paper,author
 23810,Marianne E Page
 23810,Sarah Miller
 23811,Ashley C Craig
-23811,"Roland G Fryer, Jr"
+23811,Roland G Fryer
 23812,Hideaki Miyajima
 23812,Ryo Ogawa
 23812,Takuji Saito
@@ -51359,7 +51370,7 @@ paper,author
 23858,Richard L Sweeney
 23859,Daphna Bassok
 23859,Scott Latham
-23859,Thomas Dee
+23859,Thomas S Dee
 23860,Benjamin M Marx
 23860,Jeffrey T Denning
 23860,Lesley J Turner
@@ -51506,7 +51517,7 @@ paper,author
 23912,Parag A Pathak
 23913,Cesare Righi
 23913,Timothy S Simcoe
-23914,Christopher R Walters
+23914,Christopher J Palmer
 23914,David H Autor
 23914,Parag A Pathak
 23915,Charles F Manski
@@ -51604,7 +51615,7 @@ paper,author
 23944,Daniel S Treisman
 23945,Arna Olafsson
 23945,Michaela Pagel
-23946,Benjamin M Marx
+23946,Benjamin Marx
 23946,Tavneet Suri
 23946,Vincent Pons
 23947,Brian K Kovak
@@ -51685,7 +51696,7 @@ paper,author
 23974,Richard G Newell
 23975,Graciela Laura Kaminsky
 23976,Benjamin Schoefer
-23976,David Seim
+23976,David G Seim
 23976,Emmanuel Saez
 23977,Martin Uribe
 23978,Dina Pomeranz
@@ -51793,6 +51804,7 @@ paper,author
 24013,Andreas Moxnes
 24013,Anna Gumpert
 24013,Felix Tintelnot
+24013,Haishi Li
 24013,Natalia Ramondo
 24014,Jibao He
 24014,Ting Chen
@@ -51847,7 +51859,7 @@ paper,author
 24031,Cristina Arellano
 24031,Sandra Lizarazo
 24031,Yan Bai
-24032,Gerard Padro I Miquel
+24032,Gerard Padro i Miquel
 24032,Monica Martinez-Bravo
 24032,Nancy Qian
 24032,Yang Yao
@@ -52128,6 +52140,8 @@ paper,author
 24134,Shawn Garbett
 24134,Zilu Zhou
 24135,Frederic S Mishkin
+24136,Anil Kumar
+24136,Che-Yuan Liang
 24136,Soren Blomquist
 24136,Whitney K Newey
 24137,Carlos Sanz
@@ -52136,7 +52150,7 @@ paper,author
 24138,Per Krusell
 24138,Timo Boppart
 24139,Gabriel E Lade
-24139,Ivan Rudik
+24139,Ivan J Rudik
 24140,Fernando V Ferreira
 24140,Matthew Davis
 24141,Charles R Hulten
@@ -52162,7 +52176,7 @@ paper,author
 24149,John B Taylor
 24150,Brendan C Perry
 24150,James X Sullivan
-24150,Melissa S Kearney
+24150,Melissa Schettini Kearney
 24150,William N Evans
 24151,Robert Z Lawrence
 24152,Anton Korinek
@@ -52178,7 +52192,7 @@ paper,author
 24157,Ran Song
 24157,Richard B Freeman
 24157,Wenquan Liang
-24158,"James M Snyder, Jr"
+24158,James M Snyder
 24158,Koleman S Strumpf
 24158,Paul W Rhode
 24159,Melissa F Wasserman
@@ -52323,9 +52337,9 @@ paper,author
 24213,Mark Ferguson
 24213,Rohan Douglas
 24214,Andrew Sweeting
-24214,James W Robertson
+24214,James W Roberts
 24214,Joe Mazur
-24214,June Zhang
+24214,Jun Zhang
 24214,Sophia Ying Li
 24214,Yongjoon Park
 24215,Daniel S Hamermesh
@@ -52370,7 +52384,7 @@ paper,author
 24230,Wei Xiong
 24230,Zheng (Michael) Song
 24231,Desmond J Toohey
-24231,"Melvin Stephens, Jr"
+24231,Melvin Stephens
 24232,Amanda E Kowalski
 24232,Ivan Fernandez-Val
 24232,Sukjin Han
@@ -52388,7 +52402,7 @@ paper,author
 24237,Michael Weber
 24237,Roni Michaely
 24237,Stefano Rossi
-24238,"Roland G Fryer, Jr"
+24238,Roland G Fryer
 24239,Manav Raj
 24239,Robert Seamans
 24240,Richard G Frank
@@ -52430,7 +52444,7 @@ paper,author
 24255,Barbara Biasi
 24255,Petra Moser
 24256,Christos Koulovatianos
-24256,Jiang Li
+24256,Jian Li
 24256,John B Donaldson
 24256,Rajnish Mehra
 24257,Dan Vu Cao
@@ -52558,7 +52572,7 @@ paper,author
 24304,Michael E Darden
 24305,Joel B Slemrod
 24305,John Guyton
-24305,"Ronald H Hodge, II"
+24305,Ronald H Hodge II
 24305,Ugo Troiano
 24305,William C Boning
 24306,Bradley J Larsen
@@ -52623,7 +52637,7 @@ paper,author
 24326,Gonzalo Paz Pardo
 24326,Mariacristina De Nardi
 24327,Dean Karlan
-24327,Hannah Trachtman
+24327,Samantha Horn
 24328,Herve Le Bihan
 24328,Jordi Gali
 24328,Julien Matheron
@@ -52635,7 +52649,7 @@ paper,author
 24332,Heather N Royer
 24332,Michael Geruso
 24333,Katharine G Abraham
-24333,Melissa S Kearney
+24333,Melissa Schettini Kearney
 24334,Ali Hortacsu
 24334,Junichi Suzuki
 24334,Patrick Bajari
@@ -52669,7 +52683,7 @@ paper,author
 24345,Xavier H Duran Amorocho
 24346,Grace Xing Hu
 24346,Jiang W Wang
-24346,June Pan
+24346,Jun Pan
 24347,Darius N Lakdawalla
 24347,David O Meltzer
 24347,Lisandro D Colantonio
@@ -52690,7 +52704,7 @@ paper,author
 24353,Alessandro Barattieri
 24353,Fabio Ghironi
 24353,Matteo Cacciatore
-24354,"David C Chan, Jr"
+24354,David C Chan
 24354,Michael J Dickstein
 24355,Daniel M Hungerman
 24355,Kasey S Buckles
@@ -52741,6 +52755,7 @@ paper,author
 24370,Bronwyn H Hall
 24371,Gabriel Zucman
 24371,Henrik Jacobsen Kleven
+24371,Katrine Jakobsen
 24371,Kristian Jakobsen
 24372,Andrew Chamberlain
 24372,Ioana Marinescu
@@ -52753,7 +52768,7 @@ paper,author
 24374,Daniel M Hungerman
 24374,Kevin J Rinz
 24374,Tim Weninger
-24375,Chen Lian
+24375,Chen Lin
 24375,Ross Levine
 24375,Wensi Xie
 24375,Zigan Wang
@@ -52778,7 +52793,7 @@ paper,author
 24381,Taylor Mackay
 24381,Thanh Tam Nguyen
 24382,Eric Zwick
-24383,Adnan Q Khan
+24383,Adnan Qadir Khan
 24383,Asim Ijaz Khwaja
 24383,Benjamin A Olken
 24384,Benjamin Faber
@@ -52795,7 +52810,7 @@ paper,author
 24388,Carol H Shiue
 24388,Wolfgang Keller
 24388,Xin Wang
-24389,Chen Lian
+24389,Chen Lin
 24389,Ross Levine
 24389,Zigan Wang
 24390,Robert A Moffitt
@@ -52881,7 +52896,7 @@ paper,author
 24420,Zoltan Wolf
 24421,Daron Acemoglu
 24421,Pascual Restrepo
-24422,Ankur Patel
+24422,Ankur J Patel
 24422,Dayanand S Manoli
 24422,Marios Michaelides
 24423,Neeraj Kaushal
@@ -52918,7 +52933,7 @@ paper,author
 24435,Lea H Stern
 24435,Michael S Weisbach
 24436,Dan Lu
-24436,Xuan Tian
+24436,Xu Tian
 24436,Yan Bai
 24437,Brian McManus
 24437,Daniel W Elfenbein
@@ -52951,7 +52966,7 @@ paper,author
 24446,Adam M Guren
 24446,Arvind Krishnamurthy
 24446,Timothy J McQuade
-24447,Cristina Mitaritonna
+24447,Cristina Cattaneo
 24447,Giovanni Peri
 24447,Valentina Bosetti
 24448,Joshua S Gans
@@ -53008,7 +53023,7 @@ paper,author
 24464,Dhaval M Dave
 24464,Hope Corman
 24464,Nancy E Reichman
-24465,Ankur Patel
+24465,Ankur J Patel
 24465,Brenda Schafer
 24465,Dayanand S Manoli
 24465,John Guyton
@@ -53040,7 +53055,7 @@ paper,author
 24474,Amine Ouazad
 24474,Norman Loayzaw
 24474,Romain Ranciere
-24475,Ethan Lieber
+24475,Ethan M J Lieber
 24475,Patrick Power
 24475,William N Evans
 24476,Edward Miguel
@@ -53360,7 +53375,7 @@ paper,author
 24597,James D Hamilton
 24598,Ethan Rouen
 24598,Juan Carlos Suarez Serrato
-24598,Suresh K Nallareddy
+24598,Suresh Nallareddy
 24599,Eric French
 24599,John Bailey Jones
 24599,Justin Kirschner
@@ -53397,7 +53412,7 @@ paper,author
 24607,Edson R Severnini
 24607,Karen Clay
 24607,Margarita Portnykh
-24608,Francisco Costa
+24608,Francisco J M Costa
 24608,Francois Gerard
 24609,Anil Kumar
 24609,Gary V Engelhardt
@@ -53418,7 +53433,7 @@ paper,author
 24615,Crystal S Yang
 24616,Brigham R Frandsen
 24616,Lars J Lefgren
-24617,David Sims
+24617,David P Sims
 24617,Lars J Lefgren
 24617,Olga B Stoddard
 24618,Markus Pelger
@@ -53427,7 +53442,7 @@ paper,author
 24620,Kevin Callison
 24620,Robert Kaestner
 24621,Desmond J Toohey
-24621,"Melvin Stephens, Jr"
+24621,Melvin Stephens
 24622,Brian Lucking
 24622,John van Reenen
 24622,Nicholas Bloom
@@ -53507,7 +53522,7 @@ paper,author
 24650,Klodiana Istrefi
 24650,Michael D Bordo
 24651,Christopher S Carpenter
-24651,Gilbert Gonzales Jr
+24651,Gilbert Gonzales
 24651,Samuel T Eppink
 24651,Tara McKay
 24652,Amy Finkelstein
@@ -53568,7 +53583,7 @@ paper,author
 24673,Jesse Schreger
 24673,Matteo Maggiori
 24674,Anna Goldstein
-24674,Erica Fuchs
+24674,Erica R H Fuchs
 24674,Michael Kearney
 24674,Pierre Azoulay
 24675,Daniel J Martin
@@ -53673,7 +53688,7 @@ paper,author
 24709,Kewei Hou
 24709,Lu Zhang
 24710,Anmol Bhandari
-24710,David K Evans
+24710,David Evans
 24710,Mikhail Golosov
 24710,Thomas J Sargent
 24711,Andrew Kosenko
@@ -53684,7 +53699,7 @@ paper,author
 24712,Michael J Roberts
 24713,Joel Waldfogel
 24713,Luis Aguiar
-24714,Jian Zhang
+24714,Ji Zhang
 24714,Jing Cynthia Wu
 24715,Claudia Steinwender
 24715,Pian Shu
@@ -53717,7 +53732,7 @@ paper,author
 24726,Conrad Miller
 24727,Avner Greif
 24727,Klaus Desmet
-24727,Stephen L Parente
+24727,Stephen Parente
 24728,Conrad Miller
 24729,Adam M Guren
 24729,Alisdair McKay
@@ -53857,7 +53872,7 @@ paper,author
 24778,Robert C Merton
 24779,Frances C Moore
 24779,Thomas W Hertel
-24779,Uris Baldos
+24779,Uris L C Baldos
 24780,Christian Catalini
 24780,Christian Fons-Rosen
 24780,Patrick Gaule
@@ -54037,7 +54052,7 @@ paper,author
 24848,Teresa Molina
 24849,Aprajit Mahajan
 24849,Diego Jimenez Hernandez
-24849,Enrique Seira
+24849,Enrique Seira Bejarano
 24849,Sara G Castellanos
 24850,Juan Carlos Suarez Serrato
 24851,Anup Malani
@@ -54156,7 +54171,7 @@ paper,author
 24890,Harold L Cole
 24891,Robert J Gordon
 24892,Emily Oster
-24892,Stefan Hunt
+24892,Stefan Hut
 24893,Laura A Bakkensen
 24893,Lint Barrage
 24894,Angel Aguiar
@@ -54288,7 +54303,7 @@ paper,author
 24938,Ginger Zhe Jin
 24938,Guangyu Cao
 24938,Li-An Zhou
-24938,Wei Xiong
+24938,Xi Weng
 24939,Benjamin A Olken
 24939,Rema Hanna
 24940,Daniel M Hungerman
@@ -54412,8 +54427,8 @@ paper,author
 24981,Gideon Bornstein
 24981,Luigi Bocola
 24982,John Grigsby
-24982,Nicholas Bloom
 24982,Stefanie Stantcheva
+24982,Tom Nicholas
 24982,Ufuk Akcigit
 24983,Gabriel Zucman
 24983,Thomas Wright
@@ -54559,10 +54574,10 @@ paper,author
 25036,Philip Oreopoulos
 25036,Richard W Patterson
 25036,Uros Petronijevic
-25037,Jason M Ward
+25037,Jason Ward
 25037,Kevin Callison
 25037,Robert Kaestner
-25038,Amanda Myers
+25038,Amanda Fila
 25038,Emin M Dinlersoz
 25038,Nathan Goldschlag
 25038,Nikolas Zolas
@@ -54632,7 +54647,7 @@ paper,author
 25060,Olga B Stoddard
 25061,Anders Anderson
 25061,David T Robinson
-25062,Cevat G Aksoy
+25062,Cevat Giray Aksoy
 25062,Daniel S Treisman
 25062,Sergei Guriev
 25063,Itzhak Ben-David
@@ -54678,7 +54693,7 @@ paper,author
 25079,Enisse Kharroubi
 25079,Stephen G Cecchetti
 25080,Mark Murphy
-25080,Thomas Dee
+25080,Thomas S Dee
 25081,Dominik Sachs
 25081,Fabian Kindermann
 25081,Lukas Mayr
@@ -54763,7 +54778,7 @@ paper,author
 25110,Chad Kendall
 25110,Francesco Trebbi
 25110,Nathan J Canen
-25111,Jenny Xue
+25111,Jenny Xu
 25111,Kang Shi
 25111,Michael B Devereux
 25111,Sihao Chen
@@ -54784,6 +54799,7 @@ paper,author
 25117,W Bentley MacLeod
 25118,Andreas I Mueller
 25118,Andreas Kettemann
+25118,Damian Osterwalder
 25118,Josef Zweimuller
 25119,Christopher M Snyder
 25119,Michael R Kremer
@@ -54810,7 +54826,7 @@ paper,author
 25126,Ottmar Edenhofer
 25127,Hanno Lustig
 25127,Jordan Brooks
-25127,Michael L Katz
+25127,Michael Katz
 25128,Camilla Adams
 25128,CarlyWill Sloan
 25128,Jonathan Meer
@@ -54844,7 +54860,7 @@ paper,author
 25136,Salome Baslandze
 25136,Ufuk Akcigit
 25137,Christopher Woodruff
-25137,Enrique Seira
+25137,Enrique Seira Bejarano
 25137,Joyce Sadka
 25138,Alberto F Cavallo
 25139,Daniel Reck
@@ -54883,7 +54899,7 @@ paper,author
 25150,Amit Seru
 25150,Gregor Matvos
 25150,Mark L Egan
-25151,Benjamin M Marx
+25151,Benjamin Marx
 25151,Gabriel Koehler-Derrick
 25151,Samuel Bazzi
 25152,Arlene Wong
@@ -55165,7 +55181,7 @@ paper,author
 25249,James J Fetzer
 25249,Jeffrey A Young
 25249,Kassu W Hossiso
-25249,"Thomas F Howells, III"
+25249,Thomas F Howells III
 25249,Tina Highfill
 25250,Adriaan Kalwij
 25250,Arie Kapteyn
@@ -55280,11 +55296,11 @@ paper,author
 25290,Catherine C Eckel
 25290,Jonathan Meer
 25290,Mackenzie Alston
-25290,Wei Zhang
+25290,Wei Zhan
 25291,Aaron M Novotny
 25291,Di Fang
 25291,Michael R Thomsen
-25291,"Rodolfo M Nayga, Jr"
+25291,Rodolfo M Nayga
 25292,Elisabeth Kempf
 25292,Margarita Tsoutsoura
 25293,David Rezza Baqaee
@@ -55416,7 +55432,7 @@ paper,author
 25336,Itzhak Ben-David
 25337,Anil K Kashyap
 25337,Anna Pavlova
-25337,Jiang Li
+25337,Jian Li
 25337,Natalia Kovrijnykh
 25338,Alexander Strand
 25338,Kathleen J Mullen
@@ -55560,12 +55576,12 @@ paper,author
 25386,Mikhail Tirskikh
 25387,David Card
 25387,Dean R Hyslop
-25388,"James R Hines, Jr"
+25388,James R Hines
 25388,Michael Keen
 25389,Guo Xu
 25389,Marianne Bertrand
 25389,Robin Burgess
-25390,Chong Liu
+25390,Chong Li
 25390,David Popp
 25390,Jan Ondrich
 25390,Wancong Fu
@@ -55582,7 +55598,7 @@ paper,author
 25395,Andrew Leigh
 25395,Joshua S Gans
 25395,Martin C Schmalz
-25396,Isaac McFarlin Jr
+25396,Isaac McFarlin
 25396,Peter Bergman
 25397,Charles Engel
 25397,Steve Pak Yeung Wu
@@ -55942,13 +55958,13 @@ paper,author
 25530,Daniel Cerqueira
 25530,Danilo Santa Cruz Coelho
 25530,John J Donohue III
-25530,Jony Arrais Pinto Jr
+25530,Jony Arrais Pinto
 25530,Marcelo Fernandes
 25531,Valerie A Ramey
 25532,David A Hirshberg
 25532,Dmitry Arkhangelsky
 25532,Guido W Imbens
-25532,Stefan Wagner
+25532,Stefan Wager
 25532,Susan C Athey
 25533,Fabrizio Zilibotti
 25533,Giuseppe Sorrenti
@@ -55966,7 +55982,7 @@ paper,author
 25537,Frances C Moore
 25538,Hilary Williamson Hoynes
 25538,Jesse Rothstein
-25539,Cheng Cheng
+25539,Cheng Chen
 25539,Claudia Steinwender
 25540,Jonathan Zinman
 25540,Victor Stango
@@ -56028,7 +56044,7 @@ paper,author
 25560,Meredith Fowlie
 25560,W Reed Walker
 25561,Kanin Anantanasuwong
-25561,Kim Peijnenberg
+25561,Kim Peijnenburg
 25561,Olivia S Mitchell
 25561,Roy Kouwenberg
 25562,Alberto F Alesina
@@ -56094,11 +56110,11 @@ paper,author
 25581,Mario Macis
 25581,Nicola Lacetera
 25582,Chi L Ta
-25582,Don Fullterton
+25582,Don Fullerton
 25583,Ana Fostel
 25583,Gregory Phelan
 25583,John Geanakoplos
-25584,Chen Lian
+25584,Chen Lin
 25584,Mingzhu Tai
 25584,Qing Hu
 25584,Ross Levine
@@ -56423,13 +56439,13 @@ paper,author
 25694,Nagpurnanand R Prabhala
 25694,Prachi Mishra
 25694,Raghuram G Rajan
-25695,Avinash Collis
+25695,Avinash Gannamaneni
 25695,Erik Brynjolfsson
 25695,Felix Eggers
 25695,Kevin J Fox
 25695,W Erwin Diewert
 25696,Chi L Ta
-25696,Don Fullterton
+25696,Don Fullerton
 25697,Martina Viarengo
 25697,Raquel Fernandez
 25697,Sahar Parsa
@@ -56594,9 +56610,9 @@ paper,author
 25753,Justine S Hastings
 25753,Samantha Gold
 25754,Chang-Tai Hsieh
-25754,Wei Cheng
+25754,Wei Chen
 25754,Xilu Chen
-25754,Zheng Song
+25754,Zheng (Michael) Song
 25755,Sina T Ates
 25755,Ufuk Akcigit
 25756,Sina T Ates
@@ -56605,7 +56621,7 @@ paper,author
 25757,Matthew D Shapiro
 25757,Michael Gelman
 25757,Shachar Kariv
-25758,Jason M Ward
+25758,Jason Ward
 25758,Robert Kaestner
 25758,Theodore J Joyce
 25759,Fiona E Murray
@@ -56644,7 +56660,7 @@ paper,author
 25770,Laurence J Kotlikoff
 25770,Michael Leiseca
 25770,Patrick C Higgins
-25770,Yifan Ye
+25770,Victor Ye
 25771,Benjamin Leard
 25771,Jianwei Xing
 25771,Shanjun Li
@@ -56779,8 +56795,8 @@ paper,author
 25817,Grace Xing Hu
 25817,Haoxiang Zhu
 25817,Jiang W Wang
-25817,June Pan
-25818,Andrew B Bernard
+25817,Jun Pan
+25818,Andrew L Baer
 25818,J Bradford Jensen
 25818,Joseph Staudt
 25818,Lisa Singh
@@ -56904,7 +56920,7 @@ paper,author
 25857,Apostolos Filippas
 25857,John J Horton
 25857,Joseph M Golden
-25858,Devin Pope
+25858,Devin G Pope
 25858,Stefano DellaVigna
 25859,Dalton Conley
 25859,Tim Johnson
@@ -56937,9 +56953,9 @@ paper,author
 25870,Olesya Fomenko
 25871,Jacopo Ponticelli
 25871,Joan Monras
-25871,Juan Manuel Castro Vincenzi
+25871,Juan Manuel Castro-Vincenzi
 25871,Paula Bustos
-25872,Chen Lian
+25872,Chen Lin
 25872,Qilin Peng
 25872,Ross Levine
 25872,Wensi Xie
@@ -57070,7 +57086,7 @@ paper,author
 25921,Neeraj Kaushal
 25922,Hyunseob Kim
 25922,Jiaping Qiu
-25922,John R Graham
+25922,John W Graham
 25922,Si Li
 25923,Matthias Kehrig
 25923,Nicolas Vincent
@@ -57112,7 +57128,7 @@ paper,author
 25936,Johanna Catherine Maclean
 25937,Achyuta Adhvaryu
 25937,Anant Nyshadham
-25937,James E Fenske
+25937,James Fenske
 25937,Prashant Bharadwaj
 25937,Richard Stanley
 25938,Jonathan Meer
@@ -57131,7 +57147,7 @@ paper,author
 25943,Adair Morse
 25943,Nancy Wallace
 25943,Richard Stanton
-25943,Robert Bartlett
+25943,Robert P Bartlett III
 25944,Alexia Prskawetz
 25944,Miguel Sanchez-Romero
 25944,Ronald D Lee
@@ -57205,7 +57221,7 @@ paper,author
 25969,Achyuta Adhvaryu
 25969,Alain Labrique
 25969,Jonathan Sugimoto
-25969,Keith P West Jr
+25969,Keith P West
 25969,Parul Christian
 25969,Snaebjorn Gunnsteinsson
 25970,Chadwick C Curtis
@@ -57324,7 +57340,7 @@ paper,author
 26003,Klaus Prettner
 26003,Rainer Kotschy
 26004,Hyunseob Kim
-26004,John R Graham
+26004,John W Graham
 26004,Mark T Leary
 26005,Carl Shapiro
 26005,Fiona M Scott Morton
@@ -57476,7 +57492,7 @@ paper,author
 26062,Justin Birru
 26062,Rene M Stulz
 26062,Sinan Gokkaya
-26062,Xin Liu
+26062,Xi Liu
 26063,Anmol Bhandari
 26063,Ellen R McGrattan
 26063,Kurt See
@@ -57528,7 +57544,6 @@ paper,author
 26081,Laura R Wherry
 26081,Norman Johnson
 26081,Sarah Miller
-26081,Sean Altekruse
 26082,Ahmed Mushfiq Mobarak
 26082,Corina D Mommaerts
 26082,Costas Meghir
@@ -57641,7 +57656,7 @@ paper,author
 26119,Axel Ockenfels
 26119,B Douglas Bernheim
 26119,Sandro Ambuehl
-26120,Andrew Hicks
+26120,Andrew Bacher-Hicks
 26120,Ernst R Berndt
 26120,Richard G Frank
 26121,Dong Cheng
@@ -57942,7 +57957,7 @@ paper,author
 26210,Federico Mandelman
 26210,Francesco Zanetti
 26210,Jesus Fernandez-Villaverde
-26210,Yang You
+26210,Yang Yu
 26211,Martin Ravallion
 26212,George A Alessandria
 26212,Horag Choi
@@ -58168,7 +58183,7 @@ paper,author
 26292,Darius N Lakdawalla
 26292,Rebecca Mary Myerson
 26292,Reginald Tucker-Seeley
-26293,Benjamin M Marx
+26293,Benjamin Marx
 26293,Christopher Blattman
 26293,Horacio A Larreguy
 26293,Otis R Reid
@@ -58407,12 +58422,12 @@ paper,author
 26383,Evan J Soltas
 26383,Morris M Kleiner
 26384,Ajin Lee
-26384,Jiyoon Kim
+26384,Jiyoon (June) Kim
 26384,Maya Rossin-Slater
 26385,Arik Levinson
 26385,Emilson Silva
 26386,Emily K Penner
-26386,Thomas Dee
+26386,Thomas S Dee
 26387,Daniel J Wilson
 26387,Enrico Moretti
 26388,Clara Delavallade
@@ -58427,7 +58442,7 @@ paper,author
 26390,Gharad T Bryan
 26390,Nick Tsivanidis
 26391,Benjamin Schoefer
-26391,David Seim
+26391,David G Seim
 26391,Emmanuel Saez
 26392,Jiekun Huang
 26392,Scott J Weisbenner
@@ -58464,7 +58479,7 @@ paper,author
 26401,Do Q Lee
 26401,Kerwin Kofi Charles
 26401,Matthew S Johnson
-26401,"Melvin Stephens, Jr"
+26401,Melvin Stephens
 26402,Federica Romei
 26402,Kurt Mitman
 26402,Sergio de Ferra
@@ -58575,7 +58590,7 @@ paper,author
 26440,Ethan Kaplan
 26440,Fernando Saltiel
 26440,Sergio S Urzua
-26441,Chen Lian
+26441,Chen Lin
 26441,Michael S Weisbach
 26441,Thomas Schmid
 26442,Jason M Fletcher
@@ -58648,7 +58663,7 @@ paper,author
 26466,Chunzan Wu
 26466,Dirk Krueger
 26467,Chuan Yu
-26467,"David C Chan, Jr"
+26467,David C Chan
 26467,Matthew Gentzkow
 26468,Ching-mu Chen
 26468,Ping Wang
@@ -58730,7 +58745,7 @@ paper,author
 26491,Jinho Kim
 26491,Stephen L Ross
 26492,Cheryl Long
-26492,Kai Liu
+26492,Kai Li
 26492,Sebastian Galiani
 26492,Xiaojia Bao
 26493,Alexander M Chinco
@@ -58813,7 +58828,7 @@ paper,author
 26521,Christian Catalini
 26521,Jorge Guzman
 26521,Scott Stern
-26522,"Frank J Chaloupka, IV"
+26522,Frank J Chaloupka IV
 26522,Justin S White
 26522,Matthew R Levy
 26523,Alexander Oettl
@@ -58964,10 +58979,10 @@ paper,author
 26573,Jonathan S Hartley
 26573,Joseph Gyourko
 26574,Jessie Handbury
-26575,June Pan
+26575,Jun Pan
 26575,Zhe Geng
 26576,Claire Yurong Hong
-26576,June Pan
+26576,Jun Pan
 26576,Xiaomeng Lu
 26577,Bryan S Graham
 26578,Charles R Hulten
@@ -59163,7 +59178,7 @@ paper,author
 26648,Bryan T Kelly
 26648,Dacheng Xiu
 26648,Leland Bybee
-26649,Isaac McFarlin Jr
+26649,Isaac McFarlin
 26649,Justin C Ortagus
 26649,Melvin J Tanner
 26650,N Gregory Mankiw
@@ -59240,7 +59255,7 @@ paper,author
 26676,Shalise Ayromloo
 26677,Paola Giuliano
 26677,Paola Sapienza
-26678,Chen Lian
+26678,Chen Lin
 26678,Mingzhu Tai
 26678,Qing Hu
 26678,Ross Levine
@@ -59569,7 +59584,7 @@ paper,author
 26793,Graciela Laura Kaminsky
 26793,Leandro Medina
 26793,Shiyi Wang
-26794,James D Dana Jr
+26794,James D Dana
 26794,Kevin R Williams
 26795,Ali Hortacsu
 26795,Jean-Pierre H Dube
@@ -59667,7 +59682,7 @@ paper,author
 26826,Reca Sarfati
 26827,James R Markusen
 26827,Ronald B Davies
-26828,Daniel Cohen
+26828,Daniel Chen
 26828,Darrell Duffie
 26829,Christoph E Boehm
 26829,Nitya Pandalai-Nayar
@@ -59720,7 +59735,7 @@ paper,author
 26846,Amitabh Chandra
 26846,Michael E Chernew
 26846,Pragya Kakani
-26847,Jeffrey G Shrader Jr
+26847,Jeffrey G Shrader
 26847,Jordan Louviere
 26847,Joshua S Graff Zivin
 26847,Richard Carson
@@ -59877,7 +59892,7 @@ paper,author
 26901,Simon Mongey
 26902,James H Stock
 26903,Amit Seru
-26903,Erica Jiang
+26903,Erica Xuewei Jiang
 26903,Gregor Matvos
 26903,Tomasz Piskorski
 26904,Caixia Shen
@@ -60118,7 +60133,7 @@ paper,author
 26977,Hua Wang
 26978,Christopher S Carpenter
 26978,Dario Sansone
-26978,Gilbert Gonzales Jr
+26978,Gilbert Gonzales
 26978,Tara McKay
 26979,Daniel M Hungerman
 26979,Vivek S Moorthy
@@ -60354,7 +60369,7 @@ paper,author
 27053,Yang You
 27054,Benjamin Hansen
 27054,Drew McNichols
-27055,Chen Lian
+27055,Chen Lin
 27055,Ross Levine
 27055,Wensi Xie
 27055,Wenzhi Ding
@@ -60402,7 +60417,7 @@ paper,author
 27071,David J Deming
 27072,Devin G Pope
 27072,M Keith Chen
-27073,Benjamin M Marx
+27073,Benjamin Marx
 27073,Masyhur Hilmy
 27073,Samuel Bazzi
 27074,Agostino Capponi
@@ -60494,7 +60509,7 @@ paper,author
 27098,David J G Slusky
 27098,Shooshan Danagoulian
 27099,Christopher M Meissner
-27099,Zhixian Lin
+27099,Peter Zhixian Lin
 27100,Sang Yoon (Tim) Lee
 27100,Sangmin Aum
 27100,Yongseok Shin
@@ -60972,7 +60987,7 @@ paper,author
 27251,Stephen P Zeldes
 27252,Giovanni Maggi
 27252,Ralph Ossa
-27253,Chen Lian
+27253,Chen Lin
 27253,Lai Wei
 27253,Ross Levine
 27253,Wensi Xie
@@ -61009,7 +61024,7 @@ paper,author
 27265,Andrew C Caplin
 27265,Daniel J Martin
 27266,Jing Cynthia Wu
-27266,Yinan Liu
+27266,Yan Liu
 27267,Alexander Ahammer
 27267,Analisa Packham
 27268,William J Collins
@@ -61080,7 +61095,7 @@ paper,author
 27288,Leonardo Bursztyn
 27289,Constantine Yannelis
 27289,Greg Buchak
-27289,Michael L Barnett
+27289,Michael Barnett
 27290,Orazio P Attanasio
 27290,Sonya Krutikova
 27291,Keith Meyers
@@ -61182,7 +61197,7 @@ paper,author
 27322,Kyutaro Matsuzawa
 27323,Cesar Sosa-Padilla
 27323,Javier Bianchi
-27324,"Roland G Fryer, Jr"
+27324,Roland G Fryer
 27324,Tanaya Devi
 27325,Bradley Setzler
 27325,Kory Kroft
@@ -61212,7 +61227,7 @@ paper,author
 27335,Tao Zha
 27336,Edward C Norton
 27336,Euna Han
-27336,Jiyoon Kim
+27336,Jiyoon (June) Kim
 27336,John Cawley
 27337,Adriana Lleras-Muney
 27337,Matthew M Miller
@@ -61221,6 +61236,7 @@ paper,author
 27338,Avi Goldfarb
 27338,Christopher Forman
 27339,Alessandro Rebucci
+27339,Daniel Jimenez
 27339,Jonathan S Hartley
 27340,Charles I Jones
 27340,Peter J Klenow
@@ -61277,7 +61293,7 @@ paper,author
 27355,Shuo Liu
 27356,Bei Liu
 27356,James J Heckman
-27356,Jing Zhou
+27356,Jin Zhou
 27356,Mai Lu
 27357,David Molitor
 27357,Julian Reif
@@ -61395,7 +61411,7 @@ paper,author
 27392,Esteban M Aucejo
 27392,Jacob F French
 27392,Maria Paola Ugalde Araya
-27393,Chen Lian
+27393,Chen Lin
 27393,Ross Levine
 27393,Wensi Xie
 27393,Wenzhi Ding
@@ -61518,7 +61534,7 @@ paper,author
 27423,Marshall Burke
 27423,Michael Wara
 27423,Sam Heft-Neal
-27424,Andreas Weber
+27424,Andrea Weber
 27424,David Card
 27424,David S Lee
 27424,Zhuan Pei
@@ -61529,7 +61545,7 @@ paper,author
 27427,Chad D Meyerhoefer
 27427,Hung-Hao Chang
 27428,Guido Menzio
-27428,Ludo Visschers
+27428,Lodewijk P Visschers
 27428,Paolo Martellini
 27429,Anders Jensen
 27429,Lucie Gadenne
@@ -61557,7 +61573,7 @@ paper,author
 27436,Robert A Margo
 27437,Kory Kroft
 27437,Matthew J Notowidigdo
-27437,Rene Leal Vizcaino
+27437,Rene Leal-Vizcaino
 27437,Ting Wang
 27438,David Blanchett
 27438,Jonathan Reuter
@@ -61623,10 +61639,10 @@ paper,author
 27457,Jonathan T Kolstad
 27457,Ned Augenblick
 27457,Ziad Obermeyer
-27458,"Joseph J Doyle, Jr"
+27458,Joseph J Doyle
 27459,Brigitte C Madrian
 27459,Christopher Clayton
-27459,Christopher F Chabris
+27459,Christopher Harris
 27459,David I Laibson
 27459,James J Choi
 27459,John Beshears
@@ -61645,7 +61661,7 @@ paper,author
 27465,Magnus Irie
 27466,Nancy L Stokey
 27467,Daniel Singer
-27467,"David C Chan, Jr"
+27467,David C Chan
 27467,Diana Zhu
 27467,Jason T Abaluck
 27467,Leila Agha
@@ -61670,7 +61686,7 @@ paper,author
 27475,Hanming Fang
 27475,Long Wang
 27475,Yang Yang
-27476,Andre Nickow
+27476,Andre Joshua Nickow
 27476,Philip Oreopoulos
 27476,Vincent Quan
 27477,Guillaume Haeringer
@@ -61721,7 +61737,7 @@ paper,author
 27491,Wenxin Du
 27492,Josh Lerner
 27492,Ramana Nanda
-27493,Chen Lian
+27493,Chen Lin
 27493,Ross Levine
 27493,Wensi Xie
 27493,Wenzhi Ding
@@ -62103,7 +62119,7 @@ paper,author
 27610,Ludwig Straub
 27610,Michael J Fishman
 27611,Edward Miguel
-27611,Joan Hamory
+27611,Joan Hamory Hicks
 27611,Michael R Kremer
 27611,Michael W Walker
 27611,Sarah J Baird
@@ -62162,7 +62178,7 @@ paper,author
 27628,Hanming Fang
 27628,Li-An Zhou
 27629,Adair Morse
-27629,"Robert P Bartlett, III"
+27629,Robert P Bartlett III
 27630,Alessandro Barattieri
 27630,Matteo Cacciatore
 27631,Georgy Egorov
@@ -62325,7 +62341,7 @@ paper,author
 27680,Shing-Yi Wang
 27681,Aprajit Mahajan
 27681,Carolina Corral
-27681,Enrique Seira
+27681,Enrique Seira Bejarano
 27681,Xavier Gine
 27682,Arvind Krishnamurthy
 27682,Hanno Lustig
@@ -62421,7 +62437,7 @@ paper,author
 27720,Alex Bryson
 27720,David G Blanchflower
 27721,Guillermo Ordonez
-27721,Haelim Anderson
+27721,Haelim Park Anderson
 27721,Selman Erol
 27722,Elhanan Helpman
 27722,Gene M Grossman
@@ -62522,7 +62538,7 @@ paper,author
 27756,Steven T Berry
 27757,David E Bloom
 27757,Klaus Prettner
-27757,Michael A Kuhn
+27757,Michael Kuhn
 27758,Guido Menzio
 27758,Paolo Martellini
 27759,Ashley N Muchow
@@ -62639,7 +62655,7 @@ paper,author
 27796,Diane Whitmore Schanzenbach
 27796,Hilary Williamson Hoynes
 27796,Marianne P Bitler
-27797,"Melvin Stephens, Jr"
+27797,Melvin Stephens
 27797,Steven J Haider
 27798,Abhay Aneja
 27798,Guo Xu
@@ -62860,7 +62876,7 @@ paper,author
 27860,Victor Stango
 27861,Erica X N Li
 27861,Hao Zhou
-27861,Jian Zhang
+27861,Ji Zhang
 27861,Tao Zha
 27862,Jeremy G Pearce
 27862,Marta Prato
@@ -63014,7 +63030,7 @@ paper,author
 27912,Matthew S Jaremski
 27913,Anya Savikhin Samek
 27913,John A List
-27913,"Roland G Fryer, Jr"
+27913,Roland G Fryer
 27913,Steven D Levitt
 27914,J Lawrence Broz
 27914,T Renee Bowen
@@ -63084,7 +63100,7 @@ paper,author
 27938,Carl T Kitchens
 27938,Sergey Nigai
 27938,Taylor Jaworski
-27939,"James R Hines, Jr"
+27939,James R Hines
 27940,Jacob Goldin
 27940,Katherine Michelmore
 27941,Thomas F Hellmann
@@ -63109,7 +63125,7 @@ paper,author
 27947,Yueran Ma
 27948,Edward C Norton
 27948,Emily J Lawton
-27948,Jun Liu
+27948,Jun Li
 27949,Georgy Egorov
 27949,Konstantin Sonin
 27950,Alan L Zhang
@@ -63119,7 +63135,7 @@ paper,author
 27951,Federico Ravenna
 27951,Matteo Cacciatore
 27952,Jan Rivkin
-27952,Michael C Christensen
+27952,Michael Christensen
 27952,Mu-Jeung Yang
 27952,Nicholas Bloom
 27952,Raffaella Sadun
@@ -63151,7 +63167,7 @@ paper,author
 27961,Steven J Davis
 27962,Bryan S Graham
 27963,Geoffrey Heal
-27964,Chen Lian
+27964,Chen Lin
 27964,Mingzhu Tai
 27964,Ross Levine
 27964,Wensi Xie
@@ -63213,7 +63229,7 @@ paper,author
 27982,Matthew J Neidell
 27982,Nicholas J Sanders
 27983,Heiwai Tang
-27983,Jing Huang
+27983,Jing Hang
 27983,Pravin Krishna
 27984,Jett Pettus
 27984,Matthew Backus
@@ -63294,13 +63310,13 @@ paper,author
 28009,Boyan Jovanovic
 28010,Campbell R Harvey
 28010,Itzhak Ben-David
-28010,John R Graham
+28010,John W Graham
 28010,John W Payne
 28010,Michael Boutros
 28011,Dean Karlan
-28011,Hannah Trachtman
 28011,Jonathan Zinman
 28011,Julian C Jamison
+28011,Samantha Horn
 28012,Christopher J Cronin
 28012,William N Evans
 28013,Aaron Hedlund
@@ -63324,7 +63340,7 @@ paper,author
 28019,Zhu Wang
 28020,Anil K Kashyap
 28020,Anna Pavlova
-28020,Jiang Li
+28020,Jian Li
 28020,Natalia Kovrijnykh
 28021,Marco Di Maggio
 28021,Vincent Yao
@@ -63383,7 +63399,7 @@ paper,author
 28038,Justin Birru
 28038,Rene M Stulz
 28038,Sinan Gokkaya
-28038,Xin Liu
+28038,Xi Liu
 28039,Benjamin J Keys
 28039,Gene Amromin
 28039,Neil Bhutta
@@ -63397,7 +63413,7 @@ paper,author
 28042,Samuel Kapon
 28042,Sylvain Chassang
 28043,Hasin Yousaf
-28043,"James M Snyder, Jr"
+28043,James M Snyder
 28044,Michael Weber
 28044,Olivier Coibion
 28044,Yuriy Gorodnichenko
@@ -63410,7 +63426,7 @@ paper,author
 28045,Tamma A Carleton
 28045,Vaishaal Shankar
 28046,James X Sullivan
-28046,Melissa S Kearney
+28046,Melissa Schettini Kearney
 28046,Rachel Fulcher Dawson
 28047,Andrey Fradkin
 28047,Chiara Farronato
@@ -63463,7 +63479,7 @@ paper,author
 28062,Jeffrey Hicks
 28062,Joshua D Gottlieb
 28063,Claire Yurong Hong
-28063,June Pan
+28063,Jun Pan
 28063,Xiaomeng Lu
 28064,Charles Hodgson
 28064,Nikhil Agarwal
@@ -63881,7 +63897,7 @@ paper,author
 28202,Aaron Chalfin
 28202,Benjamin Hansen
 28202,Emily K Weisburst
-28202,"Morgan C Williams, Jr"
+28202,Morgan C Williams
 28203,David H Hsu
 28203,Matt Marx
 28204,Ralph S J Koijen
@@ -63964,7 +63980,7 @@ paper,author
 28230,Simon Jager
 28231,Gerard Hoberg
 28231,Gordon M Phillips
-28231,Liu Yang
+28231,Yuan Li
 28232,Hiro Ito
 28232,Joshua Aizenman
 28233,Gregory Thwaites
@@ -64230,7 +64246,7 @@ paper,author
 28314,Nicholas Bloom
 28314,Robert S Fletcher
 28315,Joao Paulo Pessoa
-28315,Rafael Dix-Carneiro
+28315,Rafael Dix Carneiro
 28315,Ricardo M Reyes-Heroles
 28315,Sharon Traiberman
 28316,Adrienne M Lucas
@@ -64457,7 +64473,7 @@ paper,author
 28391,Costas Meghir
 28391,Gabriel Ulyssea
 28391,Pinelopi Koujianou Goldberg
-28391,Rafael Dix-Carneiro
+28391,Rafael Dix Carneiro
 28392,Angus S Deaton
 28393,Christopher R Udry
 28393,Dean Karlan
@@ -64788,7 +64804,7 @@ paper,author
 28495,Federico Mandelman
 28495,Francesco Zanetti
 28495,Jesus Fernandez-Villaverde
-28495,Yang You
+28495,Yang Yu
 28496,Barbara J Spencer
 28496,James A Brander
 28497,Kentaro Nakajima

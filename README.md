@@ -8,7 +8,7 @@ The package provides the following four data frames.
 * `programs`: paper-program correspondences.
 * `program_descriptions`: program descriptions.
 
-I disambiguate author names by cross-referencing against RePEc IDs and common co-authorships, and via fuzzy matching.
+I disambiguate author names by cross-referencing against NBER user names, RePEc IDs, common co-authorships, common [program](https://www.nber.org/programs-projects/programs-working-groups) associations, and name edit distances.
 Please notify me of any errors by [adding an issue](https://github.com/bldavies/nberwp/issues) or [submitting a pull request](https://github.com/bldavies/nberwp/pulls).
 
 See [here](https://www.nber.org/policies.html) for information about the NBER working paper catalogue.
