@@ -108,7 +108,6 @@ clean_name = function(x) {
     subfun('C[*]', 'C') %>%
     subfun('C -L|L -C', 'L-C') %>%
     subfun('C -Y', 'C-Y') %>%
-    # subfun('Edwin.*Lai', 'Edwin Lai') %>%
     subfun('Feldstean', 'Feldstein') %>%
     subfun('Fullterton', 'Fullerton') %>%
     subfun('Giles', 'Gilles') %>%
@@ -273,7 +272,7 @@ reassignments_cc = authors_raw %>%
   select(id.x, cc_id = id) %>%
   filter(id.x != cc_id) %>%
   distinct() %>%
-  # Determine co-authors' papapers
+  # Determine co-authors' papers
   left_join(id_papers, by = c('cc_id' = 'id')) %>%
   select(id.x, cc_paper = paper) %>%
   distinct() %>%
