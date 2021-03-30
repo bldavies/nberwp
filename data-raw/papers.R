@@ -38,7 +38,7 @@ remove_parenthetical_notes = function(x) {
 }
 
 # Define function for removing HTML tags, replacing non-ASCII characters
-# with ASCII equivalents, and squishing whitespace
+# with ASCII equivalents, forcing spaces after colons, and squishing whitespace
 clean_text = function(x) {
   subfun = function(x, pattern, y) gsub(pattern, y, x, perl = TRUE)
   x %>%
@@ -62,6 +62,7 @@ clean_text = function(x) {
     subfun('–', '--') %>%
     subfun('—', '---') %>%
     subfun('≤', '<=') %>%
+    subfun(':([A-Za-z0-9])', ': \\1') %>%
     stringr::str_squish()
 }
 
