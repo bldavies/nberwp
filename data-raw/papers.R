@@ -84,6 +84,7 @@ fix_title = function(x) {
     subfun('eE', 'e E') %>%  # 949, 1850, 3440
     subfun('yF', 'y F') %>%  # 993
     subfun('eC', 'e C') %>%  # 1063
+    subfun(',P', ', P') %>%  # 1106
     subfun('tI', 't I') %>%  # 1348
     subfun('sD', 's D') %>%  # 1348
     subfun('onT', 'on T') %>%  # 1396
@@ -132,6 +133,7 @@ fix_title = function(x) {
     subfun('eS', 'e S') %>%  # 5364, 6732, 24938
     subfun('yM', 'y M') %>%  # 5474
     subfun('DoB', 'Do B') %>%  # 5695
+    subfun(',I', ', I') %>%  # 6223
     subfun('lyis', 'lysis') %>%  # 6310
     subfun('SYs', 'Sys') %>%  # 6436
     subfun('QuUality', 'Quality') %>%  # 6753
@@ -139,11 +141,14 @@ fix_title = function(x) {
     subfun('nA', 'n A') %>%  # 7493
     subfun('n: b', 'n\" b') %>%  # 7493
     subfun('SHe', 'She') %>%  # 8060
+    subfun(',a', ', a') %>%  # 9614
     subfun('s1', 's') %>%  # 10447
     subfun('mis ', 'mic ') %>%  # 11470
     subfun('N 1$', 'N+1') %>%  # 11713
     subfun('jA', 'ja') %>%  # 12393
     subfun('\\%u2019', '\'') %>%  # 12396
+    subfun(',2004', ', 2004') %>%  # 12607
+    subfun(',1980', ', 1980') %>%  # 15274
     subfun('A-az', 'iaz') %>%  # 21350
     subfun(',W', ', W') %>%  # 25311
     subfun('\\?E', '? E') %>%  # 26268
