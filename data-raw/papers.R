@@ -26,6 +26,17 @@ titles = read_lines('data-raw/metadata/title.txt') %>%
 # Set boundary issue data
 max_issue_date = '2021-02-28'
 
+# Define function for removing known parenthetical notes
+remove_parenthetical_notes = function(x) {
+  subfun = function(x, pattern, y) gsub(pattern, y, x, ignore.case = T, perl = TRUE)
+  x %>%
+    subfun('\\(long version\\)', '') %>%  # 14662, 15660, 15881
+    subfun('\\(part.*\\)$', '') %>%  # 3018, 3344
+    subfun('\\(rev.*\\)', '') %>%  # 337, 409, 414, 508, 584, 660, 942
+    subfun('\\(see also.*\\)', '') %>%  # 3131, 3132
+    subfun('\\(series.*ble\\)', '')  # 8467
+}
+
 # Define function for removing HTML tags, replacing non-ASCII characters
 # with ASCII equivalents, and squishing whitespace
 clean_text = function(x) {
@@ -149,7 +160,8 @@ papers = dates %>%
          year = as.integer(substr(issue_date, 1, 4)),
          month = as.integer(substr(issue_date, 6, 7))) %>%
   select(paper, year, month, title) %>%
-  mutate(title = clean_text(title),
+  mutate(title = remove_parenthetical_notes(title),
+         title = clean_text(title),
          title = fix_title(title)) %>%
   filter(paper > 0) %>%
   filter(!paper %in% bad_numbers) %>%
