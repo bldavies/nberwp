@@ -1,10 +1,11 @@
 # nberwp
 
 This package contains information about [NBER](https://www.nber.org) working papers published between June 1973 and February 2021.
-The package provides the following four data frames.
+The package provides the following five data frames.
 
 * `papers`: working paper attributes.
-* `authors`: paper-author correspondences.
+* `authors`: author attributes.
+* `paper_authors`: paper-author correspondences.
 * `programs`: paper-program correspondences.
 * `program_descriptions`: program descriptions.
 

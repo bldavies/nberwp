@@ -1,6 +1,6 @@
 # AUTHORS.R
 #
-# This script exports a table of paper-author correspondences.
+# This script exports tables of author attributes and paper-author correspondences.
 #
 # Ben Davies
 # March 2021
@@ -201,13 +201,13 @@ authors_raw = authors_raw_nber %>%
   mutate(user_nber = replace(user_nber, !is.na(user_repec), first(user_nber))) %>%
   ungroup() %>%
   # Assign new IDs for next stage of disambiguation process
+  group_by(paper) %>%
+  mutate(id = 100 * paper + row_number(),
+         no_nber = is.na(user_nber)) %>%
   group_by(user_nber) %>%
-  arrange(paper) %>%
-  mutate(id = ifelse(!is.na(user_nber), row_number(), 1)) %>%
+  mutate(id = ifelse(!no_nber, min(id), id)) %>%
   ungroup() %>%
-  arrange(user_nber, paper) %>%
-  mutate(id = cumsum(id == 1),
-         no_nber = is.na(user_nber))
+  arrange(user_nber, paper)
 
 
 # Fuzzy matching initialization ----
@@ -349,17 +349,26 @@ authors_post_programs = authors_post_cc %>%
 
 # Finishing up ----
 
-# Prepare paper-author correspondences
+# Prepare table of author attributes
 authors = authors_post_programs %>%
   group_by(id) %>%
   mutate(name = name[which.max(nchar(name))]) %>%
   ungroup() %>%
-  select(paper, author = name) %>%
+  select(author = id, name, user_nber, user_repec) %>%
+  distinct() %>%
+  arrange(author)
+
+# Prepare paper-author correspondences
+paper_authors = authors_post_programs %>%
+  select(paper, author = id) %>%
+  distinct() %>%
   arrange(paper, author)
 
 # Export data
 write_csv(authors, 'data-raw/authors.csv')
 save(authors, file = 'data/authors.rda', version = 2, compress = 'bzip2')
+write_csv(paper_authors, 'data-raw/paper_authors.csv')
+save(paper_authors, file = 'data/paper_authors.rda', version = 2, compress = 'bzip2')
 
 # Save session info
 save_session_info('data-raw/authors.log')

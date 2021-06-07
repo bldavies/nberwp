@@ -1,18 +1,16 @@
 #' NBER working paper authors
 #'
-#' Data frame containing author attributes.
+#' Data frame containing paper-author correspondences.
 #'
 #' @docType data
 #'
-#' @usage data(authors)
+#' @usage data(paper_authors)
 #'
 #' @format Data frame with columns
 #' \describe{
+#' \item{paper}{Working paper number}
 #' \item{author}{Author ID}
-#' \item{name}{Author name}
-#' \item{user_nber}{Author username on NBER website}
-#' \item{user_repec}{Author username on RePEc}
 #' }
 #'
 #' @source \href{http://www2.nber.org/wp_metadata/}{National Bureau of Economic Research}
-"authors"
+"paper_authors"
