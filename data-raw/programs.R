@@ -1,6 +1,6 @@
 # PROGRAMS.R
 #
-# This script exports a table of paper-program correspondences.
+# This script exports tables of program attributes and of paper-program correspondences.
 #
 # Ben Davies
 # March 2021
@@ -19,7 +19,7 @@ prog = read_tsv('data-raw/metadata/prog.txt')
 papers = read_csv('data-raw/papers.csv')
 
 # Create paper-program crosswalk
-programs = prog %>%
+paper_programs = prog %>%
   filter(grepl('^w[0-9]+', paper)) %>%
   mutate(paper = as.integer(sub('^w', '', paper))) %>%
   semi_join(papers) %>%
@@ -27,12 +27,12 @@ programs = prog %>%
   arrange(paper, program)
 
 # Export paper-program crosswalk
-write_csv(programs, 'data-raw/programs.csv')
-save(programs, file = 'data/programs.rda', version = 2, compress = 'bzip2')
+write_csv(paper_programs, 'data-raw/paper_programs.csv')
+save(paper_programs, file = 'data/paper_programs.rda', version = 2, compress = 'bzip2')
 
 # Export program descriptions
-program_descriptions = read_csv('data-raw/program_descriptions.csv')
-save(program_descriptions, file = 'data/program_descriptions.rda', version = 2, compress = 'bzip2')
+programs = read_csv('data-raw/programs.csv')
+save(programs, file = 'data/programs.rda', version = 2, compress = 'bzip2')
 
 # Save session info
 save_session_info('data-raw/programs.log')

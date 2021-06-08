@@ -24,7 +24,7 @@ nberwo = read_csv('data-raw/nberwo.csv')
 
 # Import processed data
 papers = read_csv('data-raw/papers.csv')
-programs = read_csv('data-raw/programs.csv')
+paper_programs = read_csv('data-raw/paper_programs.csv')
 
 
 # Raw data cleaning ----
@@ -312,7 +312,7 @@ id_names = authors_post_cc %>%
 # Identify unique ID-program pairs
 id_programs = authors_post_cc %>%
   select(id, paper) %>%
-  left_join(programs) %>%
+  left_join(paper_programs) %>%
   distinct(id, program)
 
 # Extract ID reassignments based on common program matching
