@@ -287,7 +287,8 @@ authors_post_cc = authors_raw %>%
   select(-to_id) %>%
   group_by(id) %>%
   arrange(user_nber) %>%
-  mutate(user_nber = first(user_nber)) %>%
+  mutate(user_nber = first(user_nber),
+         user_repec = first(user_repec)) %>%
   ungroup()
 
 
@@ -331,7 +332,8 @@ authors_post_programs = authors_post_cc %>%
   select(-to_id) %>%
   group_by(id) %>%
   arrange(user_nber) %>%
-  mutate(user_nber = first(user_nber)) %>%
+  mutate(user_nber = first(user_nber),
+         user_repec = first(user_repec)) %>%
   ungroup()
 
 
@@ -345,6 +347,11 @@ authors = authors_post_programs %>%
   select(author = id, name, user_nber, user_repec) %>%
   distinct() %>%
   arrange(author)
+
+# Assert that author IDs are unique
+if (nrow(authors) != n_distinct(authors$author)) {
+  stop('Author IDs are not unique')
+}
 
 # Prepare paper-author correspondences
 paper_authors = authors_post_programs %>%
