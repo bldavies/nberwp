@@ -169,18 +169,6 @@ authors_raw_repec = nberwo %>%
          name = ifelse(name == 'NULL', NA, name)) %>%
   distinct()
 
-# Define function for asserting NBER:RePEc user name correspondences is m:1
-assert_many_to_one = function(x) {
-  t = x %>%
-    drop_na() %>%
-    distinct(user_nber, user_repec) %>%
-    count(user_nber, sort = T) %>%
-    {max(.$n)}
-  if (t > 1) {
-    stop('NBER:RePEc user name correspondence is not m:1')
-  }
-  x
-}
 
 # Define function for reassigning NBER user names
 reassign_manually = function(x) {
@@ -194,8 +182,8 @@ authors_raw = authors_raw_nber %>%
   # Do manual reassignments and catch known RePEc user name mis-codings
   mutate(user_nber = reassign_manually(user_nber)) %>%
   mutate(user_repec = replace(user_repec, user_nber %in% c('george_wu', 'ye_qi'), NA)) %>%
-  # Assert that NBER:RePEc user name correspondences are m:1
-  assert_many_to_one() %>%
+  # Assert that NBER:RePEc user name correspondence are m:1
+  assert_many2one(user_nber, user_repec) %>%
   # Collapse m:1 NBER:RePEc matches to 1:1
   group_by(user_repec) %>%
   mutate(user_nber = replace(user_nber, !is.na(user_repec), first(user_nber))) %>%
