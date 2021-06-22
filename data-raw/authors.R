@@ -168,9 +168,7 @@ authors_raw_repec = nberwo %>%
          name = str_squish(name),
          name = clean_name(name),
          name = ifelse(name == 'NULL', NA, name)) %>%
-  distinct() %>%
-  # Do some manual editing
-  mutate(user_repec = replace(user_repec, paper == 4515 & name == 'Caroline M Betts', 'pbe370'))
+  distinct()
 
 
 # Define function for reassigning NBER user names
@@ -204,7 +202,10 @@ authors_raw = authors_raw_nber %>%
   # Collapse m:1 NBER:RePEc matches to 1:1
   group_by(user_repec) %>%
   mutate(user_nber = replace(user_nber, !is.na(user_repec), first(user_nber))) %>%
+  group_by(user_nber) %>%
+  mutate(user_repec = replace(user_repec, !is.na(user_nber), first(user_repec[!is.na(user_repec)]))) %>%
   ungroup() %>%
+  assert_one2one(user_repec, user_nber) %>%
   # Assign new IDs for next stage of disambiguation process
   group_by(paper) %>%
   mutate(id = 100 * paper + row_number(),
