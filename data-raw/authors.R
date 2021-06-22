@@ -147,7 +147,8 @@ authors_raw_nber = auths %>%
     7760, 'Mary Beth Landrum', 'MaryBeth_Landrum',
     7760, 'Joseph P Newhouse', 'joseph_newhouse',
     22701, 'Andrei Shleifer', 'andrei_shleifer'
-  ))
+  )) %>%
+  mutate(user_nber = replace(user_nber, paper == 4515 & name == 'Caroline M Betts', 'caroline_betts'))
 
 # Extract raw authorship data with RePEc user names
 authors_raw_repec = nberwo %>%
@@ -167,20 +168,36 @@ authors_raw_repec = nberwo %>%
          name = str_squish(name),
          name = clean_name(name),
          name = ifelse(name == 'NULL', NA, name)) %>%
-  distinct()
+  distinct() %>%
+  # Do some manual editing
+  mutate(user_repec = replace(user_repec, paper == 4515 & name == 'Caroline M Betts', 'pbe370'))
 
 
 # Define function for reassigning NBER user names
-reassign_manually = function(x) {
+reassign_nber_manually = function(x) {
+  x = replace(x, x == 'albert_n._link', 'albert_link')
+  x = replace(x, x == 'benjamin__bennett_1', 'benjamin_bennett')
+  x = replace(x, x == 'benjamin_remy', 'benjamin_chabot')
   x = replace(x, x == 'elizabeth_richardson', 'elizabeth_richardson_vigdor')
 }
+
+# Specify manual merges for authors with no NBER user name
+manual_merges_nonber = tribble(
+  ~paper, ~name, ~merge_id,
+  7425, 'Brett Katzman', 'brett_katzman',
+  8844, 'Brett Katzman', 'brett_katzman',
+  471, 'Burton G Malkiel', 'burton_malkiel',
+  576, 'Burton G Malkiel', 'burton_malkiel',
+  700, 'Burton G Malkiel', 'burton_malkiel',
+  7590, 'Burton G Malkiel', 'burton_malkiel'
+)
 
 # Merge raw authorship data, treating NBER records as ground truth
 authors_raw = authors_raw_nber %>%
   left_join(authors_raw_repec) %>%
   arrange(paper, name) %>%
   # Do manual reassignments and catch known RePEc user name mis-codings
-  mutate(user_nber = reassign_manually(user_nber)) %>%
+  mutate(user_nber = reassign_nber_manually(user_nber)) %>%
   mutate(user_repec = replace(user_repec, user_nber %in% c('george_wu', 'ye_qi'), NA)) %>%
   # Assert that NBER:RePEc user name correspondence are m:1
   assert_many2one(user_nber, user_repec) %>%
@@ -194,6 +211,10 @@ authors_raw = authors_raw_nber %>%
          no_nber = is.na(user_nber)) %>%
   group_by(user_nber) %>%
   mutate(id = ifelse(!no_nber, min(id), id)) %>%
+  # Manually merge authors with no NBER user name
+  left_join(manual_merges_nonber) %>%
+  group_by(merge_id) %>%
+  mutate(id = replace(id, !is.na(merge_id), min(id))) %>%
   ungroup() %>%
   arrange(user_nber, paper)
 
