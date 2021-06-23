@@ -2,15 +2,13 @@ author,name,user_nber,user_repec
 101,Finis Welch,finis_welch,NA
 201,Barry R Chiswick,barry_chiswick,pch425
 301,Swarnjit S Arora,NA,NA
-401,Lee A Lillard,NA,NA
+401,Lee A Lillard,NA,pli669
 501,James P Smith,james_smith,psm28
 601,Victor Zarnowitz,victor_zarnowitz,NA
 701,Lewis C Solmon,NA,NA
 801,Merle Yahr Weiss,NA,NA
 802,Robert E Lipsey,robert_lipsey,pli259
-901,Lee A Lillard,NA,NA
 1001,Paul W Holland,NA,NA
-1101,Paul W Holland,NA,NA
 1201,Melvin Reder,NA,NA
 1301,Reuben Gronau,reuben_gronau,pgr333
 1401,Lewis C Solmon,NA,NA
@@ -47,14 +45,12 @@ author,name,user_nber,user_repec
 4101,Richard A Posner,NA,NA
 4201,Gary S Becker,gary_becker,NA
 4301,Roy E Welsch,roy_welsch,NA
-4401,Paul W Holland,NA,NA
 4402,Samuel Leinhardt,NA,NA
 4501,Raymond Struyk,NA,NA
 4502,Robert A Leone,NA,NA
 4601,Neil Kaden,neil_kaden,NA
 4602,Richard A Becker,richard_becker,NA
 4603,Virginia Klema,virginia_klema,NA
-4701,Lee A Lillard,NA,NA
 4801,Bent Hansen,NA,NA
 4802,Karim Nashashibi,karim_nashashibi,NA
 5002,Orley C Ashenfelter,orley_ashenfelter,pas9
@@ -63,7 +59,6 @@ author,name,user_nber,user_repec
 5501,Richard A Posner,NA,NA
 5601,Thomas F Cooley,thomas_cooley,pco35
 5701,Stephen J DeCanio,stephendecanio,NA
-5801,Paul W Holland,NA,NA
 5802,Richard W Hill,NA,NA
 5901,Ann P Bartel,ann_bartel,NA
 6001,Edwin Kuh,NA,NA
@@ -74,10 +69,7 @@ author,name,user_nber,user_repec
 6601,David A Belsley,david_belsley,NA
 6602,Virginia Klema,NA,NA
 6701,Alan S Blinder,alan_blinder,pbl41
-6801,Forrest D Nelson,NA,NA
 6901,G S Maddala,NA,NA
-7001,Forrest D Nelson,NA,NA
-7002,G S Maddala,NA,NA
 7102,Uri Ben-Zion,uri_ben-zion,NA
 7201,Edward N Wolff,edward_wolff,NA
 7301,Mark A Satterthwaite,NA,NA
@@ -85,7 +77,6 @@ author,name,user_nber,user_repec
 7401,Robert T Michael,NA,NA
 7801,Richard W Hill,NA,NA
 7901,Michael R Darby,michael_darby,NA
-8001,Lee A Lillard,NA,NA
 8201,Richard W Hill,NA,NA
 8301,Michael L Brown,NA,NA
 8401,Richard W Hill,NA,NA
@@ -95,8 +86,6 @@ author,name,user_nber,user_repec
 9101,Warren G Lavey,NA,NA
 9401,Vinay Dharmadhikari,NA,NA
 9501,John R Lott,johnlott,NA
-9601,Forrest D Nelson,NA,NA
-9602,G S Maddala,NA,NA
 10001,Vinay Dharmadhikari,NA,NA
 10101,Benjamin I Cohen,benjamin_cohen,NA
 10102,Jorge Katz,jorge_katz,NA
@@ -110,11 +99,10 @@ author,name,user_nber,user_repec
 11402,Paul N Courant,paul_courant,pco444
 11501,Douglas Coate,douglas_coate,NA
 11801,William F Finan,NA,NA
-12101,Lee A Lillard,NA,NA
 12302,Nigel Tomes,NA,NA
 12401,David M Gay,david_gay,NA
 12601,Arthur W Lake,arthur_lake,NA
-13201,Donald O Parsons,NA,NA
+13201,Donald O Parsons,donald_parsons,ppa291
 13301,Sam Peltzman,sam_peltzman,NA
 13401,Fred Goldman,fred_goldman,NA
 13601,Joel Popkin,joel_popkin,NA
@@ -123,7 +111,6 @@ author,name,user_nber,user_repec
 14401,Eytan Sheshinski,eytan_sheshinski,psh109
 14701,Robert T Michael,robert_michael,NA
 14901,Dennis M Bushe,dennis_bushe,NA
-15001,Lee A Lillard,NA,NA
 15101,Joseph E Stiglitz,joseph_stiglitz,NA
 15701,Cheng Hsiao,cheng_hsiao,phs10
 15702,P M Robinson,pm_robinson,NA
@@ -143,17 +130,14 @@ author,name,user_nber,user_repec
 18001,Linda N Edwards,linda_edwards,NA
 18201,Eliot R J Kalter,NA,NA
 18302,Richard Butler,richard_butler,NA
-18501,Lee A Lillard,NA,NA
 18601,Martin S Feldstein,martin_feldstein,pfe112
 18801,Jerry R Green,jerry_green,pgr476
 18901,David E Coleman,NA,NA
-18903,Paul W Holland,NA,NA
 19001,Bert G Hickman,bert_hickman,NA
 19002,Lawrence J Lau,lawrence_lau,NA
 19003,Yoshimi Kuroda,NA,NA
 19301,David G Hartman,cdghart,NA
 19401,David A Graham,NA,NA
-19501,David E Coleman,NA,NA
 19602,John E Dennis,NA,NA
 19701,M Scott Matthews,m_scott_matthews,NA
 20001,Anna L Ozorio de Alneida,Anna_L_Ozorio_de_Alneida,NA
@@ -250,7 +234,7 @@ author,name,user_nber,user_repec
 37401,Georgia C Villaflor,Villaflor,NA
 37402,Kenneth L Sokoloff,kenneth_sokoloff,NA
 37501,Claudia D Goldin,claudia_goldin,pgo601
-37601,J Peter Neary,NA,NA
+37601,J Peter Neary,peter_neary,pne11
 37701,John R Martin,stignasty,NA
 37702,Paul R Masson,paul_masson,pma135
 37802,Linda S Leighton,NA,NA
@@ -377,7 +361,6 @@ author,name,user_nber,user_repec
 69801,E John Driffill,NA,NA
 70201,John H Ciccolo,NA,NA
 70601,Shelly J Lundberg,shelly_lundberg,plu82
-70702,Donald O Parsons,donald_parsons,ppa291
 70902,Steven F Venti,steven_venti,NA
 71701,Joshua L Schwarz,joshua_schwarz,NA
 71702,Ronald G Ehrenberg,ronald_ehrenberg,peh2
@@ -513,7 +496,7 @@ author,name,user_nber,user_repec
 111401,Michael Dotsey,michael_dotsey,NA
 111502,Wilfred J Ethier,NA,NA
 111602,Glenn A Fine,NA,NA
-112101,Gikas A Hardouvelis,NA,NA
+112101,Gikas A Hardouvelis,gikas_hardouvelis,pha554
 113201,Jess B Yawitz,NA,NA
 113202,Kevin J Maloney,NA,NA
 113203,William J Marshall,NA,NA
@@ -832,7 +815,7 @@ author,name,user_nber,user_repec
 218303,William F Samuelson,wsamuels,NA
 218402,Richard H Spady,richard_spady,NA
 218403,Roger Klein,roger_klein,NA
-219601,David E M Sappington,NA,NA
+219601,David E M Sappington,NA,psa323
 219701,Helen F Ladd,helen_ladd,pla158
 219702,Katharine L Bradbury,NA,NA
 220102,Stephen G Cecchetti,stephen_cecchetti,pce4
@@ -1185,7 +1168,7 @@ author,name,user_nber,user_repec
 336302,Jagadeesh Gokhale,jagadeesh_gokhale,NA
 336701,Finn E Kydland,finn_kydland,pky2
 336903,Robin L Lumsdaine,robin_lumsdaine,NA
-337001,Changyong Rhee,NA,NA
+337001,Changyong Rhee,changyong_rhee,NA
 337501,Anwar Shah,anwar_shah,psh62
 338102,Steven Weisbrod,NA,NA
 338401,George Alogoskoufis,NA,NA
@@ -1363,7 +1346,7 @@ author,name,user_nber,user_repec
 383302,Roland Benabou,roland_benabou,pbe27
 384105,Mark Showalter,mark_showalter,psh136
 384201,Bengt Hansson,bengt_hansson,NA
-384702,Joram Mayshar,NA,NA
+384702,Joram Mayshar,NA,pma2277
 385301,Lawrence J White,lawrence_white,pwh49
 385902,William Wascher,william_wascher,NA
 387102,Daniel Dorsainvil,NA,NA
@@ -1427,7 +1410,6 @@ author,name,user_nber,user_repec
 407001,Panagiotis G Mavros,NA,NA
 407101,Dan Kovenock,NA,NA
 407401,G Andrew Karolyi,andrew_karolyi,pka329
-407402,K C Chan,NA,NA
 407403,Rene M Stulz,rene_stulz,NA
 407501,Craig A Olson,craig_olson,NA
 408601,Marcelo Bianconi,marcelo_bianconi,pbi3
@@ -1536,7 +1518,7 @@ author,name,user_nber,user_repec
 435302,Gian Maria Milesi-Ferretti,gianmaria_milesiferretti,pmi28
 435401,Aaron Tornell,aaron_tornell,pto157
 435601,Donna S Rothstein,donna_rothstein,NA
-435701,Andres Rodriguez,andresrodriguez,NA
+435701,Andres Rodriguez-Clare,andres_rodriguez,pro372
 435801,Carlo Perroni,carlo_perroni,ppe298
 435901,Kudret Topyan,NA,NA
 436902,Shlomo Benartzi,shlomo_benartzi,NA
@@ -1617,7 +1599,6 @@ author,name,user_nber,user_repec
 455901,Anthony J Venables,anthony_venables,pve7
 456401,Cynthia K Miller,NA,NA
 456802,Flint Brayton,NA,NA
-457101,Gikas A Hardouvelis,NA,NA
 457102,Rafael La Porta Drago,rafael_laporta,pla273
 457103,Thierry A Wizman,NA,NA
 457901,Moon-Whoan Rhee,NA,NA
@@ -1655,7 +1636,7 @@ author,name,user_nber,user_repec
 466101,Fernando J Losada,flosada,NA
 466502,Sylvester J Schieber,sylvester_schieber,NA
 466703,William C Randolph,william_randolph,NA
-466901,Daniel D Goldhaber,NA,NA
+466901,Daniel D Goldhaber,dan_goldhaber,NA
 467302,Hassan Wehbeh,hassan_wehbeh,NA
 467303,Sandra McCalla,NA,NA
 467602,Stanley E Zin,stanley_zin,pzi46
@@ -1838,7 +1819,7 @@ author,name,user_nber,user_repec
 510802,Andres Velasco,andres_velasco,NA
 511202,Kevin Hjortshoj O'Rourke,kevin_orourke,por7
 511402,Per Lundborg,NA,NA
-511602,David N Beede,NA,NA
+511602,David N Beede,david_beede,NA
 512401,Derek A Neal,derek_neal,NA
 512402,William R Johnson,NA,NA
 512702,John H Tyler,john_tyler,pty2
@@ -1863,9 +1844,8 @@ author,name,user_nber,user_repec
 517402,Waseen Noor,NA,NA
 517701,Dixie M Blackley,NA,NA
 517802,Steven R Grenadier,steven_grenadier,NA
-517901,Dennis R Capozza,NA,NA
+517901,Dennis R Capozza,NA,pca514
 517902,Paul J Seguin,NA,NA
-518001,David C Ling,NA,NA
 518002,Gary A McGill,NA,NA
 518003,Wayne Archer,NA,NA
 518101,Sewin Chan,sewin_chan,NA
@@ -1956,7 +1936,7 @@ author,name,user_nber,user_repec
 538102,Kristen L Willard,NA,NA
 538103,Timothy W Guinnane,timothy_guinnane,pgu29
 538402,Walter Novaes,walter_novaes,pno138
-538501,Eric D Ramstetter,NA,NA
+538501,Eric D Ramstetter,NA,pra758
 538703,William C Horrace,william_horrace,pho33
 539902,Eric A Hanushek,eric_hanushek,pha97
 540102,Xiaoyi Yan,NA,NA
@@ -2008,9 +1988,9 @@ author,name,user_nber,user_repec
 553301,Henning Bohn,henning_bohn,pbo25
 553501,Christopher R Taber,christopher_taber,NA
 553503,Jeffrey Andrew Smith,jeffrey_smith,psm73
-553802,Dean R Hyslop,dean_hyslop,NA
+553802,Dean R Hyslop,dean_hyslop,phy11
 554002,Marta Campillo,marta_campillo,NA
-554202,Jonathan P Caulkins,NA,NA
+554202,Jonathan P Caulkins,jonathan_caulkins,NA
 554203,Shaun P McDermott,NA,NA
 554502,Karen Palmer,karen_palmer,ppa255
 554702,Steven G Rivkin,steven_rivkin,pri265
@@ -2065,7 +2045,6 @@ author,name,user_nber,user_repec
 565202,Kyle D Logue,klogue,NA
 565303,Reint Gropp,reint_gropp,pgr26
 565503,Patrick J Bayer,patrick_bayer,pba636
-565602,Kenneth R Troske,NA,NA
 565901,George W Evans,george_evans,pev4
 566201,Joseph C Mullin,NA,NA
 566301,Fiona M Scott Morton,fiona_scottmorton,NA
@@ -2154,7 +2133,6 @@ author,name,user_nber,user_repec
 584801,Berry K Wilson,NA,NA
 585602,Timothy Frye,NA,NA
 585702,Luis M Viceira,luis_viceira,pvi31
-585801,Eric D Ramstetter,NA,NA
 585802,Henry Wai-Chung Yeung,NA,NA
 585803,Linda Low,NA,NA
 585901,Arturs Kalnins,arturs_kalnins,NA
@@ -2286,7 +2264,7 @@ author,name,user_nber,user_repec
 613603,Sergi Jimenez-Martin,sergi_jimenezmartin,pji20
 613701,Ingemar Svensson,ingemar_svensson,NA
 613702,Marten Palme,marten_palme,ppa618
-613803,Jody Overland,NA,NA
+613803,Jody Overland,NA,pov8
 614501,Gregor Andrade,gregor_andrade,NA
 615401,Paul Johnson,paul_johnson,NA
 615402,Richard Blundell,richard_blundell,pbl81
@@ -2309,7 +2287,6 @@ author,name,user_nber,user_repec
 617101,Andrew Davenport,andrew_davenport,NA
 617301,Austan D Goolsbee,austan_goolsbee,pgo49
 617401,Ofair Razin,NA,NA
-617502,Glenn T Sueyoshi,NA,NA
 617801,James F Moore,james_f_moore,NA
 617903,Robert L Reider,NA,NA
 618201,Arnold M Epstein,arnold_epstein,NA
@@ -2429,7 +2406,6 @@ author,name,user_nber,user_repec
 643401,Connie Becker,NA,NA
 643402,David Myers,NA,NA
 643403,Michael Schill,NA,NA
-643501,John R Penrod,NA,NA
 643702,Richard G Newell,richard_newell,pne29
 643703,Robert N Stavins,robert_stavins,pst167
 644001,Alison F DelRossi,alison_delrossi,NA
@@ -2517,7 +2493,6 @@ author,name,user_nber,user_repec
 661602,Scott J Weisbenner,scott_weisbenner,NA
 661702,John B Donaldson,john_donaldson,NA
 661703,Rajnish Mehra,rajnish_mehra,pme56
-662201,David E M Sappington,NA,NA
 662402,Ross McKitrick,NA,NA
 662601,Christopher Thornberg,christopher_thornberg,NA
 662701,Jonathan B Berk,jonathan_berk,NA
@@ -2560,7 +2535,6 @@ author,name,user_nber,user_repec
 670604,Shin-Yi Chou,shin-yi_chou,NA
 670703,Werner Antweiler,werner_antweiler,NA
 670801,Jonas Agell,NA,NA
-671101,Andres Rodriguez-Clarez,andres_rodriguez,pro372
 671301,John Geanakoplos,john_geanakoplos,NA
 671601,Deborah Anderson,djanders,NA
 671603,Patricia Simpson,NA,NA
@@ -2574,7 +2548,7 @@ author,name,user_nber,user_repec
 673802,Jongwoo Kim,jongwoo_kim,NA
 673902,James Andreoni,james_andreoni,pan31
 674302,Joel M Podolny,joel_podolny,NA
-674401,Dina Mayzlin,NA,NA
+674401,Dina Mayzlin,dina_mayzlin,NA
 674402,John Kim,john_kim,NA
 675101,Martin Pesendorfer,martin_pesendorfer,ppe80
 675701,Julian R Betts,julian_betts,NA
@@ -2621,11 +2595,10 @@ author,name,user_nber,user_repec
 684901,Andrew D Mellinger,andrew_mellinger,NA
 684903,John Luke Gallup,john_luke_gallup,NA
 685802,Gary D Hansen,gary_hansen,pha52
-686001,Daniel Altman,NA,NA
+686001,Daniel Altman,altman,NA
 686101,Ataman Ozyildirim,ataman_ozyildirim,NA
 686103,Norman R Swanson,norman_swanson,psw10
 686503,William B Vogt,william_vogt,pvo14
-687001,J Peter Neary,peter_neary,pne11
 687202,Thomas C Buchmueller,thomas_buchmueller,pbu179
 687301,Bridget Terry Long,bridget_long,plo320
 687702,Panos Pashardes,NA,NA
@@ -2653,7 +2626,7 @@ author,name,user_nber,user_repec
 694002,Gary A Zarkin,NA,NA
 694003,Jeremy W Bray,NA,NA
 694201,David L Lindauer,NA,NA
-694401,Jack Porter,NA,NA
+694401,Jack Porter,jack__porter,NA
 694701,Jarle Moen,jarle_moen,NA
 695101,George Triantis,george_triantis,NA
 695103,Reinier Kraakman,reinier_kraakman,NA
@@ -2674,7 +2647,7 @@ author,name,user_nber,user_repec
 698202,Olivier Deschenes,olivier_deschenes,pde468
 698902,Julia Lynn Coronado,julia_coronado,NA
 698903,Thomas Glass,thomas_glass,NA
-699704,Kimberly Bayard,NA,NA
+699704,Kimberly Bayard,kimberly_bayard,NA
 699902,Rosemary T Hyson,rosemary_hyson,NA
 700102,Donald B Rubin,donald_rubin,NA
 700502,Jeffrey R Brown,jeffrey_brown,pbr264
@@ -2693,7 +2666,6 @@ author,name,user_nber,user_repec
 703202,K Geert Rouwenhorst,geert_rouwenhorst,pro146
 703301,Massimo Massa,massimo_massa,NA
 704102,Philip Oreopoulos,philip_oreopoulos,por38
-704702,Kenneth E Warner,NA,NA
 704901,Dimitri Vittas,dimitri_vittas,NA
 704902,Estelle James,estelle_james,NA
 704903,Gary Ferrier,gary_ferrier,NA
@@ -2709,7 +2681,7 @@ author,name,user_nber,user_repec
 707002,Matthew F Mitchell,matthew_mitchell,pmi30
 707302,William M Rodgers III,NA,NA
 707501,Joseph Farrell,joseph_farrell,pfa35
-708102,Francisco Rodriguez,primofrank,NA
+708102,Francisco Rodriguez,francisco_rodriguez,pro212
 709103,Sona Shrestha,NA,NA
 709201,Daniel N Shaviro,daniel_shaviro,NA
 709301,Daniel Kaufmann,dankaufmann,pka480
@@ -2894,7 +2866,7 @@ author,name,user_nber,user_repec
 752601,Hiu Man Chan,hiuman_chan,NA
 752602,Hugo Benitez-Silva,hugo_benitezsilva,NA
 752605,Sofia Cheidvasser,sofia_cheidvasser,NA
-753001,Daniel Chen,daniel_chen,NA
+753001,Daniel Chen,daniel_l_chen,NA
 753502,Sandra L Decker,sandra_decker,NA
 753602,Dongsheng Zhou,NA,NA
 753603,Ilan Vertinsky,NA,NA
@@ -2914,7 +2886,6 @@ author,name,user_nber,user_repec
 757502,Paras Mehta,NA,NA
 757602,Jon Bakija,jon_bakija,pba72
 758303,Robert J Lemke,NA,NA
-758402,Jody Overland,NA,NA
 758403,Stephen C Billups,NA,NA
 758701,Eitan Goldman,eitan_goldman,NA
 759004,Yexiao Xu,yexiao_xu,NA
@@ -3028,7 +2999,6 @@ author,name,user_nber,user_repec
 781604,Sharon-Lise T Normand,sharon-lise_normand,NA
 781702,Stephan Danninger,NA,NA
 783103,Todd E Elder,todd_elder,pel109
-783201,Daniel Altman,NA,NA
 783802,Koleman S Strumpf,koleman_strumpf,NA
 784002,Luis Felipe Cespedes,luis_cespedes,pce53
 784303,Katara Starkey,NA,NA
@@ -3133,7 +3103,6 @@ author,name,user_nber,user_repec
 808901,David I Walker,david_walker,NA
 809103,Suzanne Doyle,NA,NA
 809201,Jian Hu,NA,NA
-809202,John H Boyd,NA,NA
 809301,Artyom Durnev,artyom_durnev,NA
 809501,William D Nordhaus,william_nordhaus,pno115
 809802,Zhenyu Wang,zhenyu_wang,pwa312
@@ -3160,7 +3129,6 @@ author,name,user_nber,user_repec
 817201,Anna Scherbina,anna_scherbina,NA
 817902,Joanne Oxley,NA,NA
 818302,Rama Katkar,NA,NA
-818501,Dahlia K Remler,dremler,NA
 818502,Jason E Rachlin,NA,NA
 818702,Yi Wu,NA,NA
 818802,Yael S Hadass,yael_hadass,pha251
@@ -3253,7 +3221,7 @@ author,name,user_nber,user_repec
 838602,Luc Laeven,luc_laeven,pla174
 839001,Osmel Manzano,osmel_manzano,NA
 839201,Dorsey D Farr,dfarrnber,NA
-839402,John P Conley,NA,NA
+839402,John P Conley,john_p_conley,pco46
 839501,Elliott Fisher,elliott_fisher,NA
 839702,Klaus Schmidt-Hebbel,klaus_schmidt-hebbel,psc42
 840103,Jenny Williams,jenny_williams,NA
@@ -3507,7 +3475,6 @@ author,name,user_nber,user_repec
 897901,D Lee Heavner,NA,NA
 898102,Rui J P de Figueiredo,NA,NA
 898202,Thorsten Beck,thorsten_beck,NA
-898402,Joram Mayshar,NA,NA
 898902,Henry Hansmann,henry_hansmann,NA
 899003,Ravit E Mandell,NA,NA
 899701,Kathryn Graddy,kathryn_graddy,pgr151
@@ -3645,7 +3612,6 @@ author,name,user_nber,user_repec
 925303,Murillo Campello,murillo_campello,pca164
 926001,R Gaston Gelos,gaston_gelos,pge1
 926201,Charlotte Mack,cymack,NA
-926203,Dennis R Capozza,NA,NA
 926401,David T Robinson,david_robinson,pro347
 926402,Pekka Hietala,NA,NA
 926502,T Huw Edwards,NA,NA
@@ -3975,7 +3941,7 @@ author,name,user_nber,user_repec
 993302,Joanna N Lahey,joanna_lahey,pla533
 993602,Tibor Besedes,tibor_besedes,pbe180
 993703,Rebecca M Stein,NA,NA
-994001,Christopher Blattman,NA,NA
+994001,Christopher Blattman,christopher_blattman,pbl37
 994002,Jason Hwang,jason_hwang,NA
 994202,Lu Chen,ljchen66,NA
 994402,Joseph H Davis,joseph_davis,NA
@@ -4078,7 +4044,6 @@ author,name,user_nber,user_repec
 1014102,Sean D Campbell,sean_campbell,NA
 1014401,Ilan Noy,ilan_noy,pno49
 1014503,Yona Rubinstein,yona_rubinstein,pru68
-1014801,Dina Mayzlin,dina_mayzlin,NA
 1015102,Ivan Werning,ivan_werning,pwe141
 1015103,Manuel Amador,manuel_amador,pam50
 1015602,Ying-Hua Ku,yinghua_ku,NA
@@ -4146,7 +4111,6 @@ author,name,user_nber,user_repec
 1033901,Atsuhiro Yamada,atsuhiro_yamada,NA
 1033902,Kohei Komamura,kohei_komamura,NA
 1034301,Andrei Simonov,andrei_simonov,psi556
-1034702,Jessica Tjornhom Donohue,NA,NA
 1035002,Rachel M Hayes,NA,NA
 1035301,Alejandro Micco,alejandro_micco,NA
 1035502,Melvyn Teo,melvyn_teo,NA
@@ -4177,7 +4141,7 @@ author,name,user_nber,user_repec
 1040602,Samuel B Thompson,samuel_thompson,NA
 1040802,Raffaele Oriani,NA,NA
 1040901,Beatriz G Lopez-Valcarcel,beaglv,NA
-1041001,Jason Lee,jason_lee,NA
+1041001,Jason Lee,jason_lee_1,NA
 1041002,Jung-Wook Kim,jungwook_kim,NA
 1041801,Eric Neis,NA,NA
 1041803,Sanjay Mithal,NA,NA
@@ -4391,7 +4355,7 @@ author,name,user_nber,user_repec
 1087203,Paige P Ouimet,paige_ouimet,NA
 1087301,Jaret Treber,jaret_treber,NA
 1087402,Rafael Rob,rafael_robb,NA
-1087501,J Roger Clemmons,roger_clemmons,NA
+1087501,J Roger Clemmons,roger_clemmons_1,NA
 1087503,Paula E Stephan,paula_stephan,pst458
 1088203,Satoshi Shimizutani,satoshi_shimizutani,psh330
 1088602,William Hutchinson,NA,NA
@@ -4764,7 +4728,7 @@ author,name,user_nber,user_repec
 1169002,Gustavo Angeles,gustavo_angeles,NA
 1169004,Laura Rodriguez Wong,laura_rodriguez,NA
 1169202,Eva Nagypal,eva_nagypal,pna193
-1169301,Emiko Usui,emiko_usui,NA
+1169301,Emiko Usui,emiko,pus11
 1169504,Robert Cull,robert_cull,pcu60
 1169601,Laura Alfaro,laura_alfaro,pal64
 1169603,Vadym Volosovych,vadym_volosovych,pvo44
@@ -5064,7 +5028,7 @@ author,name,user_nber,user_repec
 1235401,Javier Miranda,javier_miranda,pmi185
 1235403,Ron S Jarmin,ron_jarmin,pja54
 1235602,Francisco Perez-Gonzalez,francisco_perez-gonzalez,NA
-1235603,Kasper M Nielsen,NA,NA
+1235603,Kasper Meisner Nielsen,kasper_m_nielsen,NA
 1235604,Morten Bennedsen,morten_bennedsen,NA
 1235701,Kiyoshi Mitsui,kiyoshi_mitsui,NA
 1235703,Toshihiro Ihori,toshihiro_ihori,NA
@@ -5120,7 +5084,6 @@ author,name,user_nber,user_repec
 1245803,Jae-Young Lim,jae-young_lim,NA
 1245804,Philip DeCicca,philip_decicca,pde303
 1245805,Yoon-Jeong Shin,yoon-jeong_shin,NA
-1245902,J Roger Clemmons,roger_clemmons_1,NA
 1246001,Gayle Allard,gayleallard,NA
 1246103,Stephen G Dimmock,stephen_dimmock,pdi378
 1246901,Dhanoos Sutthiphisal,dhanoos_sutthiphisal,psu129
@@ -5192,7 +5155,7 @@ author,name,user_nber,user_repec
 1259102,William Troost,william_troost,NA
 1259401,Ching-Yi Chung,ching-yi_chung,NA
 1259501,Claudio Lucarelli,claudio_lucarelli,NA
-1259601,Florian Hoffmann,florian_hoffman,NA
+1259601,Florian Hoffmann,florian_hoffmann,NA
 1260203,Dennis Novy,dennis_novy,pno75
 1261003,Robert H Bates,robert_bates,NA
 1261101,Michael W L Elsby,michael_elsby,pel126
@@ -5390,7 +5353,7 @@ author,name,user_nber,user_repec
 1297401,Arngrim Hunnes,arngrim_hunnes,phu182
 1297501,Colleen Flaherty Manchester,colleen_manchester,NA
 1297602,Jeffrey Carpenter,jeffrey_carpenter,NA
-1297603,Kay Porter,NA,pbu110
+1297603,Kay Porter,NA,NA
 1297604,Kristen Monaco,kristen_monaco,pmo283
 1297605,Lorenz Goette,lorenz_goette,pgo236
 1297606,Stephen V Burks,NA,pbu110
@@ -5751,7 +5714,6 @@ author,name,user_nber,user_repec
 1367802,Michael R Moore,michael_r_moore,NA
 1367902,Ryan Kellogg,ryan_kellogg,NA
 1368001,Alice Schoonbroodt,alice_schoonbroodt,NA
-1368102,Dan Goldhaber,dan_goldhaber,NA
 1368104,Jane Hannaway,jane_hannaway,NA
 1368402,Richard M Todd,richard_todd,NA
 1369101,Arnaud Costinot,arnaud_costinot,pco355
@@ -6059,7 +6021,6 @@ author,name,user_nber,user_repec
 1421603,Jordi Jaumandreu,jordi_jaumandreu,pja133
 1421604,Rupert Harrison,harrison.rupert,NA
 1422401,Jeremy Arkes,jeremy_arkes,NA
-1422402,Jonathan P Caulkins,jonathan_caulkins,NA
 1422403,Peter Reuter,peter_reuter,NA
 1422503,Rhokeun Park,rhokeun_park,NA
 1422801,Filippos Papakonstantinou,filippos_papakonstantinou,NA
@@ -6110,7 +6071,7 @@ author,name,user_nber,user_repec
 1434102,Jialan Wang,jialan_wang,NA
 1434201,Dongmei Li,dongmei_li,pli635
 1434302,Robert Novy-Marx,robert_novy-marx,NA
-1434401,Jake Kendall,jake_kendall,NA
+1434401,Jake Kendall,jake_kendall,pke146
 1434503,James C Davis,james_davis,pda194
 1434504,Mohammad Arzaghi,mohammad_arzaghi,NA
 1434702,Rodney Ramcharan,rodney_ramcharan,pra554
@@ -6290,7 +6251,6 @@ author,name,user_nber,user_repec
 1472104,Vikram Pathania,vikram_pathania,NA
 1472602,Karthik Kalyanaraman,karthik_kalyanaramang,NA
 1473001,Alberto Bisin,alberto_bisin,pbi10
-1473301,Jason Lee,jason_lee_1,NA
 1473402,Salvatore Nistico,Salvatore_Nistico,pni67
 1474001,Fabien Postel-Vinay,fabien_postelvinay,ppo9
 1474301,Anthony A Smith,anthony_smith,psm20
@@ -6324,7 +6284,6 @@ author,name,user_nber,user_repec
 1479501,Gregor W Smith,gregor_smith,psm60
 1479502,James Yetman,james_yetman,pye6
 1479802,Matthew C Weinberg,matthew_weinberg,pwe301
-1480101,Christopher Blattman,christopher_blattman,pbl37
 1480401,Nusret Cakici,nusret_cakici,NA
 1481102,Gabriel Aranovich,gabriel_aranovich,NA
 1481401,Ivan Shaliastovich,ivan_shaliastovich,NA
@@ -6362,7 +6321,7 @@ author,name,user_nber,user_repec
 1487702,Xavier Giroud,xavier_giroud,NA
 1487903,Meta Brown,meta_brown,NA
 1488102,Richard A Lambert,richard_lambert,NA
-1488202,Hyungsik Roger Moon,hyungsik_moon,NA
+1488202,Hyungsik Roger Moon,hyungsik_moon,pmo129
 1488501,Esteban M Aucejo,esteban_aucejo,pau80
 1488503,Kenneth I Spenner,kenneth_spenner,NA
 1488702,Jose Luis Peydro,jose_luis_peydro,ppe481
@@ -6388,7 +6347,6 @@ author,name,user_nber,user_repec
 1492101,Alexander Frankel,afrankel,NA
 1492202,Robin S Lee,robin_lee,ple409
 1492302,Daniel Ortega,daniel_ortega,NA
-1492304,Francisco Rodriguez,francisco_rodriguez,pro212
 1492701,Eyal Dvir,eyal_dvir,pdv5
 1492901,Philipp Schnabl,philipp_schnabl,psc789
 1493002,Andreas Loschel,andreas_lgschel,NA
@@ -7281,7 +7239,7 @@ author,name,user_nber,user_repec
 1653502,Shushanik Hakobyan,shushanik_hakobyan,NA
 1654003,Yingchun Wang,yingchun_wang,NA
 1654201,C Simon Fan,c._fan,pfa195
-1654202,Chen Lin,chen_lin,NA
+1654202,Chen Lin,chen_lin,pli551
 1654302,Seth H Werfel,seth_werfel,pwe255
 1654403,Kristin McCue,kristin_mccue,pmc68
 1654404,Monica Garcia-Perez,monica_garciaperez,pga559
@@ -7352,7 +7310,7 @@ author,name,user_nber,user_repec
 1664502,Ricardo Perez-Truglia,ricardo_pereztruglia,NA
 1664601,Caglar Ozden,caglar_ozden,poz39
 1664602,Frederic Docquier,frederic_docquier,pdo36
-1664902,Julien Prat,julien_prat,NA
+1664902,Julien Prat,julien_prat_1,ppr192
 1665002,James W Roberts,james_roberts,NA
 1665101,Anuk Serechetapongse,anuk__serechetapongse,NA
 1665502,Ralph Mastromonaco,ralph_mastromonaco,NA
@@ -7402,7 +7360,7 @@ author,name,user_nber,user_repec
 1673702,Hans B Christensen,hans_christensen,NA
 1673703,Luzi Hail,luzi_hail,NA
 1673801,Adalbert Mayer,adalbert_mayer,pma605
-1673802,Feng Huang,phenix.hf,NA
+1673802,Feng Huang,feng_huang,NA
 1673902,Manuel A Hernandez,manuel_hernandez,phe286
 1674501,Heather L Schwartz,hlschwartz,NA
 1674801,Alexandra Killewald,alexandra_killewald,NA
@@ -7584,7 +7542,6 @@ author,name,user_nber,user_repec
 1703802,Robert Prilmeier,robert_prilmeier,NA
 1704203,Yonatan Ben-Shalom,benshalo,pbe736
 1704301,Ali Sina Onder,ali_sina_onder,NA
-1704302,John P Conley,john_p_conley,pco46
 1704304,Robert A Driskill,robert_driskill,NA
 1704402,Sandeep Mazumder,smazumder,pma1103
 1704501,Pengfei Wang,pengfei_wang,pwa169
@@ -7703,7 +7660,7 @@ author,name,user_nber,user_repec
 1722403,Pei Kuang,pei_kuang,pku353
 1722601,Michael F Furukawa,mfurukaw,NA
 1722903,Luigi Iovino,luigi_iovino,pio51
-1723301,Giorgo Sertsios,giorgo_sertsios,NA
+1723301,Giorgo Sertsios,giorgo_sertsios,pse533
 1723403,Ryan W Buell,ryan_buell,NA
 1723404,Taly Reich,taly_reich,NA
 1723602,Tamara Hayford,tbhayf,NA
@@ -7720,7 +7677,7 @@ author,name,user_nber,user_repec
 1726203,Levent Celik,levent_celik,pce84
 1726501,Andre Regateiro,andre_regateiro,NA
 1726802,Marvin Phaup,marvin_phaup,NA
-1727203,Jacopo Perego,jacopo_perego,NA
+1727203,Jacopo Perego,jacopo_perego_1,NA
 1727304,Till Stowasser,till_stowasser,NA
 1727402,Marc Hofstetter,mahofste,pho141
 1727403,Nicolas De Roux,nicolas_de_roux,pde891
@@ -7767,7 +7724,6 @@ author,name,user_nber,user_repec
 1737202,Naercio Aquino Menezes-Filho,naercio_aquino_menezes_filho,NA
 1737702,Joshua Wilde,joshua_wilde_1,pwi261
 1738001,Agnieszka Markiewicz,agnieszka_markiewicz,pma1048
-1738101,Florian Hoffmann,florian_hoffmann,NA
 1738301,Alexander Limonov,alexander_limonov,NA
 1738302,Anoop Singh,anoop_singh,psi430
 1738303,Kabir Malik,kabir_malik,NA
@@ -7841,7 +7797,6 @@ author,name,user_nber,user_repec
 1751202,Jonathan Chiu,jonathan_chiu,pch353
 1751401,Ejaz Ghani,ejaz_ghani,pgh75
 1751703,Wei Jiang,wei_jiang,pji52
-1751801,Changyong Rhee,changyong_rhee,NA
 1751803,Todd A Gormley,todd_gormley,NA
 1752001,Allen Head,allen_head,phe15
 1752003,Lucy Qian Liu,lucyqian_liu,pli607
@@ -8463,7 +8418,7 @@ author,name,user_nber,user_repec
 1860702,Gary Yohe,gary_yohe,pyo127
 1860705,Myles Allen,myles_allen,NA
 1860706,Ottmar Edenhofer,ottmar_edenhofer,ped63
-1861201,Daniel B Jones,daniel__jones,NA
+1861201,Daniel B Jones,dbjones,pjo297
 1861801,Gulgun Bayaz-Ozturk,gulgun_bayaz_ozturk,NA
 1861802,Kenneth A Couch,kenneth_couch,pco89
 1861903,Kyle Matoba,kyle_matoba,NA
@@ -8546,7 +8501,7 @@ author,name,user_nber,user_repec
 1880702,Mykyta Vesselovsky,mykyta_vesselovsky,NA
 1881501,Aaron Chalfin,aaron_chalfin,NA
 1881601,Jason Taylor,jason_taylor,NA
-1881701,Jorge Rodriguez,jorginho84,pro1077
+1881701,Jorge Rodriguez,jorge__rodriguez,pro1077
 1881702,Loreto Reyes,loreto__reyes,NA
 1881801,Diether W Beuermann,diether,pbe239
 1881802,Julian P Cristia,jcristia,pcr97
@@ -8574,7 +8529,7 @@ author,name,user_nber,user_repec
 1886101,Carlo Cafiero,carlo_cafiero,pca516
 1886302,Matthew D Eisenberg,matthew_eisenberg,NA
 1886702,Man Lung Chan,man_lung_chan,NA
-1887101,James Liang,james_liang,NA
+1887101,James Liang,james_liang_1,NA
 1887104,Zhichun Jenny Ying,jenny_ying,NA
 1887201,Danglun Luo,danglun__luo,NA
 1887204,Weizeng Sun,weizeng_sun,NA
@@ -9233,7 +9188,6 @@ author,name,user_nber,user_repec
 1992901,Amar Hamoudi,amar_hamoudi,NA
 1993201,Andri Chassamboulli,andri_chassamboulli,pch940
 1993302,Francisco Gallego,francisco_gallego,NA
-1993501,Jing Li,jing_li_2,NA
 1993802,Junko Koeda,junko_koeda,NA
 1994302,Maria Lucia Yanguas,maria_lucia_yanguas,NA
 1994703,Hanna Hottenrott,HanHot,NA
@@ -9593,7 +9547,6 @@ author,name,user_nber,user_repec
 2050501,Gaurav Khanna,gaurav_khanna,NA
 2050503,Murat Demirci,murat_demirci,NA
 2050602,Hui Wang,hui_wang,NA
-2050603,James Liang,james_liang_1,NA
 2050902,Nikolas Mittag,nikolas_mittag,NA
 2051503,Timothy J Layton,timothy_layton,pla866
 2051602,Mikhail Panov,mikhail_panov,NA
@@ -9628,7 +9581,6 @@ author,name,user_nber,user_repec
 2057402,Neil R Mehrotra,neil_mehrotra,NA
 2057503,Raiden B Hasegawa,raiden_hasegawa,NA
 2057602,Guillermo Cruces,gcruces,pcr20
-2057801,Giorgo Sertsios,giorgo_sertsios_1,pse533
 2057902,S Katie Moon,katie_moon,NA
 2058303,Thais Laerkholm Jensen,thais_laerkholm_jensen,NA
 2058702,Rosemarie H Ziedonis,rosemarie_ziedonis,NA
@@ -9698,7 +9650,7 @@ author,name,user_nber,user_repec
 2069202,Jason L Kopelman,jason_kopelman,NA
 2069501,Alec Brandon,alec_brandon,NA
 2069601,Guy Mayraz,mayraz,pma1124
-2069703,John Marshall,john__marshall,NA
+2069703,John Marshall,john_marshall1,NA
 2069901,Daniel R LaFave,drl13,pla609
 2070102,Levon Barseghyan,levon_barseghyan,pba303
 2070301,Frederic Boissay,frederic_boissay,NA
@@ -9718,7 +9670,7 @@ author,name,user_nber,user_repec
 2072101,Mihail Velikov,mihail_velikov,NA
 2072201,Kyunghee Kim,kyunghee__kim,NA
 2072203,Seokjin Woo,seokjin_woo,NA
-2072302,Jane Greve,greve,NA
+2072302,Jane Greve,jane_greve_1,pgr294
 2072303,Marie Louise Schultz-Nielsen,marie_louise_schultz-nielsen,psc345
 2072402,Michael Wither,michael_wither,NA
 2072502,Gonzalo Morales,gonzalo_morales,NA
@@ -9737,7 +9689,6 @@ author,name,user_nber,user_repec
 2075403,Stephen Locke,stephen_locke,NA
 2075602,Stephanie J C Vermeer,stephanie_vermeer,NA
 2075903,Emily Beam,eabeam,pbe818
-2076001,Chen Lin,chen_lin_1,pli551
 2076002,Liangliang Jiang,liangliang_jiang,NA
 2076102,Astrid Kunze,astrid_kunze,pku213
 2076301,German Daniel Caruso,german_caruso,NA
@@ -9799,7 +9750,6 @@ author,name,user_nber,user_repec
 2086805,Shamyla Chaudry,shamyla_chaudry,NA
 2086902,Andrew C Johnston,andrew_johnston,pjo354
 2086904,Pauline Leung,pauline_leung,NA
-2087301,Feng Huang,feng_huang,NA
 2087601,Elena Simintzi,elena_simintzi,NA
 2087801,David Molitor,david_molitor,NA
 2088001,Jia Chen,jia_chen,pch1408
@@ -9895,7 +9845,7 @@ author,name,user_nber,user_repec
 2101102,Walter W Powell,walter_powell,NA
 2101301,Julie A Reeder,julie_reeder,NA
 2101403,Tuan Phan,tuan_phan,NA
-2101601,Hang Bai,hangbai,NA
+2101601,Hang Bai,hang_bai,NA
 2101802,Xinshen Diao,xinshen_diao,pdi96
 2102201,Maripier Isabelle,maripier.isabelle,NA
 2102204,Sara Allin,sara_allin,NA
@@ -9924,7 +9874,6 @@ author,name,user_nber,user_repec
 2107202,Erin Taylor,erin_taylor,NA
 2107501,Chunxin Jia,chunxin_jia,NA
 2107503,Yaping Wang,yaping_wang,NA
-2107802,Helen F Ladd,helen_f_ladd,NA
 2107803,John B Holbein,john_holbein,NA
 2107901,Cemal Eren Arbatli,cemal_eren_arbatl,par394
 2108001,Graciana Rucci,graciana_rucci,NA
@@ -10117,7 +10066,6 @@ author,name,user_nber,user_repec
 2138201,Aditi Pathak,aditi_pathak,NA
 2138202,Emma Hanson,emma_hanson,NA
 2138302,H Ron Chan,ronzz,pch771
-2138602,Kasper Meisner Nielsen,kasper_nielsen,NA
 2138701,Christopher A Powers,christopher_powers,NA
 2138801,Boyang Zhang,zhangboyang,pzh528
 2139001,Arlen Guarin,arlen_guarin,NA
@@ -10218,7 +10166,6 @@ author,name,user_nber,user_repec
 2153003,Mark Maffett,mark_maffett,NA
 2153101,Randall P Ellis,randall_ellis,pel45
 2154403,Shanthi P Ramnath,shanthi_ramnath,pra1048
-2154502,Jane Greve,jane_greve_1,pgr294
 2154601,Aaditya Mattoo,aaditya_mmattoo,pma885
 2154602,Ingo Borchert,ingo_borchert,pbo303
 2155101,Fangwen Lu,fangwen_lu,plu299
@@ -10252,7 +10199,7 @@ author,name,user_nber,user_repec
 2158401,Dacheng Xiu,dacheng_xiu,NA
 2158502,Frank N Caliendo,frank_caliendo,pca956
 2159001,Jevgenijs Steinbuks,jevgenijs_steinbuks,NA
-2159101,Julia Shu-Huah Wang,julia_wang,NA
+2159101,Julia Shu-Huah Wang,julia_shu-huah__wang,NA
 2159103,Nicole Denier,nicole_denier,NA
 2159105,Yao Lu,yao_lu_1,NA
 2159401,Harry Krashinsky,harry_krashinsky,pkr111
@@ -10438,7 +10385,6 @@ author,name,user_nber,user_repec
 2189001,Jue Ren,jue_ren,NA
 2189102,Peter Landry,peter_landry_1,NA
 2189201,Andrea Prestipino,andrea_._prestipino,ppr456
-2189302,Jack Porter,jack__porter,NA
 2189401,Adi Shany,adi_shany,NA
 2189501,Beth E Schueler,beth_schueler,NA
 2189602,Simon Halphen Boserup,simon_boserup,pbo517
@@ -10480,7 +10426,6 @@ author,name,user_nber,user_repec
 2196503,Stijn Broecke,stijn_broecke,pbr354
 2196701,Aaron Hedlund,aaron_hedlund,phe362
 2196801,David A Bielen,dabielen,NA
-2197101,Emiko Usui,emiko,pus11
 2197502,Richard R Townsend,richard_townsend,NA
 2198102,Anya Kleymenova,anya_kleymenova,NA
 2198301,Gaurav Datt,gaurav_datt,pda483
@@ -10511,7 +10456,6 @@ author,name,user_nber,user_repec
 2202102,John V Duca,john_duca,pdu98
 2202401,Corinne Prost,corinne_prost,NA
 2202403,Eve Caroli,eve_caroli,pca219
-2202601,Daniel Chen,daniel_l_chen,NA
 2203001,Leigh Wedenoja,leigh_wedenoja,NA
 2203102,Dan P Ly,dan_ly,NA
 2203202,Darryl R Koehler,darryl__koehler,NA
@@ -10809,11 +10753,9 @@ author,name,user_nber,user_repec
 2251701,Denis Sosyura,denis_sosyura,NA
 2251702,Oleg Chuprinin,oleg_chuprinin_1,NA
 2252301,Ali Moghtaderi,ali_moghtaderi,NA
-2252601,Daniel B Jones,dbjones,pjo297
 2252701,Hengjie Ai,hengjie_ai,pai13
 2252801,Anirban Mukhopadhyay,anirban_mukhopadhyay,NA
 2252802,Melody M Chao,melody_chao,NA
-2252901,Dana Kiku,dana__kiku,NA
 2253001,Nicolas R Ziebarth,nicolas_r_ziebarth,pzi50
 2253002,Stefan Pichler,stefan_Pichler,ppi274
 2253102,Yue Li,yue_li,pli817
@@ -10878,7 +10820,6 @@ author,name,user_nber,user_repec
 2262901,Graham Beattie,GrahamBeattie,pbe1066
 2262902,Jean-William P Laliberte,jeanwilliam_laliberte,pla913
 2263102,Yasin Ozcan,Yasin_Ozcan,NA
-2263302,Jake Kendall,kendall_jake,pke146
 2263304,Rebecca Mann,rebecca_mann,NA
 2263403,Yevgeny Mugerman,yevgeny_mugerman,NA
 2263501,Catherine Massey,catherine_massey,NA
@@ -10915,7 +10856,6 @@ author,name,user_nber,user_repec
 2268901,Antonio Falato,antonio_falato,pfa46
 2269501,Matthew Baron,matthew_baron,pba1401
 2270101,A Patrick Behrer,patrick_behrer,NA
-2270302,Julien Prat,julien_prat_1,ppr192
 2270702,Ian R Appel,ian_appel,NA
 2270901,Aileen Devlin,aileen_devlin,NA
 2271001,Alexander J Quinn,alexander_quinn,NA
@@ -11081,7 +11021,6 @@ author,name,user_nber,user_repec
 2294303,Federico J Diez,D.Federico,pdi495
 2294305,Mikkel Plagborg-Moller,mikkelpm,ppl107
 2294702,Wyatt J Brooks,wyatt_brooks,pbr522
-2294903,John Marshall,john_marshall1,NA
 2295001,Kyungchul Song,kyungchul_song,NA
 2295002,R Vincent Pohl,vincentpohl,ppo396
 2295302,Daniel Garcia-Macia,danieloliver_garciamacia,NA
@@ -11298,7 +11237,6 @@ author,name,user_nber,user_repec
 2332001,Anders Sorensen,anders_sorensen,psr9
 2332301,Hunter Clark,hunter_clark,NA
 2332401,Dylan G Rassier,dylan_rassier,NA
-2332601,Hyungsik Roger Moon,roger__moon_,pmo129
 2332603,Seungwoo Chin,seungwoo__chin,pch1744
 2332902,Bryan Tysinger,bryan_tysinger,pty28
 2332903,Charles M Lucas,charles_lucas,NA
@@ -11772,7 +11710,6 @@ author,name,user_nber,user_repec
 2394305,Thomas Dohmen,thomas_dohmen,pdo43
 2394306,Uwe Sunde,uwe_sunde,psu51
 2394601,Benjamin Marx,benjamin_marx,pma2722
-2394901,Christopher Hansman,christopher_hansman_1,NA
 2394904,Matthieu Teachout,matthieu_teachout,NA
 2395003,Nam Ngo,nam__ngo,NA
 2395201,Jaesang Sung,jaesang_sung,NA
@@ -12061,7 +11998,6 @@ author,name,user_nber,user_repec
 2435101,Andreas Kotsadam,andkot,NA
 2435702,Sangmin Aum,aumsang,NA
 2436302,Nathan Chappell,nathan_chappell,pch1607
-2436405,Kimberly Bayard,kimberly_bayard,NA
 2436502,Kristle Cortes,kristle_cortes,NA
 2436503,Lei Li,lei_li_1,NA
 2436505,Yuliya Demyanyk,juliadem,NA
@@ -12148,7 +12084,6 @@ author,name,user_nber,user_repec
 2448201,Alexandra C Hartman,alexandra_hartman,NA
 2448203,Robert A Blair,robert_blair,NA
 2448302,Linda M Schilling,linda_schilling,psc798
-2448701,Julia Shu-Huah Wang,julia_shu-huah__wang,NA
 2448902,J Daniel Kim,jdaniel_kim,pki570
 2449101,Savannah L Bergquist,savannah_bergquist,NA
 2449301,Alessandra Fenizia,afenizia,NA
@@ -12771,7 +12706,6 @@ author,name,user_nber,user_repec
 2538202,Julian Neira,julian_neira,NA
 2538203,Rish Singhania,rish_singhania,NA
 2538603,Mikhail Tirskikh,mtirskikh,NA
-2538702,Dean R Hyslop,dean.hyslop,phy11
 2538901,Guo Xu,guo_xu,NA
 2539001,Chong Li,chong_li,NA
 2539003,Jan Ondrich,jan_ondrich,NA
@@ -12792,7 +12726,6 @@ author,name,user_nber,user_repec
 2540602,Yann Koby,ykoby,NA
 2540701,Joseph Abadi,joseph_abadi,NA
 2540801,Fernando Saltiel,fernando_saltiel,NA
-2540802,Jorge Rodriguez,jorge__rodriguez,NA
 2541101,John Westall,john_westall,NA
 2541202,Tiziano Ropele,tirop,pro704
 2541301,Qingran Li,qingran_li,NA
@@ -13530,7 +13463,6 @@ author,name,user_nber,user_repec
 2636601,Alexia Delfino,alexia_delfino,NA
 2636801,Anthony Wray,anthony_wray,pwr39
 2637101,Ben Lipsius,ben_lipsius,pli1202
-2637203,Hang Bai,hang_bai,NA
 2637301,Don Fast,don_fast,NA
 2637302,Susan Fleck,susan_fleck,NA
 2637403,Jonathan Roth,jonathan_roth_1,NA
@@ -13557,7 +13489,6 @@ author,name,user_nber,user_repec
 2640203,Sergio de Ferra,sergio_de_ferra,NA
 2640301,Bruce E Landon,bruce_landon,NA
 2640303,Laura A Hatfield,laura_hatfield,NA
-2640403,Jacopo Perego,jacopo_perego_1,NA
 2640601,Daniel Liebler,daniel_liebler,NA
 2640701,Hui Ren Tan,hui_ren_tan,NA
 2640801,Elisa Jacome,elisa_jacome,NA
@@ -13622,7 +13553,6 @@ author,name,user_nber,user_repec
 2648802,Shinsuke Tanaka,shinsuke_tanaka,NA
 2649101,Irina Shaorshadze,irinaasm,NA
 2649104,Jinho Kim,jinho_kim,NA
-2649201,Cheryl Long,cheryl_long_1,NA
 2649202,Kai Li,kai_li_1,NA
 2649204,Xiaojia Bao,xb2112,NA
 2649401,Paymon Khorrami,paymon_khorrami,NA
@@ -14211,7 +14141,6 @@ author,name,user_nber,user_repec
 2731601,Boris Vallee,boris_vallee,NA
 2731701,Erwan Gautier,erwan_gautier,pga388
 2731801,Julie Marx,julie_marx,NA
-2731802,Kasper Meisner Nielsen,kasper_m_nielsen,NA
 2731902,Michael Hand,michael_hand,NA
 2731903,Shereen J Chaudhry,shereen_chaudhry,NA
 2732104,Ziqiao Chen,ziqiao_chen,NA
@@ -14603,7 +14532,6 @@ author,name,user_nber,user_repec
 2779301,Andrin Pelican,andrin_pelican,NA
 2779901,Alex Eble,Alexander_eble,NA
 2779903,Baboucarr Bouy,baboucarr_bouy,NA
-2779904,Chitra Jayanty,chitra_jayanty_1,NA
 2779906,Pei-Tseng Jenny Hsieh,pei-tseng_jenny_hsieh,NA
 2780001,Bernardo Candia,Bernardo_Candia,NA
 2780101,Daniel Ovando,dovando,NA
@@ -14997,7 +14925,6 @@ author,name,user_nber,user_repec
 2828203,Karl Harmenberg,karl_harmenberg,NA
 2828902,Guanliang Hu,glEcon,NA
 2829001,Cathy Buffington,catherine_buffington,pbu404
-2829002,David N Beede,david_beede,NA
 2829009,Zachary Kroff,zachary_kroff,NA
 2829103,Vladimir Kolchin,vladimir_kolchin,NA
 2829302,Ria Ivandic,ria_ivandic,NA
@@ -15111,7 +15038,6 @@ author,name,user_nber,user_repec
 2844901,Alan H Sanstad,alan_sanstad,NA
 2845408,Matthew Sciandra,matt_sciandra,NA
 2845501,Bryant Hopkins,bryant_hopkins,NA
-2845502,Dan Goldhaber,dan_goldhaber_1,NA
 2845503,Erica Harbatkin,erica_harbatkin,NA
 2845504,Katharine O Strunk,kstrunk,NA
 2845505,Nate Brown,nate_brown,NA
