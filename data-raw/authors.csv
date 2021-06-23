@@ -37,7 +37,7 @@ author,name,user_nber,user_repec
 3101,Lester D Taylor,NA,NA
 3201,Peter K Clark,peter_clark,NA
 3301,Phillip Cagan,phillip_cagan,NA
-3401,James J Heckman,james_heckman,NA
+3401,James J Heckman,james_heckman,phe22
 3601,Warren C Sanderson,NA,NA
 3701,Robert F Engle III,robert_engle,NA
 3901,Jacob Mincer,jacob_mincer,NA
@@ -111,7 +111,7 @@ author,name,user_nber,user_repec
 14401,Eytan Sheshinski,eytan_sheshinski,psh109
 14701,Robert T Michael,robert_michael,NA
 14901,Dennis M Bushe,dennis_bushe,NA
-15101,Joseph E Stiglitz,joseph_stiglitz,NA
+15101,Joseph E Stiglitz,joseph_stiglitz,pst33
 15701,Cheng Hsiao,cheng_hsiao,phs10
 15702,P M Robinson,pm_robinson,NA
 15801,B Peter Pashigian,peter_pashigian,NA
@@ -154,7 +154,7 @@ author,name,user_nber,user_repec
 21902,Dov Chernichovsky,dov_chernichovsky,NA
 22401,James L Medoff,james_medoff,NA
 22501,Richard B Freeman,richard_freeman,pfr23
-22601,Robert E Hall,robert_hall,NA
+22601,Robert E Hall,robert_hall,pha128
 23201,Lawrence H Summers,lawrence_summers,psu137
 23401,Joel B Slemrod,joel_slemrod,psl10
 24001,Ann D Colle,ann_colle,NA
@@ -180,7 +180,7 @@ author,name,user_nber,user_repec
 27401,Kim B Clark,kim_clark,NA
 27802,Katharine G Abraham,katharine_abraham,pab32
 27902,William J Newton,NA,NA
-28101,Takatoshi Ito,takatoshi_ito,NA
+28101,Takatoshi Ito,takatoshi_ito,pit3
 28601,A Mitchell Polinsky,mitchell_polinsky,ppo94
 28701,Jacob A Frenkel,jacob_frenkel,NA
 28801,Boyan Jovanovic,boyan_jovanovic,NA
@@ -316,7 +316,7 @@ author,name,user_nber,user_repec
 54902,James R Lothian,james_lothian,NA
 55001,Jon Frye,NA,NA
 55601,J David Richardson,david_richardson,NA
-55901,Bennett T McCallum,bennett_mccallum,NA
+55901,Bennett T McCallum,bennett_mccallum,pmc4
 56202,Donald E Wise,donald_wise,NA
 56402,Sanford J Grossman,sanford_grossman,pgr108
 56601,Carl E Walsh,carl_walsh,pwa23
@@ -402,7 +402,7 @@ author,name,user_nber,user_repec
 85601,Christopher J Flinn,christopher_flinn,pfl8
 86301,Peter R Hartley,NA,NA
 87102,Shmuel Nitzan,NA,NA
-87302,N Gregory Mankiw,gregory_mankiw,NA
+87302,N Gregory Mankiw,gregory_mankiw,pma131
 87501,Friedrich Breyer,NA,NA
 87801,Mary Eccles,NA,NA
 87901,Eric Seiler,NA,NA
@@ -693,7 +693,7 @@ author,name,user_nber,user_repec
 172903,Theodore J Joyce,theodore_joyce,pjo112
 173001,Hal R Varian,hal_varian,pva5
 173202,Richard Meese,richard_meese,NA
-173401,Russell W Cooper,russell_cooper,NA
+173401,Russell W Cooper,russell_cooper,pco940
 173501,Leonard Waverman,NA,NA
 173601,Kenneth L Judd,kenneth_judd,pju19
 173802,Robert J Weiner,robert_weiner,NA
@@ -1108,7 +1108,7 @@ author,name,user_nber,user_repec
 317902,David G Blanchflower,david_blanchflower,NA
 317903,Mario D Garrett,NA,NA
 318003,Neil Millward,NA,NA
-318502,Sergio T Rebelo,sergio_rebelo,NA
+318502,Sergio T Rebelo,sergio_rebelo,pre4
 318701,Joshua Rosett,NA,NA
 318802,Louis N Christofides,NA,NA
 318902,Jeremy Greenwood,jeremy_greenwood,pgr12
@@ -1410,7 +1410,7 @@ author,name,user_nber,user_repec
 407001,Panagiotis G Mavros,NA,NA
 407101,Dan Kovenock,NA,NA
 407401,G Andrew Karolyi,andrew_karolyi,pka329
-407403,Rene M Stulz,rene_stulz,NA
+407403,Rene M Stulz,rene_stulz,pst226
 407501,Craig A Olson,craig_olson,NA
 408601,Marcelo Bianconi,marcelo_bianconi,pbi3
 409202,George M Pushner,NA,NA
@@ -1729,7 +1729,7 @@ author,name,user_nber,user_repec
 486703,Roger Procter,NA,NA
 486901,Harry Grubert,harry_grubert,NA
 487401,Brandice J Canes,NA,NA
-487501,Luigi Zingales,luigi_zingales,NA
+487501,Luigi Zingales,luigi_zingales,pzi101
 487502,Raghuram G Rajan,raghuram_rajan,pra149
 488003,John R Penrod,NA,NA
 488901,Mark A Hooker,mark_hooker,NA

@@ -279,6 +279,16 @@ authors_raw = authors_raw_nber %>%
          user_repec = replace(user_repec, paper %in% c(3847, 8984) & name == 'Joram Mayshar', 'pma2277'),
          user_repec = replace(user_repec, paper %in% 4:185 & name == 'Lee A Lillard', 'pli669'),
          user_repec = replace(user_repec, user_nber %in% c('george_wu', 'ye_qi'), NA),
+         user_repec = replace(user_repec, user_nber == 'bennett_mccallum', 'pmc4'),
+         user_repec = replace(user_repec, user_nber == 'gregory_mankiw', 'pma131'),
+         user_repec = replace(user_repec, user_nber == 'james_heckman', 'phe22'),
+         user_repec = replace(user_repec, user_nber == 'joseph_stiglitz', 'pst33'),
+         user_repec = replace(user_repec, user_nber == 'luigi_zingales', 'pzi101'),
+         user_repec = replace(user_repec, user_nber == 'rene_stulz', 'pst226'),
+         user_repec = replace(user_repec, user_nber == 'robert_hall', 'pha128'),
+         user_repec = replace(user_repec, user_nber == 'russell_cooper', 'pco940'),
+         user_repec = replace(user_repec, user_nber == 'sergio_rebelo', 'pre4'),
+         user_repec = replace(user_repec, user_nber == 'takatoshi_ito', 'pit3'),
          user_repec = replace(user_repec, name == 'Kay Porter', NA)) %>%
   # Assert that NBER:RePEc user name correspondence are m:1
   assert_many2one(user_nber, user_repec) %>%
