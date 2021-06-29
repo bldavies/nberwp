@@ -11,7 +11,6 @@ author,name,user_nber,user_repec
 1001,Paul W Holland,NA,NA
 1201,Melvin Reder,NA,NA
 1301,Reuben Gronau,reuben_gronau,pgr333
-1401,Lewis C Solmon,NA,NA
 1402,Paul Wachtel,paul_wachtel,pwa884
 1501,Ray C Fair,ray_fair,pfa24
 1601,David C Hoaglin,david_hoaglin,NA
@@ -170,8 +169,7 @@ author,name,user_nber,user_repec
 26702,Sherman J Maisel,sherman_maisel,NA
 26801,Stephen D Nadauld,NA,NA
 26901,David F Bradford,david_bradford_deceased,NA
-27001,Lawrence W Kenny,NA,NA
-27101,Lawrence W Kenny,NA,NA
+27001,Lawrence W Kenny,lawrence_kenny,pke84
 27401,Kim B Clark,kim_clark,NA
 27802,Katharine G Abraham,katharine_abraham,pab32
 27902,William J Newton,NA,NA
@@ -3518,7 +3516,7 @@ author,name,user_nber,user_repec
 908303,Ricardo Cossa,NA,NA
 908601,Abhiroop Mukhopadhyay,axm359,pmu75
 908702,Peter G Dunne,NA,NA
-908802,Liang Zhang,zhangliang999,NA
+908802,Liang Zhang,liang_zhang,NA
 909201,David McCarthy,dmccarth,NA
 909301,Melissa Schettini Kearney,melissa_kearney,NA
 909601,Alexi Sluchynsky,alexi_sluchynsky,NA
@@ -3769,7 +3767,7 @@ author,name,user_nber,user_repec
 961002,Kelly Noonan,kelly_noonan,NA
 961003,Nancy E Reichman,nancy_reichman,NA
 961101,Per A Mykland,per_mykland,NA
-961501,Nuno Sousa Pereira,nuno_periara,pso153
+961501,Nuno Sousa Pereira,nuno_pereira,pso153
 961701,Hajime Katayama,hajime_katayama,NA
 961703,Shihua Lu,shihua_lu,NA
 962101,Keijiro Otsuka,keijiro_otsuka,pot22
@@ -4262,7 +4260,6 @@ author,name,user_nber,user_repec
 1069002,Keith J Crocker,keith_crocker,NA
 1069202,Daniel Wolfenzon,daniel_wolfenzon,NA
 1069302,Ilho Yoo,NA,NA
-1069501,Liang Zhang,liang_zhang,NA
 1069901,Jennifer Walper,NA,NA
 1070001,Cheryl Wold,NA,NA
 1070102,Nora E Gordon,nora_gordon,pgo146
@@ -5157,7 +5154,6 @@ author,name,user_nber,user_repec
 1262403,Qin Gao,qin_gao,NA
 1262501,Ram Singh,ram_singh,NA
 1262601,Jerry Cao,jerry_cao,NA
-1262702,Lawrence Kenny,lawrence_kenny,pke84
 1262801,Colleen Donovan,colleen_donovan,NA
 1262901,Javier Garcia-Cicco,javiergc,NA
 1262903,Roberto Pancrazi,roberto_pancrazi,ppa621
@@ -7632,7 +7628,6 @@ author,name,user_nber,user_repec
 1719506,Stephen Hutton,stephen_hutton,NA
 1720004,Samuel Dastrup,sdastrup,NA
 1720403,Leonardo Iacovone,Leonardo_iacovone,pia8
-1720501,Nuno S Pereira,nuno_pereira,NA
 1720602,Steven C A Pincus,steven_pincus,NA
 1720704,Simon R Quinn,simonrquinn,pqu106
 1721302,Hans P Johnson,johnson@ppic.org,NA
@@ -8958,7 +8953,6 @@ author,name,user_nber,user_repec
 1957101,Jamie Mullins,jamie_mullins,NA
 1957202,Jonathan Kreamer,jonathan_kreamer,NA
 1957501,Joao Tovar Jalles,Joao_jalles,pja203
-1957504,Luis Brites Pereira,luis_brites_pereira_1,NA
 1957603,Weiwei Hu,weiweihu82,NA
 1958002,Olivier Accominotti,olivier_accominotti,pac67
 1958201,Caitlin Blair,caitlin_blair,NA
@@ -9673,7 +9667,7 @@ author,name,user_nber,user_repec
 2075403,Stephen Locke,stephen_locke,NA
 2075602,Stephanie J C Vermeer,stephanie_vermeer,NA
 2075903,Emily Beam,eabeam,pbe818
-2076002,Liangliang Jiang,liangliang_jiang,NA
+2076002,Liangliang Jiang,liangliang_jiang_1,NA
 2076102,Astrid Kunze,astrid_kunze,pku213
 2076301,German Daniel Caruso,german_caruso,NA
 2076401,Bahadir Dursun,bahadir_dursun,pdu430
@@ -11067,7 +11061,6 @@ author,name,user_nber,user_repec
 2306604,Ryan Liu,ryan_liu,NA
 2307001,David A Keiser,David_Keiser,NA
 2307102,Collin Raymond,collin_raymond,NA
-2308002,Liangliang Jiang,liangliang_jiang_1,NA
 2308202,Sophie Q Wang,sophie_calderwang,NA
 2308301,Boubacar Camara,boubacar_camara,pca1030
 2308302,Pierre Pessarossi,pierre_pessarossi,NA
@@ -11097,7 +11090,7 @@ author,name,user_nber,user_repec
 2313101,Cory Capps,cory_capps,NA
 2313303,Peter Chen,peter_chen,NA
 2313602,Sushant Acharya,sushant_acharya,pac42
-2314003,Laura Liu,lauraliuyu,NA
+2314003,Laura Liu,lauraliuyu,pli1251
 2314004,Mert Demirer,demirermert,NA
 2314201,Andre Kurmann,andre_kurmann,pku16
 2314501,David Rezza Baqaee,david_baqaee,NA
@@ -12473,7 +12466,6 @@ author,name,user_nber,user_repec
 2510001,Bryan Roberts,bryan_roberts,NA
 2510003,John Whitley,john_whitley,NA
 2510005,Sarah Burns,sarah_burns,NA
-2510203,Laura Liu,laura_liu1,NA
 2510503,Xiaohui (Ronnie) Guo,xiaohui_guo,NA
 2510702,Ignacio Sarmiento-Barbieri,ignacio_sarmiento,NA
 2510804,Maarten Meeuwis,maarten_meeuwis,NA
