@@ -109,9 +109,11 @@ clean_name = function(x) {
     subfun('C[*]', 'C') %>%
     subfun('C -L|L -C', 'L-C') %>%
     subfun('C -Y', 'C-Y') %>%
+    subfun('^Dr ', '') %>%
     subfun('Feldstean', 'Feldstein') %>%
     subfun('Fullterton', 'Fullerton') %>%
     subfun('Giles', 'Gilles') %>%
+    subfun('Gwilyn', 'Gwylim') %>%
     subfun('Haijime', 'Hajime') %>%
     subfun('Nagataki', 'Nagatake') %>%
     subfun('Romaine', 'Romain') %>%
@@ -140,15 +142,7 @@ authors_raw_nber = auths %>%
   # Delete 1:m name:user matches
   add_count(paper, user_nber) %>%
   mutate(user_nber = replace(user_nber, n > 1, NA)) %>%
-  select(-n) %>%
-  # Do some manual editing
-  filter(name != 'M B Landrum J Newhouse') %>%
-  bind_rows(tribble(
-    ~paper, ~name, ~user_nber,
-    7760, 'Mary Beth Landrum', 'MaryBeth_Landrum',
-    7760, 'Joseph P Newhouse', 'joseph_newhouse',
-    22701, 'Andrei Shleifer', 'andrei_shleifer'
-  ))
+  select(-n)
 
 # Extract raw authorship data with RePEc user names
 authors_raw_repec = nberwo %>%
@@ -173,6 +167,7 @@ authors_raw_repec = nberwo %>%
 # Define function for reassigning NBER user names
 reassign_nber_manually = function(x) {
   x = replace(x, x == 'albert_n._link', 'albert_link')
+  x = replace(x, x == 'alison_delrossi', 'alison_del_rossi')
   x = replace(x, x == 'andresrodriguez', 'andres_rodriguez')
   x = replace(x, x == 'benjamin__bennett_1', 'benjamin_bennett')
   x = replace(x, x == 'benjamin_remy', 'benjamin_chabot')
@@ -201,11 +196,19 @@ reassign_nber_manually = function(x) {
   x = replace(x, x == 'julia_wang', 'julia_shu-huah__wang')
   x = replace(x, x == 'julien_prat', 'julien_prat_1')
   x = replace(x, x == 'kasper_nielsen', 'kasper_m_nielsen')
+  x = replace(x, x == 'klaus_prettner_1', 'klaus_prettner')
   x = replace(x, x == 'kendall_jake', 'jake_kendall')
+  x = replace(x, x == 'lai_wei', 'lai_wei_1')
+  x = replace(x, x == 'lasse_brune', 'lasse_brune_1')
+  x = replace(x, x == 'mark_r._trusheim', 'mark_trusheim')
+  x = replace(x, x == 'mishka1', 'michael_katz')
   x = replace(x, x == 'phenix.hf', 'feng_huang')
   x = replace(x, x == 'primofrank', 'francisco_rodriguez')
   x = replace(x, x == 'roger_clemmons', 'roger_clemmons_1')
   x = replace(x, x == 'roger__moon_', 'hyungsik_moon')
+  x = replace(x, x == 'stephen_l_ross', 'steven_ross')
+  x = replace(x, x == 'valerio__leone_sciabolazza', 'sciabolazza')
+  x = replace(x, x == 'yildirim', 'muhammed_yildirim')
 }
 
 # Specify manual merges for authors with no NBER user name
@@ -217,6 +220,8 @@ manual_merges_nonber = tribble(
   576, 'Burton G Malkiel', 'burton_malkiel',
   700, 'Burton G Malkiel', 'burton_malkiel',
   7590, 'Burton G Malkiel', 'burton_malkiel',
+  3215, 'Catherine Jackson', 'catherine_jackson',
+  3624, 'Catherine A Jackson', 'catherine_jackson',
   189, 'David E Coleman', 'david_coleman',
   195, 'David E Coleman', 'david_coleman',
   63, 'Forrest D Nelson', 'forrest_nelson',
@@ -242,11 +247,28 @@ manual_merges_nonber = tribble(
   11, 'Paul W Holland', 'paul_holland',
   44, 'Paul W Holland', 'paul_holland',
   58, 'Paul W Holland', 'paul_holland',
-  189, 'Paul W Holland', 'paul_holland'
+  189, 'Paul W Holland', 'paul_holland',
+  3330, 'S Rao Aiyagari', 'aiyagari',
+  3481, 'S Rao Aiyagari', 'aiyagari',
+  6747, 'S Rao Aiyagari', 'aiyagari',
+  94, 'Vinay Dharmadhikari', 'vinay_dharmadhikari',
+  100, 'Vinay Dharmadhikari', 'vinay_dharmadhikari'
 )
 
 # Merge raw authorship data, treating NBER records as ground truth
 authors_raw = authors_raw_nber %>%
+  # Do some manual editing
+  filter(name != 'M B Landrum J Newhouse') %>%
+  filter(!(paper == 73 & name == 'Mark A Satterthwaite')) %>%
+  filter(!(paper == 4371 & name == 'Michael J White')) %>%
+  bind_rows(tribble(
+    ~paper, ~name, ~user_nber,
+    4371, 'Michelle J White', 'michelle_white',
+    7760, 'Mary Beth Landrum', 'MaryBeth_Landrum',
+    7760, 'Joseph P Newhouse', 'joseph_newhouse',
+    22701, 'Andrei Shleifer', 'andrei_shleifer'
+  )) %>%
+  # Merge in RePEc data
   left_join(authors_raw_repec) %>%
   arrange(paper, name) %>%
   # Do manual reassignments, add known missing NBER and RePEc user names, and catch known RePEc user name mis-codings
@@ -262,15 +284,25 @@ authors_raw = authors_raw_nber %>%
          user_nber = replace(user_nber, paper %in% c(6744, 10148) & name == 'Dina Mayzlin', 'dina_mayzlin'),
          user_nber = replace(user_nber, paper == 132 & name == 'Donald O Parsons', 'donald_parsons'),
          user_nber = replace(user_nber, paper %in% c(1121, 4571) & name == 'Gikas A Hardouvelis', 'gikas_hardouvelis'),
+         user_nber = replace(user_nber, paper == 9207 & name == 'Gwilym Pryce', 'gwilym_pryce'),
          user_nber = replace(user_nber, paper %in% c(376, 6870, 10730) & name == 'J Peter Neary', 'peter_neary'),
          user_nber = replace(user_nber, paper %in% c(6944, 7210) & name == 'Jack Porter', 'jack__porter'),
          user_nber = replace(user_nber, paper == 10347 & name == 'Jessica Tjornhom Donohue', 'jessica_donohue'),
          user_nber = replace(user_nber, paper == 4822 & name == 'John A Rizzo', 'john_rizzo'),
          user_nber = replace(user_nber, paper == 8394 & name == 'John P Conley', 'john_p_conley'),
          user_nber = replace(user_nber, paper == 5542 & name == 'Jonathan P Caulkins', 'jonathan_caulkins'),
+         user_nber = replace(user_nber, paper == 9645 & name == 'Koen Schoors', 'koen_schoors'),
+         user_nber = replace(user_nber, paper == 10527 & name == 'Larry Samuelson', 'larry_samuelson'),
          user_nber = replace(user_nber, paper == 12356 & name == 'Kasper M Nielsen', 'kasper_m_nielsen'),
          user_nber = replace(user_nber, paper %in% c(5626, 5656, 6321) & name == 'Kenneth R Troske', 'kenneth_troske'),
          user_nber = replace(user_nber, paper %in% c(6997, 7003) & name == 'Kimberly Bayard', 'kimberly_bayard'),
+         user_nber = replace(user_nber, paper == 9579 & name == 'Matthew O Jackson', 'matthew_jackson'),
+         user_nber = replace(user_nber, paper == 9207 & name == 'Michael White', 'Michant'),
+         user_nber = replace(user_nber, paper %in% c(4525, 7981) & name == 'Peter E Rossi', 'peter_rossi'),
+         user_nber = replace(user_nber, paper <= 8126 & name == 'Richard A Posner', 'richard_posner'),
+         user_nber = replace(user_nber, paper %in% c(3, 26) & name == 'Swarnjit S Arora', 'swarnjit_arora'),
+         user_nber = replace(user_nber, paper ==10928 & name == 'Thomas Stratmann', 'thomas_stratmann'),
+         user_nber = replace(user_nber, paper == 3954 & name == 'William F Samuelson', 'wsamuels'),
          user_repec = replace(user_repec, paper == 4728 & name == 'David C Mare', 'pma565'),
          user_repec = replace(user_repec, paper %in% c(2196, 6622) & name == 'David E M Sappington', 'psa323'),
          user_repec = replace(user_repec, paper %in% c(5179, 9262) & name == 'Dennis R Capozza', 'pca514'),
@@ -294,8 +326,10 @@ authors_raw = authors_raw_nber %>%
          user_repec = replace(user_repec, user_nber == 'robert_macculloch', 'pma305'),
          user_repec = replace(user_repec, user_nber == 'russell_cooper', 'pco940'),
          user_repec = replace(user_repec, user_nber == 'sergio_rebelo', 'pre4'),
+         user_repec = replace(user_repec, user_nber == 'stephen_ross', 'pro1047'),
          user_repec = replace(user_repec, user_nber == 'takatoshi_ito', 'pit3'),
-         user_repec = replace(user_repec, name == 'Kay Porter', NA)) %>%
+         user_repec = replace(user_repec, name == 'Kay Porter', NA),
+         user_repec = replace(user_repec, name == 'Muhammed A Yildirim', NA)) %>%
   # Assert that NBER:RePEc user name correspondence are m:1
   assert_many2one(user_nber, user_repec) %>%
   # Collapse m:1 NBER:RePEc matches to 1:1
