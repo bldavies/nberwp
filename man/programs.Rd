@@ -7,17 +7,24 @@
 \format{
 Data frame with columns
 \describe{
-\item{paper}{Working paper number}
 \item{program}{Program code}
+\item{program_desc}{Program description}
+\item{program_category}{Program category based on Chari and Goldsmith-Pinkham (2017)}
 }
 }
 \source{
-\href{http://www2.nber.org/wp_metadata/}{National Bureau of Economic Research}
+\href{https://www.nber.org/RePEc/nbr/nberwo/}{National Bureau of Economic Research}
 }
 \usage{
 data(programs)
 }
 \description{
-Crosswalk between NBER working papers and programs.
+Crosswalk between NBER program codes, descriptions and categories.
+}
+\references{
+Chari, A. and P. Goldsmith-Pinkham (2017).
+Gender Representation in Economics Across Topics and Time: Evidence from the NBER Summer Institute.
+NBER Working Paper No. 23953,
+National Bureau of Economic Research.
 }
 \keyword{datasets}
