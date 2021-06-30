@@ -204,7 +204,11 @@ reassign_nber_manually = function(x) {
   x = replace(x, x == 'liangliang_jiang', 'liangliang_jiang_1')
   x = replace(x, x == 'luis_brites_pereira_1', 'luis_pereira')
   x = replace(x, x == 'mark_r._trusheim', 'mark_trusheim')
+  x = replace(x, x == 'michael_p_keane', 'michael_p_keane_1')
   x = replace(x, x == 'mishka1', 'michael_katz')
+  x = replace(x, x == 'oren_levintal', 'oren_levintal_1')
+  x = replace(x, x == 'peter_landry', 'peter_landry_1')
+  x = replace(x, x == 'peter_shirley', 'peter_shirley_1')
   x = replace(x, x == 'phenix.hf', 'feng_huang')
   x = replace(x, x == 'primofrank', 'francisco_rodriguez')
   x = replace(x, x == 'roger_clemmons', 'roger_clemmons_1')
@@ -234,6 +238,9 @@ manual_merges_nonber = tribble(
   96, 'Forrest D Nelson', 'forrest_nelson',
   3113, 'Glenn T Sueyoshi', 'glenn_sueyoshi',
   6175, 'Glenn T Sueyoshi', 'glenn_sueyoshi',
+  69, 'G S Maddala', 'gs_maddala',
+  70, 'G S Maddala', 'gs_maddala',
+  96, 'G S Maddala', 'gs_maddala',
   4404, 'John H Boyd', 'john_boyd',
   5045, 'John H Boyd', 'john_boyd',
   8092, 'John H Boyd', 'john_boyd',
@@ -246,9 +253,14 @@ manual_merges_nonber = tribble(
   7047, 'Kenneth E Warner', 'kenneth_warner',
   7, 'Lewis C Solmon', 'lewis_solmon',
   14, 'Lewis C Solmon', 'lewis_solmon',
-  69, 'G S Maddala', 'gs_maddala',
-  70, 'G S Maddala', 'gs_maddala',
-  96, 'G S Maddala', 'gs_maddala',
+  480, 'Mark Gersovitz', 'mark_gersovitz',
+  972, 'Mark Gersovitz', 'mark_gersovitz',
+  1894, 'Mark Gersovitz', 'mark_gersovitz',
+  2204, 'Mark Gersovitz', 'mark_gersovitz',
+  7575, 'Paras Mehta', 'paras_mehta',
+  7952, 'Paras Mehta', 'paras_mehta',
+  2956, 'Paul J Seguin', 'paul_seguin',
+  5179, 'Paul J Seguin', 'paul_seguin',
   10, 'Paul W Holland', 'paul_holland',
   11, 'Paul W Holland', 'paul_holland',
   44, 'Paul W Holland', 'paul_holland',
@@ -303,13 +315,22 @@ authors_raw = authors_raw_nber %>%
          user_nber = replace(user_nber, paper == 12356 & name == 'Kasper M Nielsen', 'kasper_m_nielsen'),
          user_nber = replace(user_nber, paper %in% c(5626, 5656, 6321) & name == 'Kenneth R Troske', 'kenneth_troske'),
          user_nber = replace(user_nber, paper %in% c(6997, 7003) & name == 'Kimberly Bayard', 'kimberly_bayard'),
+         user_nber = replace(user_nber, paper == 2526 & name == 'Mark M Pitt', 'mark_pitt'),
+         user_nber = replace(user_nber, paper %in% c(5774, 6621) & name == 'Mark Wilhelm', 'mark_ottoni-wilhelm'),
+         user_nber = replace(user_nber, paper %in% 4779:7762 & name == 'Mary E Lovely', 'mary_lovely'),
+         user_nber = replace(user_nber, paper %in% 7070:10748 & name == 'Matthew F Mitchell', 'matthew_mitchell'),
          user_nber = replace(user_nber, paper == 9579 & name == 'Matthew O Jackson', 'matthew_jackson'),
+         user_nber = replace(user_nber, paper %in% c(3453, 5136) & name == 'Maxim Boycko', 'maxim_boycko'),
+         user_nber = replace(user_nber, paper == 2241 & name == 'Michael C Burda', 'michael_burda'),
          user_nber = replace(user_nber, paper == 9207 & name == 'Michael White', 'Michant'),
+         user_nber = replace(user_nber, paper == 9248 & name == 'N Edward Coulson', 'edward_coulson'),
+         user_nber = replace(user_nber, paper == 7962 & name == 'Neil Gandal', 'neil_gandal'),
          user_nber = replace(user_nber, paper %in% c(9615, 12951) & name == 'Nuno Sousa Pereira', 'nuno_pereira'),
+         user_nber = replace(user_nber, paper == 628 & name == 'Paul Strebel', 'paul_strebel'),
          user_nber = replace(user_nber, paper %in% c(4525, 7981) & name == 'Peter E Rossi', 'peter_rossi'),
          user_nber = replace(user_nber, paper <= 8126 & name == 'Richard A Posner', 'richard_posner'),
          user_nber = replace(user_nber, paper %in% c(3, 26) & name == 'Swarnjit S Arora', 'swarnjit_arora'),
-         user_nber = replace(user_nber, paper ==10928 & name == 'Thomas Stratmann', 'thomas_stratmann'),
+         user_nber = replace(user_nber, paper == 10928 & name == 'Thomas Stratmann', 'thomas_stratmann'),
          user_nber = replace(user_nber, paper == 3954 & name == 'William F Samuelson', 'wsamuels'),
          user_repec = replace(user_repec, paper == 4728 & name == 'David C Mare', 'pma565'),
          user_repec = replace(user_repec, paper %in% c(2196, 6622) & name == 'David E M Sappington', 'psa323'),
@@ -319,6 +340,9 @@ authors_raw = authors_raw_nber %>%
          user_repec = replace(user_repec, paper %in% c(6138, 7584) & name == 'Jody Overland', 'pov8'),
          user_repec = replace(user_repec, paper %in% c(3847, 8984) & name == 'Joram Mayshar', 'pma2277'),
          user_repec = replace(user_repec, paper %in% 4:185 & name == 'Lee A Lillard', 'pli669'),
+         user_repec = replace(user_repec, paper %in% 6374:7980 & name == 'Mark Rider', 'pri188'),
+         user_repec = replace(user_repec, paper %in% c(3020, 4172) & grepl('Stone', name), 'pst156'),
+         user_repec = replace(user_repec, paper %in% c(863, 1890) & name == 'Peter R Hartley', 'pha1073'),
          user_repec = replace(user_repec, user_nber %in% c('george_wu', 'ye_qi'), NA),
          user_repec = replace(user_repec, user_nber == 'athene_laws', 'pla779'),
          user_repec = replace(user_repec, user_nber == 'bennett_mccallum', 'pmc4'),
@@ -330,6 +354,7 @@ authors_raw = authors_raw_nber %>%
          user_repec = replace(user_repec, user_nber %in% c('laura_liu1', 'lauraliuyu'), 'pli1251'),
          user_repec = replace(user_repec, user_nber == 'lesoxley', 'pox4'),
          user_repec = replace(user_repec, user_nber == 'luigi_zingales', 'pzi101'),
+         user_repec = replace(user_repec, user_nber == 'maxim_boycko', 'pbo352'),
          user_repec = replace(user_repec, user_nber == 'rene_stulz', 'pst226'),
          user_repec = replace(user_repec, user_nber == 'robert_hall', 'pha128'),
          user_repec = replace(user_repec, user_nber == 'robert_macculloch', 'pma305'),
