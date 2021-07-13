@@ -18,5 +18,5 @@
 #' NBER Working Paper No. 23953,
 #' National Bureau of Economic Research.
 #'
-#' @source \href{https://www.nber.org/RePEc/nbr/nberwo/}{National Bureau of Economic Research}
+#' @source \href{https://www.nber.org}{National Bureau of Economic Research}
 "programs"

@@ -12,5 +12,5 @@
 #' \item{author}{Author ID}
 #' }
 #'
-#' @source \href{http://www2.nber.org/wp_metadata/}{National Bureau of Economic Research}
+#' @source \href{https://data.nber.org/nber-wp-logs/}{National Bureau of Economic Research}
 "paper_authors"

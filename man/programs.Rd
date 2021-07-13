@@ -13,7 +13,7 @@ Data frame with columns
 }
 }
 \source{
-\href{https://www.nber.org/RePEc/nbr/nberwo/}{National Bureau of Economic Research}
+\href{https://www.nber.org}{National Bureau of Economic Research}
 }
 \usage{
 data(programs)

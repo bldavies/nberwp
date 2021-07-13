@@ -3,10 +3,11 @@
 # This script exports a table of working paper attributes.
 #
 # Ben Davies
-# March 2021
+# July 2021
 
 # Load packages
 library(bldr)
+library(data.table)
 library(dplyr)
 library(readr)
 library(rvest)
@@ -15,15 +16,9 @@ library(tidyr)
 library(xml2)
 
 # Import raw metadata
-dates = read_tsv('data-raw/metadata/date.txt') %>%
-  filter(grepl('^w', paper))
-titles = read_lines('data-raw/metadata/title.txt') %>%
-  {tibble(line = .)} %>%
-  filter(grepl('^w', line)) %>%
-  mutate(line = sub('(w[0-9]+)\\s+(.*)', '\\1#&#\\2', line)) %>%
-  separate(line, c('paper', 'title'), sep = '#&#')
+papers_raw = fread('data-raw/metadata/working_papers.tab', quote = '', encoding = 'Latin-1')
 
-# Set boundary issue data
+# Set boundary issue date
 max_issue_date = '2021-02-28'
 
 # Define function for removing known parenthetical notes
@@ -42,18 +37,13 @@ remove_parenthetical_notes = function(x) {
 clean_text = function(x) {
   subfun = function(x, pattern, y) gsub(pattern, y, x, perl = TRUE)
   x %>%
-    sapply(function(x) paste0('<p>', x, '</p>')) %>%
-    sapply(function(x) paste(rvest::html_text(xml2::read_html(x)), collapse = ' ')) %>%
-    subfun('R̂', 'R') %>%
+    subfun('<.*?>(.*)</.*?>', '\\1') %>%
     subfun('à', 'a') %>%
     subfun('á', 'a') %>%
     subfun('é', 'e') %>%
     subfun('í', 'i') %>%
     subfun('ï', 'i') %>%
     subfun('ñ', 'n') %>%
-    subfun('ﬀ', 'ff') %>%
-    subfun('ﬁ', 'fi') %>%
-    subfun('⁵', '5') %>%
     subfun('‘', '\'') %>%
     subfun('’', '\'') %>%
     subfun('“', '"') %>%
@@ -61,7 +51,6 @@ clean_text = function(x) {
     subfun('‐', '-') %>%
     subfun('–', '--') %>%
     subfun('—', '---') %>%
-    subfun('≤', '<=') %>%
     subfun(':([A-Za-z0-9])', ': \\1') %>%
     stringr::str_squish()
 }
@@ -150,18 +139,29 @@ fix_title = function(x) {
     subfun('\\%u2019', '\'') %>%  # 12396
     subfun(',2004', ', 2004') %>%  # 12607
     subfun(',1980', ', 1980') %>%  # 15274
+    subfun('ter\\?Cyc', 'ter-Cyc') %>%  # 18062
     subfun('A-az', 'iaz') %>%  # 21350
+    subfun('^\\?', '') %>%  # 21802
+    subfun('E\\?ect', 'Effect') %>%  # 22950
+    subfun('dor\\?Uni', 'dor-Uni') %>%  # 23018
+    subfun('^q\\?$', 'q5') %>%  # 24709
     subfun(',W', ', W') %>%  # 25311
+    subfun('Di\\?er', 'Differ') %>%  # 25380, 26375
+    subfun('Pro\\?t', 'Profit') %>%  # 26027
     subfun('\\?E', '? E') %>%  # 26268
-    subfun('DEg', 'Deg')  # 27239
+    subfun(' o\\? ', ' off ')  %>%  # 26624
+    subfun('i\\?I', 'i-I') %>%  # 27175
+    subfun('DEg', 'Deg') %>%  # 27239
+    subfun(' R\\? ', ' R ') %>%  # 27632
+    subfun('R\\?1', 'R<=1')  # 28093
 }
 
 # Collate working paper information
 bad_numbers = c(156, 623, 2432, 7044, 7255, 7436, 7565, 8649, 9101, 9694, 13410, 13800, 21929, 28460, 28473)
-papers = dates %>%
+papers = papers_raw %>%
+  as_tibble() %>%
   filter(grepl('^w[0-9]', paper)) %>%
   filter(issue_date <= max_issue_date) %>%
-  left_join(titles) %>%
   mutate(paper = as.integer(sub('^w', '', paper)),
          year = as.integer(substr(issue_date, 1, 4)),
          month = as.integer(substr(issue_date, 6, 7))) %>%

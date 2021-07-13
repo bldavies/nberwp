@@ -3,23 +3,26 @@
 # This script exports tables of program attributes and of paper-program correspondences.
 #
 # Ben Davies
-# March 2021
+# July 2021
 
 # Load packages
 library(bldr)
+library(data.table)
 library(dplyr)
 library(readr)
 library(stringr)
 library(tidyr)
 
 # Import raw metadata
-prog = read_tsv('data-raw/metadata/prog.txt')
+paper_programs_raw = fread('data-raw/metadata/working_papers_programs.tab', quote = '')
 
 # Import working paper attributes
 papers = read_csv('data-raw/papers.csv')
 
 # Create paper-program crosswalk
-paper_programs = prog %>%
+paper_programs = paper_programs_raw %>%
+  as_tibble() %>%
+  select(paper, program) %>%
   filter(grepl('^w[0-9]+', paper)) %>%
   mutate(paper = as.integer(sub('^w', '', paper))) %>%
   semi_join(papers) %>%

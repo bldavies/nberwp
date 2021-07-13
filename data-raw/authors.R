@@ -3,13 +3,14 @@
 # This script exports tables of author attributes and paper-author correspondences.
 #
 # Ben Davies
-# June 2021
+# July 2021
 
 
 # Initialization ----
 
 # Load packages
 library(bldr)
+library(data.table)
 library(dplyr)
 library(igraph)
 library(readr)
@@ -18,8 +19,7 @@ library(stringr)
 library(tidyr)
 
 # Import raw data
-auths = read_tsv('data-raw/metadata/auths.txt')
-author_user = read_tsv('data-raw/metadata/author_user.txt')
+paper_authors_raw = fread('data-raw/metadata/working_papers_authors.tab', quote = '', encoding = 'Latin-1')
 nberwo = read_csv('data-raw/nberwo.csv')
 
 # Import processed data
@@ -99,36 +99,82 @@ replace_non_ascii = function(x) {
 clean_name = function(x) {
   subfun = function(x, pattern, y) gsub(pattern, y, x, perl = TRUE)
   x %>%
+    subfun(' \\?$', '') %>%
     subfun(' Jr', '') %>%
     subfun('[,]+', '') %>%
+    subfun('Abdulkadiro\\?lu', 'Abdulkadiroglu') %>%
+    subfun('Arbatl\\?', 'Arbatli') %>%
+    subfun('Aydo\\?an', 'Aydogan') %>%
+    subfun('Ay\\?egul', 'Aysegul') %>%
     subfun('Bertl', 'Bertil') %>%
     subfun('Bobie', 'Bodie') %>%
+    subfun('Bora\\?an', 'Boragan') %>%
+    subfun('Borovi\\?k', 'Borovick') %>%
     subfun('Caballlero', 'Caballero') %>%
+    subfun('Ca\\?lar', 'Caglar') %>%
+    subfun('Cakmakl\\?', 'Cakmakli') %>%
+    subfun('\\?apkun', 'Capkun') %>%
+    subfun('Cemalc\\?lar', 'Cemalcilar') %>%
+    subfun('Chi\\?u', 'Chihu') %>%
+    subfun('\\?ihak', 'Cihak') %>%
     subfun('Clarez', 'Clare') %>%
     subfun('Cogaj', 'Cogan') %>%
+    subfun('Co\\?ar', 'Cosar') %>%
     subfun('C[*]', 'C') %>%
     subfun('C -L|L -C', 'L-C') %>%
     subfun('C -Y', 'C-Y') %>%
     subfun('Dean Karlin', 'Dean Karlan') %>%
+    subfun('Demirgu\\?', 'Demirguc') %>%
+    subfun('Dzieli\\?ski', 'Dzielinski') %>%
     subfun('^Dr ', '') %>%
     subfun('Feldstean', 'Feldstein') %>%
     subfun('Fullterton', 'Fullerton') %>%
     subfun('Giles', 'Gilles') %>%
+    subfun('Gombovi\\?', 'Gombovic') %>%
+    subfun('Gune\\?', 'Gunes') %>%
     subfun('Gwilyn', 'Gwylim') %>%
     subfun('Haijime', 'Hajime') %>%
+    subfun('Has\\?i\\?', 'Hascic') %>%
+    subfun('Ivkovi\\?', 'Ivkovich') %>%
+    subfun('Jan\\?okova', 'Jancokova') %>%
+    subfun('Jaroci\\?ski', 'Jarocinski') %>%
+    subfun('Kapi\\?ka', 'Kapicka') %>%
+    subfun('K\\?sac\\?ko\\?lu', 'Kisacikoglu') %>%
+    subfun('Kova\\?ik', 'Kovarik') %>%
+    subfun('\\?ubos', 'Lubos') %>%
+    subfun('\\?ukasz', 'Lukasz') %>%
+    subfun('Ma\\?kowiak', 'Mackowiak') %>%
+    subfun('Mat\\?jka', 'Matejka') %>%
+    subfun('Micha\\?', 'Michal') %>%
     subfun('Nagataki', 'Nagatake') %>%
+    subfun('P\\?nar', 'Pinar') %>%
     subfun('Romaine', 'Romain') %>%
+    subfun('\\? Pelin', 'S Pelin') %>%
+    subfun('Sa\\?lam', 'Saglam') %>%
+    subfun('\\?ahin', 'Sahin') %>%
+    subfun('\\?ebnem', 'Sebnem') %>%
     subfun('Siata', 'Saita') %>%
+    subfun('Sr\\?jan', 'Srdjan') %>%
+    subfun('St\\?pan', 'Stepan') %>%
     subfun('Stiflitx', 'Stiglitz') %>%
     subfun('Stratman$', 'Stratmann') %>%
+    subfun('Sz\\?ke', 'Szoke') %>%
     subfun('Tuillo', 'Tullio') %>%
-    subfun('wickstrom', 'Wickstrom')
+    subfun('U\\?ur', 'Ugur') %>%
+    subfun('wickstrom', 'Wickstrom') %>%
+    subfun('Wi\\?cek', 'Wiecek') %>%
+    subfun('Ye\\?ilbayraktar', 'Yesilbayraktar') %>%
+    subfun('Ye\\?ilta\\?', 'Yesiltas') %>%
+    subfun('Ye\\?im', 'Yesim') %>%
+    subfun('Y\\?ld\\?r\\?m', 'Yildirim') %>%
+    subfun('Y\\?lmaz', 'Yilmaz')
 }
 
 # Extract raw authorship data with NBER user names
-authors_raw_nber = auths %>%
-  bind_cols(author_user) %>%
-  select(paper = paper...1, name, user_nber = author_user) %>%
+authors_raw_nber = paper_authors_raw %>%
+  as_tibble() %>%
+  arrange(paper, order_num) %>%
+  select(paper, name, user_nber = author_user) %>%
   filter(grepl('^w[0-9]+$', paper)) %>%
   mutate(paper = as.integer(sub('^w', '', paper))) %>%
   semi_join(papers) %>%
@@ -138,7 +184,7 @@ authors_raw_nber = auths %>%
          name = str_squish(name),
          name = clean_name(name),
          name = ifelse(name == 'NULL', NA, name),
-         user_nber = ifelse(user_nber == 'NULL', NA, user_nber)) %>%
+         user_nber = ifelse(user_nber %in% c('', 'NULL'), NA, user_nber)) %>%
   distinct() %>%
   # Delete 1:m name:user matches
   add_count(paper, user_nber) %>%
@@ -279,12 +325,12 @@ authors_raw = authors_raw_nber %>%
   filter(name != 'M B Landrum J Newhouse') %>%
   filter(!(paper == 73 & name == 'Mark A Satterthwaite')) %>%
   filter(!(paper == 4371 & name == 'Michael J White')) %>%
+  filter(!(paper == 22701 & user_nber == 'andrei_shleifer')) %>%
   bind_rows(tribble(
     ~paper, ~name, ~user_nber,
     4371, 'Michelle J White', 'michelle_white',
     7760, 'Mary Beth Landrum', 'MaryBeth_Landrum',
-    7760, 'Joseph P Newhouse', 'joseph_newhouse',
-    22701, 'Andrei Shleifer', 'andrei_shleifer'
+    7760, 'Joseph P Newhouse', 'joseph_newhouse'
   )) %>%
   # Merge in RePEc data
   left_join(authors_raw_repec) %>%
