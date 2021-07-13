@@ -25,6 +25,7 @@ max_issue_date = '2021-02-28'
 remove_parenthetical_notes = function(x) {
   subfun = function(x, pattern, y) gsub(pattern, y, x, ignore.case = T, perl = TRUE)
   x %>%
+    subfun('\\(expanded version\\)', '') %>%  # 8387, 12024
     subfun('\\(long version\\)', '') %>%  # 14662, 15660, 15881
     subfun('\\(part.*\\)$', '') %>%  # 3018, 3344
     subfun('\\(rev.*\\)', '') %>%  # 337, 409, 414, 508, 584, 660, 942
