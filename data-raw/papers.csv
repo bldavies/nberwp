@@ -11,7 +11,7 @@ paper,year,month,title
 10,1973,9,Monte Carlo for Robust Regression: The Swindle Unmasked
 11,1973,9,Weighted Ridge Regression: Combining Ridge and Robust Regression Methods
 12,1973,10,Citizen Rights and the Cost of Law Enforcement
-13,1973,10,Wage Comparisons -A Selectivity Bias
+13,1973,10,Wage Comparisons - A Selectivity Bias
 14,1973,10,The Effects on Income of Type of College Attended
 15,1973,10,A Comparison of FIML and Robust Estimates of a Nonlinear Macroeconomic Model
 16,1973,11,Monte Carlo Techniques in Studying Robust Estimators
@@ -64,7 +64,7 @@ paper,year,month,title
 63,1974,12,Censored Regression Models with Unobserved Stochastic Censoring Thresholds
 64,1974,12,"Data Analysis, Communication, and Control"
 65,1974,12,Rational Distributed Lag Structural Form--A General Econometric Model
-66,1974,12,Detecting and Assessing the Problems Caused by Multi-Collinearity: A Useof the Singular-Value Decomposition
+66,1974,12,Detecting and Assessing the Problems Caused by Multi-Collinearity: A Use of the Singular-Value Decomposition
 67,1975,1,Human Capital and Labor Supply: A Synthesis
 68,1974,10,On a General Computer Algorithm for the Analysis of Models with Limited Dependent Variables
 69,1974,10,Ridge Estimators for Distributed Lag Models
@@ -341,7 +341,7 @@ paper,year,month,title
 341,1979,4,On Activist Monetary Policy With Rational Expectations
 342,1979,5,High School Preparation and Early Labor Force Experience
 343,1979,5,Coherency Conditions In Simultaneous Linear Equation Models With Endogenous Switching Regimes
-344,1979,5,Aggregation Effects And Panel Data Estimation Problems: An Investigationof the R&D Intensity Decision
+344,1979,5,Aggregation Effects And Panel Data Estimation Problems: An Investigation of the R&D Intensity Decision
 345,1979,5,A Note on the Derivation of Linear Homogeneous Asset Demand Functions
 346,1979,5,"The Rate of Obsolescence Of Knowledge, Research Gestation Lags, and the Private Rate of Return to Research Resources"
 347,1979,5,Technical Systems and Innovations in Public Libraries
@@ -497,7 +497,7 @@ paper,year,month,title
 497,1980,7,Alternative Tax Treatments of the Family: Simulation Methodology and Results
 498,1980,7,Monetary Information and Macroeconomic Fluctuations
 499,1980,7,On the Almost Neutrality of Inflation: Notes on Taxation and the Welfare Costs of Inflation
-500,1980,7,The Transmission of Disturbances under Alternative Exchange-Rate Regimeswith Optimal Indexing
+500,1980,7,The Transmission of Disturbances under Alternative Exchange-Rate Regimes with Optimal Indexing
 501,1980,7,Adjustment to Variations in Imported Input Prices: The Role of Economic Structure
 502,1980,7,"Irreversibility, Uncertainty, and Cyclical Investment"
 503,1980,7,Modeling Price Rigidity or Predicting the Quality of the Good that Clears the Market
@@ -571,7 +571,7 @@ paper,year,month,title
 571,1980,10,"International Trade, Indebtedness, and Welfare Repercussions among Supply-Constrained Economies under Floating Exchange Rates"
 572,1980,10,Accumulation and Growth in a Two-Country Model: A Simulation Approach
 573,1980,10,Consistent Simple Sum Aggregation over Assets
-574,1980,10,Symmetric Substitution Matrices in Asset Demand Systsems
+574,1980,10,Symmetric Substitution Matrices in Asset Demand Systems
 575,1980,10,Monetary and Fiscal Policies in an Open Economy
 576,1980,11,Taxation and Corporation Finance
 577,1980,11,"Inflation, Tax Rules, and Investment: Some Econometric Evidence"
@@ -839,7 +839,7 @@ paper,year,month,title
 840,1982,1,A Comparison of Tournaments and Contracts
 841,1982,1,Two Notes on Indeterminacy Problems
 842,1982,1,International Risk Sharing and the Choice of Exchange-Rate Regime
-843,1982,1,Tests of Rational Expectations and No Risk Premium in Forward Exchange Markats
+843,1982,1,Tests of Rational Expectations and No Risk Premium in Forward Exchange Markets
 844,1982,1,"The Labor Market Impact of Federal Regulation: OSHA, ERISA, EEO, and Minimum Wage"
 845,1982,1,Expectations and Forecasts from Business Outlook Surveys
 846,1982,1,The Effect of the Minimum Wage on Employment and Unemployment: A Survey
@@ -885,7 +885,7 @@ paper,year,month,title
 886,1982,4,Interest Rate Implications for Fiscal and Monetary Policies: A Postscript on the Government Budget Constraint
 887,1982,5,Post-War Capital Accumulation and the Threat of Nuclear War
 888,1982,5,Time-Separable Preference and Intertemporal-Substitution Models of Business Cycles
-889,1982,5,Inflationary Finance under Discrepion and Rules
+889,1982,5,Inflationary Finance under Discretion and Rules
 890,1982,5,Changes in American and British Stature Since the Mid-Eighteenth Century: A Prelimanary Report on the Usefulness of Data on Height...
 891,1982,5,The Production and Inventory Behavior of the American Automobile Industry
 892,1982,5,Replacing the U.S. Income Tax with a Progressive Consumption Tax: A Sequenced General Equilibrium Approach
@@ -1108,7 +1108,7 @@ paper,year,month,title
 1109,1983,4,Survey Response Variation in the Current Population Survey
 1110,1983,4,"The Desirability of a Dollar Appreciation, Given a Contractionary U.S. Monetary Policy"
 1111,1983,4,Uncertain Parameter Values and the Choice Among Policy Options
-1112,1983,4,"Empirical Studies of Exchange Rates: Price Behavior, Rate Determinationand Market Efficiency"
+1112,1983,4,"Empirical Studies of Exchange Rates: Price Behavior, Rate Determination and Market Efficiency"
 1113,1983,4,Are Asset Demand Functions Determined by CAPM?
 1114,1983,5,Monetary Instruments and Policy Rules in a Rational Expectations Environment
 1115,1983,5,The Theorems of International Trade with Factor Mobility
@@ -1196,7 +1196,7 @@ paper,year,month,title
 1197,1983,9,The Profitability of Currency Speculation
 1198,1983,9,A Technique for Indicating Comparative and Perdicting Changes in Trade Ratios
 1199,1983,9,Slipping into and out of Poverty: The Dynamics of Spells
-1200,1983,9,Accumulation of Property by Southern Blacks Before World War I: Commentand Further Evidence
+1200,1983,9,Accumulation of Property by Southern Blacks Before World War I: Comment and Further Evidence
 1201,1983,9,Average Marginal Tax Rates U.S. Household Interest and Dividend Income 1954-80
 1202,1983,9,Forecasting and Conditional Projection Using Realistic Prior Distributions
 1203,1983,9,A Simple Account of the Behavior of Long-Term Interest Rates
@@ -1260,7 +1260,7 @@ paper,year,month,title
 1261,1984,1,Military Enlistments: What Can We Learn From Geographic Variation?
 1262,1984,1,Incentive Effects of Taxes on Income From Capital: Alternative Policies in the 1980's
 1263,1984,1,Air Pollution and Lost Work
-1264,1984,1,"R&D, Production Structure, and Productivity Growth in the U.S., Japaneseand German Manufacturing Sectors"
+1264,1984,1,"R&D, Production Structure, and Productivity Growth in the U.S., Japanese and German Manufacturing Sectors"
 1265,1984,1,"Current and Anticipated Deficits, Interest Rates and Economic Activity"
 1266,1984,1,"Fiscal Policies, Debt, and International Economic Interdependence"
 1267,1984,1,Trading and the Tax Shelter Value of Depreciable Real Estate
@@ -1382,7 +1382,7 @@ paper,year,month,title
 1383,1984,6,Household Saving: An Econometric Investigation
 1384,1984,6,The Heights of Americans in Three Centuries: Some Economic and Demographic Implications
 1385,1984,6,Investment in Fixed and Working Capital During Early Industrialization: Evidence From U.S. Manufacturing Firms
-1386,1984,6,Was the Transition from the Artisanal Shop to the Non-Mechanized Fctry Assoc. w/Gains in Effcny?: Evdnc. from the U.S. Mnfctr. Censuses of 1820 & 1850
+1386,1984,6,Was the Transition from the Artisanal Shop to the Non-Mechanized Factory Associated with Gains in Efficiency? Evidence from the U.S. Manufacturing Censuses of 1820 & 1850
 1387,1984,6,Determinants of Neonatal Mortality Rates in the U.S.: A Reduced Form Model
 1388,1984,6,An Empirical Model of Wage Indexation Provisions in Union Contracts
 1389,1984,6,"Debt, Deficits and Finite Horizons"
@@ -1524,7 +1524,7 @@ paper,year,month,title
 1525,1984,12,Pricing Rate Caps on Default-Free Adjustable-Rate Mortgages
 1526,1984,12,"Capital Flows, the Current Account, and the Real Exchange Rate: Consequences of Liberalization and Stabilization"
 1527,1984,12,The International Transmission of Fiscal Expenditures and Budget Deficits in the World Economy
-1528,1984,12,Causal Relationships between Infant Mortality and Fertility in Developedand Less Developed Countries
+1528,1984,12,Causal Relationships between Infant Mortality and Fertility in Developed and Less Developed Countries
 1529,1984,12,Discrete Devaluation as a Signal to Price Setters
 1530,1984,12,"Asset Returns, Discount Rate Changes and Market Efficiency"
 1531,1985,1,Interest Rate Determination in Developing Countries: A Conceptual Framework
@@ -1574,10 +1574,10 @@ paper,year,month,title
 1575,1985,3,"Real Interest Rate, Credit Markets, and Economic Stabilization"
 1576,1985,3,Exchange Rate and Current Account Dynamics Under Rational Expectations: An Econometric Analysis
 1577,1985,3,The Real Exchange Rate as a Tool of Commercial Policy
-1578,1985,3,Collective Bargaining Laws and Threat Effects of Unionism in the Determination of Police Compenstation
+1578,1985,3,Collective Bargaining Laws and Threat Effects of Unionism in the Determination of Police Compensation
 1579,1985,3,Firm-Level Policy Toward Older Workers
 1580,1985,3,Money Demand Predictability
-1581,1985,3,A Variance Bounds Test of the Linear Quardractic Inventory Model
+1581,1985,3,A Variance Bounds Test of the Linear Quadratic Inventory Model
 1582,1985,3,"Labor Relations, Wages and Nonwage Compensation in Municipal Employment"
 1583,1985,3,"On the Complementarity of Commercial Policy, Capital Controls and Inflation Tax"
 1584,1985,3,International Monetary Policy to Promote Economic Recovery
@@ -1731,7 +1731,7 @@ paper,year,month,title
 1732,1985,10,"Was it Real? The Exchange Rate-Interest Differential Relation, 1973-1984"
 1733,1985,10,Union Work Rules and Efficiency in the Building Trades
 1734,1985,10,Sharing Some Thoughts on Weitzman's The Share Economy
-1735,1985,10,"Productivity Growth in the Automobile Industry, 1970-1980: A Comparisonof Canada, Japan and the United States"
+1735,1985,10,"Productivity Growth in the Automobile Industry, 1970-1980: A Comparison of Canada, Japan and the United States"
 1736,1985,10,"Social Security and Individual Welfare: Precautionary Saving, Liquidity Constraints, and the Payroll Tax"
 1737,1985,10,Life Insurance of the Elderly: Adequacy and Determinants
 1738,1985,10,Nominal Contracting and Price Flexibility in Product Markets
@@ -1893,7 +1893,7 @@ paper,year,month,title
 1894,1986,4,The Pure Theory of Country Risk
 1895,1986,4,Job Characteristics and Hours of Work
 1896,1986,4,Notes on the Tax Treatment of Structures
-1897,1986,4,"Asset Prices in a Time Series Model with Disparately Informed, Competative Traders"
+1897,1986,4,"Asset Prices in a Time Series Model with Disparately Informed, Competitive Traders"
 1898,1986,4,The Budget Deficit and the Dollar
 1899,1986,4,The Dynamic Demand for Capital and Labor
 1900,1986,4,Capital Utilization and Capital Accumulation: Theory and Evidence
@@ -1945,7 +1945,7 @@ paper,year,month,title
 1946,1986,6,The Term Structure of Euromarket Interest Rates: An Empirical Investigation
 1947,1986,6,The Welfare Cost of Uncertain Tax Policy
 1948,1986,6,Quotas and the Stability of Implicit Collusion
-1949,1986,6,Maximum Hours Legislation and Female Employment in the 1920s: A Reasse ssment
+1949,1986,6,Maximum Hours Legislation and Female Employment in the 1920s: A Reassessment
 1950,1986,6,Hysteresis and the European Unemployment Problem
 1951,1986,6,On the Size Distribution of Employment and Establishments
 1952,1986,6,Efficiency Wages and the Wage Structure
@@ -2013,7 +2013,7 @@ paper,year,month,title
 2014,1986,9,Interindustry Wage Differences and Industry Characteristics
 2015,1986,9,"Agency Costs, Collateral, and Business Fluctuations"
 2016,1986,9,Two-Person Dynamic Equilibrium: Trading in the Capital Market
-2017,1986,9,Persistent Trade Effects of Large Exchage Rate Shocks
+2017,1986,9,Persistent Trade Effects of Large Exchange Rate Shocks
 2018,1986,9,Optimal Monetary Policy in an Open Economy
 2019,1986,9,Can Union Labor Ever Cost Less?
 2020,1986,9,Tax Structure and Public Sector Growth
@@ -2065,7 +2065,7 @@ paper,year,month,title
 2066,1986,11,Forecasting Recessions Under the Gramm-Rudman-Hollings Law
 2067,1986,11,A Specification Test for Speculative Bubbles
 2068,1986,11,Laws as Assets: A Possible Solution to the Time Consistency Problem
-2069,1986,12,Individual Taxpayer Response to Tax Cuts 1982-1984 with Implications forthe Revenue Maximizing Tax Rate
+2069,1986,12,Individual Taxpayer Response to Tax Cuts 1982-1984 with Implications for the Revenue Maximizing Tax Rate
 2070,1986,11,"Productivity, Wages, and Prices Inside and Outside of Manufacturing in the U.S., Japan, and Europe"
 2071,1986,11,Exchange Rate Economics: 1986
 2072,1986,11,Increasing Indebtedness and Financial Stability in the United States
@@ -2288,7 +2288,7 @@ paper,year,month,title
 2289,1987,6,Understanding the Real Estate Provisions of Tax Reform: Motivation and Impact
 2290,1987,6,Pricing Mortgages: An Interpretation of the Models and Results
 2291,1987,6,The Timing of Retirement: A Comparison of Expectations and Realizations
-2292,1987,6,Federal Deductibility of State and Local Taxes: A Test of Public Choiceby Representative Government
+2292,1987,6,Federal Deductibility of State and Local Taxes: A Test of Public Choice by Representative Government
 2293,1987,6,International Coordination of Trade Policy
 2294,1987,6,Private Saving in the United States: 1950-85
 2295,1987,6,Characteristics of Hostile and Friendly Takeover Targets
@@ -2333,7 +2333,7 @@ paper,year,month,title
 2334,1987,8,Sibling and Intergenerational Correlations in Welfare Program Participation
 2335,1987,8,Taxation and Output Growth: Evidence from African Countries
 2336,1987,8,"Risky Income, Life Cycle Consumption, and Precautionary Savings"
-2337,1987,8,The Effects of Technological Change on Earnings and Income Inequality inthe United States
+2337,1987,8,The Effects of Technological Change on Earnings and Income Inequality in the United States
 2338,1987,8,Household Dissolution and the Choice of Alternative Living Arrangements Among Elderly Americans
 2339,1987,8,Sources of Macroeconomic Imbalances in the World Economy: A Simulation Approach
 2340,1987,8,Interest-Only/Principal-Only Mortgage-Backed Strips: A Valuation and Risk Analysis
@@ -2372,7 +2372,7 @@ paper,year,month,title
 2373,1987,9,Resolving the International Debt Crisis
 2374,1987,9,Negotiated Trade Restrictions with Private Political Pressure
 2375,1987,9,Household Formation and Home Ownership: The Impacts of Demographics and Taxes
-2376,1987,9,Finanial Policy and Speculative Runs with a Crawling Peg: Argentina 1979-1981
+2376,1987,9,Financial Policy and Speculative Runs with a Crawling Peg: Argentina 1979-1981
 2377,1987,9,The Interaction Between Capital Investment and R&D in Science-Based Firms
 2378,1987,9,Argentina: Debt and Macroeconomic Instability
 2379,1987,9,Debt Problems and the World Macro Economy
@@ -2468,7 +2468,7 @@ paper,year,month,title
 2470,1987,12,A Dynamic Programming Model of Retirement Behavior
 2471,1987,12,"The Dynamics of Housing Demand by the Elderly: Wealth, Cash Flow, and Demographic Effects"
 2472,1987,12,The Case of the Negative Nominal Interest Rates: New Estimates of the Term Structure of Interest Rates During the Great Depression
-2473,1987,12,Recent Developments in Macroeocnomics
+2473,1987,12,Recent Developments in Macroeconomics
 2474,1987,12,Recent Developments in Macroeconomics: A Very Quick Refresher Course
 2475,1987,12,"Monetary Policy and Performance in the U.S., Japan and Europe, 1973-86"
 2476,1987,12,Real Rigidities and the Non-Neutrality of Money
@@ -2492,7 +2492,7 @@ paper,year,month,title
 2494,1988,1,Financial Market Imperfections and Business Cycles
 2495,1988,1,VAR Models as Structural Approximations
 2496,1988,1,Consumption: Beyond Certainty Equivalence
-2497,1988,1,"Firm Heterogeneity, Internal Finance, and `Credit Rationing'"
+2497,1988,1,"Firm Heterogeneity, Internal Finance, and 'Credit Rationing'"
 2498,1988,1,International Evidence on the Persistence of Economic Fluctuations
 2499,1988,1,The Determinants of Queues for Federal Jobs
 2500,1988,1,Are Public Sector Workers Paid More Than Their Alternative Wage? Evidence From Longitudinal Data and Job Queues
@@ -2505,7 +2505,7 @@ paper,year,month,title
 2507,1988,2,Randomization with Asymmetric Information
 2508,1988,2,"Deterrence, Work and Crime: Revisiting the Issues with Birth Cohort Data"
 2509,1988,2,Why Do Pensions Reduce Mobility?
-2510,1988,2,The Deadweight Loss from `Non-Neutral' Capital Income Taxation
+2510,1988,2,The Deadweight Loss from 'Non-Neutral' Capital Income Taxation
 2511,1988,2,"Stock Prices, Earnings and Expected Dividends"
 2512,1988,2,Randomness in Tax Enforcement
 2513,1988,2,The Challenge to U.S. Leadership in High-Technology Industries (Can the United States Maintain Its Lead? Should It Try?)
@@ -2760,7 +2760,7 @@ paper,year,month,title
 2762,1988,11,Mean Reversion in Equilibrium Asset Prices
 2763,1988,11,"Financial Capacity, Reliquification, and Production in an Economy with Long-Term Financial Arrangements"
 2764,1988,11,Bank Runs in Open Economies and The International Transmission of Panics
-2765,1988,11,"Production, Sales, and the Change in Inventories: An Identity That Doesn`t Add Up"
+2765,1988,11,"Production, Sales, and the Change in Inventories: An Identity That Doesn't Add Up"
 2766,1988,11,"How Do Fixed-Exchange-Rates Regimes Work: The Evidence From The Gold Standard, Bretton Woods and The EMS"
 2767,1988,11,Sovereign Debt Buybacks Can Lower Bargaining Costs
 2768,1988,11,"Unexpected Inflation, Real Wages, and Employment Determination in Union Contracts"
@@ -3000,7 +3000,7 @@ paper,year,month,title
 3002,1989,6,The Impact of a Ban on Legalized Abortion on Adolescent Childbearing in New York City
 3003,1989,6,The Euromarkets after 1992
 3004,1989,6,Building Blocks of Market Clearing Business Cycle Models
-3005,1989,6,Legal Advice about Acts Already Commited
+3005,1989,6,Legal Advice about Acts Already Committed
 3006,1989,6,Government Relief for Risk Associated with Government Action
 3007,1989,6,Incentives and Government Relief for Risk
 3008,1989,6,The Optimal Probability and Magnitude of Fines for Acts that Definitely are Undesirable
@@ -3021,7 +3021,7 @@ paper,year,month,title
 3023,1989,6,Trade and Protection in Vertically Related Markets
 3024,1989,7,"Collateral, Rationing, and Government Intervention in Credit Markets"
 3025,1989,7,How Elastic is the Government's Demand for Weapons?
-3026,1989,7,Formal Employee Training Programs and Their Impact on Labor Produc- tivity: Evidence from a Human Resources Survey
+3026,1989,7,Formal Employee Training Programs and Their Impact on Labor Productivity: Evidence from a Human Resources Survey
 3027,1989,7,Commodity Trade and International Risk Sharing: How Much Do Financial Markets Matter?
 3028,1989,7,"Intertemporal Dependence, Impatience, and Dynamics"
 3029,1989,7,"The Employers' cost of Workers' Compensation Insurance: Magnitudes, Determinants, and Public Policy"
@@ -3062,7 +3062,7 @@ paper,year,month,title
 3064,1989,8,What is the Marginal Source of Funds for Foreign Investment?
 3065,1989,8,Firms' Choice of Method of Pay
 3066,1989,8,Endogenous Exchange Rate Regime Switches
-3067,1989,8,"Nominal Exchange Rate Regimes and the Real Exhange Rate, Evidence from the U.S. and Britain, 1885-1986"
+3067,1989,8,"Nominal Exchange Rate Regimes and the Real Exchange Rate, Evidence from the U.S. and Britain, 1885-1986"
 3068,1989,8,Managing Exchange Rate Crises: Evidence from the 1890's
 3069,1989,8,The Impact of the Mariel Boatlift on the Miami Labor Market
 3070,1989,8,Taxation of Foreign-Owned Land
@@ -3080,7 +3080,7 @@ paper,year,month,title
 3082,1989,8,Health Benefits of Increases in Alcohol and Cigarette Taxes
 3083,1989,8,"Collateral, Rationing and Government Intervention in Credit Markets"
 3084,1989,8,Explaining Pension Dynamics
-3085,1989,8,Evaluating Pension Policies in a Model with Endogeous Contributions
+3085,1989,8,Evaluating Pension Policies in a Model with Endogenous Contributions
 3086,1989,8,The Stampede Toward Defined Contribution Pension Plans: Fact or Fiction?
 3087,1989,8,Changing the Social Security Rules for Workers over 65: Proposed Policies and Their Effects
 3088,1989,8,"Financial Integration, Liquidity and Exchange Rates"
@@ -3088,7 +3088,7 @@ paper,year,month,title
 3090,1989,9,Consumption Growth Parallels Income Growth: Some New Evidence
 3091,1989,9,Intrinsic Bubbles: The Case of Stock Prices
 3092,1989,9,Converting Corporations to Partnerships through Leverage: Theoretical and Practical Impediments
-3093,1989,9,Decentralized Investment Banking: The Case of Discount Dividend-Reinve stment and Stock-Purchase Plans
+3093,1989,9,Decentralized Investment Banking: The Case of Discount Dividend-Reinvestment and Stock-Purchase Plans
 3094,1989,9,Employee Stock Ownership Plans and Corporate Restructuring: Myths and Realities
 3095,1989,9,The Effects of Changes in Tax Laws on Corporate Reorganization Activity
 3096,1989,9,The Capital Levy in Theory and Practice
@@ -3099,7 +3099,7 @@ paper,year,month,title
 3101,1989,9,Pension Funds and Financial Innovation
 3102,1989,9,Inflationary Expectations and Price Setting Behavior
 3103,1989,9,"World Integration, Competitive and Bargaining Regimes Switch: an Exploration"
-3104,1989,9,The Fisherian Time Preference and the Ebolution of Capital Ownership Patterns in a Global Economy
+3104,1989,9,The Fisherian Time Preference and the Evolution of Capital Ownership Patterns in a Global Economy
 3105,1989,9,A Shred of Evidence on Theories of Wage Stickiness
 3106,1989,9,An Equilibrium Theory of Excess Volatility and Mean Reversion in Stock Market Prices
 3107,1989,9,Liquidity Constraints in Production Based Asset Pricing Models
@@ -3111,7 +3111,7 @@ paper,year,month,title
 3113,1989,9,Social Security and the Determinants of Full and Partial Retirement: A Competing Risks Analysis
 3114,1989,9,Introducing Risky Housing and Endogenous Tenure Choice into Portfolio- Based General Equilibrium Models
 3115,1989,9,AIL Theory and the Ailing Phillips Curve: A Contract Based Approach to Aggregate Supply
-3116,1989,9,"Investment, Finacial Factors and Cash Flow: Evidence From UK Panel Data"
+3116,1989,9,"Investment, Financial Factors and Cash Flow: Evidence From UK Panel Data"
 3117,1989,9,Solving Nonlinear Stochastic Growth Models: A Comparison of Alternative Solution Methods
 3118,1989,9,"The Non-Optimality of Optimal Trade Policy: The U.S. Automobile Indust ry Revisited, 1979-1985"
 3119,1989,9,The Growth Effects of 1992
@@ -3189,7 +3189,7 @@ paper,year,month,title
 3191,1989,12,Predictable Stock Returns in the United States and Japan: A Study of Long-Term Capital Market Integration
 3192,1989,12,Market Responses To Coordinated Central Bank Intervention
 3193,1989,12,Signaling and Accounting Information
-3194,1989,12,Explaining Japan's Innovation and Trade: A model of Quality Competition and Dynamic Comparive Advantage
+3194,1989,12,Explaining Japan's Innovation and Trade: A model of Quality Competition and Dynamic Comparative Advantage
 3195,1989,12,Time-Series Tests of a Non-Expected-Utility Model of Asset Pricing
 3196,1989,12,Saving and Liquidity Constraints
 3197,1989,12,"The Effects of Mergers on Prices, Costs, and Capacity Utilization in the U.S. Air Transportation Industry, 1970-84"
@@ -3244,7 +3244,7 @@ paper,year,month,title
 3246,1990,1,A Variance Decomposition for Stock Returns
 3247,1990,1,Short Rates and Expected Asset Returns
 3248,1990,1,Tax Harmonization and Tax Competition in Europe
-3249,1990,1,"Nominal Exchange Rate Patterns: Correlationswith Entry, Exit, and Invesment in U.S. Industry"
+3249,1990,1,"Nominal Exchange Rate Patterns: Correlations with Entry, Exit, and Investment in U.S. Industry"
 3250,1990,2,Herd on the Street: Informational Inefficiencies in a Market with Short-Term Speculation
 3251,1990,2,Unemployment and the Demand for Unions
 3252,1990,2,What Makes an Entrepreneur? Evidence on Inheritance and Capital Constraints
@@ -3347,11 +3347,11 @@ paper,year,month,title
 3349,1990,5,Testing the Positive Theory of Government Finance
 3350,1990,5,Valuation of Variance Forecast with Simulated Option Markets
 3351,1990,5,"The NBER Immigration, Trade, and Labor Markets Data Files"
-3352,1990,5,The Effects of International Competiton on Collective Bargaining Outcomes: A Comparison of the United States and Canada
+3352,1990,5,The Effects of International Competition on Collective Bargaining Outcomes: A Comparison of the United States and Canada
 3353,1990,5,"Product Market Competition, Union Organizing Activity, and Employer Resistence"
 3354,1990,5,Some Inefficiency Implication of Generational Politics and Exchange
 3355,1990,5,"Market Power, Economic Profitability and Productivity Growth Measurement: An Integrated Structural Approach"
-3356,1990,5,A Genral Model of Dynamic Labor Demand
+3356,1990,5,A General Model of Dynamic Labor Demand
 3357,1990,5,Volatiltiy and Links Between National Stock Markets
 3358,1990,5,Does School Quality Matter? Returns to Education and the Characteristics of Public Schools in the United States
 3359,1990,5,Asymmetric Information and the New Theory of the Firm: Financial Constraints and Risk Behavior
@@ -3554,7 +3554,7 @@ paper,year,month,title
 3556,1990,12,Labor Hoarding and the Business Cycle
 3557,1990,12,The Incidence of Mandated Employer-Provided Insurance: Lessons from Workers' Compensation Insurance
 3558,1990,12,Three Models of Retirement: Computational Complexity Versus Predictive Validity
-3559,1990,12,Approaches to Efficient Capital Taxation: Leveling the Playing Field vs.Living by the Golden Rule
+3559,1990,12,Approaches to Efficient Capital Taxation: Leveling the Playing Field vs. Living by the Golden Rule
 3560,1990,12,Individual Precautions to Prevent Theft: Private Versus Socially Optimal Behavior
 3561,1990,12,"Soft Budget Constraints, Taxes, and the Incentive to Cooperate"
 3562,1990,12,What has Foreign Market Intervention Since the Plaza Agreement Accomplished?
@@ -3666,7 +3666,7 @@ paper,year,month,title
 3668,1991,3,Distributive Politics and Economic Growth
 3669,1991,4,"Government, Financial Markets, and Economic Development"
 3670,1991,4,Intramarginal Intervention in the EMS and the Target-Zone Model of Exchange-Rate Behavior
-3671,1991,4,Environmental Policy When Market Structure and Plant Locations are Endo-genous
+3671,1991,4,Environmental Policy When Market Structure and Plant Locations are Endogenous
 3672,1991,4,Investment Policies in the GATT
 3673,1991,4,Rent Sharing in the Multi-Fibre Arrangement: Theory and Evidence from US Apparel Imports from Hong Kong
 3674,1991,4,Learning About Intervention Target Zones
@@ -4021,7 +4021,7 @@ paper,year,month,title
 4023,1992,3,Firm-Specific Determinants of the Real Wage
 4024,1992,3,Maximizing Seignorage Revenue During Temporary Suspensions of Convertibility: A Note
 4025,1992,3,A Cross-Sectional Test of a Production-Based Asset Pricing Model
-4026,1992,3,The Inconsistency of Common Scale Estimators When Output Prices Are Unobserved and Engogenous
+4026,1992,3,The Inconsistency of Common Scale Estimators When Output Prices Are Unobserved and Endogenous
 4027,1992,3,"Training, Wage Growth and Job Performance: Evidence From a Company Database"
 4028,1992,3,"Convertible Bonds as ""Back Door"" Equity Financing"
 4029,1992,3,National Origin and Immigrant Welfare Recipiency
@@ -4206,7 +4206,7 @@ paper,year,month,title
 4208,1992,11,Business Cycle Volatility and Openness: An Exploratory Cross-Section Analysis
 4209,1992,11,What Directions for Labor Market Institutions in Eastern and Central Europe?
 4210,1992,11,Can the Markov Switching Model Forecast Exchange Rates?
-4211,1992,11,Credit Conditions and the Cyclical Behavior of Inventories: A Case Studyof the 1981-82 Recession
+4211,1992,11,Credit Conditions and the Cyclical Behavior of Inventories: A Case Study of the 1981-82 Recession
 4212,1992,11,"Alcohol, Marijuana, and American Youth: The Unintended Effects of Government Regulation"
 4213,1992,11,Are Rising Wage Profiles a Forced-Saving Mechanism?
 4214,1992,11,Convergence in Growth Rates: The Role of Capital Mobility and International Taxation
@@ -4314,7 +4314,7 @@ paper,year,month,title
 4316,1993,4,Poison or Placebo? Evidence on the Deterrent and Wealth Effects of Modern Antitakeover Measures
 4317,1993,4,Monetary Policy and Bank Lending
 4318,1993,4,Dynamic Efficiency in the Gifts Economy
-4319,1993,4,The Political Economy of Infaliton and Stabilization in Developing Countries
+4319,1993,4,The Political Economy of Inflation and Stabilization in Developing Countries
 4320,1993,4,"Exchange Rates, Inflation and Disinflation: Latin American Experiences"
 4321,1993,4,Environmental Regulation and Manufacturing Productivity at the Plant Level
 4322,1993,4,Monetary Policy and Inflation in the 1980s: A Personal View
@@ -4376,7 +4376,7 @@ paper,year,month,title
 4378,1993,6,"Investment in Manufacturing, Exchange-Rates and External Exposure"
 4379,1993,6,The Common Development of Institutional Change as Measured by Income Velocity: A Century of Evidence from Industrialized Countries
 4380,1993,6,Economic Instability and Aggregate Investment
-4381,1993,6,Effciency and Equality in a Simple Model of Unemployment Insurance
+4381,1993,6,Efficiency and Equality in a Simple Model of Unemployment Insurance
 4382,1993,6,Efficiency of the Tokyo Housing Market
 4383,1993,6,Timing is All: Elections and the Duration of United States Business Cycles
 4384,1993,6,Did the Thatcher Reforms Change British Labour Performance?
@@ -4386,7 +4386,7 @@ paper,year,month,title
 4388,1993,6,Health Insurance Provision and Labor Market Efficiency in the United States
 4389,1993,6,Monopolistic Competition and International Trade: Reconsidering the Evidence
 4390,1993,6,"Does Employment Protection Inhibit Labor Market Flexibility? Lessons from Germany, France, and Belgium"
-4391,1993,6,Do 401(k) Contributions Crowd Out Other Persoanl Saving?
+4391,1993,6,Do 401(k) Contributions Crowd Out Other Personal Saving?
 4392,1993,6,Internal Finance and Firm Investment
 4393,1993,7,Ranking Mutual Funds on an After-Tax Basis
 4394,1993,7,Labor Demand and the Source of Adjustment Costs
@@ -4546,7 +4546,7 @@ paper,year,month,title
 4548,1993,10,Labor Adjustment Under Different Institutional Structures: A Case Study of Germany and The United States
 4549,1993,11,Econometric Estimates of Prices Indexes for Personal Computers in the 1990s
 4550,1993,11,"The Gender Gap, Fertility, and Growth"
-4551,1993,11,The Effect of Convicton on Income Through the Life Cycle
+4551,1993,11,The Effect of Conviction on Income Through the Life Cycle
 4552,1993,11,Is Housing Wealth a Sideshow?
 4553,1993,11,The Japanese Trade Balance: Recent History and Future Prospects
 4554,1993,11,Understanding Risk and Return
@@ -4814,7 +4814,7 @@ paper,year,month,title
 4816,1994,8,Reference Point Dependence for Specification Bias from Quality Upgrading
 4817,1994,8,Intermediate Goods and Business Cycles: Implications for Productivity and Welfare
 4818,1994,8,The Time Variation of Risk and Return in Foreign Exchange Markets: A General Equilibrium Perspective
-4819,1994,8,Financial Intermediation and Aggregate Fluctuations: A Quantative Analysis
+4819,1994,8,Financial Intermediation and Aggregate Fluctuations: A Quantitative Analysis
 4820,1994,8,The Tax Unit and Household Production
 4821,1994,8,The Impact of Monetary Policy on Bank Balance Sheets
 4822,1994,8,Optimal Regulation of Multiply-Regulated Industries: The Case of Physician Services
@@ -4972,7 +4972,7 @@ paper,year,month,title
 4974,1994,12,High Tech R&D Subsidies: Estimating the Effects of Sematech
 4975,1994,12,Business Cycles and the Asset Structure of Foreign Trade
 4976,1994,12,"CEO Pay and Firm Performance: Dynamics, Asymmetries, and Alternative Performance Measures"
-4977,1994,12,Is There a `Credit Channel' for Monetary Policy?
+4977,1994,12,Is There a 'Credit Channel' for Monetary Policy?
 4978,1994,12,Do Private Schools Provide Competition for Public Schools?
 4979,1994,12,Does Competition Among Public Schools Benefit Students and Taxpayers?
 4980,1994,12,Political Constraints on Executive Compensation: Evidence from the Electric Utility Industry
@@ -5053,7 +5053,7 @@ paper,year,month,title
 5055,1995,3,Tax Avoidance and the Deadweight Loss of the Income Tax
 5056,1995,3,Collusion over the Business Cycle
 5057,1995,3,How Does Foreign Direct Investment Affect Economic Growth?
-5058,1995,3,Is Workers' Compensation Covering Uninsured Medical Costs? Evidence fromthe `Monday Effect'
+5058,1995,3,Is Workers' Compensation Covering Uninsured Medical Costs? Evidence fromthe 'Monday Effect'
 5059,1995,3,Public R&D Policies and Cost Behavior of the US Manufacturing Industries
 5060,1995,3,Government Interventions and Productivity Growth in Korean Manufacturing Industries
 5061,1995,3,Exact Hedonic Price Indexes
@@ -5180,7 +5180,7 @@ paper,year,month,title
 5182,1995,7,Housing Price Dynamics Within a Metropolitan Area
 5183,1995,7,House Prices and Home Owner Saving Behavior
 5184,1995,7,Mortgage Default and Low Downpayment Loans: The Costs of Public Subsidy
-5185,1995,7,The Impact of Imigration on American Labor Markets Prior to the Quotas
+5185,1995,7,The Impact of Immigration on American Labor Markets Prior to the Quotas
 5186,1995,7,Improving the Accessibility of the NBER's Historical Data
 5187,1995,7,Strategic Trading in a Two-Sided Foreign Exchange Auction
 5188,1995,7,Career and Family: College Women Look to the Past
@@ -5246,7 +5246,7 @@ paper,year,month,title
 5248,1995,9,Economic Issues in Vaccine Purchase Arrangements
 5249,1995,9,Culture and Language
 5250,1995,9,Factors Determining Participation of the Elderly in SSI
-5251,1995,9,"Optimal Inflation Targets, `Conservative' Central Banks, and Linear Inflation Contracts"
+5251,1995,9,"Optimal Inflation Targets, 'Conservative' Central Banks, and Linear Inflation Contracts"
 5252,1995,9,Unemployment Insurance and Precautionary Saving
 5253,1995,9,"Multinational Corporations, Outsourcing, and American Wage Divergence"
 5254,1995,9,Labor Income Indices Designed for Use in Contracts Promoting Income Risk Management
@@ -5335,7 +5335,7 @@ paper,year,month,title
 5337,1995,11,Non-Walrasian Unemployment Fluctuations
 5338,1995,11,The Impact of Inflation on Budgetary Discipline
 5339,1995,11,"Trade Strategy, Investment, and Exports: Another Look at East Asia"
-5340,1995,11,The Gold Standard as a `Good Housekeeping Seal of Approval'
+5340,1995,11,The Gold Standard as a 'Good Housekeeping Seal of Approval'
 5341,1995,11,Economics and Politics of Rice Policy in Japan: A Perspective on the Uruguay Round
 5342,1995,11,Virtuous Circles of Productivity: Star Bioscientists and the Institutional Transformation of Industry
 5343,1995,11,Long-Term Effects of Job Displacement: Evidence from the Panel Study of Income Dynamics
@@ -5707,7 +5707,7 @@ paper,year,month,title
 5709,1996,8,"Real Exchange Rate Levels, Productivity and Demand Shocks: Evidence from a Panel of 14 Countries"
 5710,1996,8,"Why Clashes Between Internal and External Stability Goals End in Currency Crises, 1797-1994"
 5711,1996,8,Risk-Shifting by Federally Insured Commercial Banks
-5712,1996,8,Flows of Knowledge from Universities and Federal Labs: Modeling the Flowof Patent Citations Over Time and Across Institutional and Geographic Boundari
+5712,1996,8,Flows of Knowledge from Universities and Federal Labs: Modeling the Flow of Patent Citations Over Time and Across Institutional and Geographic Boundari
 5713,1996,8,The Demand for Cocaine by Young Adults: A Rational Addiction Approach
 5714,1996,8,"Country Fund Discounts, Asymmetric Information and the Mexican Crisis of 1994: Did Local Residents Turn Pessimistic Before International Investors?"
 5715,1996,8,"Is ""Learning-by-Exporting"" Important? Micro-Dynamic Evidence from Colombia, Mexico and Morocco"
@@ -5846,7 +5846,7 @@ paper,year,month,title
 5848,1996,12,The Demise of Double Liability as an Optimal Contract for Large-Bank Stockholders
 5849,1996,12,Bank Consolidation: A Central Banker's Perspective
 5850,1996,12,Tax Burden and Migration: A Political Economy Perspective
-5851,1996,12,Optimal Government Spending and Taxation in Endgenous Growth Models
+5851,1996,12,Optimal Government Spending and Taxation in Endogenous Growth Models
 5852,1996,12,Are Some Mutual Funds Managers Better Than Others? Cross-Sectional Patterns in Behavior and Performance
 5853,1996,12,Product Standards Coalitions in a Market Without Borders
 5854,1996,12,Effective Protection Redux
@@ -5879,7 +5879,7 @@ paper,year,month,title
 5881,1997,1,The Rise and Decline of the American Ghetto
 5882,1997,1,A Portfolio Approach to a Cross-Sectoral and Cross-National Investment Strategy in Transition Economies
 5883,1997,1,Implications of the Great Depression for the Development of the International Monetary System
-5884,1997,1,"Cost of Capital for the United States, Japan, and Canada: An Attempt at Measurement Based on Individual Company Records and Aggregate National Acccoun"
+5884,1997,1,"Cost of Capital for the United States, Japan, and Canada: An Attempt at Measurement Based on Individual Company Records and Aggregate National Accounts Data"
 5885,1997,1,Distributional Effects of Adopting a National Retail Sales Tax
 5886,1997,1,"Business Groups and Trade in East Asia: Part 1, Networked Equilibria"
 5887,1997,1,"Business Groups and Trade in East Asia: Part 2, Product Variety"
@@ -5952,7 +5952,7 @@ paper,year,month,title
 5954,1997,3,The Optimum Quantity of Money: Theory and Evidence
 5955,1997,3,"Entry, Exit, Embodied Technology, and Business Cycles"
 5956,1997,3,Computing Inequality: Have Computers Changed the Labor Market?
-5957,1997,3,Consolidation in the Medical Care Marketplace: A Case Study from Masschusetts
+5957,1997,3,Consolidation in the Medical Care Marketplace: A Case Study from Massachusetts
 5958,1997,3,Are U.S. Multinationals Exporting U.S. Jobs?
 5959,1997,3,U.S. Multinationals and Competition from Low Wage Countries
 5960,1997,3,The Great Depression as a Watershed: International Capital Mobility over the Long Run
@@ -6110,7 +6110,7 @@ paper,year,month,title
 6112,1997,7,"Interests, Institutions, and Ideology in the Republican Conversion to Trade Liberalization, 1934-1945"
 6113,1997,7,Trade and Transmission of Technology
 6114,1997,7,The Medical Costs of The Young and Old: A Forty Year Perspective
-6115,1997,7,"Violations of the `Rules of the Game' and the Credibility of the Classical Gold Standard, 1880-1914"
+6115,1997,7,"Violations of the 'Rules of the Game' and the Credibility of the Classical Gold Standard, 1880-1914"
 6116,1997,7,Taxed Avoidance: American Participation in Unsanctioned International Boycotts
 6117,1997,7,Misconceptions and Political Outcomes
 6118,1997,7,Why are Worker Cooperatives So Rare?
@@ -6595,7 +6595,7 @@ paper,year,month,title
 6597,1998,6,Another Look at Long-Run Money Demand
 6598,1998,6,The US-China Bilateral Trade Balance: Its Size and Determinants
 6599,1998,6,Performance of Operational Policy Rules in an Estimated Semi-Classical Structural Model
-6600,1998,6,An Empirical Framework for Testing Theories About Complimentarity in Organizational Design
+6600,1998,6,An Empirical Framework for Testing Theories About Complementarity in Organizational Design
 6601,1998,6,The Allocation of Publicly-Funded Biomedical Research
 6602,1998,6,What Do Prosecutors Maximize? An Analysis of Drug Offenders and Concurrent Jurisdiction
 6603,1998,6,Social Security's Treatment of Postwar Americans
@@ -7054,7 +7054,7 @@ paper,year,month,title
 7057,1999,3,Liquidity Flows and Fragility of Business Enterprises
 7058,1999,3,Child Care and Mothers' Employment Decisions
 7059,1999,3,Can Taxes on Cars and on Gasoline Mimic an Unavailable Tax on Emissions?
-7060,1999,3,Money and Interest Rates with Endogeneously Segmented Markets
+7060,1999,3,Money and Interest Rates with Endogenously Segmented Markets
 7061,1999,3,Taxation and Saving
 7062,1999,3,"The Patent Paradox Revisited: Determinants of Patenting in the US Semiconductor Industry, 1980-94"
 7063,1999,4,Technology (and Policy) Shocks in Models of Endogenous Growth
@@ -7189,7 +7189,7 @@ paper,year,month,title
 7192,1999,6,Asset Location in Tax-Deferred and Conventional Savings Accounts
 7193,1999,6,Are the Elderly Really Over-Annuitized? New Evidence on Life Insurance and Bequests
 7194,1999,6,Impacts of the Indonesian Economic Crisis: Price Changes and the Poor
-7195,1999,6,Is Globalization Today Really Different than Globalization a Hunderd Years Ago?
+7195,1999,6,Is Globalization Today Really Different than Globalization a Hundred Years Ago?
 7196,1999,6,International Trade and Factor Mobility: An Empirical Investigation
 7197,1999,6,Monopsonistic Discrimination and the Gender-Wage Gap
 7198,1999,6,Advances in Cost-Effectiveness Analysis of Health Interventions
@@ -7224,7 +7224,7 @@ paper,year,month,title
 7227,1999,7,The Impact of US News and World Report College Rankings on Admission Outcomes and Pricing Decisions at Selective Private Institutions
 7228,1999,7,Exchange Rates in Emerging Economies: What Do We Know? What Do We Need to Know?
 7229,1999,7,Union Success in Representation Elections: Why Does Unit Size Matter?
-7230,1999,7,"Accounting for Heterogeneity, Diversity, and General Equilibriumin Evaluating Social Programs"
+7230,1999,7,"Accounting for Heterogeneity, Diversity, and General Equilibrium in Evaluating Social Programs"
 7231,1999,7,The Transmission Mechanism of Monetary Policy in Europe: Evidence from Banks' Balance Sheets
 7232,2000,6,Federalism and Takeover Law: The Race to Protect Managers from Takeovers
 7233,1999,7,Crisis Prevention: Lessons from Mexico and East Asia
@@ -7589,7 +7589,7 @@ paper,year,month,title
 7596,2000,3,The Taxation of Executive Compensation
 7597,2000,3,How Effective is Redistribution Under the Social Security Benefit Formula?
 7598,2000,8,The First Year of the Eurosystem: Inflation Targeting or Not?
-7599,2000,3,Using the EITC to Help Poor Families: New Evidence and a Comparision with the Minimum Wage
+7599,2000,3,Using the EITC to Help Poor Families: New Evidence and a Comparison with the Minimum Wage
 7600,2000,3,The Simple Economics of Open Source
 7601,2000,3,The Sexual Activity and Birth Control Use of American Teenagers
 7602,2000,3,Cornucopia: The Pace of Economic Growth in the Twentieth Century
@@ -9274,8 +9274,8 @@ paper,year,month,title
 9283,2002,10,Prices vs. Quantities vs. Tradable Quantities
 9284,2002,10,The Benefits of the Home Mortgage Interest Deduction
 9285,2002,10,"A Gravity Model of Sovereign Lending: Trade, Default and Credit"
-9286,2002,10,"Margin Calls, Trading Costs, and Asset Prices in Emerging Markets: The Finanical Mechanics of the 'Sudden Stop' Phenomenon"
-9287,2002,10,Digital Dispersion: An Industrial and Geographic Census of Commerical Internet Use
+9286,2002,10,"Margin Calls, Trading Costs, and Asset Prices in Emerging Markets: The Financial Mechanics of the 'Sudden Stop' Phenomenon"
+9287,2002,10,Digital Dispersion: An Industrial and Geographic Census of Commercial Internet Use
 9288,2002,10,Financial Globalization and Emerging Markets: With or Without Crash?
 9289,2002,10,"Employee Stock Options, Corporate Taxes and Debt Policy"
 9290,2002,10,"Agglomeration, Integration and Tax Harmonization"
@@ -9817,7 +9817,7 @@ paper,year,month,title
 9827,2003,7,Aggregation and Insurance Mortality Estimation
 9828,2003,7,"Sudden Stops, the Real Exchange Rate, and Fiscal Sustainability: Argentina's Lessons"
 9829,2003,7,Are More Data Always Better for Factor Analysis?
-9830,2003,7,Trade Reforms and Wage Inequiality in Colombia
+9830,2003,7,Trade Reforms and Wage Inequality in Colombia
 9831,2003,7,Chip Shots: Association Between the State Children's Health Insurance Programs and Immunization Coverage and Delivery
 9832,2003,7,Do Flexible Durable Goods Prices Undermine Sticky Price Models?
 9833,2003,7,Why Are Drugs More Profitable Than Vaccines?
@@ -9882,7 +9882,7 @@ paper,year,month,title
 9892,2003,8,Utility Evaluation of Risk in Retirement Saving Accounts
 9893,2003,8,Inventory Information
 9894,2003,8,Investor Rationality: Evidence from UK Property Capitalization Rates
-9895,2003,8,Simulation and Estimation of Nonaddative Hedonic Models
+9895,2003,8,Simulation and Estimation of Nonadditive Hedonic Models
 9896,2003,8,"What, Me Vote?"
 9897,2003,8,"Healthy, Wealthy, and Knowing Where to Live: Predicted Trajectories of Health, Wealth and Living Arrangements Among the Oldest Old"
 9898,2003,8,Missing Aggregate Dynamics: On the Slow Convergence of Lumpy Adjustment Models
@@ -10017,7 +10017,7 @@ paper,year,month,title
 10027,2003,10,The Effect of Organizational Context on Individual Performance
 10028,2003,10,Geography and the Internet: Is the Internet a Substitute or a Complement for Cities?
 10029,2003,10,"Macroeconomic Conditions, Health Care Costs, and the Distribution of Health Insurance"
-10030,2003,10,Retirement Effects of Proposals by the President's Commision to Strengthen Social Security
+10030,2003,10,Retirement Effects of Proposals by the President's Commission to Strengthen Social Security
 10031,2003,10,Stock Market and Investment Goods Prices: Implications for Macroeconomics
 10032,2003,10,Experience of and Lessons from Exchange Rate Regime in Emerging Economies
 10033,2003,10,Welfare Reform and Health Insurance Coverage of Low-Income Families
@@ -10324,7 +10324,7 @@ paper,year,month,title
 10334,2004,3,Coordination vs. Differentiation in a Standards War: 56K Modems
 10335,2004,3,From the Valley to the Summit: The Quiet Revolution that Transformed Women's Work
 10336,2004,3,A Risk Management Approach to Emerging Market's Sovereign Debt Sustainability with an Application to Brazilian Data
-10337,2004,3,"Capital Controls, Liberalizations, and Foreign Direct Investement"
+10337,2004,3,"Capital Controls, Liberalizations, and Foreign Direct Investment"
 10338,2004,3,What Really Happened to Consumption Inequality in the US?
 10339,2004,3,Who Bears the Burden of Social Insurance?
 10340,2004,3,Unlocking Housing Equity in Japan
@@ -10337,7 +10337,7 @@ paper,year,month,title
 10347,2004,3,On the Distributional Consequences of Child Labor Legislation
 10348,2004,3,Transaction Structures in the Developing World
 10349,2004,3,Do Foreign Students Crowd Out Native Students from Graduate Programs?
-10350,2004,3,Co-Worker Complemetarity and the Stability of Top Management Teams
+10350,2004,3,Co-Worker Complementarity and the Stability of Top Management Teams
 10351,2004,3,Business Cycle Accounting
 10352,2004,3,Fibonacci and the Financial Revolution
 10353,2004,3,"Port Efficiency, Maritime Transport Costs and Bilateral Trade"
@@ -10806,7 +10806,7 @@ paper,year,month,title
 10816,2004,10,Over-the-Counter Markets
 10817,2004,10,Global Demographic Change: Dimensions and Economic Significance
 10818,2004,10,Inflation Targeting and Japan: Why has the Bank of Japan not Adopted Inflation Targeting?
-10819,2004,10,Overestimating Self_Control: Evidence from the Health Club Industry
+10819,2004,10,Overestimating Self Control: Evidence from the Health Club Industry
 10820,2004,10,Dynamic Trading Strategies and Portfolio Choice
 10821,2004,10,Corruption in America
 10822,2004,10,Assessing the Impacts of the Prescription Drug User Fee Acts (PDUFA) on the FDA Approval Process
@@ -11140,7 +11140,7 @@ paper,year,month,title
 11150,2005,2,Understanding Rules of Origin
 11151,2005,2,Monetary and Fiscal Policy in a Liquidity Trap: The Japanese Experience 1999-2004
 11152,2005,2,"Anticipating Artistic Success (or, How to Beat the Art Market): Lessons from History"
-11153,2005,2,"Sudden Stop, Financial Factors and Economic Collpase in Latin America: Learning from Argentina and Chile"
+11153,2005,2,"Sudden Stop, Financial Factors and Economic Collapse in Latin America: Learning from Argentina and Chile"
 11154,2005,2,The Market for Teacher Quality
 11155,2005,2,International Financial Adjustment
 11156,2005,2,The Rules of Standard Setting Organizations: An Empirical Analysis
@@ -11791,7 +11791,7 @@ paper,year,month,title
 11801,2005,11,Information Technology and the Japanese Economy
 11802,2005,11,Choice and Competition in Local Education Markets
 11803,2005,11,What Can Rational Investors Do About Excessive Volatility and Sentiment Fluctuations?
-11804,2005,11,"Market Structure, Outgrower contracs and Farm Output. Evidence from Cotton Reforms in Zambia"
+11804,2005,11,"Market Structure, Outgrower contracts and Farm Output. Evidence from Cotton Reforms in Zambia"
 11805,2005,11,Parental Preferences and School Competition: Evidence from a Public School Choice Program
 11806,2005,11,Real Wage Rigidities and the New Keynesian Model
 11807,2005,12,"Well-Being, Social Capital and Public Policy: What's New?"
@@ -26256,7 +26256,7 @@ paper,year,month,title
 26269,2019,9,Primary Care Physician Practice Styles and Patient Care: Evidence from Physician Exits in Medicare
 26270,2019,9,The Effect of High-Tech Clusters on the Productivity of Top Inventors
 26271,2019,9,Integration Costs and Missing Women in Firms
-26272,2019,9,Work after Retirement: Worklife Transitions of Career Public Employess
+26272,2019,9,Work after Retirement: Worklife Transitions of Career Public Employees
 26273,2019,9,Experimental Innovation Policy
 26274,2019,9,Getting Tired of Your Friends: The Dynamics of Venture Capital Relationships
 26275,2019,9,Be Careful What You Ask For: Fundraising Strategies in Equity Crowdfunding
