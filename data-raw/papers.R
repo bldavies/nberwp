@@ -19,7 +19,7 @@ library(xml2)
 papers_raw = fread('data-raw/metadata/working_papers.tab', quote = '', encoding = 'Latin-1')
 
 # Set boundary issue date
-max_issue_date = '2021-02-28'
+max_issue_date = '2021-06-30'
 
 # Define function for removing known parenthetical notes
 remove_parenthetical_notes = function(x) {
@@ -218,7 +218,8 @@ fix_title = function(x) {
     subfun('i\\?I', 'i-I') %>%  # 27175
     subfun('DEg', 'Deg') %>%  # 27239
     subfun(' R\\? ', ' R ') %>%  # 27632
-    subfun('R\\?1', 'R<=1')  # 28093
+    subfun('R\\?1', 'R<=1') %>%  # 28093
+    subfun('Ce MENT', 'CeMENT')  # 28727
 }
 
 # Collate working paper information

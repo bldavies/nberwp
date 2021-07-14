@@ -153,6 +153,7 @@ clean_name = function(x) {
     subfun('Sa\\?lam', 'Saglam') %>%
     subfun('\\?ahin', 'Sahin') %>%
     subfun('\\?ebnem', 'Sebnem') %>%
+    subfun('Sedla\\?ek', 'Sedlacek') %>%
     subfun('Siata', 'Saita') %>%
     subfun('Sr\\?jan', 'Srdjan') %>%
     subfun('St\\?pan', 'Stepan') %>%
@@ -401,6 +402,7 @@ authors_raw = authors_raw_nber %>%
          user_repec = replace(user_repec, user_nber == 'lesoxley', 'pox4'),
          user_repec = replace(user_repec, user_nber == 'luigi_zingales', 'pzi101'),
          user_repec = replace(user_repec, user_nber == 'maxim_boycko', 'pbo352'),
+         user_repec = replace(user_repec, user_nber == 'petr_sedlacek', 'pse304'),
          user_repec = replace(user_repec, user_nber == 'rene_stulz', 'pst226'),
          user_repec = replace(user_repec, user_nber == 'robert_hall', 'pha128'),
          user_repec = replace(user_repec, user_nber == 'robert_macculloch', 'pma305'),

@@ -1,6 +1,6 @@
 # nberwp
 
-This package contains information about [NBER](https://www.nber.org) working papers published between June 1973 and February 2021.
+This package contains information about [NBER](https://www.nber.org) working papers published between June 1973 and June 2021.
 The package provides the following five data frames.
 
 * `papers`: working paper attributes.
