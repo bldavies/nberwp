@@ -604,7 +604,7 @@ authors = authors_post_programs %>%
   mutate(name = name[which.max(nchar(name))]) %>%
   slice_min(paper_id) %>%
   ungroup() %>%
-  mutate(author = sprintf('%s.%02d', paper, id %% 100)) %>%
+  mutate(author = paste(paper, id %% 100, sep = '.')) %>%
   select(author, name, user_nber, user_repec) %>%
   sort_by_author()
 
@@ -618,7 +618,7 @@ paper_authors = authors_post_programs %>%
   group_by(id) %>%
   mutate(min_paper = paper[which.min(paper_id)]) %>%
   ungroup() %>%
-  mutate(author = sprintf('%s.%02d', min_paper, id %% 100)) %>%
+  mutate(author = paste(min_paper, id %% 100, sep = '.')) %>%
   select(paper, author) %>%
   distinct() %>%
   sort_by_author() %>%

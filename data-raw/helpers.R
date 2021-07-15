@@ -27,6 +27,6 @@ sort_by_author = function(d) {
     separate(author, c('series', 'number', 'pos'), convert = T) %>%
     arrange(desc(series), number, pos) %>%
     mutate(number = with_prefix(number, ''),
-           pos = sprintf('.%02d', pos)) %>%
+           pos = paste0('.', pos)) %>%
     unite(author, c(series, number, pos), sep = '')
 }
