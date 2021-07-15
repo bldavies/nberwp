@@ -26,12 +26,11 @@ paper_authors_raw = fread('data-raw/metadata/working_papers_authors.tab', quote 
 nberwo = read_csv('data-raw/repec/nberwo.csv')
 
 # Import processed data
-papers = read_csv('data-raw/papers.csv') %>%  # ! To be edited !
-  mutate(series = 'w') %>%
-  rename(number = paper) %>%
+papers = read_csv('data-raw/papers.csv') %>%
+  separate(paper, c('series', 'number'), sep = 1, convert = T) %>%
   arrange(year, month, desc(series), number) %>%
-  mutate(paper_id = row_number()) %>%
-  mutate(number = with_prefix(number, '')) %>%
+  mutate(paper_id = row_number(),
+         number = with_prefix(number, '')) %>%
   unite(paper, c('series', 'number'), sep = '')
 paper_programs = read_csv('data-raw/paper_programs.csv')
 
@@ -561,7 +560,7 @@ id_names = authors_post_cc %>%
 # Identify unique ID-program pairs
 id_programs = authors_post_cc %>%
   select(id, paper) %>%
-  left_join(mutate(paper_programs, paper = with_prefix(paper, 'w'))) %>%  # ! To be edited !
+  left_join(paper_programs) %>%
   distinct(id, program)
 
 # Extract ID reassignments based on common program matching
@@ -607,8 +606,7 @@ authors = authors_post_programs %>%
   ungroup() %>%
   mutate(author = sprintf('%s.%02d', paper, id %% 100)) %>%
   select(author, name, user_nber, user_repec) %>%
-  sort_by_author() %>%
-  mutate(author = as.integer(gsub('(^w)|[.]', '', author)))  # ! To be deleted !
+  sort_by_author()
 
 # Assert that author IDs are unique
 if (nrow(authors) != n_distinct(authors$author)) {
@@ -624,9 +622,7 @@ paper_authors = authors_post_programs %>%
   select(paper, author) %>%
   distinct() %>%
   sort_by_author() %>%
-  sort_by_paper() %>%
-  mutate(paper = as.integer(sub('^w', '', paper))) %>%  # ! To be deleted !
-  mutate(author = as.integer(gsub('(^w)|[.]', '', author)))  # ! To be deleted !
+  sort_by_paper()
 
 # Export data
 write_csv(authors, 'data-raw/authors.csv')

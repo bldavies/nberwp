@@ -239,8 +239,7 @@ papers = papers_raw %>%
          title = fix_title(title)) %>%
   filter(paper != 'w0000') %>%
   filter(!paper %in% bad_numbers) %>%
-  sort_by_paper() %>%
-  mutate(paper = as.integer(sub('^w', '', paper)))  # ! To be deleted !
+  sort_by_paper()
 
 # Export data
 write_csv(papers, 'data-raw/papers.csv')

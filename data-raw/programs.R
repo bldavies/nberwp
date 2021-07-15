@@ -27,11 +27,10 @@ paper_programs = paper_programs_raw %>%
   as_tibble() %>%
   select(paper, program) %>%
   filter(grepl('^w[0-9]+', paper)) %>%
-  semi_join(mutate(papers, paper = with_prefix(paper, 'w'))) %>%  # ! To be edited !
+  semi_join(papers) %>%
   distinct() %>%
   arrange(program) %>%
-  sort_by_paper() %>%
-  mutate(paper = as.integer(sub('^w', '', paper)))  # ! To be deleted !
+  sort_by_paper()
 
 # Export paper-program crosswalk
 write_csv(paper_programs, 'data-raw/paper_programs.csv')
