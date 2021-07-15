@@ -13,6 +13,9 @@ library(readr)
 library(stringr)
 library(tidyr)
 
+# Import helper functions
+source('data-raw/helpers.R')
+
 # Import raw metadata
 paper_programs_raw = fread('data-raw/metadata/working_papers_programs.tab', quote = '')
 
@@ -24,10 +27,11 @@ paper_programs = paper_programs_raw %>%
   as_tibble() %>%
   select(paper, program) %>%
   filter(grepl('^w[0-9]+', paper)) %>%
-  mutate(paper = as.integer(sub('^w', '', paper))) %>%
-  semi_join(papers) %>%
+  semi_join(mutate(papers, paper = with_prefix(paper, 'w'))) %>%  # ! To be edited !
   distinct() %>%
-  arrange(paper, program)
+  arrange(program) %>%
+  sort_by_paper() %>%
+  mutate(paper = as.integer(sub('^w', '', paper)))  # ! To be deleted !
 
 # Export paper-program crosswalk
 write_csv(paper_programs, 'data-raw/paper_programs.csv')

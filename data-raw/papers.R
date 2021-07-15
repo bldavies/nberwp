@@ -15,6 +15,9 @@ library(stringr)
 library(tidyr)
 library(xml2)
 
+# Import helper functions
+source('data-raw/helpers.R')
+
 # Import raw metadata
 papers_raw = fread('data-raw/metadata/working_papers.tab', quote = '', encoding = 'Latin-1')
 
@@ -223,21 +226,21 @@ fix_title = function(x) {
 }
 
 # Collate working paper information
-bad_numbers = c(156, 623, 2432, 7044, 7255, 7436, 7565, 8649, 9101, 9694, 13410, 13800, 21929, 28460, 28473)
+bad_numbers = with_prefix(c(156, 623, 2432, 7044, 7255, 7436, 7565, 8649, 9101, 9694, 13410, 13800, 21929, 28460, 28473), 'w')
 papers = papers_raw %>%
   as_tibble() %>%
   filter(grepl('^w[0-9]', paper)) %>%
   filter(issue_date <= max_issue_date) %>%
-  mutate(paper = as.integer(sub('^w', '', paper)),
-         year = as.integer(substr(issue_date, 1, 4)),
+  mutate(year = as.integer(substr(issue_date, 1, 4)),
          month = as.integer(substr(issue_date, 6, 7))) %>%
   select(paper, year, month, title) %>%
   mutate(title = remove_parenthetical_notes(title),
          title = clean_text(title),
          title = fix_title(title)) %>%
-  filter(paper > 0) %>%
+  filter(paper != 'w0000') %>%
   filter(!paper %in% bad_numbers) %>%
-  arrange(paper)
+  sort_by_paper() %>%
+  mutate(paper = as.integer(sub('^w', '', paper)))  # ! To be deleted !
 
 # Export data
 write_csv(papers, 'data-raw/papers.csv')
