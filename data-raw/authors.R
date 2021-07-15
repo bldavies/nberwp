@@ -20,7 +20,7 @@ library(tidyr)
 
 # Import raw data
 paper_authors_raw = fread('data-raw/metadata/working_papers_authors.tab', quote = '', encoding = 'Latin-1')
-nberwo = read_csv('data-raw/nberwo.csv')
+nberwo = read_csv('data-raw/repec/nberwo.csv')
 
 # Import processed data
 papers = read_csv('data-raw/papers.csv')
