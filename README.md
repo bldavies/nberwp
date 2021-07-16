@@ -14,7 +14,7 @@ Please notify me of any errors by [adding an issue](https://github.com/bldavies/
 
 See [here](https://www.nber.org/policies.html) for information about the NBER working paper catalogue.
 The catalogue comprises three series: historical, technical, and general working papers.
-*This package contains information about the general series only.*
+*This package contains information about the historical and general series only.*
 
 ## Installation
 

@@ -26,7 +26,7 @@ papers = read_csv('data-raw/papers.csv')
 paper_programs = paper_programs_raw %>%
   as_tibble() %>%
   select(paper, program) %>%
-  filter(grepl('^w[0-9]+', paper)) %>%
+  filter(grepl('^^(h|w)[0-9]', paper)) %>%
   semi_join(papers) %>%
   distinct() %>%
   arrange(program) %>%

@@ -23,6 +23,7 @@ source('data-raw/helpers.R')
 
 # Import raw data
 paper_authors_raw = fread('data-raw/metadata/working_papers_authors.tab', quote = '', encoding = 'Latin-1')
+nberhi = read_csv('data-raw/repec/nberhi.csv')
 nberwo = read_csv('data-raw/repec/nberwo.csv')
 
 # Import processed data
@@ -185,7 +186,7 @@ authors_raw_nber = paper_authors_raw %>%
   as_tibble() %>%
   arrange(paper, order_num) %>%
   select(paper, name, user_nber = author_user) %>%
-  filter(grepl('^w[0-9]+$', paper)) %>%
+  filter(grepl('^(h|w)[0-9]', paper)) %>%
   semi_join(papers) %>%
   # Clean author names
   mutate(name = replace_non_ascii(name),
@@ -201,14 +202,17 @@ authors_raw_nber = paper_authors_raw %>%
   select(-n)
 
 # Extract raw authorship data with RePEc user names
-authors_raw_repec = nberwo %>%
+authors_raw_repec = bind_rows(
+  mutate(nberhi, series = 'h'),
+  mutate(nberwo, series = 'w')
+) %>%
   filter(key %in% c('number', 'author_name', 'author_person')) %>%
-  group_by(entry) %>%
-  mutate(paper = paste0('w', value[which(key == 'number')]),
+  group_by(series, entry) %>%
+  mutate(paper = paste0(series, value[which(key == 'number')]),
          pos = cumsum(key == 'author_name')) %>%
   ungroup() %>%
   filter(key != 'number') %>%
-  select(-entry) %>%
+  select(-entry, -series) %>%
   spread(key, value) %>%
   semi_join(papers) %>%
   select(paper, name = author_name, user_repec = author_person) %>%

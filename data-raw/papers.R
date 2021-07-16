@@ -166,6 +166,7 @@ fix_title = function(x) {
     subfun('dF', 'd F') %>%  # 4800
     subfun('Quantative', 'Quantitative') %>%  # 4819
     subfun('sT', 's T') %>%  # 4870
+    subfun('fromthe', 'from the') %>%  #w5058, h0072, h0085
     subfun('gI', 'g I') %>%  # 5060
     subfun('hG', 'h G') %>%  # 5170
     subfun('Imigration', 'Immigration') %>%  # 5185
@@ -222,14 +223,17 @@ fix_title = function(x) {
     subfun('DEg', 'Deg') %>%  # 27239
     subfun(' R\\? ', ' R ') %>%  # 27632
     subfun('R\\?1', 'R<=1') %>%  # 28093
-    subfun('Ce MENT', 'CeMENT')  # 28727
+    subfun('Ce MENT', 'CeMENT') %>%  # 28727
+    subfun('of-the- ', 'of-the-') %>%  # h0073
+    subfun('Rela-tion', 'Relation') %>%  # h0079
+    subfun('tothe', 'to the')  # h0080
 }
 
 # Collate working paper information
 bad_numbers = with_prefix(c(156, 623, 2432, 7044, 7255, 7436, 7565, 8649, 9101, 9694, 13410, 13800, 21929, 28460, 28473), 'w')
 papers = papers_raw %>%
   as_tibble() %>%
-  filter(grepl('^w[0-9]', paper)) %>%
+  filter(grepl('^(h|w)[0-9]', paper)) %>%
   filter(issue_date <= max_issue_date) %>%
   mutate(year = as.integer(substr(issue_date, 1, 4)),
          month = as.integer(substr(issue_date, 6, 7))) %>%
