@@ -150,6 +150,8 @@ fix_title = function(x) {
     subfun('vs.Living', 'vs. Living') %>%  # 3559
     subfun('lB', 'l B') %>%  # 3560
     subfun('dC', 'd C') %>%  # 3583
+    subfun('Com-mon', 'Common') %>%  # 3637
+    subfun('Thrift, [.][.][.]$', 'Thrift, Public Debt, Capital Taxation and Policy Towards Human Capital Formation') %>%  # 3637
     subfun('Endo-genous', 'Endogenous') %>%  # 3671
     subfun('Engogenous', 'Endogenous') %>%  # 4026
     subfun('Studyof', 'Study of') %>%  # 4211
@@ -226,14 +228,30 @@ fix_title = function(x) {
     subfun('Ce MENT', 'CeMENT') %>%  # 28727
     subfun('of-the- ', 'of-the-') %>%  # h0073
     subfun('Rela-tion', 'Relation') %>%  # h0079
-    subfun('tothe', 'to the')  # h0080
+    subfun('tothe', 'to the') %>%  # h0080
+    subfun('nalExp', 'nal Exp') %>%  # t0005
+    subfun('Structral', 'Structural') %>%  # t0031
+    subfun('recent development$', 'recent developments') %>%  # t0034
+    subfun('tioWhe', 'tio Whe') %>%  # t0069
+    subfun('ashDixits:"(.*)[.]$', 'ash Dixit\'s "\\1"') %>%  # t0077
+    subfun('denti- ', 'denti') %>%  # t0106
+    subfun('JTPA Exp$', 'JTPA Experiment') %>%  # t0149
+    subfun('Cleaningthe', 'Cleaning the') %>%  # t0160
+    subfun('ri-zz', 'riz') %>%  # t0168
+    subfun('Quasi- ', 'Quasi-') %>%  # t0170
+    subfun('Norwegian [.][.][.]$', 'Norwegian Vocational Rehabilitation Programs') %>%  # t0262
+    subfun('and Application in', 'and Applications in')  # t0281
 }
 
 # Collate working paper information
-bad_numbers = with_prefix(c(156, 623, 2432, 7044, 7255, 7436, 7565, 8649, 9101, 9694, 13410, 13800, 21929, 28460, 28473), 'w')
+excluded_papers = c(
+  with_prefix(c(125), 'h'),
+  with_prefix(c(306, 331, 332, 335, 336, 337, 338, 345), 't'),
+  with_prefix(c(156, 623, 2432, 7044, 7255, 7436, 7565, 8649, 9101, 9694, 13410, 13800, 21929, 28460, 28473), 'w')
+)
 papers = papers_raw %>%
   as_tibble() %>%
-  filter(grepl('^(h|w)[0-9]', paper)) %>%
+  filter(grepl('^(h|t|w)[0-9]', paper)) %>%
   filter(issue_date <= max_issue_date) %>%
   mutate(year = as.integer(substr(issue_date, 1, 4)),
          month = as.integer(substr(issue_date, 6, 7))) %>%
@@ -242,7 +260,7 @@ papers = papers_raw %>%
          title = clean_text(title),
          title = fix_title(title)) %>%
   filter(paper != 'w0000') %>%
-  filter(!paper %in% bad_numbers) %>%
+  filter(!paper %in% excluded_papers) %>%
   sort_by_paper()
 
 # Export data

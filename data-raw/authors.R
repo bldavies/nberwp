@@ -24,6 +24,7 @@ source('data-raw/helpers.R')
 # Import raw data
 paper_authors_raw = fread('data-raw/metadata/working_papers_authors.tab', quote = '', encoding = 'Latin-1')
 nberhi = read_csv('data-raw/repec/nberhi.csv')
+nberte = read_csv('data-raw/repec/nberte.csv')
 nberwo = read_csv('data-raw/repec/nberwo.csv')
 
 # Import processed data
@@ -158,6 +159,7 @@ clean_name = function(x) {
     subfun('Micha\\?', 'Michal') %>%
     subfun('Nagataki', 'Nagatake') %>%
     subfun('P\\?nar', 'Pinar') %>%
+    subfun(' Rebin$', ' Rubin') %>%
     subfun('Romaine', 'Romain') %>%
     subfun('\\? Pelin', 'S Pelin') %>%
     subfun('Sa\\?lam', 'Saglam') %>%
@@ -186,7 +188,7 @@ authors_raw_nber = paper_authors_raw %>%
   as_tibble() %>%
   arrange(paper, order_num) %>%
   select(paper, name, user_nber = author_user) %>%
-  filter(grepl('^(h|w)[0-9]', paper)) %>%
+  filter(grepl('^(h|t|w)[0-9]', paper)) %>%
   semi_join(papers) %>%
   # Clean author names
   mutate(name = replace_non_ascii(name),
@@ -204,6 +206,7 @@ authors_raw_nber = paper_authors_raw %>%
 # Extract raw authorship data with RePEc user names
 authors_raw_repec = bind_rows(
   mutate(nberhi, series = 'h'),
+  mutate(nberte, series = 't'),
   mutate(nberwo, series = 'w')
 ) %>%
   filter(key %in% c('number', 'author_name', 'author_person')) %>%
@@ -246,6 +249,7 @@ reassign_nber_manually = function(x) {
   x = replace(x, x == 'jacopo_perego', 'jacopo_perego_1')
   x = replace(x, x == 'jorginho84', 'jorge__rodriguez')
   x = replace(x, x == 'giorgo_sertsios_1', 'giorgo_sertsios')
+  x = replace(x, x == 'guido_ilbens', 'guido_imbens')
   x = replace(x, x == 'hangbai', 'hang_bai')
   x = replace(x, x == 'helen_f_ladd', 'helen_ladd')
   x = replace(x, x == 'greve', 'jane_greve_1')
@@ -270,6 +274,7 @@ reassign_nber_manually = function(x) {
   x = replace(x, x == 'peter_shirley', 'peter_shirley_1')
   x = replace(x, x == 'phenix.hf', 'feng_huang')
   x = replace(x, x == 'primofrank', 'francisco_rodriguez')
+  x = replace(x, x == 'robert_raschd', 'robert_rasche')
   x = replace(x, x == 'roger_clemmons', 'roger_clemmons_1')
   x = replace(x, x == 'roger__moon_', 'hyungsik_moon')
   x = replace(x, x == 'stephen_l_ross', 'steven_ross')
@@ -337,7 +342,11 @@ update_users_manually = function(d) {
            user_repec = replace(user_repec, paper %in% c(863, 1890) & name == 'Peter R Hartley', 'pha1073'),
            paper = with_prefix(paper, 'w')) %>%
     bind_rows(filter(d, !grepl('^w', paper))) %>%
-    mutate(user_repec = replace(user_repec, user_nber %in% c('george_wu', 'ye_qi'), NA),
+    mutate(user_nber = replace(user_nber, paper == 't0136' & name == 'D B Rubin', 'donald_rubin'),
+           user_nber = replace(user_nber, paper == 't0257' & name == 'Dean R Hyslop', 'dean_hyslop'),
+           user_nber = replace(user_nber, paper == 't0302' & name == 'Jack R Porter', 'jack__porter'),
+           user_nber = replace(user_nber, paper %in% with_prefix(c(48, 55, 144, 285), 't') & name == 'Whitney K Newey', 'whitney_newey'),
+           user_repec = replace(user_repec, user_nber %in% c('george_wu', 'ye_qi'), NA),
            user_repec = replace(user_repec, user_nber == 'athene_laws', 'pla779'),
            user_repec = replace(user_repec, user_nber == 'bennett_mccallum', 'pmc4'),
            user_repec = replace(user_repec, user_nber == 'bldavies', 'pda777'),

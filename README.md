@@ -13,8 +13,8 @@ I disambiguate author names by cross-referencing against NBER user names, RePEc 
 Please notify me of any errors by [adding an issue](https://github.com/bldavies/nberwp/issues) or [submitting a pull request](https://github.com/bldavies/nberwp/pulls).
 
 See [here](https://www.nber.org/policies.html) for information about the NBER working paper catalogue.
-The catalogue comprises three series: historical, technical, and general working papers.
-*This package contains information about the historical and general series only.*
+The catalogue comprises three series: historical, technical, and general.
+Working papers in these series have numbers prefixed by "h", "t", and "w".
 
 ## Installation
 

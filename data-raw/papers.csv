@@ -3632,7 +3632,7 @@ w3633,1991,2,Asset Returns and Intertemporal Preferences
 w3634,1991,2,Decoupling Liability: Optimal Incentives for Care and Litigation
 w3635,1991,2,Why Do Countries and Industries with Large Seasonal Cycles Also Have Large Business Cycles?
 w3636,1991,2,Currency Substitution and the Fluctuations of Foreign-Exchange Reserves with Credibly Fixed Exchange Rates
-w3637,1991,2,"Persistent Differences in National Productivity Growth Rates with A Com-mon Technology and Free Capital Mobility: The Roles of Private Thrift, ..."
+w3637,1991,2,"Persistent Differences in National Productivity Growth Rates with A Common Technology and Free Capital Mobility: The Roles of Private Thrift, Public Debt, Capital Taxation and Policy Towards Human Capital Formation"
 w3638,1991,2,Shareholder Trading Practices and Corporate Investment Horizons
 w3639,1991,3,Nursing Home Discharges and Exhaustion of Medicare Benefits
 w3640,1991,3,Actual and Warranted Relations Between Asset Prices
@@ -28958,6 +28958,343 @@ w28972,2021,6,Women Left Behind: Gender Disparities in Utilization of Government
 w28973,2021,6,Does It Matter How Central Banks Accumulate Reserves? Evidence from Sovereign Spreads
 w28974,2021,6,"Risk Perceptions, Board Networks, and Directors' Monitoring"
 w28975,2021,6,The Optimal Design of State-Run Lotteries
+t0001,1979,9,A Stochastic Approach to Disequilibrium Macroeconomics
+t0002,1981,7,Issues in Controllability and the Theory of Economic Policy
+t0003,1983,6,Multiple Shooting in Rational Expectations Models
+t0004,1980,10,The Estimation of Distributed Lags in Short Panels
+t0005,1980,10,Solution and Maximum Likelihood Estimation of Dynamic Nonlinear Rational Expectations Models
+t0006,1980,11,The Role of Economic Policy After the New Classical Macroeconomics
+t0007,1980,12,"A Disaggregated Structural Model of the Treasury Securities, Corporate Bond, and Equity Markets: Estimation and Simulation Results"
+t0008,1980,12,Multivariate Refression Models for Paned Data
+t0009,1981,12,The Superiority of Contingent Rules over Fixed Rules in Models with Rational Expectations
+t0010,1981,3,Granger-Causality and Stabilization Policy
+t0011,1983,7,Two-Step Two-Stage Least Squares Estimation in Models with Rational Expectations
+t0012,1981,6,A Note on the Solution of A Two-Point Boundary Value Problem Frequently Encountered in Rational Expectations Models
+t0013,1981,6,Macroeconometric Modelling for Policy Evaluation and Design
+t0014,1981,6,Asymptotic Properties of Quasi-Maximum Likelihood Estimators and Test Statistics
+t0015,1981,7,Arbitrage and Mean-Variance Analysis on Large Asset Markets
+t0016,1981,7,Welfare Analysis of Tax Reforms Using Household Data
+t0017,1984,10,Econometric Models for Count Data with an Application to the Patents-R&D Relationship
+t0018,1982,5,On the Estimation of Structural Hedonic Price Models
+t0019,1981,12,Bliss Points in Mean-Variance Portfolio Models
+t0020,1984,6,Saddlepoint Problems in Contifuous Time Rational Expectations Models: A General Method and Some Macroeconomic Ehamples
+t0021,1983,1,Predetermined and Non-Predetermined Variables in Rational Expectations Models
+t0022,1982,5,Using Information on the Moments of Disturbances to Increase the Efficiency of Estimation
+t0023,1982,5,Stochastic Capital Theory I. Comparative Statics
+t0024,1982,7,Identification in Dynamic Linear Models with Rational Expectations
+t0025,1982,8,Smoothness Priors and Nonlinear Regression
+t0026,1982,10,Formulation and Estimation of Dynamic Factor Demand Equations Under Non-Static Expectations: A Finite Horizon Model
+t0027,1983,1,The Effect of Ignoring Heteroscedasticity on Estimates of the Tobit Model
+t0028,1983,3,Methods of Solution and Simulation for Dynamic Rational Expectations Models
+t0029,1983,8,Optimal and Time-Consistent Polices in Continuous Time Rational Expectations Models
+t0030,1983,11,Pitfalls in the use of Time as an Explanatory Variable in Regression
+t0031,1983,11,Deep Structural Excavation? A Critique of Euler Equation Methods
+t0032,1984,2,Estimating Autocorrelations in Fixed-Effects Models
+t0033,1984,3,Consistent Estimation Using Data From More Than One Sample
+t0034,1984,4,Policy evaluation and design for continuous time linear rational expectations models: some recent developments
+t0035,1987,5,"Misperceptions, Moral Hazard, and Incentives in Groups"
+t0036,1984,5,Conditional Projection by Means of Kalman Filtering
+t0037,1984,5,Errors in Variables in Panel Data
+t0038,1984,6,Correcting for Truncation Bias Caused by a Latent Truncation Variable
+t0039,1984,7,Data Problems in Econometrics
+t0040,1989,5,Flexible Functional Forms and Global Curvature Conditions
+t0041,1984,9,Rational Expectations Models with a Continuum of Convergent Solutions
+t0042,1984,11,New Econometric Techniques for Marcoeconomic Policy Evaluation
+t0043,1985,2,Error Components in Grouped Data: Why It's Never Worth Weighting
+t0044,1985,3,Asset Pricing Theories
+t0045,1985,4,Testing the Random Walk Hypothesis: Power versus Frequency of Observation
+t0046,1985,4,Is There Chronic Excess Supply of Labor? Designing a Statistical Test
+t0047,1985,5,"Technical Progress in U.S. Manufacturing Sectors, 1948-1973: An Application of Lie Groups"
+t0048,1989,3,"Implementing Causality Tests with Panel Data, with an Example from Local Public Finance"
+t0049,1985,6,Alternative Nonnested Specification Tests of Time Series Investment Models
+t0050,1989,9,Estimation and Hypothesis Testing with Restricted Spectral Density Matrices: An Application to Uncovered Interest Parity
+t0051,1985,10,Do We Reject Too Often? Small Sample Properties of Tests of Rational Expectations Models
+t0052,1985,11,A Fiscal Theory of Hyperdeflations? Some Surprising Monetarist Arithmetic
+t0053,1985,12,Microeconomic Approaches to the Theory of International Comparisons
+t0054,1986,2,Full Versus Limited Information Estimation of a Rational Expectations Model: Some Numerical Comparisons
+t0055,1986,4,"A Simple, Positive Semi-Definite, Heteroskedasticity and Autocorrelation Consistent Covariance Matrix"
+t0056,1986,5,Sequential Bargaining Under Asymmetric Information
+t0057,1986,6,Testing for Individual Effects in Dynamic Models Using Panel Data
+t0058,1986,6,Bias in Longitudinal Estimation of Wage Gaps
+t0059,1986,8,Maximum Likelihood Estimation of Generalized Ito Processes with Discretely Sampled Data
+t0060,1986,9,Temporal Aggregation and Structural Inference in Macroeconomics
+t0061,1986,10,Granger-Causality and Policy Ineffectiveness: A Rejoinder
+t0062,1990,3,Consistent Covariance Matrix Estimation with Cross-Sectional Dependence and Heteroskedasticity in Cross-Sectional Financial Data
+t0063,1987,11,Spurious Trend and Cycle in the State Space Decomposition of a Time Series with a Unit Root
+t0064,1988,2,Exchange-Rate Dynamics and Optimal Asset Accumulation Revisited
+t0065,1988,11,Asset Pricing with a Factor Arch Covariance Structure: Empirical Estimates for Treasury Bills
+t0066,1988,6,The Size and Power of the Variance Ratio Test in Finite Samples: A Monte Carlo Investigation
+t0067,1988,7,The Dividend Ratio Model and Small Sample Bias: A Monte Carlo Study
+t0068,1988,9,Some Further Results on the Exact Small Sample Properties of the Instrumental Variable Estimator
+t0069,1988,9,The Distribution of the Instrumental Variables Estimator and Its t-Ratio When the Instrument is a Poor One
+t0070,1988,9,The Time-Varying-Parameter Model as an Alternative to ARCH for Modeling Changing Conditional Variance: The Case of Lucas Hypothesis
+t0071,1988,10,"Smart Money, Noise Trading and Stock Price Behavior"
+t0072,1988,12,The R&D Master File Documentation
+t0073,1988,12,Tests For Unit Roots: A Monte Carlo Investigation
+t0074,1989,1,Endogenous Output in an Aggregate Model of the Labor Market
+t0075,1991,8,The Delivery of Market Timing Services: Newsletters Versus Market Timing Funds
+t0076,1989,3,Kolmogorov-Smirnov Tests For Distribution Function Similarity With Applications To Portfolios of Common Stock
+t0077,1989,4,"Super Contact and Related Optimality Conditions: A Supplement to Avinash Dixit's ""A Simplified Exposition of Some Results Concerning Regulated Brownian"""
+t0078,1991,10,Full Information Estimation and Stochastic Simulation of Models with Rational Expectations
+t0079,1989,10,Estimation of Polynomial Distributed Lags and Leads with End Point Constraints
+t0080,1989,10,"A Simple, Consistent Estimator for Disturbance Components in Financial Models"
+t0081,1992,8,The Influence Of Probability on Risky Choice: A parametric Examination
+t0082,1989,11,The Positive Economics of Methodology
+t0083,1989,12,A Simple MLE of Cointegrating Vectors in Higher Order Integrated Systems
+t0084,1994,5,The Ramsey Problem for Congestible Facilities
+t0085,1994,4,On the Formulation of Uniform Laws of Large Numbers: A Truncation Approach
+t0086,1997,3,Efficient Estimation of Linear Asset Pricing Models with Moving-Average Errors
+t0087,1990,3,Simulated Moments Estimation of Markov Models of Asset Prices
+t0088,1991,8,Does Correcting for Heteroskedasticity Help?
+t0089,1990,5,Implications of Security Market Data for Models of Dynamic Economies
+t0090,1992,4,Spectral Based Testing of the Martingale Hypothesis
+t0091,1990,10,Testing For Common Features
+t0092,1990,10,Testing The Autocorrelation Structure of Disturbances in Ordinary Least Squares and Instrumental Variables Regressions
+t0093,1990,11,Sorting Out the Differences Between Signaling and Screening Models
+t0094,1991,1,"Heteroscedasticity Diagnostics Based on ""Corrected"" Standard Errors"
+t0095,1991,2,"The Effect of Insider Trading on Insiders' Reaction to Opportunities to ""Waste"" Corporate Value"
+t0096,1991,2,The Effects of Insider Trading on Insiders' Choice Among Risky Investment Projects
+t0097,1991,2,Bargaining and the Division of Value in Corporate Reorganization
+t0098,1994,5,Do Short-Term Managerial Objectives Lead to Under- or Over-Investment in Long-Term Projects
+t0099,1991,3,Standard Risk Aversion
+t0100,1991,4,Pitfalls and Opportunities: What Macroeconomists Should Know About Unit Roots
+t0101,1991,4,On the Optimality of Reserve Requirements
+t0102,1991,5,Measures of Fit for Calibrated Models
+t0103,1991,5,A Theory of Workouts and the Effects of Reorganization Law
+t0104,1991,5,Financial Intermediation and Monetary Policies in the World Economy
+t0105,1991,5,Confidence Intervals for the Largest Autoresgressive Root in U.S. Macroeconomic Time Series
+t0106,1991,6,The Relative Importance of Permanent and Transitory Components: Identification and Some Theoretical Bounds
+t0107,1991,7,Randomization and Social Policy Evaluation Revisited
+t0108,1991,7,Dividend Yields and Expected Stock Returns: Alternative Procedures for Interference and Measurement
+t0109,1991,7,The Independence Axiom and Asset Returns
+t0110,1991,8,The Optimality of Nominal Contracts
+t0111,1991,8,Estimating Event Probabilities from Macroeconomic Models Using Stochastic Simulation
+t0112,1991,9,Rational Frenzies and Crashes
+t0113,1991,10,"Workings of a City: Location, Education, and Production"
+t0114,1991,10,Eastern Data and Western Attitudes
+t0115,1991,11,Instrumental Variables Estimation of Average Treatment Effects in Econometrics and Epidemiology
+t0116,1991,11,A Note on the Time-Elimination Method For Solving Recursive Dynamic Economic Models
+t0117,1991,12,Sources of Identifying Information in Evaluation Models
+t0118,1995,2,Identification and Estimation of Local Average Treatment Effects
+t0119,1992,1,Computing Markov Perfect Nash Equilibria: Numerical Implications of a Dynamic Differentiated Product Model
+t0120,1995,1,Evaluating Risky Consumption Paths: The Role of Intertemporal Substitutability
+t0121,1992,6,Deciding Between I(1) and I(0)
+t0122,1992,6,Inference in Time Series Regression When the Order of Integration of a Regressor is Unknown
+t0123,1996,6,Specification Testing in Panel Data With Instrumental Variables
+t0124,1992,7,Testing Volatility Restrictions on Intertemporal Marginal Rates of Substitution Implied by Euler Equations and Asset Returns
+t0125,1992,7,"The ""Window Problem"" in Studies of Children's Attainments: A Methodological Exploration"
+t0126,1992,8,Seasonal Unit Roots in Aggregate U.S. Data
+t0127,1995,6,Average Causal Response with Variable Treatment Intensity
+t0128,1992,11,A Utility Based Comparison of Some Models of Exchange Rate Volatility
+t0129,1994,4,Asypmtotic Filtering Theory for Univariate Arch Models
+t0130,1992,12,Efficient Tests for an Autoregressive Unit Root
+t0131,1993,12,Measuring Asset Values for Cash Settlement in Derivative Markets: Hedonic Repeated Measures indices and Perpetual Futures
+t0132,1992,12,Filtering and Forecasting with Misspecified Arch Models II: Making the Right Forecast with the Wrong Model
+t0133,1993,3,Long-memory Inflation Uncertainty: Evidence from the Term Structure of Interest Rates
+t0134,1993,5,Bayesian Inference and Portfolio Efficiency
+t0135,1993,5,On Inflation and Output with Costly Price Changes: A Simple Unifying Result
+t0136,1993,6,Identification of Causal Effects Using Instrumental Variables
+t0137,1993,6,The Cure Can Be Worse than the Disease: A Cautionary Tale Regarding Instrumental Variables
+t0138,1996,4,From Each According to His Surplus: Equi-Proportionate Sharing of Commodity Tax Burdens
+t0139,1993,7,Some Evidence on Finite Sample Behavior of an Instrumental Variables Estimator of the Linear Quadtratic Inventory Model
+t0140,1993,8,Estimating Conditional Expectations when Volatility Fluctuates
+t0141,1993,9,Back to the Future: Generating Moment Implications for Continuous-Time Markov Processes
+t0142,1993,9,Why Long Horizons: A Study of Power Against Persistent Alternatives
+t0143,1993,9,Inventory Models
+t0144,1995,2,Automatic Lag Selection in Covariance Matrix Estimation
+t0145,1993,10,Econometric Evaluation of Asset Pricing Models
+t0146,1993,11,A Two-Stage Estimator for Probit Models with Structural Group Effects
+t0147,1993,11,Econometric Methods for Fractional Response Variables with an Application to 401(k) Plan Participation Rates
+t0148,1993,12,The Mixing Problem in Program Evaluation
+t0149,1994,1,Making the Most Out Of Social Experiments: Reducing the Intrinsic Uncertainty in Evidence from Randomized Trials with an Application to the JTPA Experiment
+t0150,1995,6,Split Sample Instrumental Variables
+t0151,1994,1,Instrumental Variables Regression with Weak Instruments
+t0152,1994,1,The Predictive Ability of Several Models of Exchange Rate Volatility
+t0153,1994,2,Assessing Specification Errors in Stochastic Discount Factor Models
+t0154,1994,4,When Are Anonymous Congestion Charges Consistent with Marginal Cost Pricing?
+t0155,1994,5,Small Sample Properties of Generalized Method of Moments Based Wald Tests
+t0156,1994,6,Small Sample Bias in GMM Estimation of Covariance Structures
+t0157,1994,6,Econometric Mixture Models and More General Models for Unobservables in Duration Analysis
+t0158,1994,6,Biases in Twin Estimates of the Return to Schooling: A Note on Recent Research
+t0159,1994,6,Interpreting Tests of the Convergence Hypothesis
+t0160,1994,7,Reported Income in the NLSY: Consistency Checks and Methods for Cleaning the Data
+t0161,1994,8,Asymptotically Optimal Smoothing with ARCH Models
+t0162,1994,8,Asymptotic Filtering Theory for Multivariate ARCH Models
+t0163,1994,8,Continuous Record Asymptotics for Rolling Sample Variance Estimators
+t0164,1994,9,Evidence on Structural Instability in Macroeconomic Time Series Relations
+t0165,1994,9,Estimating Deterministic Trends in the Presence of Serially Correlated Errors
+t0166,1994,9,Accounting for Dropouts in Evaluations of Social Experiments
+t0167,1994,10,Optimal Prediction Under Asymmetric Loss
+t0168,1994,10,Estimating Multiple-Discrete Choice Models: An Application to Computerization Returns
+t0169,1994,11,Comparing Predictive Accuracy
+t0170,1994,12,Natural and Quasi-Experiments in Economics
+t0171,1994,12,Testing for Cointegration When Some of the Contributing Vectors are Known
+t0172,1995,2,Jackknife Instrumental Variables Estimation
+t0173,1995,2,Measuring Volatility Dynamics
+t0174,1995,2,Dynamic Equilibrium Economies: A Framework for Comparing Models and Data
+t0175,1995,3,Investment Under Alternative Return Assumptions: Comparing Random Walks and Mean Reversion
+t0176,1995,3,A Comparison of Alternative Instruments Variables Estimators of a Dynamic Linear Model
+t0177,1995,3,Small Sample Properties of GMM for Business Cycle Analysis
+t0178,1995,4,Non-Parametric Demand Analysis with an Application to the Demand for Fish
+t0179,1995,4,"One Day in June, 1994: A Study of the Working of Reuters 2000-2 Electronic Foreign Exchange Trading System"
+t0180,1995,5,A La Recherche des Moments Perdus: Covariance Models for Unbalanced Panels with Endogenous Death
+t0181,1995,6,Conditioning on the Probability of Selection to Control Selection Bias
+t0182,1995,7,Refining Estimates of Marital Status Differences in Mortality at Older Ages
+t0183,1995,7,Another Heteroskedasticity and Autocorrelation Consistent Covariance Matrix Estimator
+t0184,1995,9,Randomization as an Instrumental Variable
+t0185,1995,9,Instrumental Variables: A Cautionary Tale
+t0186,1995,10,Information Theoretic Approaches to Inference in Moment Condition Models
+t0187,1996,5,Selection Bias Adjustment in Treatment-Effect Models as a Method of Aggregation
+t0188,1995,10,A CES Indirect Production Function
+t0189,1995,12,On the Validity of Using Census Geocode Characteristics to Proxy Individual Socioeconomic Characteristics
+t0190,1996,1,Existence of Equilibrium and Stratification in Local and Hierarchical Tiebout Economies with Property Taxes and Voting
+t0191,1996,1,On Biases in Tests of the Expecations Hypothesis of the Term Structure Of Interest Rates
+t0192,1996,3,Forecast Evaluation and Combination
+t0193,1996,3,Instrument Relevance in Multivariate Linear Models: A Simple Measure
+t0194,1996,4,Exact Maximum Likelihood Estimation of Observation-Driven Econometric Models
+t0195,1996,5,Inferences from Parametric and Non-Parametric Covariance Matrix Estimation Procedures
+t0196,1996,5,Generating Non-Standard Multivariate Distributions with an Application to Mismeasurement in the CPI
+t0197,1996,6,A Practitioner's Guide to Robust Covariance Matrix Estimation
+t0198,1996,7,Asymptotics for GMM Estimators with Weak Instruments
+t0199,1997,7,An Introduction to Applicable Game Theory
+t0200,1996,8,Nonparametric Applications of Bayesian Inference
+t0201,1996,8,Asymptotically Median Unbiased Estimation of Coefficient Variance in a Time Varying Parameter Model
+t0202,1996,8,Imposing Moment Restrictions from Auxiliary Data by Weighting
+t0203,1996,9,Statistical Mechanics Approaches to Socioeconomic Behavior
+t0204,1996,9,Hierarchical Bayes Models with Many Instrumental Variables
+t0205,1996,10,The NBER Manufacturing Productivity Database
+t0206,1996,11,Further Investigation of the Uncertain Unit Root in GNP
+t0207,1997,2,Solving Large Scale Rational Expectations Models
+t0208,1997,2,Computational Economics and Economic Theory: Substitutes or Complements
+t0209,1997,2,The Significance of the Market Portfolio
+t0210,1997,2,Observational Agency and Supply-Side Econometrics
+t0211,1997,5,Time-to-Build and Cycles
+t0212,1997,6,An Efficient Generalized Discrete-Time Approach to Poisson-Gaussian Bond Option Pricing in the Heath-Jarrow-Morton Model
+t0213,1997,8,Measuring Predictability: Theory and Macroeconomic Applications
+t0214,1997,8,Moment Estimation with Attrition
+t0215,1997,10,Evaluating Density Forecasts
+t0216,1997,10,Horizon Length and Portfolio Risk
+t0217,1997,10,Cointegration and Long-Horizon Forecasting
+t0218,1997,10,Algorithms for Solving Dynamic Models with Occasionally Binding Constraints
+t0219,1998,2,Anchoring Effects in the HRS: Experimental and Nonexperimental Evidence
+t0220,1998,2,An Analysis of Sample Attrition in Panel Data: The Michigan Panel Study of Income Dynamics
+t0221,1998,2,A Research Assistant's Guide to Random Coefficients Discrete Choice Models of Demand
+t0222,1998,2,Maximum Likelihood Estimation of Discretely Sampled Diffusions: A Closed-Form Approach
+t0223,1998,2,Overidentification Tests with Grouped Data
+t0224,1998,2,Monotone Instrumental Variables with an Application to the Returns to Schooling
+t0225,1998,2,Solving Dynamic Equilibrium Models by a Method of Undetermined Coefficients
+t0226,1998,3,Regression-Based Tests of Predictive Ability
+t0227,1998,3,Net Health Benefits: A New Framework for the Analysis of Uncertainty in Cost-Effectiveness Analysis
+t0228,1998,3,Much Ado About Two: Reconsidering Retransformation and the Two-Part Model in Health Economics
+t0229,1998,3,Instrumental Variables Estimation of Quantile Treatment Effects
+t0230,1998,4,Combining Panel Data Sets with Attrition and Refreshment Samples
+t0231,1998,4,Efficient Intertemporal Allocations with Recursive Utility
+t0232,1998,4,Solutions to Linear Rational Expectations Models: A Compact Exposition
+t0233,1998,5,An Optimization-Based Econometric Framework for the Evaluation of Monetary Policy: Expanded Version
+t0234,1998,9,A Simple Framework for Nonparametric Specification Testing
+t0235,1998,9,Sorting Out Sorts
+t0236,1999,3,Approximation Bias in Linearized Euler Equations
+t0237,1999,4,The Role of the Propensity Score in Estimating Dose-Response Functions
+t0238,1999,5,Predicting the Efficacy of Future Training Programs Using Past Experiences
+t0239,1999,5,Toll Competition Among Congested Roads
+t0240,1999,5,Predictive Regressions
+t0241,1999,5,When to Control for Covariates? Panel-Asymptotic Results for Estimates of Treatment Effects
+t0242,1999,5,Statistical Treatment Rules for Heterogeneous Populations: With Application to Randomized Experiments
+t0243,1999,8,Environmental Policy and Firm Behavior: Abatement Investment and Location Decisions Under Uncertainty and Irreversibility
+t0244,1999,8,News About News: Information Arrival and Irreversible Investment
+t0245,1999,11,Interaction Effects and Difference-in-Difference Estimation in Loglinear Models
+t0246,1999,11,Estimating Log Models: To Transform or Not to Transform?
+t0247,1999,11,A Note on Longitudinally Matching Current Population Survey (CPS) Respondents
+t0248,2000,1,Estimation of Limited-Dependent Variable Models with Dummy Endogenous Regressors: Simple Strategies for Empirical Practice
+t0249,2000,1,On Optimal Instrumental Variables Estimation of Stationary Time Series Models
+t0250,2000,1,External Treatment Effects and Program Implementation Bias
+t0251,2000,3,Efficient Estimation of Average Treatment Effects Using the Estimated Propensity Score
+t0252,2000,4,Local Instrumental Variables
+t0253,2000,5,Estimating Euler Equations
+t0254,2000,6,Direct Estimation of Policy Impacts
+t0255,2000,6,Robust Covariance Matrix Estimation with Data-Dependent VAR Prewhitening Order
+t0256,2000,6,Encompassing Tests When No Model Is Encompassing
+t0257,2000,8,Bias from Classical and Other Forms of Measurement Error
+t0258,2000,8,Interactions-Based Models
+t0259,2000,8,"Instrumental Variables, Selection Models, and Tight Bounds on the Average Treatment Effect"
+t0260,2000,9,Semiparametric Estimation of Instrumental Variable Models for Causal Effects
+t0261,2000,9,Bootstrap Tests for the Effect of a Treatment on the Distribution of an Outcome Variable
+t0262,2000,9,Treatment Effects for Discrete Outcomes when Responses to Treatment Vary Among Observationally Identical Persons: An Application to Norwegian Vocational Rehabilitation Programs
+t0263,2000,11,Using Studies of Treatment Response to Inform Treatment Choice in Heterogeneous Populations
+t0264,2000,11,Long Memory and Regime Switching
+t0265,2000,11,Time Use and Population Representation in the Sloan Study of Adolescents
+t0266,2000,12,The Conventional Treatment of Seasonality in Business Cycle Analysis: Does it Create Distortions?
+t0267,2001,3,Panel Data Estimators for Nonseparable Models with Endogenous Regressors
+t0268,2001,3,A Graphical Analysis of Some Basic Results in Social Choice
+t0269,2001,3,Empirical Bayes Forecasts of One Time Series Using Many Predictors
+t0270,2001,4,The Bias of the RSR Estimator and the Accuracy of Some Alternatives
+t0271,2001,7,Estimating Hedonic Models: Implications of the Theory
+t0272,2001,7,Demand Estimation With Heterogeneous Consumers and Unobserved Product Characteristics: A Hedonic Approach
+t0273,2001,7,A New Use of Importance Sampling to Reduce Computational Burden in Simulation Estimation
+t0274,2001,8,Simulated Likelihood Estimation of Diffusions with an Application to Exchange Rate Dynamics in Incomplete Markets
+t0275,2001,11,Using Weights to Adjust for Sample Selection When Auxiliary Information is Available
+t0276,2002,4,The Effects of Random and Discrete Sampling When Estimating Continuous-Time Diffusions
+t0277,2002,6,Trimming for Bounds on Treatment Effects with Missing Outcomes
+t0278,2002,8,Econometric Methods for Endogenously Sampled Time Series: The Case of Commodity Price Speculation in the Steel Market
+t0279,2002,8,Parametric and Nonparametric Volatility Measurement
+t0280,2002,9,Identification and Inference in Nonlinear Difference-In-Differences Models
+t0281,2002,9,Affine Processes and Applications in Finance
+t0282,2002,10,Solving Dynamic General Equilibrium Models Using a Second-Order Approximation to the Policy Function
+t0283,2002,10,Simple and Bias-Corrected Matching Estimators for Average Treatment Effects
+t0284,2002,11,Testing for Weak Instruments in Linear IV Regression
+t0285,2002,11,Identification and Estimation of Triangular Simultaneous Equations Models Without Additivity
+t0286,2002,12,Estimating Affine Multifactor Term Structure Models Using Closed-Form Likelihood Expansions
+t0287,2002,12,Cointegration Vector Estimation by Panel DOLS and Long-Run Money Demand
+t0288,2003,3,Multinomial Choice with Social Interactions
+t0289,2003,3,Iatrogenic Specification Error: A Cautionary Tale of Cleaning Data
+t0290,2003,3,The (Interesting) Dynamic Properties of the Neoclassical Growth Model with CES Production
+t0291,2003,3,Generalized Moments Estimation for Panel Data
+t0292,2003,4,Dynamic Seemingly Unrelated Cointegrating Regression
+t0293,2003,10,Generalized Modeling Approaches to Risk Adjustment of Skewed Outcomes Data
+t0294,2003,10,Nonparametric Estimation of Average Treatment Effects under Exogeneity: A Review
+t0295,2003,10,The Role of Randomized Field Trials in Social Science Research: A Perspective from Evaluations of Reforms of Social Welfare Programs
+t0296,2004,1,A Monte Carlo Study of Growth Regressions
+t0297,2004,7,On the Relationship Between Determinate and MSV Solutions in Linear RE Models
+t0298,2004,8,The Use of Predictive Regressions at Alternative Horizons in Finance and Economics
+t0299,2004,8,Optimal Invariant Similar Tests for Instrumental Variables Regression
+t0300,2004,8,Volatility Comovement: A Multifrequency Approach
+t0301,2004,10,Identification and Estimation of Discrete Games of Complete Information
+t0302,2004,11,Bootstrap and Higher-Order Expansion Validity When Instruments May Be Weak
+t0303,2004,11,Optimal Inference in Regression Models with Nearly Integrated Regressors
+t0304,2005,1,Avoiding the Curse of Dimensionality in Dynamic Stochastic Games
+t0305,2005,1,Using Out-of-Sample Mean Squared Prediction Errors to Test the Martingale Difference
+t0307,2005,5,Threshold Crossing Models and Bounds on Treatment Effects: A Nonparametric Analysis
+t0308,2005,6,"A, B, C's (and D)'s for Understanding VARs"
+t0309,2005,6,The Method of Endogenous Gridpoints for Solving Dynamic Stochastic Optimization Problems
+t0310,2005,6,A Portmanteau Test for Serially Correlated Errors in Fixed Effects Models
+t0311,2005,6,Two-Sample Instrumental Variables Estimators
+t0312,2005,7,"Inference with ""Difference in Differences"" with a Small Number of Policy Changes"
+t0313,2005,8,Inference with Weak Instruments
+t0314,2005,9,"Instrumental Variables Methods in Experimental Criminological Research: What, Why, and How?"
+t0315,2005,10,Convergence Properties of the Likelihood of Computed Dynamic Models
+t0316,2005,10,Dynamic Discrete Choice and Dynamic Treatment Effects
+t0317,2005,10,Generalized Stochastic Gradient Learning
+t0318,2005,10,Solving General Equilibrium Models with Incomplete Markets and Many Assets
+t0319,2005,10,Edgeworth Expansions for Realized Volatility and Related Estimators
+t0320,2006,2,Semiparametric Estimation of a Dynamic Game of Incomplete Information
+t0321,2006,2,Estimating Macroeconomic Models: A Likelihood Approach
+t0322,2006,3,Regression Discontinuity Inference with Specification Error
+t0323,2006,6,Heteroskedasticity-Robust Standard Errors for Fixed Effects Panel Data Regression
+t0324,2006,6,Nonparametric Tests for Treatment Effect Heterogeneity
+t0325,2006,6,On the Failure of the Bootstrap for Matching Estimators
+t0326,2006,8,Approximately Normal Tests for Equal Predictive Accuracy in Nested Models
+t0327,2006,9,Robust Inference with Multi-way Clustering
+t0328,2006,9,Non-response in the American Time Use Survey: Who Is Missing from the Data and How Much Does It Matter?
+t0329,2006,10,Researcher Incentives and Empirical Methods
+t0330,2006,10,Moving the Goalposts: Addressing Limited Overlap in the Estimation of Average Treatment Effects by Changing the Estimand
+t0333,2006,12,Using Randomization in Development Economics Research: A Toolkit
+t0334,2007,1,Manipulation of the Running Variable in the Regression Discontinuity Design: A Density Test
+t0339,2007,7,Unconditional Quantile Regressions
+t0340,2007,7,The Identification and Economic Content of Ordered Choice Models with Stochastic Thresholds
+t0341,2007,8,Deterministic and Stochastic Prisoner's Dilemma Games: Experiments in Interdependent Security
+t0342,2007,9,Rank-1/2: A Simple Way to Improve the OLS Estimation of Tail Exponents
+t0343,2007,9,Do Instrumental Variables Belong in Propensity Scores?
+t0344,2007,9,Bootstrap-Based Improvements for Inference with Clustered Errors
 h0001,1989,5,"Second Thoughts on the European Escape from Hunger: Famines, Price Elasticities, Entitlements, Chronic Malnutrition, and Mortality Rates"
 h0002,1989,5,A State and Local Consumer Price Index for the United States in 1890
 h0003,1989,5,"The Trend in the Rate of Labor Force Participation of Older Men, 1870-1930: A Review of the Evidence"
@@ -29082,7 +29419,6 @@ h0121,2000,1,Childhood Mortality & Nutritional Status as Indicators of Standard 
 h0122,2000,2,Wealth Inequality Trends in Industrializing New England: New Evidence and Tests of Competing Hypotheses
 h0123,2000,3,"South Carolina Slave Prices, 1722-1809"
 h0124,2000,4,How Long Did It Take the United States to Become an Optimal Currency Area?
-h0125,2000,4,Aggregate Price Shocks and Financial Instability: An Historical Analysis
 h0126,2000,6,"Conjectural Estimates of Economic Growth in the Lower South, 1720 to 1800"
 h0127,2000,6,"""Rain Follows the Plow"" and Dryfarming Doctrine: The Climate Information Problem and Homestead Failure in the Upper Great Plains, 1890-1925"
 h0128,2000,6,"The Political Economy of Race, 1940-1964: The Adoption of State-Level Fair Employment Legislation"
