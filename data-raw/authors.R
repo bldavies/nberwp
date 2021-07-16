@@ -139,6 +139,7 @@ clean_name = function(x) {
     subfun('Fullterton', 'Fullerton') %>%
     subfun('Giles', 'Gilles') %>%
     subfun('Gombovi\\?', 'Gombovic') %>%
+    subfun('Goval', 'Goyal') %>%
     subfun('Gune\\?', 'Gunes') %>%
     subfun('Gwilyn', 'Gwylim') %>%
     subfun('Haijime', 'Hajime') %>%
