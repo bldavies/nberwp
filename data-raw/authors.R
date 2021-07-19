@@ -369,6 +369,7 @@ update_users_manually = function(d) {
            user_repec = replace(user_repec, paper %in% 5385:8581 & grepl('Ramstetter', name), 'pra758'),
            user_repec = replace(user_repec, paper %in% c(1121, 4571) & name == 'Gikas A Hardouvelis', 'pha554'),
            user_repec = replace(user_repec, paper %in% c(6138, 7584) & name == 'Jody Overland', 'pov8'),
+           user_repec = replace(user_repec, paper == 2898 & name == 'John W Graham', 'pgr426'),
            user_repec = replace(user_repec, paper %in% c(3847, 8984) & name == 'Joram Mayshar', 'pma2277'),
            user_repec = replace(user_repec, paper %in% 4:185 & name == 'Lee A Lillard', 'pli669'),
            user_repec = replace(user_repec, paper %in% 6374:7980 & name == 'Mark Rider', 'pri188'),
@@ -422,6 +423,8 @@ update_users_manually = function(d) {
            user_repec = replace(user_repec, user_nber == 'yin-chi_wang_1', 'pwa607'),
            user_repec = replace(user_repec, user_nber == 'yu_liu', 'pli1227'),
            user_repec = replace(user_repec, name == 'Kay Porter', NA),
+           user_nber = replace(user_nber, paper == 'w9904' & name == 'David Austen-Smith', NA),
+           user_nber = replace(user_nber, paper == 'w2898' & name == 'John W Graham', NA),
            user_nber = replace(user_nber, paper == 'w15960' & name == 'Stephen A O\'Connell', NA),
            user_repec = replace(user_repec, name == 'Muhammed A Yildirim', NA))
 }
@@ -491,6 +494,8 @@ manual_merges_nonber = tribble(
   mutate(paper = with_prefix(paper, 'w')) %>%
   bind_rows(tribble(
     ~paper, ~name, ~merge_id,
+    'w5667', 'Daniel M Garrett', 'daniel_garrett',
+    'w6085', 'Daniel M Garrett', 'daniel_garrett',
     'w10583', 'Eugene Canjels', 'eugene_canjels',
     't0165', 'Eugene Canjels', 'eugene_canjels',
     'w1513', 'Ryuzo Sato', 'ryuzo_sato',
@@ -611,6 +616,17 @@ extract_reassignments = function(x) {
     filter(from_id != to_id)
 }
 
+# Specify matches to exclude
+excluded_matches = tribble(
+  ~name.x, ~name.y,
+  'Daniel Garrett', 'Daniel M Garrett',
+  'Daniel G Garrett', 'Daniel M Garrett',
+  'Daniel M Garrett', 'Daniel Garrett',
+  'Daniel M Garrett', 'Daniel G Garrett',
+  'John Graham', 'John W Graham',
+  'John W Graham', 'John Graham'
+)
+
 
 # Matching on common co-authors ----
 
@@ -648,6 +664,7 @@ reassignments_cc = authors_raw %>%
   mutate(t = test_substrings(name.x, name.y)) %>%
   mutate(ni = count_name_intersections(name.x, name.y)) %>%
   filter(t | ni >= 3) %>%  # Checked manually
+  anti_join(excluded_matches) %>%
   # Extract reassignments
   extract_reassignments()
 
@@ -693,6 +710,7 @@ reassignments_programs = authors_post_cc %>%
   mutate(ni = count_name_intersections(name.x, name.y)) %>%
   mutate(lv = get_distance(name.x, name.y, 'lv')) %>%
   filter(cosine < 0.01 | ni >= 3 | (ni == 2 & lv <= 4)) %>%  # Checked manually
+  anti_join(excluded_matches) %>%
   # Extract reassignments
   extract_reassignments()
 
