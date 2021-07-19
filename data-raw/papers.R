@@ -69,6 +69,8 @@ fix_title = function(x) {
     subfun('THe', 'The') %>%  # 86
     subfun('nS', 'n S') %>%  # 138
     subfun('fL', 'f L') %>%  # 158
+    subfun('Rosetak', 'Rosepack') %>%  # 165
+    subfun('ome, Cau', 'ome Cau') %>%  # 167
     subfun('lA', 'l A') %>%  # 171
     subfun('mC', 'm C') %>%  # 179
     subfun('nW', 'n W') %>%  # 305
@@ -86,20 +88,23 @@ fix_title = function(x) {
     subfun('eE', 'e E') %>%  # 949, 1850, 3440
     subfun('yF', 'y F') %>%  # 993
     subfun('eC', 'e C') %>%  # 1063
+    subfun('Macro- econ', 'Macroecon') %>%  # 1162
     subfun('Commentand', 'Comment and') %>%  # 1200
     subfun('Japaneseand', 'Japanese and') %>%  # 1264
     subfun(',P', ', P') %>%  # 1106
     subfun('Determinationand', 'Determination and') %>%  # 1112
+    subfun('Mult-Div', 'Multi-Div') %>%  # 1213
     subfun('tI', 't I') %>%  # 1348
     subfun('sD', 's D') %>%  # 1348
     subfun('Fctry Assoc[.] w/Gains in Effcny[?]: Evdnc[.]', 'Factory Associated with Gains in Efficiency? Evidence') %>%  # 1386
     subfun('Mnfctr[.]', 'Manufacturing') %>%  # 1386
     subfun('onT', 'on T') %>%  # 1396
-    subfun('tR', 't R') %>%  # 1480, 1508
-    subfun('eF', 'e F') %>%  # 1484, 4492
+    subfun('nge- ', 'nge') %>%  # 1407, 5429
     subfun('fI', 'f I') %>%  # 1425, 1655
     subfun('eI', 'e I') %>%  # 1460, 3332
     subfun('fU', 'f U') %>%  # 1463
+    subfun('tR', 't R') %>%  # 1480, 1508
+    subfun('eF', 'e F') %>%  # 1484, 4492
     subfun('nC', 'n C') %>%  # 1513
     subfun('Developedand', 'Developed and') %>%  # 1528
     subfun('rM', 'r M') %>%  # 1559, 6753
@@ -132,6 +137,7 @@ fix_title = function(x) {
     subfun('Macroeocnomics', 'Macroeconomics') %>%  # 2473
     subfun('rP', 'r P') %>%  # 2543
     subfun('mE', 'm E') %>%  # 2583
+    subfun('sure- ', 'sure') %>%  # 2950
     subfun('Commited', 'Committed') %>%  # 3005
     subfun('Produc- tivity', 'Productivity') %>%  # 3026
     subfun('Exhange', 'Exchange') %>%  # 3067
@@ -139,6 +145,7 @@ fix_title = function(x) {
     subfun('Endogeous', 'Endogenous') %>%  # 3085
     subfun('Reinve stment', 'Reinvestment') %>%  # 3093
     subfun('Ebolution', 'Evolution') %>%  # 3104
+    subfun('folio- ', 'folio-') %>%  # 3114
     subfun('OBs', 'Obs') %>%  # 3132
     subfun('BAr', 'Bar') %>%  # 3188
     subfun('Comparive', 'Comparative') %>%  # 3194
@@ -153,7 +160,11 @@ fix_title = function(x) {
     subfun('Com-mon', 'Common') %>%  # 3637
     subfun('Thrift, [.][.][.]$', 'Thrift, Public Debt, Capital Taxation and Policy Towards Human Capital Formation') %>%  # 3637
     subfun('Endo-genous', 'Endogenous') %>%  # 3671
+    subfun('Cross- Sec', 'Cross-Sec') %>%  # 3806
+    subfun('ti- cal', 'tical') %>%  # 3811
+    subfun('Mid- Cen', 'Mid-Cen') %>%  # 3817
     subfun('Engogenous', 'Endogenous') %>%  # 4026
+    subfun('Elderly-', 'Elderly -') %>%  # 4182
     subfun('Studyof', 'Study of') %>%  # 4211
     subfun('sF', 's F') %>%  # 4270
     subfun('Infaliton', 'Inflation') %>%  # 4319
@@ -161,7 +172,9 @@ fix_title = function(x) {
     subfun('Persoanl', 'Personal') %>%  # 4391
     subfun('yH', 'y H') %>%  # 4460
     subfun('e1', 'e 1') %>%  # 4496
+    subfun('Firm- Level', 'Firm-Level') %>%  # 4540
     subfun('Convicton', 'Conviction') %>%  # 4551
+    subfun('"Household.*Bag,"', 'Household Demand for Garbage and Recycling Collection with the Start of a Price per Bag') %>%  # 4670
     subfun('usS', 'us S') %>%  # 4731
     subfun('ationa ', 'ations ') %>%  # 4754, 10565
     subfun('hC', 'h C') %>%  # 4786
@@ -172,8 +185,11 @@ fix_title = function(x) {
     subfun('gI', 'g I') %>%  # 5060
     subfun('hG', 'h G') %>%  # 5170
     subfun('Imigration', 'Immigration') %>%  # 5185
+    subfun('1890- ', '1890-') %>%  # 5314
     subfun('yP', 'y P') %>%  # 5362
     subfun('eS', 'e S') %>%  # 5364, 6732, 24938
+    subfun('Means- Tested', 'Means-Tested') %>%  # 5372
+    subfun('der- City', 'der-City') %>%  # 5425
     subfun('yM', 'y M') %>%  # 5474
     subfun('DoB', 'Do B') %>%  # 5695
     subfun('Flowof', 'Flow of') %>%  # 5712
@@ -210,6 +226,7 @@ fix_title = function(x) {
     subfun(',2004', ', 2004') %>%  # 12607
     subfun(',1980', ', 1980') %>%  # 15274
     subfun('ter\\?Cyc', 'ter-Cyc') %>%  # 18062
+    subfun('China -US', 'China-US') %>%  # 19898
     subfun('A-az', 'iaz') %>%  # 21350
     subfun('^\\?', '') %>%  # 21802
     subfun('E\\?ect', 'Effect') %>%  # 22950
