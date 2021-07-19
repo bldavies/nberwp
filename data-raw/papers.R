@@ -275,7 +275,8 @@ papers = papers_raw %>%
   select(paper, year, month, title) %>%
   mutate(title = remove_parenthetical_notes(title),
          title = clean_text(title),
-         title = fix_title(title)) %>%
+         title = fix_title(title),
+         title = if_else(paper %in% c('w9635', 'w9793', 'w12110'), title, sub('^"(.*)"$', '\\1', title))) %>%
   filter(paper != 'w0000') %>%
   filter(!paper %in% excluded_papers) %>%
   sort_by_paper()
