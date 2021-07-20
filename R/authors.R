@@ -14,5 +14,12 @@
 #' \item{user_repec}{Author username on RePEc}
 #' }
 #'
+#' @examples
+#' authors
+#'
+#' if (require('dplyr')) {
+#' paper_authors %>% count(author) %>% left_join(authors)
+#' }
+#'
 #' @source \href{https://data.nber.org/nber-wp-logs/}{National Bureau of Economic Research}
 "authors"

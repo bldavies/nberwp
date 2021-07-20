@@ -10,6 +10,7 @@ Authors@R:
          comment = c(ORCID = "0000-0002-1749-4567"))
 Description: Catalogue of NBER working papers published between June 1973 and June 2021.
 Depends: R (>= 2.10)
+Suggests: dplyr
 License: CC0
 Encoding: UTF-8
 LazyData: true

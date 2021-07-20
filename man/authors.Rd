@@ -22,4 +22,12 @@ data(authors)
 \description{
 Data frame containing author attributes.
 }
+\examples{
+authors
+
+if (require('dplyr')) {
+paper_authors \%>\% count(author) \%>\% left_join(authors)
+}
+
+}
 \keyword{datasets}

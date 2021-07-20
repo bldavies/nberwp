@@ -20,4 +20,12 @@ data(paper_authors)
 \description{
 Data frame containing paper-author correspondences.
 }
+\examples{
+paper_authors
+
+if (require('dplyr')) {
+paper_authors \%>\% count(author) \%>\% left_join(authors)
+}
+
+}
 \keyword{datasets}

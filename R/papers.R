@@ -14,5 +14,12 @@
 #' \item{title}{Title}
 #' }
 #'
+#' @examples
+#' papers
+#'
+#' if (require('dplyr')) {
+#' papers %>% count(year)
+#' }
+#'
 #' @source \href{https://data.nber.org/nber-wp-logs/}{National Bureau of Economic Research}
 "papers"

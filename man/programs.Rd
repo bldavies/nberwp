@@ -21,6 +21,14 @@ data(programs)
 \description{
 Crosswalk between NBER program codes, descriptions and categories.
 }
+\examples{
+programs
+
+if (require('dplyr')) {
+paper_programs \%>\% count(program) \%>\% left_join(programs)
+}
+
+}
 \references{
 Chari, A. and P. Goldsmith-Pinkham (2017).
 Gender Representation in Economics Across Topics and Time: Evidence from the NBER Summer Institute.

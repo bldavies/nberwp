@@ -22,4 +22,12 @@ data(papers)
 \description{
 Data frame containing working paper attributes.
 }
+\examples{
+papers
+
+if (require('dplyr')) {
+papers \%>\% count(year)
+}
+
+}
 \keyword{datasets}

@@ -12,5 +12,12 @@
 #' \item{program}{Program code}
 #' }
 #'
+#' @examples
+#' paper_programs
+#'
+#' if (require('dplyr')) {
+#' paper_programs %>% count(program) %>% left_join(programs)
+#' }
+#'
 #' @source \href{https://data.nber.org/nber-wp-logs/}{National Bureau of Economic Research}
 "paper_programs"

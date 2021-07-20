@@ -18,5 +18,12 @@
 #' NBER Working Paper No. 23953,
 #' National Bureau of Economic Research.
 #'
+#' @examples
+#' programs
+#'
+#' if (require('dplyr')) {
+#' paper_programs %>% count(program) %>% left_join(programs)
+#' }
+#'
 #' @source \href{https://www.nber.org}{National Bureau of Economic Research}
 "programs"

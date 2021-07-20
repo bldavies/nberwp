@@ -20,4 +20,12 @@ data(paper_programs)
 \description{
 Crosswalk between NBER working papers and programs.
 }
+\examples{
+paper_programs
+
+if (require('dplyr')) {
+paper_programs \%>\% count(program) \%>\% left_join(programs)
+}
+
+}
 \keyword{datasets}
