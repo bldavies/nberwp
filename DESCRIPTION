@@ -5,10 +5,12 @@ Version: 0.1.0
 Authors@R:
   person(given = "Benjamin",
          family = "Davies",
-         email = "git@bldavies.com",
+         email = "dev@bldavies.com",
          role = c("aut", "cre"),
          comment = c(ORCID = "0000-0002-1749-4567"))
 Description: Catalogue of NBER working papers published between June 1973 and June 2021.
+URL: https://github.com/bldavies/nberwp
+BugReports: https://github.com/bldavies/nberwp/issues
 Depends: R (>= 2.10)
 Suggests: dplyr
 License: CC0
