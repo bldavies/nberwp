@@ -1,14 +1,21 @@
 # nberwp
 
+[![CRAN](https://www.r-pkg.org/badges/version/nberwp)](https://cran.r-project.org/package=nberwp)
+
 This package contains information about [NBER](https://www.nber.org) working papers published between June 1973 and June 2021.
 
 ## Installation
 
-nberwp can be installed via [remotes](https://github.com/r-lib/remotes):
+nberwp is [available on CRAN](https://cran.r-project.org/package=nberwp):
 
 ```r
-library(remotes)
-install_github('bldavies/nberwp')
+install.packages('nberwp')
+```
+
+The development version can be installed from GitHub via [remotes](https://github.com/r-lib/remotes):
+
+```r
+remotes::install_github('bldavies/nberwp')
 ```
 
 ## Description
