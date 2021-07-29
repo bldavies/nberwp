@@ -448,16 +448,21 @@ authors_post_programs = authors_post_cc %>%
          user_repec = first(user_repec)) %>%
   ungroup()
 
+# Finalize author IDs
+authors_post_disamb = authors_post_programs %>%
+  group_by(id) %>%
+  mutate(min_paper = paper[which.min(paper_id)]) %>%
+  ungroup() %>%
+  mutate(author = paste(min_paper, id %% 100, sep = '.'))
+
 
 # Finishing up ----
 
 # Prepare table of author attributes
-authors = authors_post_programs %>%
-  group_by(id) %>%
-  mutate(name = name[which.max(nchar(name))]) %>%
-  slice_min(paper_id) %>%
+authors = authors_post_disamb %>%
+  group_by(author, user_nber, user_repec) %>%
+  summarise(name = name[which.max(nchar(name))]) %>%
   ungroup() %>%
-  mutate(author = paste(paper, id %% 100, sep = '.')) %>%
   select(author, name, user_nber, user_repec) %>%
   sort_by_author()
 
@@ -467,11 +472,7 @@ if (nrow(authors) != n_distinct(authors$author)) {
 }
 
 # Prepare paper-author correspondences
-paper_authors = authors_post_programs %>%
-  group_by(id) %>%
-  mutate(min_paper = paper[which.min(paper_id)]) %>%
-  ungroup() %>%
-  mutate(author = paste(min_paper, id %% 100, sep = '.')) %>%
+paper_authors = authors_post_disamb %>%
   select(paper, author) %>%
   distinct() %>%
   sort_by_author() %>%
