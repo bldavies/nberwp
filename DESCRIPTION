@@ -1,7 +1,7 @@
 Package: nberwp
 Type: Package
 Title: NBER Working Papers
-Version: 1.0.0
+Version: 1.0.1
 Authors@R:
   person(given = "Benjamin",
          family = "Davies",

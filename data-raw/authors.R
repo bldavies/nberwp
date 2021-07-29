@@ -135,6 +135,7 @@ clean_name = function(x) {
     subfun('C -Y', 'C-Y') %>%
     subfun('Dean Karlin', 'Dean Karlan') %>%
     subfun('Demirgu\\?', 'Demirguc') %>%
+    subfun('Den Haan', 'den Haan') %>%
     subfun('Dzieli\\?ski', 'Dzielinski') %>%
     subfun('^Dr ', '') %>%
     subfun('Feldstean', 'Feldstein') %>%
