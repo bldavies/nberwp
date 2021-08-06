@@ -113,6 +113,7 @@ clean_name = function(x) {
     subfun(' Jr', '') %>%
     subfun('[,]+', '') %>%
     subfun('Abdulkadiro\\?lu', 'Abdulkadiroglu') %>%
+    subfun('Alexi Sluchynsky', 'Oleksiy Sluchynsky') %>%
     subfun('Arbatl\\?', 'Arbatli') %>%
     subfun('Aydo\\?an', 'Aydogan') %>%
     subfun('Ay\\?egul', 'Aysegul') %>%
@@ -164,6 +165,7 @@ clean_name = function(x) {
     subfun(' Rebin$', ' Rubin') %>%
     subfun('R\\)chard', 'Richard') %>%
     subfun('Romaine', 'Romain') %>%
+    subfun('^S Nicolas$', 'S Nicholas') %>%
     subfun('\\? Pelin', 'S Pelin') %>%
     subfun('Sa\\?lam', 'Saglam') %>%
     subfun('\\?ahin', 'Sahin') %>%

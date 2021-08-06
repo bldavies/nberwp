@@ -3,7 +3,7 @@
 # This script exports a table of working paper attributes.
 #
 # Ben Davies
-# July 2021
+# August 2021
 
 # Load packages
 library(bldr)
@@ -193,6 +193,7 @@ fix_title = function(x) {
     subfun('yM', 'y M') %>%  # 5474
     subfun('DoB', 'Do B') %>%  # 5695
     subfun('Flowof', 'Flow of') %>%  # 5712
+    subfun('Emp irical', 'Empirical') %>%  # w5771
     subfun('Endgenous', 'Endogenous') %>%  # 5851
     subfun('Acccoun', 'Accounts Data') %>%  # 5884
     subfun('Masschusetts', 'Massachusetts') %>%  # 5957
