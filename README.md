@@ -2,7 +2,7 @@
 
 [![CRAN](https://www.r-pkg.org/badges/version/nberwp)](https://cran.r-project.org/package=nberwp)
 
-This package contains information about [NBER](https://www.nber.org) working papers published between June 1973 and June 2021.
+This package contains information about [NBER](https://www.nber.org) working papers published between June 1973 and July 2021.
 
 ## Installation
 
