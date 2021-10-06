@@ -3,7 +3,7 @@
 \docType{data}
 \name{authors}
 \alias{authors}
-\title{NBER working paper authors}
+\title{NBER working paper author names}
 \format{
 Data frame with columns
 \describe{
@@ -20,7 +20,7 @@ Data frame with columns
 data(authors)
 }
 \description{
-Data frame containing author attributes.
+Data frame containing author names.
 }
 \examples{
 authors

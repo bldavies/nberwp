@@ -1,6 +1,6 @@
-#' NBER working paper authors
+#' NBER working paper author names
 #'
-#' Data frame containing author attributes.
+#' Data frame containing author names.
 #'
 #' @docType data
 #'
