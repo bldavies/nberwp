@@ -8,10 +8,10 @@
 #'
 #' @format Data frame with columns
 #' \describe{
-#' \item{paper}{Working paper number}
-#' \item{year}{Publication year}
-#' \item{month}{Publication month}
-#' \item{title}{Title}
+#' \item{paper}{Working paper number.}
+#' \item{year}{Publication year.}
+#' \item{month}{Publication month.}
+#' \item{title}{Title.}
 #' }
 #'
 #' @examples

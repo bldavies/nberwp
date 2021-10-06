@@ -7,8 +7,8 @@
 \format{
 Data frame with columns
 \describe{
-\item{paper}{Working paper number}
-\item{author}{Author ID}
+\item{paper}{Working paper number.}
+\item{author}{Author ID.}
 }
 }
 \source{

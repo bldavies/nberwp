@@ -7,8 +7,8 @@
 \format{
 Data frame with columns
 \describe{
-\item{paper}{Working paper number}
-\item{program}{Program code}
+\item{paper}{Working paper number.}
+\item{program}{Program code.}
 }
 }
 \source{

@@ -7,10 +7,10 @@
 \format{
 Data frame with columns
 \describe{
-\item{author}{Author ID}
-\item{name}{Author name}
-\item{user_nber}{Author username on NBER website}
-\item{user_repec}{Author username on RePEc}
+\item{author}{Author ID.}
+\item{name}{Author name.}
+\item{user_nber}{Author username on NBER website.}
+\item{user_repec}{Author username on RePEc.}
 }
 }
 \source{
