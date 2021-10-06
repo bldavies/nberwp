@@ -3,7 +3,7 @@
 # This script exports tables of author attributes and paper-author correspondences.
 #
 # Ben Davies
-# July 2021
+# October 2021
 
 
 # Initialization ----
@@ -165,6 +165,7 @@ clean_name = function(x) {
     subfun(' Rebin$', ' Rubin') %>%
     subfun('R\\)chard', 'Richard') %>%
     subfun('Romaine', 'Romain') %>%
+    subfun('Rurtin Wolfe', 'Rustin Wolfe') %>%
     subfun('^S Nicolas$', 'S Nicholas') %>%
     subfun('\\? Pelin', 'S Pelin') %>%
     subfun('Sa\\?lam', 'Saglam') %>%
