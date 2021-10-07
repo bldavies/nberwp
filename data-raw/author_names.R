@@ -1,6 +1,6 @@
-# AUTHORS.R
+# AUTHOR_NAMES.R
 #
-# This script exports tables of author attributes and paper-author correspondences.
+# This script exports tables of author names and paper-author correspondences.
 #
 # Ben Davies
 # October 2021
@@ -461,8 +461,8 @@ authors_post_disamb = authors_post_programs %>%
 
 # Finishing up ----
 
-# Prepare table of author attributes
-authors = authors_post_disamb %>%
+# Prepare table of author names
+author_names = authors_post_disamb %>%
   group_by(author, user_nber, user_repec) %>%
   summarise(name = name[which.max(nchar(name))]) %>%
   ungroup() %>%
@@ -470,7 +470,7 @@ authors = authors_post_disamb %>%
   sort_by_author()
 
 # Assert that author IDs are unique
-if (nrow(authors) != n_distinct(authors$author)) {
+if (nrow(author_names) != n_distinct(author_names$author)) {
   stop('Author IDs are not unique')
 }
 
@@ -482,10 +482,10 @@ paper_authors = authors_post_disamb %>%
   sort_by_paper()
 
 # Export data
-write_csv(authors, 'data-raw/authors.csv')
-save(authors, file = 'data/authors.rda', version = 2, compress = 'bzip2')
+write_csv(author_names, 'data-raw/author_names.csv')
+save(author_names, file = 'data/author_names.rda', version = 2, compress = 'bzip2')
 write_csv(paper_authors, 'data-raw/paper_authors.csv')
 save(paper_authors, file = 'data/paper_authors.rda', version = 2, compress = 'bzip2')
 
 # Save session info
-save_session_info('data-raw/authors.log')
+save_session_info('data-raw/author_names.log')

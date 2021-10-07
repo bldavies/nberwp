@@ -4,7 +4,7 @@
 #'
 #' @docType data
 #'
-#' @usage data(authors)
+#' @usage data(author_names)
 #'
 #' @format Data frame with columns
 #' \describe{
@@ -15,11 +15,11 @@
 #' }
 #'
 #' @examples
-#' authors
+#' author_names
 #'
 #' if (require('dplyr')) {
-#' paper_authors %>% count(author) %>% left_join(authors)
+#' paper_authors %>% count(author) %>% left_join(author_names)
 #' }
 #'
 #' @source \href{https://data.nber.org/nber-wp-logs/}{National Bureau of Economic Research}
-"authors"
+"author_names"

@@ -23,7 +23,7 @@ remotes::install_github('bldavies/nberwp')
 nberwp provides the following six tables:
 
 * `papers`: working paper attributes.
-* `authors`: author names.
+* `author_names`: author names.
 * `author_sexes`: author sexes.
 * `programs`: program attibutes.
 * `paper_authors`: paper-author correspondences.
