@@ -1,6 +1,6 @@
-#' NBER working paper author sexes
+#' NBER working paper authors
 #'
-#' Data frame containing author sexes.
+#' Data frame containing author attributes.
 #'
 #' Most author sexes come from matching authors' names against 1940--1995 US
 #' Social Security Administration baby name data provided by the package
@@ -14,14 +14,17 @@
 #'
 #' @docType data
 #'
-#' @usage data(author_sexes)
+#' @usage data(authors)
 #'
 #' @format Data frame with columns
 #' \describe{
 #' \item{author}{Author ID.}
+#' \item{name}{Author name.}
+#' \item{user_nber}{Author username on NBER website.}
+#' \item{user_repec}{Author username on RePEc.}
 #' \item{female}{Binary indicator for whether author is female.
 #'   Values of -1 denote sexes that could not be identified.}
-#' \item{source}{Source of sex information.
+#' \item{sex_source}{Source of sex information.
 #'   Values of 1 and 2 denote sexes identified using SSA baby name and Facebook
 #'   data, respectively.
 #'   Negative values -x denote sexes identified incorrectly by source x and
@@ -30,10 +33,10 @@
 #' }
 #'
 #' @examples
-#' author_sexes
+#' authors
 #'
 #' if (require('dplyr')) {
-#' author_sexes %>% count(female)
+#' paper_authors %>% count(author) %>% left_join(authors)
 #' }
 #'
 #' @references Tang, C., Ross, K., Saxena, N., and Chen, R. (2011).
@@ -41,4 +44,6 @@
 #' In Xu, J., Yu, G., Zhou, S., and Unland, R., editors,
 #' \emph{Database Systems for Advanced Applications}, volume 6637.
 #' Springer, Berlin, Heidelberg.
-"author_sexes"
+#'
+#' @source \href{https://data.nber.org/nber-wp-logs/}{National Bureau of Economic Research}
+"authors"

@@ -19,7 +19,7 @@ library(tidyr)
 source('data-raw/helpers.R')
 
 # Import author attributes
-authors = read_csv('data-raw/authors.csv')
+author_names = read_csv('data-raw/author_names.csv')
 
 # Import data on Facebook forename frequencies
 facebook = read_csv('data-raw/sexes/facebook.csv')
@@ -57,7 +57,7 @@ override_with = function(d1, d2) {
 }
 
 # Process estimates
-estimates = authors %>%
+estimates = author_names %>%
   mutate(forename = case_when(grepl('^[A-Za-z]{2}', name) ~ sub('^([A-Za-z-]+) .*', '\\1', name),
                               grepl('^[A-Z] .* .*', name) ~ sub('^[A-Z] ([A-Za-z]+) .*', '\\1', name),
                               T ~ ''),
@@ -89,7 +89,6 @@ author_sexes = estimates %>%
 
 # Export data
 write_csv(author_sexes, 'data-raw/author_sexes.csv')
-save(author_sexes, file = 'data/author_sexes.rda', version = 2, compress = 'bzip2')
 
 # Save session info
 save_session_info('data-raw/author_sexes.log')

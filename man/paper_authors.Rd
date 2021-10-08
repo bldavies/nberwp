@@ -24,7 +24,7 @@ Data frame containing paper-author correspondences.
 paper_authors
 
 if (require('dplyr')) {
-paper_authors \%>\% count(author) \%>\% left_join(author_names)
+paper_authors \%>\% count(author) \%>\% left_join(authors)
 }
 
 }

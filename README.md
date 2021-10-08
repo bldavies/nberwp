@@ -20,11 +20,10 @@ remotes::install_github('bldavies/nberwp')
 
 ## Description
 
-nberwp provides the following six tables:
+nberwp provides the following five tables:
 
 * `papers`: working paper attributes.
-* `author_names`: author names.
-* `author_sexes`: author sexes.
+* `authors`: author attributes.
 * `programs`: program attibutes.
 * `paper_authors`: paper-author correspondences.
 * `paper_programs`: paper-program correspondences.

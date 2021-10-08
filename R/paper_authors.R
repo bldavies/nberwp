@@ -16,7 +16,7 @@
 #' paper_authors
 #'
 #' if (require('dplyr')) {
-#' paper_authors %>% count(author) %>% left_join(author_names)
+#' paper_authors %>% count(author) %>% left_join(authors)
 #' }
 #'
 #' @source \href{https://data.nber.org/nber-wp-logs/}{National Bureau of Economic Research}

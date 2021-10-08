@@ -32,7 +32,6 @@ if (nrow(author_names) != n_distinct(author_names$author)) {
 
 # Export data
 write_csv(author_names, 'data-raw/author_names.csv')
-save(author_names, file = 'data/author_names.rda', version = 2, compress = 'bzip2')
 
 # Save session info
 save_session_info('data-raw/author_names.log')
