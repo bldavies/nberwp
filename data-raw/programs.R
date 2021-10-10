@@ -3,7 +3,7 @@
 # This script exports tables of program attributes and of paper-program correspondences.
 #
 # Ben Davies
-# July 2021
+# October 2021
 
 # Load packages
 library(bldr)
@@ -22,12 +22,20 @@ paper_programs_raw = fread('data-raw/metadata/working_papers_programs.tab', quot
 # Import working paper attributes
 papers = read_csv('data-raw/papers.csv')
 
+# Create supplemental correspondences for papers published in technical series
+twp_duplicates = paste0('w', c(11259, 12690, 12772, 12831, 12999, 13039, 13134, 13517))
+twp_supplement = papers %>%
+  filter(substr(paper, 1, 1) == 't') %>%
+  pull(paper) %>%
+  {crossing(paper = c(., twp_duplicates), program = 'TWP')}
+
 # Create paper-program crosswalk
 paper_programs = paper_programs_raw %>%
   as_tibble() %>%
   select(paper, program) %>%
   filter(grepl('^^(h|t|w)[0-9]', paper)) %>%
   semi_join(papers) %>%
+  bind_rows(twp_supplement) %>%
   distinct() %>%
   arrange(program) %>%
   sort_by_paper()
