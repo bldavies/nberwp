@@ -22,7 +22,7 @@ source('data-raw/helpers.R')
 papers_raw = fread('data-raw/metadata/working_papers.tab', quote = '', encoding = 'Latin-1')
 
 # Set boundary issue date
-max_issue_date = '2021-07-31'
+max_issue_date = '2021-08-31'
 
 # Define function for removing known parenthetical notes
 remove_parenthetical_notes = function(x) {

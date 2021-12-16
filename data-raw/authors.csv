@@ -9098,7 +9098,7 @@ w20062.1,Jerry Tsai,jerry_tsai_1,pts130,0,1
 w20063.3,Philip A Luck,philip_luck,plu339,0,1
 w20066.1,Daniel H Weinberg,daniel_weinberg,pwe124,0,1
 w20066.3,Henry O Pollakowski,henry_pollakowski,NA,0,1
-w20067.2,Nicolas Ajzenman,nicolas_ajzenman,NA,0,1
+w20067.2,Nicolas Ajzenman,nicolas_ajzenman,paj35,0,1
 w20068.2,Youngki Shin,youngki_shin,psh180,0,0
 w20071.1,Francesco Franzoni,francesco_franzoni,NA,0,1
 w20071.3,Rabih Moussawi,rabihm7,NA,0,1
@@ -10001,7 +10001,7 @@ w21562.3,Randall Q Akee,randall_akee,pak85,0,1
 w21562.4,William Copeland,william_copeland_1,NA,0,1
 w21566.1,David A Rivers,david_rivers,pri210,0,1
 w21568.1,Doug Campbell,dolcampb,pca584,0,1
-w21568.2,Lester Lusher,lester_lusher,plu402,0,1
+w21568.2,Lester R Lusher,lester_lusher,plu402,0,1
 w21570.1,Rene van Vliet,rene_van_vliet,NA,0,0
 w21570.2,Richard C van Kleef,richard_van_kleef,NA,0,1
 w21570.4,Wynand van de Ven,wynand_van_de_ven,NA,0,0
@@ -15351,6 +15351,69 @@ w29108.2,Pei Huang,pei_huang,NA,1,1
 w29111.1,Bernardo S Silveira,bernardo__silveira,NA,0,1
 w29111.6,Shengwu Li,shengwu_li,pli1117,0,0
 w29114.1,Catherine R Schenk,catherine_schenk,NA,1,1
+w29117.2,Jong-Rong Chen,jongrong_chen,pch784,0,0
+w29119.2,Donna Feir,donna_feir,pfe361,1,1
+w29120.3,Olimpia Cutinelli Rendina,ocutinellirendina,NA,1,1
+w29121.6,Sreyashi Sharmin,sreyashi_sharmin,NA,1,0
+w29123.2,Anjali Adukia,anjali_adukia,pad164,1,1
+w29123.3,Emileigh Harrison,emileigh_harrison,NA,1,1
+w29123.4,Hakizumwami Birali Runesha,hakizumwami_runesha,NA,0,0
+w29123.5,Teodora Szasz,teodora__szasz,NA,1,1
+w29129.1,Patrick J Shultz,patrick_j._shultz,NA,0,1
+w29130.3,Qian Liu,qian_liu_2,NA,1,0
+w29131.3,Robert He,robert_he,NA,0,1
+w29132.1,Anu Oommen,anu_oommen,NA,1,1
+w29132.3,Nancy Luke,nancy_luke_1,NA,1,1
+w29132.4,Swapnil Singh,swapnil,NA,0,2
+w29133.2,Jackson Dorsey,jacksondorsey,NA,0,1
+w29134.3,Riccardo Bianchi Vimercati,riccardo_bianchivimercati,NA,0,1
+w29135.3,Miika M Paallysaho,paalmii,NA,0,0
+w29135.4,Santiago Hermo,santiago_hermo,NA,0,1
+w29139.2,Joshua C Tibbitts,joshua_tibbitts,NA,0,1
+w29141.1,H Holly Wang,h._holly_wang,pwa788,1,1
+w29141.3,Michael S Delgado,michael_delgado,pde1221,0,1
+w29142.1,David Hao Zhang,david_hao_zhang,NA,0,1
+w29144.2,Katsuichiro Goda,katsu_goda,NA,0,0
+w29144.4,Paul Kovacs,paul_kovacs,NA,0,1
+w29145.5,Moyan Li,Moyan_Li,NA,0,0
+w29146.2,Kensuke Teshima,kensuke_teshima,NA,0,1
+w29149.3,Daniel Guzman,daniel_guzman,NA,0,1
+w29150.1,Alissa Skog,alissaskog,NA,1,1
+w29150.3,Yotam Shem-Tov,yotam_shem-tov,NA,0,1
+w29152.1,Michelle M Marcus,michelle_marcus,NA,1,1
+w29152.2,Patrick Flynn,patrick_flynn,NA,0,1
+w29153.3,Winnie Yang,winnie_yang,NA,1,1
+w29156.1,Cheryl Phillips,cheryl_phillips,NA,1,1
+w29156.2,Elizabeth Huffaker,elizabeth_huffaker,NA,1,1
+w29156.3,Eric Sagara,eric_sagara,NA,0,1
+w29157.2,Jana Cahlikova,jana_cahlikova,pca1014,1,1
+w29157.5,Tomas Zelinsky,tomas_zelinsky,NA,0,1
+w29158.1,Cosimo Petracchi,cpetracc,ppe963,0,1
+w29159.3,Carol Hengheng Lu,carol_lu,NA,1,1
+w29161.2,Frederic Martenet,martenet,NA,0,1
+w29161.3,Hannes Malmberg,hannes_malmberg,NA,0,2
+w29166.1,Jason Winfree,jason__winfree,pwi272,0,1
+w29166.2,Liang Lu,liang_lu,plu408,0,0
+w29166.3,Md Mamunur Rahman,md_mamunur_rahman,NA,0,1
+w29166.4,Ruby Nguyen,ruby_nguyen,NA,1,1
+w29170.3,Jorge Perez Perez,jorge_perez_perez,ppe453,0,1
+w29174.1,Daisy Wang,Daisy_wang,NA,1,1
+w29176.1,Alexander Cardazzi,acardazzi,pca1556,0,1
+w29176.2,Brad R Humphreys,brad_humphreys,NA,0,1
+w29176.3,Margaret Bock,mbock1,NA,1,1
+w29180.6,Esha Chaudhuri,echaudhuri,NA,1,1
+w29181.1,Conor Walsh,conor_walsh,NA,0,1
+w29181.3,Lukas Althoff,lukas_althoff,NA,0,1
+w29182.2,Meng Miao,meng_miao,NA,0,1
+w29182.3,Yi Shao,yi_shao,NA,-1,0
+w29186.2,Randy Kotti,randy_kotti,NA,0,1
+w29192.2,Sabareesh Ramachandran,sabareesh,NA,0,0
+w29194.1,Sunghun Lim,sunghun_lim,NA,0,0
+w29195.2,Felix Matthys,fmatthys,NA,0,1
+w29195.3,Ronnie Sircar,ronnie_sircar,NA,0,1
+w29196.5,Thomas Zuber,thomas.zuber,NA,0,1
+w29197.3,Ionut Cotoc,ionut_cotoc,NA,0,0
+w29198.1,Haaris Mateen,HaarisMateen,NA,0,1
 t0005.1,John B Taylor,john_taylor,pta174,0,1
 t0011.1,John Huizinga,john_huizinga,NA,0,1
 t0015.2,Michael Rothschild,michael_rothschild,pro48,0,1
