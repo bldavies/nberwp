@@ -3,7 +3,7 @@
 # This script exports a table of working paper attributes.
 #
 # Ben Davies
-# August 2021
+# December 2021
 
 # Load packages
 library(bldr)
@@ -232,7 +232,9 @@ fix_title = function(x) {
     subfun('^\\?', '') %>%  # 21802
     subfun('E\\?ect', 'Effect') %>%  # 22950
     subfun('dor\\?Uni', 'dor-Uni') %>%  # 23018
+    subfun('CO\\? Em', 'CO2 Em') %>%  # 24293, 26086, 26537
     subfun('^q\\?$', 'q5') %>%  # 24709
+    subfun('Emit CO\\?', 'Emit CO2') %>%  # 25063
     subfun(',W', ', W') %>%  # 25311
     subfun('Di\\?er', 'Differ') %>%  # 25380, 26375
     subfun('Pro\\?t', 'Profit') %>%  # 26027
@@ -241,6 +243,7 @@ fix_title = function(x) {
     subfun(' o\\? ', ' off ')  %>%  # 26624
     subfun('i\\?I', 'i-I') %>%  # 27175
     subfun('DEg', 'Deg') %>%  # 27239
+    subfun('ChinaÂ', 'China') %>%  # 27502
     subfun(' R\\? ', ' R ') %>%  # 27632
     subfun('R\\?1', 'R<=1') %>%  # 28093
     subfun('Ce MENT', 'CeMENT') %>%  # 28727
