@@ -22,7 +22,7 @@ source('data-raw/helpers.R')
 papers_raw = fread('data-raw/metadata/working_papers.tab', quote = '', encoding = 'Latin-1')
 
 # Set boundary issue date
-max_issue_date = '2021-09-30'
+max_issue_date = '2021-10-31'
 
 # Define function for removing known parenthetical notes
 remove_parenthetical_notes = function(x) {
@@ -247,6 +247,7 @@ fix_title = function(x) {
     subfun(' R\\? ', ' R ') %>%  # 27632
     subfun('R\\?1', 'R<=1') %>%  # 28093
     subfun('Ce MENT', 'CeMENT') %>%  # 28727
+    subfun('CO\\? Fert', 'CO2 Fert') %>%  # 29320
     subfun('of-the- ', 'of-the-') %>%  # h0073
     subfun('Rela-tion', 'Relation') %>%  # h0079
     subfun('tothe', 'to the') %>%  # h0080
