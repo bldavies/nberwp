@@ -3,7 +3,7 @@
 # This script exports a table of working paper attributes.
 #
 # Ben Davies
-# December 2021
+# January 2022
 
 # Load packages
 library(bldr)
@@ -22,7 +22,7 @@ source('data-raw/helpers.R')
 papers_raw = fread('data-raw/metadata/working_papers.tab', quote = '', encoding = 'Latin-1')
 
 # Set boundary issue date
-max_issue_date = '2021-11-30'
+max_issue_date = '2021-12-31'
 
 # Define function for removing known parenthetical notes
 remove_parenthetical_notes = function(x) {
