@@ -24,7 +24,7 @@ nberwp provides the following five tables:
 
 * `papers`: working paper attributes.
 * `authors`: author attributes.
-* `programs`: program attibutes.
+* `programs`: program attributes.
 * `paper_authors`: paper-author correspondences.
 * `paper_programs`: paper-program correspondences.
 
