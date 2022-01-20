@@ -11,6 +11,7 @@
 #' social media profiles.
 #' It also involves using online photos and video (e.g., interview and lecture)
 #' footage.
+#' See Davies (2022) for more details.
 #'
 #' @docType data
 #'
@@ -39,7 +40,13 @@
 #' paper_authors %>% count(author) %>% left_join(authors)
 #' }
 #'
-#' @references Tang, C., Ross, K., Saxena, N., and Chen, R. (2011).
+#' @references
+#' Davies, B. (2022).
+#' Sex-based sorting among economists: Evidence from the NBER.
+#' SocArXiv.
+#' doi:\href{https://doi.org/10.31235/osf.io/zeb7a}{10.31235/osf.io/zeb7a}
+#'
+#' Tang, C., Ross, K., Saxena, N., and Chen, R. (2011).
 #' What’s in a Name: A Study of Names, Gender Inference, and Gender Behavior in Facebook.
 #' In Xu, J., Yu, G., Zhou, S., and Unland, R., editors,
 #' \emph{Database Systems for Advanced Applications}, volume 6637.

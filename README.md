@@ -32,6 +32,7 @@ I construct these tables from raw metadata published [here](https://data.nber.or
 I clean these metadata by fixing typos, removing non-ASCII characters, and disambiguating author names.
 My disambiguation approach involves cross-referencing against NBER user names, RePEc IDs, common co-authorships, common [program](https://www.nber.org/programs-projects/programs-working-groups) associations, name edit distances, and information gleaned (manually) from authors' personal and academic webpages.
 I obtain author sexes by matching against historical US baby name data and Facebook data obtained by [Tang et al. (2011)](https://doi.org/10.1007/978-3-642-20244-5_33), and through manual identification. 
+See [Davies (2022)](https://doi.org/10.31235/osf.io/zeb7a) for more details.
 
 See [here](https://www.nber.org/policies.html) for information about the NBER working paper catalogue.
 The catalogue comprises three series: historical, technical, and general.
