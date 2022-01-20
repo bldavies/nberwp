@@ -54,7 +54,7 @@ paper_authors \%>\% count(author) \%>\% left_join(authors)
 Davies, B. (2022).
 Sex-based sorting among economists: Evidence from the NBER.
 SocArXiv.
-doi:\href{https://doi.org/10.31235/osf.io/zeb7a}{10.31235/osf.io/zeb7a}
+\doi{10.31235/osf.io/zeb7a}
 
 Tang, C., Ross, K., Saxena, N., and Chen, R. (2011).
 What’s in a Name: A Study of Names, Gender Inference, and Gender Behavior in Facebook.
