@@ -3,7 +3,7 @@
 # This script downloads metadata for the NBER working paper series.
 #
 # Ben Davies
-# July 2021
+# March 2022
 
 # Load packages
 library(bldr)
@@ -16,7 +16,7 @@ outdir = 'data-raw/metadata/'
 if (!dir.exists(outdir)) dir.create(outdir)
 
 # Download files
-files = paste0('working_papers', c('', '_authors', '_programs'), '.tab')
+files = paste0('working_papers', c('', '_authors', '_programs', '_published'), '.tab')
 for (f in files) {
   download.file(paste0('https://data.nber.org/nber-wp-logs/', f), paste0(outdir, f))
 }
