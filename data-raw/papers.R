@@ -3,7 +3,7 @@
 # This script exports a table of working paper attributes.
 #
 # Ben Davies
-# January 2022
+# March 2022
 
 # Load packages
 library(bldr)
@@ -20,6 +20,7 @@ source('data-raw/helpers.R')
 
 # Import raw metadata
 papers_raw = fread('data-raw/metadata/working_papers.tab', quote = '', encoding = 'Latin-1')
+published_raw = fread('data-raw/metadata/working_papers_published.tab', quote = '', encoding = 'Latin-1')
 
 # Set boundary issue date
 max_issue_date = '2021-12-31'
@@ -265,6 +266,19 @@ fix_title = function(x) {
     subfun('and Application in', 'and Applications in')  # t0281
 }
 
+# Extract publication indicators
+journal_papers = c(
+  with_prefix(c(12220, 13192, 13931, 14570, 14572, 16641, 16795, 16887, 17169, 18745, 19054, 19284,
+                20341, 20397, 21465, 22908, 26707, 27290, 27362, 27364, 27547, 28454, 28801), 'w')
+)
+published = published_raw %>%
+  as_tibble() %>%
+  mutate(type = replace(type, paper %in% journal_papers, 'journal')) %>%
+  filter(type %in% c('book', 'journal')) %>%
+  group_by(paper) %>%
+  summarise(journal = 1 * (sum(type == 'journal') > 0)) %>%
+  ungroup()
+
 # Collate working paper information
 excluded_papers = c(
   with_prefix(c(125), 'h'),
@@ -278,6 +292,7 @@ papers = papers_raw %>%
   mutate(year = as.integer(substr(issue_date, 1, 4)),
          month = as.integer(substr(issue_date, 6, 7))) %>%
   select(paper, year, month, title) %>%
+  left_join(published) %>%
   mutate(title = remove_parenthetical_notes(title),
          title = clean_text(title),
          title = fix_title(title),

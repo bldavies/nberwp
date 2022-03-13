@@ -12,6 +12,7 @@
 #' \item{year}{Publication year.}
 #' \item{month}{Publication month.}
 #' \item{title}{Title.}
+#' \item{journal}{Whether paper is published as a journal article (1) or book/chapter (0). If neither then value is NA.}
 #' }
 #'
 #' @examples
