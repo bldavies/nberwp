@@ -20,7 +20,7 @@ source('data-raw/helpers.R')
 
 # Import raw metadata
 papers_raw = fread('data-raw/metadata/working_papers.tab', quote = '', encoding = 'Latin-1')
-published_raw = fread('data-raw/metadata/working_papers_published.tab', quote = '', encoding = 'Latin-1')
+outlets_raw = fread('data-raw/metadata/working_papers_published.tab', quote = '', encoding = 'Latin-1')
 
 # Set boundary issue date
 max_issue_date = '2021-12-31'
@@ -266,17 +266,38 @@ fix_title = function(x) {
     subfun('and Application in', 'and Applications in')  # t0281
 }
 
-# Extract publication indicators
-journal_papers = c(
-  with_prefix(c(12220, 13192, 13931, 14570, 14572, 16641, 16795, 16887, 17169, 18745, 19054, 19284,
+# Define function for matching patterns using Perl regular expressions
+check_text = function(x, y) {
+  grepl(x, y, ignore.case = T, perl = T)
+}
+
+# Extract outlets
+journal_false_negatives = c(
+  with_prefix(c(1826, 2095, 2297, 2313, 3478, 3609, 3912, 7126, 8243, 9439,
+                12220, 13192, 13931, 14570, 14572, 16641, 16795, 16887, 17169, 18745, 19054, 19284,
                 20341, 20397, 21465, 22908, 26707, 27290, 27362, 27364, 27547, 28454, 28801), 'w')
 )
-published = published_raw %>%
+top5_false_positives = c(
+  with_prefix(c(2107, 5777, 5805, 6762, 16247), 'w')
+)
+outlets = outlets_raw %>%
   as_tibble() %>%
-  mutate(type = replace(type, paper %in% journal_papers, 'journal')) %>%
+  filter(grepl('^(h|t|w)[0-9]', paper)) %>%
+  mutate(
+    type = replace(type, paper %in% journal_false_negatives, 'journal'),
+    AER  = check_text('(?<!Latin )American Economic Review(?!.*?Insights)', published_text) | grepl('aecrev', journal_abbrev) | journal_abbrev == 'AER',
+    AER  = AER & !check_text('Papers and Proceed', published_text),
+    ECTA = check_text('Econometrica', published_text) | grepl('emetrp', journal_abbrev),
+    JPE  = check_text('(?<!(Scottish|European) )Journal of Political Economy', published_text) | grepl('jpolec', journal_abbrev),
+    QJE  = check_text('Quarterly Journal of Economics', published_text) | grepl('qjecon', journal_abbrev) | journal_abbrev == 'QJE',
+    RES  = check_text('Review of Economic Studies', published_text) | grepl('restud', journal_abbrev),
+    top5 = (AER | ECTA | JPE | QJE | RES) & !paper %in% top5_false_positives
+  ) %>%
   filter(type %in% c('book', 'journal')) %>%
   group_by(paper) %>%
-  summarise(journal = 1 * (sum(type == 'journal') > 0)) %>%
+  summarise(outlet = case_when(sum(top5) > 0 ~ 1,
+                               sum(type == 'journal') > 0 ~ 2,
+                               T ~ 3)) %>%
   ungroup()
 
 # Collate working paper information
@@ -292,7 +313,7 @@ papers = papers_raw %>%
   mutate(year = as.integer(substr(issue_date, 1, 4)),
          month = as.integer(substr(issue_date, 6, 7))) %>%
   select(paper, year, month, title) %>%
-  left_join(published) %>%
+  left_join(outlets) %>%
   mutate(title = remove_parenthetical_notes(title),
          title = clean_text(title),
          title = fix_title(title),

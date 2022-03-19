@@ -12,7 +12,15 @@
 #' \item{year}{Publication year.}
 #' \item{month}{Publication month.}
 #' \item{title}{Title.}
-#' \item{journal}{Whether paper is published as a journal article (1) or book/chapter (0). If neither then value is NA.}
+#' \item{outlet}{Publication outlet code:
+#'   \enumerate{
+#'     \item{"Top five" journal (i.e., \emph{American Economic Review}, \emph{Econometrica}, \emph{Journal of Political Economy}, \emph{Quarterly Journal of Economics}, or \emph{Review of Economic Studies}).}
+#'     \item{Other journal.}
+#'     \item{Book or book chapter.}
+#'   }
+#'   If published in multiple outlets then uses lowest code.
+#'   Unpublished papers have NA values.
+#'   Publication statuses last updated on March 7, 2022.}
 #' }
 #'
 #' @examples
