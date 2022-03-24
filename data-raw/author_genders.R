@@ -1,9 +1,9 @@
-# AUTHOR_SEXES.R
+# AUTHOR_GENDERS.R
 #
-# This script exports a table of author sexes and associated information.
+# This script exports a table of author genders and associated information.
 #
 # Ben Davies
-# October 2021
+# March 2022
 
 
 # Initialization ----
@@ -22,11 +22,11 @@ source('data-raw/helpers.R')
 author_names = read_csv('data-raw/author_names.csv')
 
 # Import data on Facebook forename frequencies
-facebook = read_csv('data-raw/sexes/facebook.csv')
+facebook = read_csv('data-raw/genders/facebook.csv')
 
 # Import data constructed manually
-sexes_via_nber = read_csv('data-raw/sexes/via_nber.csv')
-sexes_via_name = read_csv('data-raw/sexes/via_name.csv')
+genders_via_nber = read_csv('data-raw/genders/via_nber.csv')
+genders_via_name = read_csv('data-raw/genders/via_name.csv')
 
 
 # Data construction ----
@@ -76,19 +76,19 @@ estimates = author_names %>%
       ungroup()
   )} %>%
   # Override with data constructed manually
-  override_with(sexes_via_nber) %>%
-  override_with(sexes_via_name)
+  override_with(genders_via_nber) %>%
+  override_with(genders_via_name)
 
 
 # Finishing up ----
 
 # Prepare data
-author_sexes = estimates %>%
+author_genders = estimates %>%
   select(author, female, source) %>%
   sort_by_author()
 
 # Export data
-write_csv(author_sexes, 'data-raw/author_sexes.csv')
+write_csv(author_genders, 'data-raw/author_genders.csv')
 
 # Save session info
-save_session_info('data-raw/author_sexes.log')
+save_session_info('data-raw/author_genders.log')

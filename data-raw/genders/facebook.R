@@ -4,7 +4,7 @@
 # female forenames among Facebook users.
 #
 # Ben Davies
-# July 2021
+# March 2022
 
 
 # Load packages
@@ -60,7 +60,7 @@ outdata = indata %>%
   mutate(forename = tolower(replace_non_ascii(forename)))
 
 # Save data
-write_csv(outdata, 'data-raw/sexes/facebook.csv')
+write_csv(outdata, 'data-raw/genders/facebook.csv')
 
 # Save session info
-save_session_info('data-raw/sexes/facebook.log')
+save_session_info('data-raw/genders/facebook.log')

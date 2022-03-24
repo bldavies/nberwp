@@ -12,13 +12,13 @@ Data frame with columns
 \item{user_nber}{Author username on NBER website.}
 \item{user_repec}{Author username on RePEc.}
 \item{female}{Binary indicator for whether author is female.
-  Values of -1 denote sexes that could not be identified.}
-\item{sex_source}{Source of sex information.
-  Values of 1 and 2 denote sexes identified using SSA baby name and Facebook
+  Values of -1 denote genders that could not be identified.}
+\item{female_source}{Source of gender information.
+  Values of 1 and 2 denote genders identified using SSA baby name and Facebook
   data, respectively.
-  Negative values -x denote sexes identified incorrectly by source x and
+  Negative values -x denote genders identified incorrectly by source x and
   overwritten manually.
-  Values of 0 denote sexes identified manually.}
+  Values of 0 denote genders identified manually.}
 }
 }
 \source{
@@ -31,11 +31,11 @@ data(authors)
 Data frame containing author attributes.
 }
 \details{
-Most author sexes come from matching authors' names against 1940--1995 US
+Most author genders come from matching authors' names against 1940--1995 US
 Social Security Administration baby name data provided by the package
 \emph{babynames}, and against Facebook name and self-reported gender data
 collected by Tang et al. (2011).
-Remaining sexes come from manual identification, which involves searching for
+Remaining genders come from manual identification, which involves searching for
 gendered pronouns in online biographies, news articles, and professional and
 social media profiles.
 It also involves using online photos and video (e.g., interview and lecture)
