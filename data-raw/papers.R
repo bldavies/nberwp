@@ -49,6 +49,7 @@ clean_text = function(x) {
     subfun('í', 'i') %>%
     subfun('ï', 'i') %>%
     subfun('ñ', 'n') %>%
+    subfun('ô', 'o') %>%
     subfun('`', '\'') %>%
     subfun('‘', '\'') %>%
     subfun('’', '\'') %>%

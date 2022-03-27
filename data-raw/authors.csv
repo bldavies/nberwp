@@ -48,7 +48,7 @@ w0045.2,Robert A Leone,NA,NA,0,1
 w0046.1,Neil Kaden,neil_kaden,NA,0,1
 w0046.2,Richard A Becker,richard_becker,NA,0,1
 w0046.3,Virginia Klema,virginia_klema,NA,1,1
-w0048.1,Bent Hansen,NA,NA,0,0
+w0048.1,Bent Hansen,bent_hansen,NA,0,0
 w0048.2,Karim Nashashibi,karim_nashashibi,NA,0,1
 w0050.2,Orley C Ashenfelter,orley_ashenfelter,pas9,0,1
 w0051.1,Edward P Lazear,edward_lazear,pla64,0,1
@@ -257,8 +257,8 @@ w0444.1,Robert C Merton,robert_merton,pme203,0,1
 w0451.1,Robert A Shakotko,robert_shakotko,NA,0,1
 w0462.1,Alan C Stockman,alan_stockman,pst94,0,1
 w0470.1,Edward J Kane,edward_kane,pka853,0,1
-w0471.1,Burton G Malkiel,NA,NA,0,1
-w0471.2,John G Cragg,NA,NA,0,1
+w0471.1,Burton G Malkiel,burton_g_malkiel,NA,0,1
+w0471.2,John G Cragg,john_g_cragg,NA,0,1
 w0476.2,Michael L Mussa,michael_mussa,NA,0,1
 w0479.1,Haim Ofek,NA,NA,0,1
 w0480.1,Mark Gersovitz,NA,NA,0,1
@@ -276,7 +276,7 @@ w0502.1,Ben S Bernanke,ben_bernanke,pbe55,0,1
 w0505.1,Frederic S Mishkin,frederic_mishkin,pmi37,0,1
 w0508.1,James M Poterba,james_poterba,ppo19,0,1
 w0509.2,Stephanie Seligman,stephanie_seligman,NA,1,1
-w0510.1,Bernard Friedman,NA,NA,0,1
+w0510.1,Bernard Friedman,bernard_friedman,NA,0,1
 w0511.1,J Weinblatt,NA,NA,0,0
 w0519.1,Daniel S Hamermesh,daniel_hamermesh,pha78,0,1
 w0519.2,James H Grant,NA,NA,0,1
@@ -305,7 +305,7 @@ w0564.2,Sanford J Grossman,sanford_grossman,pgr108,0,1
 w0566.1,Carl E Walsh,carl_walsh,pwa23,0,1
 w0570.1,James N Dertouzos,james_dertouzos,NA,0,1
 w0570.2,John H Pencavel,john_pencavel,ppe335,0,1
-w0571.1,Bryce Hool,NA,NA,0,1
+w0571.1,Bryce Hool,bryce_hool,NA,0,1
 w0572.1,David Lipton,david_lipton,NA,0,1
 w0583.1,Kenneth Cone,kenneth_cone,NA,0,1
 w0583.2,Marcy Avrin,marcy_avrin,NA,1,1
@@ -476,7 +476,7 @@ w1114.1,Michael Dotsey,michael_dotsey,NA,0,1
 w1115.2,Wilfred J Ethier,NA,NA,0,1
 w1116.2,Glenn A Fine,NA,NA,0,1
 w1121.1,Gikas A Hardouvelis,gikas_hardouvelis,pha554,0,0
-w1132.1,Jess B Yawitz,NA,NA,0,1
+w1132.1,Jess B Yawitz,jess_yawitz,NA,0,1
 w1132.2,Kevin J Maloney,NA,NA,0,1
 w1132.3,William J Marshall,NA,NA,0,1
 w1137.1,Wayne H Mikkelson,NA,NA,0,1
@@ -515,7 +515,7 @@ w1201.2,Jeffrey C Fuhrer,jeffrey_fuhrer,pfu8,0,1
 w1202.3,Thomas Doan,NA,NA,0,1
 w1203.1,John Y Campbell,john_campbell,pca54,0,1
 w1211.1,Makoto Ohta,makoto_ohta,NA,0,1
-w1215.3,Louis H Ederington,NA,NA,0,1
+w1215.3,Louis H Ederington,louis_h_ederington,NA,0,1
 w1216.1,Joseph G Haubrich,joseph_haubrich,pha107,0,1
 w1217.1,Alan J Marcus,alan_marcus,pma1156,0,1
 w1231.2,James M Johannes,NA,NA,0,1
@@ -544,7 +544,7 @@ w1314.1,Kevin Lang,kevin_lang,pla83,0,1
 w1315.1,Jay O Light,NA,NA,0,1
 w1316.1,Catherine E Hartsog,NA,NA,1,1
 w1317.1,Ai Tee Koh,ai_tee_koh,NA,1,0
-w1323.1,Brian E Roberts,NA,NA,0,1
+w1323.1,Brian E Roberts,brian_e_roberts,NA,0,1
 w1325.1,Angelo Melino,angelo_melino,pme69,0,1
 w1335.1,Andrew M Weiss,andrew_weiss,NA,0,1
 w1341.1,Marjorie A Flavin,marjorie_flavin,NA,1,1
@@ -598,7 +598,7 @@ w1481.2,Peter M Mieszkowski,peter_mieszkowski,pmi759,0,1
 w1496.2,Paul L Menchik,paul_menchik,pme216,0,1
 w1504.1,John A James,john_james,pja276,0,1
 w1505.2,John B Van Huyck,john_huyck,NA,0,1
-w1513.1,Ryuzo Sato,NA,NA,0,0
+w1513.1,Ryuzo Sato,ryuzo_sato,NA,0,0
 w1514.1,Richard G Frank,richard_frank,NA,0,1
 w1525.1,Anthony B Sanders,anthony_b_sanders,psa474,0,1
 w1530.2,Michael Smirlock,NA,NA,0,1
@@ -897,7 +897,7 @@ w2558.2,Dwight M Jaffee,dwight_jaffee,NA,0,1
 w2563.1,Morris M Kleiner,morris_kleiner,NA,0,1
 w2573.2,Philippe Jorion,philippe_jorion,NA,0,1
 w2582.1,Eduardo R Borensztein,eduardo_borensztein,NA,0,1
-w2583.2,Randall M Wigle,NA,NA,0,1
+w2583.2,Randall M Wigle,randall_wigle,NA,0,1
 w2593.2,James B Mackie,NA,NA,0,1
 w2596.1,Susan M Collins,susan_collins,NA,1,1
 w2596.2,Won Am Park,NA,NA,0,1
@@ -978,7 +978,7 @@ w2826.2,James Berkovec,NA,NA,0,1
 w2831.2,Fung Mey Huang,NA,NA,1,0
 w2844.1,Lois Stekler,lois_stekler,NA,1,1
 w2853.2,Joyce M Manchester,joyce_manchester,NA,1,1
-w2854.1,Brook S Payner,NA,NA,0,0
+w2854.1,Brook S Payner,brook_s_payner,NA,0,0
 w2862.2,Martin L Parkinson,NA,NA,0,1
 w2864.1,Harry Flam,NA,NA,0,1
 w2866.1,Peter Montiel,NA,NA,0,1
@@ -1077,7 +1077,7 @@ w3191.2,Yasushi Hamao,yasushi_hamao,pha719,0,2
 w3197.2,Moshe Kim,NA,NA,0,1
 w3206.2,Michael Woodford,michael_woodford,pwo3,0,1
 w3209.1,Ian Gale,NA,NA,0,1
-w3213.1,Carol Adaire Jones,NA,NA,1,1
+w3213.1,Carol Adaire Jones,carol_adaire_jones,NA,1,1
 w3214.1,William Easterly,william_easterly,pea1,0,1
 w3215.1,Catherine A Jackson,NA,NA,1,1
 w3215.3,Donna Strobino,NA,NA,1,1
@@ -1105,8 +1105,8 @@ w3292.1,Guorn Liu,NA,NA,-1,0
 w3306.1,Masayoshi Maruyama,masayoshi_maruyama,NA,0,0
 w3309.2,Dongwook Kim,dongwook_kim,NA,-1,0
 w3311.2,K C Chan,NA,NA,0,0
-w3314.1,Bohyong Kang,NA,NA,-1,0
-w3314.2,Rama V Ramachandran,NA,NA,0,0
+w3314.1,Bohyong Kang,bohyong_kang,NA,-1,0
+w3314.2,Rama V Ramachandran,rama_ramachandran,NA,0,0
 w3317.2,Xavier X Sala-i-Martin,xavier_sala-i-martin,psa510,0,1
 w3318.2,Scott C Collins,scott_collins,NA,0,1
 w3326.2,Tohru Inoue,NA,NA,0,0
@@ -1136,8 +1136,8 @@ w3385.1,Andrew K Rose,andrew_rose,pro71,0,1
 w3385.3,Janet L Yellen,janet_yellen,pye21,1,1
 w3386.1,Eric Toder,eric_toder,pto287,0,1
 w3389.1,Darryll Hendricks,darryll_hendricks,NA,0,1
-w3392.1,Bernard Fortin,NA,NA,0,1
-w3392.2,Pierre Frechette,NA,NA,0,1
+w3392.1,Bernard Fortin,bernard_fortin,NA,0,1
+w3392.2,Pierre Frechette,pierre_frechette,NA,0,1
 w3396.1,Ann F Friedlaender,ann_friedlaender,NA,1,1
 w3396.3,Judy Shaw-Er Wang Chiang,NA,NA,1,1
 w3399.2,Maxim Engers,NA,NA,0,1
@@ -1213,14 +1213,14 @@ w3587.1,James B Rebitzer,james_rebitzer,pre77,0,1
 w3587.2,Michael D Robinson,michael_robinson,pro261,0,1
 w3590.1,Frederick D S Choi,NA,NA,0,1
 w3592.1,James A Waddell,NA,NA,0,1
-w3598.1,Bernd Raffelhueschen,NA,NA,0,1
+w3598.1,Bernd Raffelhueschen,bernd_raffelhuschen,NA,0,1
 w3604.2,Martha de Melo,NA,NA,1,1
 w3606.1,Kiminori Matsuyama,kiminori_matsuyama,pma143,0,0
 w3611.3,John Londregan,NA,NA,0,1
 w3612.2,Peter Rappoport,NA,NA,0,1
 w3614.1,Il'dar Karimov,NA,NA,0,0
 w3617.2,Josef Lakonishok,josef_lakonishok,NA,0,1
-w3628.1,Bob Hamilton,NA,NA,0,1
+w3628.1,Bob Hamilton,bob_hamilton,NA,0,1
 w3628.2,Jack Mintz,jack_mintz,NA,0,1
 w3631.2,Wayne E Ferson,wayne_ferson,pfe32,0,1
 w3633.1,Robert F Stambaugh,robert_stambaugh,pst282,0,1
@@ -1266,7 +1266,7 @@ w3742.2,Ludger Hentschel,ludger_hentschel,NA,0,1
 w3747.3,Scott Erwin,NA,NA,0,1
 w3749.2,Christopher A Vellturo,christopher_vellturo,NA,0,1
 w3750.1,Diane Lim Rogers,Diane_Lim_Rogers,NA,1,1
-w3751.1,Cara S Lown,NA,NA,1,1
+w3751.1,Cara S Lown,cara_s_lown,NA,1,1
 w3752.1,Nelson C Clark,NA,NA,0,1
 w3753.1,David Altig,david_altig,NA,0,1
 w3754.1,Joel Waldfogel,joel_waldfogel,pwa46,0,1
@@ -1507,9 +1507,9 @@ w4450.3,R Jean Haurin,NA,NA,1,0
 w4450.4,Steven C Bourassa,NA,NA,0,1
 w4453.1,Martin Browning,martin_browning,pbr221,0,1
 w4453.2,Orazio P Attanasio,orazio_attanasio,pat7,0,1
-w4458.2,Bertil Naslund,NA,NA,0,1
-w4458.3,L Peter Jennergren,NA,NA,0,1
-w4459.2,Bruno Solnik,NA,NA,0,1
+w4458.2,Bertil Naslund,bertil_naslund,NA,0,1
+w4458.3,L Peter Jennergren,l_peter_jennergren,NA,0,1
+w4459.2,Bruno Solnik,bruno_solnik,NA,0,1
 w4468.2,Susan K Taylor,NA,NA,1,1
 w4469.1,Brigitte C Madrian,brigitte_madrian,pma384,1,1
 w4473.1,Aldo Rustichini,aldo_rustichini,NA,0,1
@@ -1538,7 +1538,7 @@ w4535.1,Robert K Triest,robert_triest,ptr80,0,1
 w4536.1,Gary G Hamilton,NA,NA,0,1
 w4536.3,Tzu-Han Yang,NA,NA,1,0
 w4537.1,Dora L Costa,dora_costa,pco358,1,1
-w4547.1,Bernhard Eschweiler,NA,NA,0,1
+w4547.1,Bernhard Eschweiler,bernhard_eschweiler,NA,0,1
 w4549.2,Neal Rappaport,neal_rappaport,NA,0,1
 w4550.2,Oded Galor,oded_galor,pga46,0,1
 w4551.1,Daniel Nagin,daniel_nagin,NA,0,1
@@ -1591,8 +1591,8 @@ w4684.1,Chinhui Juhn,chinhui_juhn,pju42,1,0
 w4685.1,Jason G Cummins,jason_cummins,pcu10,0,1
 w4685.3,Trevor S Harris,trevor_harris,NA,0,1
 w4687.2,John V Leahy,john_leahy,ple189,0,1
-w4700.1,Bruce Davidson,NA,NA,0,1
-w4700.3,Roland Sturm,NA,NA,0,1
+w4700.1,Bruce Davidson,bruce_davidson,NA,0,1
+w4700.3,Roland Sturm,roland_sturm,NA,0,1
 w4701.2,Min-Teh Yu,NA,NA,0,0
 w4704.1,Darius Palia,darius_palia,NA,0,1
 w4713.1,Gordon H Hanson,gordon_hanson,pha80,0,1
@@ -1617,7 +1617,7 @@ w4742.1,Alan Manning,alan_manning,pma218,0,1
 w4742.2,Richard Dickens,NA,NA,0,1
 w4743.3,Wai-Ming Fong,NA,NA,0,0
 w4746.1,Douglas R Nelson,NA,NA,0,1
-w4747.1,Bruce L Gardner,NA,NA,0,1
+w4747.1,Bruce L Gardner,bruce_gardner,NA,0,1
 w4749.1,Joseph P Kalt,joseph_kalt,NA,0,1
 w4751.1,Ann E Harrison,ann_harrison,pha441,1,1
 w4751.2,J Michael Finger,j_michael_finger,NA,0,1
@@ -1671,7 +1671,7 @@ w4864.2,Enrique G Mendoza,enrique_mendoza,pme30,0,1
 w4867.1,Carl Hansen,cbhansen@wi.rr.com,NA,0,1
 w4867.3,Roger Procter,NA,NA,0,1
 w4869.1,Harry Grubert,harry_grubert,NA,0,1
-w4874.1,Brandice J Canes,NA,NA,1,1
+w4874.1,Brandice Canes-Wrone,brandice_canes-wrone,NA,1,1
 w4875.1,Luigi Zingales,luigi_zingales,pzi101,0,1
 w4875.2,Raghuram G Rajan,raghuram_rajan,pra149,0,0
 w4880.3,John R Penrod,NA,NA,0,1
@@ -1706,7 +1706,7 @@ w4958.1,Joshua V Rosenberg,joshua_rosenberg,pro389,0,1
 w4965.1,David Ikenberry,david_ikenberry,NA,0,1
 w4965.3,Theo Vermaelen,NA,NA,0,2
 w4966.1,Jeffrey R Russell,jeffrey_russell,NA,0,1
-w4967.2,Brian Aitken,NA,NA,0,1
+w4967.2,Brian Aitken,brian_aitken,NA,0,1
 w4974.2,Peter J Klenow,peter_klenow,NA,0,1
 w4975.2,Mario J Crucini,mario_crucini,pcr3,0,1
 w4978.1,Caroline Minter Hoxby,caroline_hoxby,pho46,1,1
@@ -2054,7 +2054,7 @@ w5836.2,Nathalie Greenan,greenan_nathalie,pgr420,1,1
 w5837.1,Rachel M Friedberg,rachel_friedberg,pfr67,1,1
 w5843.1,Allan M Parnell,allan_parnell,NA,0,1
 w5843.2,Deanna Pagnini,deanna_pagnini,NA,1,1
-w5848.1,Berry K Wilson,NA,NA,0,0
+w5848.1,Berry K Wilson,berry_wilson,NA,0,0
 w5856.2,Timothy Frye,NA,NA,0,1
 w5857.2,Luis M Viceira,luis_viceira,pvi31,0,1
 w5858.2,Henry Wai-Chung Yeung,NA,NA,0,1
@@ -2135,8 +2135,8 @@ w6038.2,Ramon Marimon,ramon_marimon,pma763,0,1
 w6040.2,Maryann P Feldman,maryann_feldman,NA,1,1
 w6041.1,Aaron Yelowitz,aaron_yelowitz,pye2,0,1
 w6042.1,Charles H Mullin,NA,NA,0,1
-w6044.2,Bruce A Banks,NA,NA,0,1
-w6044.3,Michael S Fogarty,NA,NA,0,1
+w6044.2,Bruce A Banks,bruce_a_banks,NA,0,1
+w6044.3,Michael S Fogarty,michael_fogarty,NA,0,1
 w6045.1,George Chacko,george_chacko,NA,0,1
 w6046.1,Darrel Cohen,darrel_cohen,NA,0,1
 w6048.1,Jerome Adda,jerome_adda,pad6,0,1
@@ -2224,7 +2224,7 @@ w6212.2,Volker Zimmermann,volker_zimmermann,NA,0,1
 w6212.3,Winfried Pohlmeier,Winfried_Pohlmeier,ppo129,0,1
 w6214.1,Didier Blanchet,didier_blanchet,pbl98,0,1
 w6214.2,Louis-Paul Pele,NA,NA,0,0
-w6216.3,Lisandro Abrego,NA,NA,0,1
+w6216.3,Lisandro Abrego,lisandro_abrego,NA,0,1
 w6218.1,Sara Fisher Ellison,sara_ellison,NA,1,1
 w6220.2,Erzo F P Luttmer,erzo_luttmer,plu27,0,0
 w6223.1,Douglas Marcouiller,douglas_marcouiller,pma51,0,1
@@ -2533,9 +2533,9 @@ w6935.1,Joe Prendergast,joe_prendergast,NA,0,1
 w6938.2,Marcel Kahan,marcel_kahan,NA,0,2
 w6939.2,Lloyd D Johnston,NA,NA,0,1
 w6939.4,Patrick M O'Malley,NA,NA,0,1
-w6940.1,Brett W Wendling,NA,NA,0,1
-w6940.2,Gary A Zarkin,NA,NA,0,1
-w6940.3,Jeremy W Bray,NA,NA,0,1
+w6940.1,Brett W Wendling,brett_wendling,NA,0,1
+w6940.2,Gary A Zarkin,gary_zarkin,NA,0,1
+w6940.3,Jeremy W Bray,jeremy_w_bray,NA,0,1
 w6942.1,David L Lindauer,NA,NA,0,1
 w6944.1,Jack R Porter,jack__porter,NA,0,1
 w6947.1,Jarle Moen,jarle_moen,pmo44,0,0
@@ -2730,7 +2730,7 @@ w7408.1,Eiji Fujii,eiji_fujii,pfu65,0,1
 w7414.1,Adam M Pilarski,adam_pilarski,NA,0,1
 w7421.1,Marcello M Estevao,marcello_estevao,pes27,0,1
 w7422.1,Susan M Dynarski,susan_dynarski,pdy1,1,1
-w7425.1,Brett Katzman,NA,NA,0,1
+w7425.1,Brett Katzman,brett_katzman,NA,0,1
 w7425.2,John Kennan,john_kennan,pke13,0,1
 w7425.3,Neil Wallace,neil_wallace,pwa33,0,1
 w7426.1,Michael Ehrmann,michael_ehrmann,peh4,0,1
@@ -2782,9 +2782,9 @@ w7545.2,Zaur Rzakhanov,zaur_rzakhanov,NA,0,2
 w7552.1,John P Walsh,john_walsh,NA,0,1
 w7552.2,Richard R Nelson,richard_nelson,pne56,0,1
 w7555.2,Leemore S Dafny,leemore_dafny,NA,1,0
-w7562.1,Carey Borkoski,NA,NA,1,0
+w7562.1,Carey Borkoski,carey_borkoski,NA,1,0
 w7563.3,Paola Sapienza,paola_sapienza,psa155,1,1
-w7566.1,Bradford Case,NA,NA,0,1
+w7566.1,Bradford Case,bradford_case,NA,0,1
 w7572.2,Larry D Qiu,larry_qiu,pqi8,0,1
 w7573.1,Allen Sanderson,allen_sanderson,NA,0,1
 w7575.2,Paras Mehta,NA,NA,0,1
@@ -2804,8 +2804,8 @@ w7613.2,Harry Mamaysky,harry_mamaysky,NA,0,1
 w7615.1,Avanidhar Subrahmanyam,avanidhar_subrahmanyam,psu270,0,0
 w7615.2,David Hirshleifer,david_hirshleifer,phi20,0,1
 w7619.3,Robert Weathers,robert_weathers,NA,0,1
-w7622.1,Brent W Ambrose,NA,NA,0,1
-w7622.2,Malgorzata M Klosek,NA,NA,1,1
+w7622.1,Brent W Ambrose,brent_ambrose,NA,0,1
+w7622.2,Malgorzata M Klosek,malgorzata_m_klosek,NA,1,1
 w7629.1,Mark Carey,mark_carey,NA,0,1
 w7633.1,Henry E Siu,henry_siu,psi89,0,1
 w7636.2,Jordan Rappaport,jordan_rappaport,pra38,0,0
@@ -2931,7 +2931,7 @@ w7904.2,Wilbur John Coleman II,john_coleman,pco73,0,1
 w7907.1,Joshua Zivin,NA,NA,0,1
 w7908.2,Miguel Casares,NA,NA,0,1
 w7912.1,Bryan D MacGregor,bryan_macgregor,NA,0,1
-w7912.3,Raymond Y C Tse,NA,NA,0,1
+w7912.3,Raymond Y C Tse,raymond_yc_tse,NA,0,1
 w7913.2,Kee-Hong Bae,kee-hong_bae,NA,0,0
 w7922.2,Wojciech Kopczuk,wojciech_kopczuk,pko20,0,1
 w7923.2,Peter R Orszag,Peter_Orszag,por201,0,1
@@ -3081,7 +3081,7 @@ w8294.1,Joris Pinkse,joris_pinkse,NA,0,1
 w8296.1,Cemile Yavas,cyavas,NA,-1,0
 w8298.2,James X Sullivan,james_sullivan,NA,0,1
 w8301.2,Antoni Estevadeordal,ESTEVADEORDAL,NA,0,1
-w8306.1,Brent Boning,NA,NA,0,1
+w8306.1,Brent Boning,brent_boning,NA,0,1
 w8307.1,Christopher L Smith,christopher_smith,psm208,0,1
 w8308.2,Konan Chan,NA,NA,0,1
 w8309.1,Pietro Veronesi,pietro_veronesi,NA,0,1
@@ -3165,7 +3165,7 @@ w8497.3,Robert J Town,robert_town,pto430,0,1
 w8502.2,Jacob M Markman,NA,NA,0,1
 w8503.2,Silke Uebelmesser,NA,NA,1,1
 w8507.1,C Fritz Foley,fritz_foley,NA,0,1
-w8508.2,Dmitry V Repin,NA,NA,0,1
+w8508.2,Dmitry V Repin,dmitry_v_repin,NA,0,1
 w8510.1,Jesper Lund,NA,NA,0,1
 w8510.2,Luca Benzoni,luca_benzoni,pbe1008,0,1
 w8511.2,William E Black,NA,NA,0,1
@@ -3191,7 +3191,7 @@ w8553.3,Joachim K Winter,joachim_winter,pwi1,0,1
 w8554.1,Kevin Sheppard,NA,NA,0,1
 w8555.1,Gabor Kezdi,gabor_kezdi,pke76,0,1
 w8555.2,Jeffrey A Groen,jeffrey_groen,NA,0,1
-w8558.1,Beverly Lapham,NA,NA,1,1
+w8558.1,Beverly Lapham,beverly_lapham,NA,1,1
 w8560.1,Gregg Van Ryzin,NA,NA,0,1
 w8562.1,Dhaval M Dave,dhaval_dave,pda245,0,1
 w8563.1,Adriana Lleras-Muney,adriana_lleras-muney,pll45,1,1
@@ -3248,7 +3248,7 @@ w8660.1,Adriana D Kugler,adriana_kugler,pku361,1,1
 w8663.1,Daiji Kawaguchi,daiji_kawaguchi,pka57,0,0
 w8666.1,Ane Tamayo,ane_tamayo,NA,1,1
 w8671.1,I Igal Magendzo,imagendzo,NA,0,2
-w8679.1,Bernhard Paasche,NA,NA,0,1
+w8679.1,Bernhard Paasche,bernhard_paasche,NA,0,1
 w8682.1,Andrew Kaplin,andrew_kaplin,NA,0,1
 w8682.3,Steve Guoqiang Sun,steve_guoqiang_sun,NA,0,1
 w8683.1,Bryan R Routledge,bryan_routledge,pro450,0,1
@@ -3283,7 +3283,7 @@ w8754.1,Fabrice Collard,fabrice_collard,pco44,0,1
 w8756.1,Frederic Robert-Nicoud,frederic_robert-nicoud,pro136,0,1
 w8759.2,Cristian Pop-Eleches,cristian_pop-eleches,ppo349,0,2
 w8760.1,Eric V Edmonds,eric_edmonds,ped27,0,1
-w8761.1,Carol Rapaport,NA,NA,1,1
+w8761.1,Carol Rapaport,carol_rapaport,NA,1,1
 w8763.1,Allen M Poteshman,allen_poteshman,NA,0,1
 w8763.3,Robert Parrino,robert_parrino,NA,0,1
 w8768.2,Javier Valles,javier_valles,pva889,0,1
@@ -3306,9 +3306,9 @@ w8807.4,Stuart J H Graham,stuart_graham,pgr179,0,1
 w8808.1,Bryan S Graham,bryan_graham,pgr95,0,1
 w8815.1,Alexander Monge-Naranjo,alexander_monge-naranjo,pmo730,0,1
 w8824.2,Ron Alquist,ron_alquist,pal453,0,1
-w8825.1,Brett J Noel,NA,NA,0,1
+w8825.1,Brett J Noel,brett_j_noel,NA,0,1
 w8825.2,Dan A Black,dan_black,pbl23,0,1
-w8825.4,Mark C Berger,NA,NA,0,1
+w8825.4,Mark C Berger,mark_c_berger,NA,0,1
 w8827.3,Tarek Coury,NA,NA,0,1
 w8840.2,Karsten T Hansen,NA,NA,0,1
 w8840.3,Pedro Carneiro,pmcarnei,pca130,0,1
@@ -3513,7 +3513,7 @@ w9310.1,Amir Sufi,amir_sufi,psu303,0,1
 w9311.2,Robert S Huckman,robert_huckman,phu90,0,1
 w9314.1,Erik G Hurst,erik_hurst,phu87,0,1
 w9315.3,Matthew J Butler,NA,NA,0,1
-w9318.3,Brian Frantz,NA,NA,0,1
+w9318.3,Brian Frantz,brian_frantz,NA,0,1
 w9319.2,Joshua Winicki,NA,NA,0,1
 w9323.1,Gerard Caprio,gerard_caprio,pca519,0,1
 w9323.2,James R Barth,james_barth,pba1477,0,1
@@ -3591,7 +3591,7 @@ w9454.1,Alexander Ljungqvist,alexander_ljungqvist,plj2,0,1
 w9463.1,Andrew J Wang,andrew_wang,NA,0,1
 w9464.1,Bing Liang,bing_liang,pli948,0,1
 w9465.1,Ning Zhu,ning_zhu,NA,0,0
-w9467.2,C Nicholas McKinney,NA,NA,0,1
+w9467.2,C Nicholas McKinney,c_nicholas_mckinney,NA,0,1
 w9469.1,Andrey D Ukhov,andrey_ukhov,NA,0,2
 w9470.1,Masahiro Watanabe,masahiro_watanabe,pwa217,0,1
 w9476.1,Amitabh Chandra,amitabh_chandra,pch893,0,1
@@ -3694,7 +3694,7 @@ w9688.1,Kosali Ilayperuma Simon,kosali_simon,psi314,1,0
 w9690.1,Jamie F Chriqui,NA,NA,1,0
 w9690.2,Joanna King,NA,NA,1,1
 w9692.1,Alejandro Ibarra-Yunez,alejandro_ibarra-yunez,NA,0,1
-w9704.1,Bertrand Rime,NA,NA,0,1
+w9704.1,Bertrand Rime,bertrand_rime,NA,0,1
 w9704.2,Donald Morgan,donald_morgan,pmo418,0,1
 w9712.1,Jaap H Abbring,jaap_abbring,pab1,0,0
 w9714.3,Thomas Davidoff,thomas_davidoff,pda697,0,1
@@ -3940,7 +3940,7 @@ w10177.2,Chris Mackin,chris_mackin,NA,0,2
 w10177.5,Loren Rodgers,loren_rodgers,NA,0,0
 w10177.7,Robert Buchele,robert_buchele,NA,0,1
 w10178.1,Dukgeun Ahn,dukgeun_ahn,NA,0,0
-w10179.1,Beverly Porter,NA,NA,1,1
+w10179.1,Beverly Porter,beverly_porter,NA,1,1
 w10179.2,Erwann O Michel-Kerjan,erwann_michelkerjan,pmi64,0,0
 w10182.2,Constantijn Panis,constantijn_panis,ppa671,0,0
 w10186.2,Jungmin Lee,jungmin_lee,ple117,0,0
@@ -3956,7 +3956,7 @@ w10214.3,Stanley Henshaw,stanley_henshaw,NA,0,1
 w10220.3,Piotr Eliasz,piotr_eliasz,NA,0,1
 w10221.2,Scott Schaefer,scott_schaefer,NA,0,1
 w10224.1,Evangelos Benos,NA,NA,0,1
-w10225.1,Brian J Henderson,NA,NA,0,1
+w10225.1,Brian J Henderson,brian_henderson,NA,0,1
 w10226.3,Seppo Ikaheimo,NA,NA,0,0
 w10231.2,Michele Tertilt,michele_tertilt,pte114,1,1
 w10235.2,Paul A Smith,paul_smith,NA,0,1
@@ -4381,7 +4381,7 @@ w11229.3,Shantaram Hegde,NA,NA,0,0
 w11232.2,O G Dayaratna Banda,NA,NA,0,0
 w11237.3,Ron Leung,ron_leung,NA,0,1
 w11240.1,Dave M O'Neill,david_oneill,NA,0,1
-w11243.2,Brett N Steenbarger,NA,NA,0,1
+w11243.2,Brett N Steenbarger,brett_n_steenbarger,NA,0,1
 w11244.1,Jia-Dong Shea,NA,NA,0,0
 w11244.2,Ya-Hwei Yang,yahwei_yang,NA,1,0
 w11245.1,Paul R Milgrom,paul_milgrom,pmi34,0,1
@@ -4684,7 +4684,7 @@ w11893.2,Margarita Alegria,margarita_alegria,NA,1,1
 w11893.3,Mingshan Lu,mingshan_lu,plu103,1,0
 w11895.1,Fernando Lozano,fernando_lozano,plo228,0,1
 w11900.3,Gabriel Y Weintraub,gabriel_weintraub,NA,0,1
-w11902.1,Bethany Peters,NA,NA,1,1
+w11902.1,Bethany Peters,bethany_peters,NA,1,1
 w11904.3,Leigh L Linden,leigh_linden,pli719,0,0
 w11904.4,Shawn Cole,shawn_cole,pco530,0,0
 w11907.2,Robert J Jackson,robert_jackson,NA,0,1
@@ -4878,8 +4878,8 @@ w12342.4,Zhonglan Dai,zhonglan_dai,NA,1,0
 w12343.1,J Harold Mulherin,harold_mulherin,NA,0,1
 w12346.1,Charles P Thomas,charles_thomas,pth302,0,1
 w12346.3,Jon Wongswan,jonwongswan,NA,0,1
-w12350.1,Caitlin Knowles Myers,NA,NA,1,1
-w12350.3,Mark L Pocock,NA,NA,0,1
+w12350.1,Caitlin Knowles Myers,cmyers,pmy11,1,1
+w12350.3,Mark L Pocock,mark_l_pocock,NA,0,1
 w12354.1,Javier Miranda,javier_miranda,pmi185,0,1
 w12354.3,Ron S Jarmin,ron_jarmin,pja54,0,1
 w12356.2,Francisco Perez-Gonzalez,francisco_perez-gonzalez,NA,0,1
@@ -7132,7 +7132,7 @@ w16631.2,Matthew N Luzzetti,matthew_luzzetti,NA,0,1
 w16632.2,Rohan Pitchford,rohan_pitchford,NA,0,1
 w16633.1,Gianluca Benigno,gianluca_benigno,pbe206,0,1
 w16635.1,Alain de Janvry,alain_de_janvry,pde613,0,1
-w16635.2,Elisabeth Sadoulet,esadoulet,psa843,1,1
+w16635.2,Elisabeth Sadoulet,Elisabeth_Sadoulet,psa843,1,1
 w16639.1,Scott Duke Kominers,scott_kominers,pko394,0,1
 w16641.3,Sharat Ganapati,sharat_ganapati,pga755,0,1
 w16643.3,Tyler Williams,tyler_williams,NA,0,1
@@ -7296,7 +7296,7 @@ w16932.1,Daria Burnes,daria_burnes,NA,1,1
 w16933.2,Florencia Devoto,florencia_devoto,NA,1,1
 w16933.4,Vincent Pons,vincent_pons,ppo637,0,1
 w16933.5,William Pariente,william_pariente,ppa604,0,1
-w16936.3,Su Wang,su_wang,NA,1,1
+w16936.3,Su Wang,su_wang_4,NA,1,1
 w16937.1,Jonathan R Clark,jonathan_r._clark,NA,0,1
 w16938.1,Nathaniel Grotte,nathaniel_grotte,NA,0,1
 w16939.4,Willa H Friedman,willa_friedman,pfr283,1,1
@@ -7677,7 +7677,7 @@ w17600.1,Asako S Moriya,asako_moriya,NA,1,1
 w17601.1,Andrea Tesei,Andrea_Tesei,pte191,0,-1
 w17602.1,Qingmin Liu,qingmin_liu,NA,0,0
 w17605.1,Bulent Unel,bulent_unel,pun11,0,2
-w17606.3,John Y Zhu,john_y_zhu,NA,0,1
+w17606.3,John Y Zhu,john_zhu,NA,0,1
 w17608.3,Mauro Laudicella,mauro_laudicella,NA,0,1
 w17610.2,Nathan N Wozny,nathan_wozny,pwo279,0,1
 w17611.2,Kelly C Bishop,kelly_bishop,pbi276,1,0
@@ -8947,7 +8947,6 @@ w19818.1,Daniel L Greenwald,daniel_greenwald,pgr706,0,1
 w19819.1,Ina Ganguli,ina_ganguli,pga330,1,1
 w19819.2,Raviv Murciano-Goroff,raviv_murciano-goroff,pmu490,0,0
 w19825.2,Raymond P Guiteras,raymond_guiteras,pgu357,0,1
-w19826.1,Brandice Canes-Wrone,brandice_canes-wrone,NA,1,1
 w19826.2,Jonathan A Rodden,jonathan_rodden,NA,0,1
 w19837.1,Brendan M Price,brendan_price,NA,0,1
 w19838.1,Eric Chyn,eric_chyn,NA,0,1
@@ -10458,6 +10457,8 @@ w22380.2,David Aikman,david_aikman,pai20,0,1
 w22380.3,Oliver Bush,oliver_bush,pbu393,0,1
 w22382.2,Eric Hsu,eric_hsu,phs40,0,1
 w22382.4,Kevin Croke,kevin_croke,pcr227,0,1
+w22382.6,Ricardo Maertens,ricardo_maertens,NA,0,1
+w22382.7,Witold Wiecek,witold_wiecek,NA,0,0
 w22383.2,John Z Smith,john_smith,NA,0,1
 w22383.3,Susan Payne Carter,susancarter,NA,1,1
 w22383.4,Whitney Dudley,whitney_dudley,NA,1,0
@@ -11077,7 +11078,6 @@ w23359.2,Fabio Feriozzi,fabio_feriozzi,pfe135,0,1
 w23360.3,Melanie A Zaber,melanie_zaber,NA,1,1
 w23361.3,Peter Newberry,peter_newberry,pne386,0,1
 w23366.1,Andrea Schlosser,andrea_schlosser,NA,1,1
-w23366.2,Caitlin Myers,cmyers,pmy11,1,1
 w23368.2,Li Yang,li_yang,NA,0,0
 w23373.1,Markus Ibert,markus_ibert,NA,0,1
 w23374.1,Andrew Barr,andrew_barr,NA,0,1
@@ -12281,7 +12281,7 @@ w25082.2,Julia Le Blanc,julia_le_blanc,NA,1,1
 w25082.3,Miguel Ampudia,miguel_ampudia,pam147,0,1
 w25083.1,Christian Friedrich,christian_friedrich,pfr225,0,2
 w25083.4,Toni Ahnert,toni_ahnert,pah162,0,-1
-w25084.3,Quoc H Nguyen,quoc_h_nguyen,NA,0,1
+w25084.3,Quoc H Nguyen,quoc_nguyen,NA,0,1
 w25085.2,Yu Shi,yu_shi2,NA,1,0
 w25088.2,Jin Feng,jin_feng,NA,1,0
 w25092.2,Tuomas Tomunen,tuomas_tomunen,NA,0,0
@@ -14647,7 +14647,7 @@ w28188.6,Laura Hill,laura_hill,NA,1,1
 w28191.2,Giannina Vaccaro,giannina_vaccaro_1,NA,1,1
 w28192.1,Benjamin J McMichael,benjamin_mcmichael,NA,0,1
 w28193.2,Flavien E Moreau,flavien_moreau,pmo1302,0,0
-w28196.1,Chris Florakis,chris_florakis,NA,0,2
+w28196.1,Chris Florackis,chris_florackis,NA,0,2
 w28196.2,Christodoulos Louca,christodoulos_louca,NA,0,0
 w28197.2,Martin Kornejew,martin_kornejew,NA,0,1
 w28200.1,Ali Karimirad,ali_karimirad,NA,0,0
@@ -14861,8 +14861,7 @@ w28491.1,Jean Beuve,jean_beuve,pbe1013,0,0
 w28492.1,Alex Tabarrok,alex_tabarrok,pta201,0,1
 w28492.3,Arthur Baker,arthur_baker,NA,0,1
 w28492.4,Brandon Joel Tan,brandon_tan,NA,0,1
-w28492.9,Juan Camilo Castillo,juan_camilo_castillo_1,NA,0,1
-w28492.14,Witold Wiecek,witold_wiecek,NA,0,0
+w28492.9,Juan Camilo Castillo,juan_camilo_castillo,NA,0,1
 w28493.3,Heather Tookes,heather_tookes,NA,1,1
 w28494.1,Alicia Sasser Modestino,alicia_modestino,pmo1225,1,1
 w28494.5,The Seminar Dynamics Collective,seminar_dynamics_collective,NA,0,1
@@ -15601,7 +15600,6 @@ w29445.3,Ramesh Johari,ramesh_johari,NA,0,1
 w29446.2,Exequiel Hernandez,exequiel_hernandez,NA,0,1
 w29446.3,Francisco Morales,francisco_morales,NA,0,1
 w29446.4,Seth Carnahan,seth_carnahan,NA,0,1
-w29447.4,Ricardo Maertens,ricardo_maertens,NA,0,1
 w29448.2,Jiayin Hu,hujiayin,NA,1,2
 w29449.5,Shruthi Venkatesh,shruthi_venkatesh,NA,1,1
 w29450.1,Babs Jacobs,babs_jacobs,pja530,1,1
@@ -15743,7 +15741,7 @@ t0026.1,Ingmar R Prucha,ingmar_prucha,ppr355,0,1
 t0027.2,Robert A Moffitt,robert_moffitt,pmo48,0,1
 t0030.1,Charles R Nelson,charles_nelson,pne247,0,1
 t0030.2,Heejoon Kang,NA,pka308,0,0
-t0033.1,Brian A Ross,NA,NA,0,1
+t0033.1,Brian A Ross,brian_a_ross,NA,0,1
 t0036.1,Diane Coyle,NA,NA,1,1
 t0038.2,Mark R Killingsworth,mark_killingsworth,pki216,0,1
 t0040.1,T J Wales,NA,NA,0,0
@@ -15787,8 +15785,8 @@ t0125.3,Donna Genther,NA,NA,1,1
 t0128.1,Dongchul Cho,dongchul_cho,NA,0,0
 t0128.2,Hali J Edison,hali_edison,ped1,1,1
 t0130.3,Thomas J Rothenberg,NA,NA,0,1
-t0132.1,Daniel B Nelson,NA,NA,0,1
-t0132.2,Dean P Foster,NA,NA,0,1
+t0132.1,Daniel B Nelson,daniel_b_nelson,NA,0,1
+t0132.2,Dean P Foster,dean_p_foster,NA,0,1
 t0134.2,Robert McCulloch,NA,NA,0,1
 t0135.1,Jerzy Konieczny,jerzy_koniecz,pko135,0,1
 t0136.1,Donald B Rubin,donald_rubin,NA,0,1
