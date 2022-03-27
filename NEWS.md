@@ -1,3 +1,10 @@
+# nberwp 1.2.0
+
+* Added information on publication outlets to `papers`
+* Added some missing RePEc usernames to `authors`
+* Replaced "sex" with "gender"
+* Resolved some disambiguation and gender errors
+
 # nberwp 1.1.0
 
 * Added data on papers published in July 2021 through December 2021
