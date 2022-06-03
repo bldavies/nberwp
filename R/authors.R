@@ -42,9 +42,9 @@
 #'
 #' @references
 #' Davies, B. (2022).
-#' Sex-based sorting among economists: Evidence from the NBER.
-#' SocArXiv.
-#' \doi{10.31235/osf.io/zeb7a}
+#' Gender sorting among economists: Evidence from the NBER.
+#' \emph{Economics Letters}.
+#' \doi{10.1016/j.econlet.2022.110640}
 #'
 #' Tang, C., Ross, K., Saxena, N., and Chen, R. (2011).
 #' What’s in a Name: A Study of Names, Gender Inference, and Gender Behavior in Facebook.
