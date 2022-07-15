@@ -4,13 +4,17 @@
 # general working papers from the NBER RePEc index.
 #
 # Ben Davies
-# July 2021
+# July 2022
 
 # Load packages
 library(bldr)
 library(dplyr)
 library(readr)
 library(tidyr)
+
+# Initialize output directory
+outdir = paste0('data-raw/repec/')
+if (!dir.exists(outdir)) dir.create(outdir)
 
 # Specify series
 series = c('nberhi', 'nberte', 'nberwo')
